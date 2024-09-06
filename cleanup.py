@@ -31,17 +31,17 @@ def extract_file_type(value):
 
 df['file type'] = df['File Path'].apply(extract_file_type)
 df_indexed = df.dropna(subset=['file type']).set_index(['domain', 'file type'])
-domains = pd.unique(df[['region', 'domain']].apply(tuple, axis=1))
+domains = pd.unique(df['domain'].apply(tuple, axis=1))
 df_times = pd.DataFrame(list(domains), columns=['domain']).dropna()
 def query_timestamp(row, file_type):
     try:
         # We add 1 second to the timestamp to account for the fact that modification timestamps are rounded down, whereas cookie timestamps (in Cookieblock) are given in milliseconds.
         return df_indexed.loc(axis=0)[row['domain'], file_type]['Modification Time'].values[0] + 1
     except KeyError:
-        # print(row['region'], row['domain'], file_type)
+        # print(row['domain'], file_type)
         return None
     except ValueError as e:
-        # print(row['region'], row['domain'], file_type)
+        # print(row['domain'], file_type)
         return None
 
 df_times['accept'] = df_times.apply(query_timestamp, axis='columns', file_type='accept')
