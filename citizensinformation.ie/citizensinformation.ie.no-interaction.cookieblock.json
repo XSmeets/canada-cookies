@@ -1,0 +1,48 @@
+{
+    "citizensinformation.ie": {
+        "/": {
+            "_pk_id.4.47ee": {
+                "name": "_pk_id.4.47ee",
+                "domain": "www.citizensinformation.ie",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725616281852,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759571482,
+                        "expiry": 33955201,
+                        "value": "0c0cfa0821d3c623.1725616282.",
+                        "same_site": "lax",
+                        "timestamp": 1725616281841
+                    }
+                ]
+            },
+            "_pk_ses.4.47ee": {
+                "name": "_pk_ses.4.47ee",
+                "domain": "www.citizensinformation.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725616281860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725618081,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725616281853
+                    }
+                ]
+            }
+        }
+    }
+}

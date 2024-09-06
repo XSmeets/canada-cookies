@@ -1,0 +1,739 @@
+{
+    "mo.gov": {
+        "/": {
+            "TS0182a338": {
+                "name": "TS0182a338",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635579517,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01e5551b5a1e583b1b757df91bc52b22127ff1ec22900f8bbf0690b4f9c335bfd8851e38cc28a297960e1aab4a6abbb8792526768f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635579515
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635581640,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195581.637759,
+                        "expiry": 34560000.63775897,
+                        "value": "GA1.1.1214608187.1725635582",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635581639
+                    }
+                ]
+            },
+            "_ga_77NG37MWRM": {
+                "name": "_ga_77NG37MWRM",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635581638,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195581.637436,
+                        "expiry": 34560000.63743591,
+                        "value": "GS1.1.1725635581.1.0.1725635581.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635581638
+                    }
+                ]
+            },
+            "dtCookie": {
+                "name": "dtCookie",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635579512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_2_sn_2413A2BCDB5D013995F2A75D85C63A31_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635579503
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_2_sn_2413A2BCDB5D013995F2A75D85C63A31_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635584219
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_2_sn_2413A2BCDB5D013995F2A75D85C63A31_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635586227
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_2_sn_2413A2BCDB5D013995F2A75D85C63A31_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635586233
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_2_sn_2413A2BCDB5D013995F2A75D85C63A31_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635586243
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v_4_srv_2_sn_2413A2BCDB5D013995F2A75D85C63A31_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635589092
+                    }
+                ]
+            },
+            "dtPC": {
+                "name": "dtPC",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635580055,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h1vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h1vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580060
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h2vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580448
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h3vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580820
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h1vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635581209
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h4vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635581641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h1vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635582153
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h5vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635582474
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h1vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635582478
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2$35580043_7h-vJBNMGQWLOPJLMFSCCRHUNBCPMIFUMFCT-0e0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635582480
+                    }
+                ]
+            },
+            "dtSa": {
+                "name": "dtSa",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635580058,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580056
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635589092
+                    }
+                ]
+            },
+            "incap_ses_304_1275982": {
+                "name": "incap_ses_304_1275982",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635579521,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "KOpyTiLlqhz7C4fqjwY4BPsb22YAAAAAUxUl/t9pzfmbt6E3KwlD0Q==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635579520
+                    }
+                ]
+            },
+            "rxVisitor": {
+                "name": "rxVisitor",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635580048,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725635580045U0G76QNGDUVK8EV3A48SS4KAQJD6R57D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580046
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725635580045U0G76QNGDUVK8EV3A48SS4KAQJD6R57D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635584220
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725635580045U0G76QNGDUVK8EV3A48SS4KAQJD6R57D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635586244
+                    }
+                ]
+            },
+            "rxvt": {
+                "name": "rxvt",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635580053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725637380047|1725635580047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580052
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725637380056|1725635580047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580059
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725637380447|1725635580047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580448
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725637380819|1725635580047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580819
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725637381639|1725635580047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635581640
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725637382473|1725635580047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635582473
+                    }
+                ]
+            },
+            "visid_incap_1275982": {
+                "name": "visid_incap_1275982",
+                "domain": ".mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635579519,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757147616.485353,
+                        "expiry": 31512037.485352993,
+                        "value": "Y6Z/i6+tSOK+2JNyfByWevsb22YAAAAAQUIPAAAAAABNCRRC+wcp7GsiOXOmX/Tc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635579517
+                    }
+                ]
+            },
+            "BIGipServersdlmp-cms01.mo.gov-cs1_443_SSL": {
+                "name": "BIGipServersdlmp-cms01.mo.gov-cs1_443_SSL",
+                "domain": "www.mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635579513,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "407434506.47873.0000",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635579512
+                    }
+                ]
+            },
+            "BIGipServersdlmp-cms01.mo.gov-cs2_443_SSL": {
+                "name": "BIGipServersdlmp-cms01.mo.gov-cs2_443_SSL",
+                "domain": "www.mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635580190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2252928266.47873.0000",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580190
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2252928266.47873.0000",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580196
+                    }
+                ]
+            },
+            "TS01dfb84d": {
+                "name": "TS01dfb84d",
+                "domain": "www.mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635579515,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01e5551b5a1e583b1b757df91bc52b22127ff1ec22900f8bbf0690b4f9c335bfd8851e38cc28a297960e1aab4a6abbb8792526768f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635579514
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01e5551b5a1e583b1b757df91bc52b22127ff1ec22900f8bbf0690b4f9c335bfd8851e38cc28a297960e1aab4a6abbb8792526768f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580191
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01e5551b5a1e583b1b757df91bc52b22127ff1ec22900f8bbf0690b4f9c335bfd8851e38cc28a297960e1aab4a6abbb8792526768f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635580196
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01e5551b5a1e583b1b757df91bc52b22127ff1ec22900f8bbf0690b4f9c335bfd8851e38cc28a297960e1aab4a6abbb8792526768f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635581200
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01e5551b5a1e583b1b757df91bc52b22127ff1ec22900f8bbf0690b4f9c335bfd8851e38cc28a297960e1aab4a6abbb8792526768f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635584676
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01e5551b5a1e583b1b757df91bc52b22127ff1ec22900f8bbf0690b4f9c335bfd8851e38cc28a297960e1aab4a6abbb8792526768f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635586624
+                    }
+                ]
+            },
+            "___utmvc": {
+                "name": "___utmvc",
+                "domain": "www.mo.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725635581344,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725635601,
+                        "expiry": 20,
+                        "value": "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",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635581339
+                    }
+                ]
+            },
+            "gs_u_GSN-237422-W": {
+                "name": "gs_u_GSN-237422-W",
+                "domain": "www.mo.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635583012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195583.010247,
+                        "expiry": 34560000.01024699,
+                        "value": "96942e0888589cc8c808370faa5471d2:2567:5000:1725635583010",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635583011
+                    }
+                ]
+            },
+            "gs_v_GSN-237422-W": {
+                "name": "gs_v_GSN-237422-W",
+                "domain": "www.mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635583011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195583.010001,
+                        "expiry": 34560000.010000944,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635583010
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.01095295,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635583012
+                    }
+                ]
+            },
+            "wpmp_switcher": {
+                "name": "wpmp_switcher",
+                "domain": "www.mo.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635579502,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757171579.485049,
+                        "expiry": 31536000.48504901,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635579487
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.198295116,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635581199
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.674971104,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635584676
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.62214899,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635586623
+                    }
+                ]
+            }
+        }
+    },
+    "vimeo.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".vimeo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635581873,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725637381.87282,
+                        "expiry": 1800.8728199005127,
+                        "value": "UKTKToIy.M8P9cqedgu4ITOVnyYKJsX3UFeFxNPnURI-1725635582-1.0.1.1-rFDiQ6PKuyjB0GAeJPyzEzpmiTc0UwjalqrpnJMjTvBdj9WLYukpd7wvgPv0SUsq",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635581873
+                    }
+                ]
+            },
+            "_cfuvid": {
+                "name": "_cfuvid",
+                "domain": ".vimeo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635581875,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "97JggWcniPUerF7m2cvCSymmwBU0Zc7QPGNpNcbvXTM-1725635582083-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635581874
+                    }
+                ]
+            },
+            "vuid": {
+                "name": "vuid",
+                "domain": ".vimeo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635582963,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195582.962333,
+                        "expiry": 34560000.962332964,
+                        "value": "pl305474752.290657135",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635582962
+                    }
+                ]
+            }
+        }
+    }
+}

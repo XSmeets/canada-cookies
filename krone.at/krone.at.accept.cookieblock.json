@@ -1,0 +1,1152 @@
+{
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615433669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759311433.66798,
+                        "expiry": 33696000.667979956,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433668
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615432590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757151432.588556,
+                        "expiry": 31536000.58855605,
+                        "value": "2o4xdpxovlh3s3189t7xwtxzci",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615432589
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.853112936,
+                        "value": "cx:n98h13szaud0dooo26v94mpx:xb3mgkbxk2gd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615432854
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.86619091,
+                        "value": "2o4xdpxovlh3s3189t7xwtxzci",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615432866
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615434775,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725616334.773893,
+                        "expiry": 900.7738931179047,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615434774
+                    }
+                ]
+            }
+        }
+    },
+    "iocnt.net": {
+        "/": {
+            "i00": {
+                "name": "i00",
+                "domain": ".iocnt.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433172,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1754653576.170644,
+                        "expiry": 29038143.170644045,
+                        "value": "0001ab1728d666fc166dacd490001%3B66dacd49%3B6895e388",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433171
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 29038143.398183107,
+                        "value": "0001ab1728d666fc166dacd490001%3B66dacd49%3B6895e388",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433398
+                    }
+                ]
+            }
+        }
+    },
+    "krone.at": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615413048,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725619013.032611,
+                        "expiry": 3600.0326108932495,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615413035
+                    }
+                ]
+            },
+            "KRN_ANON": {
+                "name": "KRN_ANON",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615413712,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757151413,
+                        "expiry": 31536000,
+                        "value": "7303fcbc-f400-4e6b-bbac-3062153b0e3c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615413706
+                    }
+                ]
+            },
+            "__pat": {
+                "name": "__pat",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615416414,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728207416,
+                        "expiry": 2592000,
+                        "value": "7200000",
+                        "same_site": "lax",
+                        "timestamp": 1725615416413
+                    }
+                ]
+            },
+            "__pid": {
+                "name": "__pid",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615416035,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728207416,
+                        "expiry": 2592000,
+                        "value": ".krone.at",
+                        "same_site": "lax",
+                        "timestamp": 1725615416034
+                    }
+                ]
+            },
+            "__pvi": {
+                "name": "__pvi",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615416415,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701816,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTBxaXY0OGIxMnJma2dnbSIsImRvbWFpbiI6Ii5rcm9uZS5hdCIsInRpbWUiOjE3MjU2MTU0MTY0MTF9",
+                        "same_site": "lax",
+                        "timestamp": 1725615416414
+                    }
+                ]
+            },
+            "__tbc": {
+                "name": "__tbc",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615416412,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760175416.410763,
+                        "expiry": 34560000.410763025,
+                        "value": "%7Bkpcd%7DChBtMHFpdjQ4OGwxY3VneWtkEgpNU0Q2OWtvNXBlGjwwdGwwdWpPdWhyRzhpNWhZUHhWY3RFNGxYeVlpN01za0FEOXloRWd4YXQ2VzNVbFRhRXI2ZjlocjVDUUwgAA",
+                        "same_site": "lax",
+                        "timestamp": 1725615416411
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615415569,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725615445,
+                        "expiry": 30,
+                        "value": "m0qiv47j6zfdq1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615415568
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiv481e9cb2s",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615415585
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiv482gpq7hp",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615415586
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiv4uysfvcu4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615416413
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiv4vp87qgea",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615416437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiv4vv9na2s9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615416443
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qivgrpihibgf",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615431846
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qivhkq3jdge7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615432891
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qivj2svnn1mr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615434837
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615432761,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733391432,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725615432760.814429837561985866",
+                        "same_site": "lax",
+                        "timestamp": 1725615432760
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725615432436,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760175432.434567,
+                        "expiry": 34560000.434566975,
+                        "value": "GA1.2.1520004830.1725615432",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615432435
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.03731489,
+                        "value": "GA1.1.1520004830.1725615432",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615433038
+                    }
+                ]
+            },
+            "_ga_EXHHLNWJYW": {
+                "name": "_ga_EXHHLNWJYW",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433037,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760175433.036507,
+                        "expiry": 34560000.03650689,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615433037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.03689909,
+                        "value": "GS1.1.1725615433.1.0.1725615433.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615433038
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.84151912,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615434841
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.84184599,
+                        "value": "GS1.1.1725615433.1.0.1725615434.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615434842
+                    }
+                ]
+            },
+            "_gat_kmm": {
+                "name": "_gat_kmm",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615432692,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725615492,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615432691
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725615432438,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701832,
+                        "expiry": 86400,
+                        "value": "GA1.2.377905638.1725615432",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615432437
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615415601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743415,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0qiv488l1cugykd%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725615415600
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615415595,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743415,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzICYAWAdgA4ugvgDYAjAFYufAMx8AnAAZRCkAF8gA",
+                        "same_site": "lax",
+                        "timestamp": 1725615415594
+                    }
+                ]
+            },
+            "_pcus": {
+                "name": "_pcus",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615416417,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743416,
+                        "expiry": 34128000,
+                        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVHM6NjVjNDYxYWFjNTRjOWE1MmRiNGY5MmRiYTgxZjY5ZGFkMGU2NmQ0Yjpub19zY29yZSIsIkNTY29yZTpiYzNiYWQzNDY1OTdiZmVkNjFjNDU4OTAxMmM1NTZmODA4OTE1MzRhOm5vX3Njb3JlIiwiTFRjOjllMzFlMjBlZTQ5MjBmYjkxZjYwNzJkMGY4ZTViZTJiOGMxNTgxMzA6bm9fc2NvcmUiXX19fQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725615416416
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615432892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743432,
+                        "expiry": 34128000,
+                        "value": "cx%3An98h13szaud0dooo26v94mpx%3Axb3mgkbxk2gd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615432892
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615431848,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743431,
+                        "expiry": 34128000,
+                        "value": "m0qiv488l1cugykd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615431846
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0qiv488l1cugykd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615434838
+                    }
+                ]
+            },
+            "ioam2018": {
+                "name": "ioam2018",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615432143,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1756201032,
+                        "expiry": 30585600,
+                        "value": "00011b3bee112c1b666dacd47%3A1756201032141%3A1725615432141%3A.krone.at%3A1%3Aat_w_atkrone%3ARedCont%2FHomepage%2FHomepage%2Fkrone.at%2Fstartseite%3Anoevent%3A1725615432141%3Aewcp5y",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615432142
+                    }
+                ]
+            },
+            "minUnifiedSessionToken10": {
+                "name": "minUnifiedSessionToken10",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433646,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728207433.644588,
+                        "expiry": 2592000.6445879936,
+                        "value": "%7B%22sessionId%22%3A%22e8552a98d5-629e2e503f-910b88d429-b560084645-deabd4bae7%22%2C%22uid%22%3A%22c92abe3e81-207a21bf52-dac094ca02-183c1eaa6f-1d01f805a7%22%2C%22__sidts__%22%3A1725615433644%2C%22__uidts__%22%3A1725615433644%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615433644
+                    }
+                ]
+            },
+            "scarab.profile": {
+                "name": "scarab.profile",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433416,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%22startseite%7C1725615433%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615433415
+                    }
+                ]
+            },
+            "scarab.visitor": {
+                "name": "scarab.visitor",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433415,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%2274AF774CFE3AF90E%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615433414
+                    }
+                ]
+            },
+            "xbc": {
+                "name": "xbc",
+                "domain": ".krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615416416,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760175416.411764,
+                        "expiry": 34560000.41176391,
+                        "value": "%7Bkpcd%7DChBtMHFpdjQ4OGwxY3VneWtkEgpNU0Q2OWtvNXBlGjwwdGwwdWpPdWhyRzhpNWhZUHhWY3RFNGxYeVlpN01za0FEOXloRWd4YXQ2VzNVbFRhRXI2ZjlocjVDUUwgAA",
+                        "same_site": "lax",
+                        "timestamp": 1725615416415
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433245,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725615433244
+                    }
+                ]
+            },
+            "krn_gifv_check": {
+                "name": "krn_gifv_check",
+                "domain": "www.krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615414523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "yes",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615414522
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "yes",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615414596
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "yes",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615414596
+                    }
+                ]
+            },
+            "minVersion": {
+                "name": "minVersion",
+                "domain": "www.krone.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433647,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757151433,
+                        "expiry": 31536000,
+                        "value": "{\"experiment\":-293771929,\"minFlavor\":\"article typemi-scraper-1.17.1.82.js100\"}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615433646
+                    }
+                ]
+            },
+            "trc_cookie_storage": {
+                "name": "trc_cookie_storage",
+                "domain": "www.krone.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615433786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757151433,
+                        "expiry": 31536000,
+                        "value": "taboola%2520global%253Auser-id%3D0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615433785
+                    }
+                ]
+            }
+        }
+    },
+    "onesignal.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".onesignal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615417269,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725617217.268495,
+                        "expiry": 1800.2684950828552,
+                        "value": "ioYia99kKagRPrgMzXFF2L4MtWGNs2pWDtdD2GXkcS8-1725615417-1.0.1.1-hKWdnSGIxO34oSk0T5PgP2f9wK8Lo2guvKBAlVWTrTrLZpB8b8xXm8IWjtrM9SwUtKl2GQiUv5rIGdGIjp.HvA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615417268
+                    }
+                ]
+            }
+        }
+    },
+    "piano.io": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615414952,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725617214.95145,
+                        "expiry": 1800.9514501094818,
+                        "value": "adj4H8IcOvF58Uuyb9.V6v.Dy_zWwuBFqTjiUn8UXk0-1725615414-1.0.1.1-2Pyh3Rw8IBhT8dMq5TsiUHgetdEhnjFtQE6dugWg9vWObK35M0dJz74FsNGyl7hF1WoKQXe7bHf0OInyafAC4Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615414952
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615432857,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757151432.855274,
+                        "expiry": 31536000.855273962,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615432857
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31535999.77022004,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433771
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615432856,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757151432.855205,
+                        "expiry": 31536000.85520506,
+                        "value": "0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615432855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.770143986,
+                        "value": "0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.45489502,
+                        "value": "0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615434455
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.455657005,
+                        "value": "0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615434456
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615432857,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757151432.85524,
+                        "expiry": 31536000.855240107,
+                        "value": "0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615432856
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.770185947,
+                        "value": "0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.45493889,
+                        "value": "0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615434455
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.455811024,
+                        "value": "0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615434456
+                    }
+                ]
+            }
+        },
+        "/kroneat/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/kroneat/",
+                "current_label": 0,
+                "label_ts": 1725615433773,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_7c8f907ce92193b26f6caba1524e2434_0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8_1725615432_1725615432_CIi3jgYQgplXGLrGx7WcMiABKAMwJjiJ6AdA2e8HSOGE2wNQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433772
+                    }
+                ]
+            }
+        },
+        "/kronemultimediagmbhcokg-sc/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/kronemultimediagmbhcokg-sc/",
+                "current_label": 0,
+                "label_ts": 1725615432858,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_8c0c4246e9733b684f944e60170cd8a6_0f7eafb7-ed66-43fc-b4e9-9c791ead8020-tuctdd452c8_1725615432_1725615432_CIi3jgYQ0MZXGLrGx7WcMiABKAEwJjiJ6AdA2e8HSOGE2wNQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615432857
+                    }
+                ]
+            }
+        }
+    },
+    "apv-launcher.minute.ly": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "apv-launcher.minute.ly",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433527,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726219220.526606,
+                        "expiry": 603787.5266060829,
+                        "value": "HGQy4Dvxbj4MFps1YNjqNRVGVX2lL/AW6EVMM4fOMkKTGgktMJEQV2H0YqWeDU91yHtr/4CN2+B/Zob1DeX+DJeJuZ9DoYh2VSxEy7sxm511gcglWH6PnUJuW92G",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433526
+                    }
+                ]
+            }
+        }
+    },
+    "recommender.scarabresearch.com": {
+        "/": {
+            "cdv": {
+                "name": "cdv",
+                "domain": "recommender.scarabresearch.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433322,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757172385.321449,
+                        "expiry": 31556952.32144904,
+                        "value": "74AF774CFE3AF90E",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433322
+                    }
+                ]
+            },
+            "xp": {
+                "name": "xp",
+                "domain": "recommender.scarabresearch.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615433323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757172385.321496,
+                        "expiry": 31556952.32149601,
+                        "value": "yVYfcLTC0xmnFmMWZeG3eaPj4Cy2r81Jpe6HQoQoeQzS-eofYV1wHRV8xavUqRC288wixTKU1TwiutYYSRb3Tw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433323
+                    }
+                ]
+            }
+        },
+        "/merchants/14027070C1C29BCD": {
+            "s": {
+                "name": "s",
+                "domain": "recommender.scarabresearch.com",
+                "path": "/merchants/14027070C1C29BCD",
+                "current_label": 0,
+                "label_ts": 1725615433323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3FDA87151ACBFB80",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615433322
+                    }
+                ]
+            }
+        }
+    }
+}

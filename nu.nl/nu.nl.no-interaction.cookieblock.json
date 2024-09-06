@@ -1,0 +1,201 @@
+{
+    "dpgmedia.nl": {
+        "/": {
+            "_sp_id.e23f": {
+                "name": "_sp_id.e23f",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617604360,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177604.352625,
+                        "expiry": 34560000.35262489,
+                        "value": "dec4c776-efd9-46fe-9456-e70fa6058377.1725617604.1.1725617604..812ea9ba-5d21-4a36-90bc-cbb058b43f41..76691f1a-78c1-4806-ac71-ff4c491f3abc.1725617604351.1",
+                        "same_site": "lax",
+                        "timestamp": 1725617604358
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.36043596,
+                        "value": "dec4c776-efd9-46fe-9456-e70fa6058377.1725617604.1.1725617604..812ea9ba-5d21-4a36-90bc-cbb058b43f41..76691f1a-78c1-4806-ac71-ff4c491f3abc.1725617604351.2",
+                        "same_site": "lax",
+                        "timestamp": 1725617604362
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1725617604347": {
+                "name": "_sp_root_domain_test_1725617604347",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617604352,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1725617604347",
+                        "same_site": "lax",
+                        "timestamp": 1725617604348
+                    }
+                ]
+            },
+            "_sp_ses.e23f": {
+                "name": "_sp_ses.e23f",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617604361,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725619404,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617604360
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617604363
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617602025,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725624802.005164,
+                        "expiry": 7200.005163908005,
+                        "value": "DF012EE4FA2A2BBB0645A61BE61DD6D6~000000000000000000000000000000~YAAQFu4hF3VbpbGRAQAAsf3Sxhlm9lM6uCxCffRKgVmBhtucfI6pOq0WmWnl9GAQqaOA1Q19P1N+A4Ti2OY2vgGhkoIx7UEwk7iGui0Hd+oyYQfQxgJVb1rp+8MdaVxluVUVM/gG0XE8yKVOlyTcj85rEQRfisWmPHcEP4JStqcOkHGQCa35PcVrD5VRx2cncZc27ugadup5CkEQUaJqsmdyuWW5eVcTOu5I/50F5cCMeu58Gshz70Xt3VapcYfMw1B49QwkbwBlewhzVSfhqyo4lQUVH+tBynyTFq6eCWLlHpuXCI9qaS+PePQ+RYUyaxzHBlxGbP66hYs1HsBCVQTkuo4E4Bqm0cFbJWmH5tZU8kxfcJt66Eq5hKHd7q+usdcg90FxQphIEQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617602021
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617603228,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725624803.218737,
+                        "expiry": 7200.218736886978,
+                        "value": "BDB65153BB1A37C1FA22ECED2ACC035C~YAAQXe4hFwKjELKRAQAAdALTxhkiUUYQ6bPtac2zAufeyeS+jvFGJdY3QC6p6iyTZ659suqLmr5VR1S2/okzq0NqZn3uIAq6P/X2Wh9Deiiq0XFdL49AzmufJfFnHOiWetf4f0XpEt3s2SmX1APsxRgfGQWzBG4Fxt8RMbGbDbhVxh27VWKMfkIAsVn/t/9T3SuZb8Y1m8YC55qEWJp55FCFCvLCYM92klr0C6dAw4tudrGrPRTyuXZgXGoCrWBmgg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617603221
+                    }
+                ]
+            }
+        }
+    },
+    "nu.nl": {
+        "/": {
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".www.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617601420,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725624801.399175,
+                        "expiry": 7200.399174928665,
+                        "value": "6ABC3CD614079540B97ADA8B21722840~000000000000000000000000000000~YAAQVO4hF7r7WcORAQAAV/vSxhnz7IuvQKJCxxGok8nABOPigy+UL6+6Jcu/cIzinndSuMrhJtrGRAOMd6Qwx+ANx3ebicp6Oj0b965G1nuH4u4svpBIFDF8RaBhVVENok4Y2P5iRUQsOGjd9U9bS6xSLyojCJDAhdb7y0iLuVmhiBOR+Bo0es0Zy22DwPwNEf285rvFhvFySVj/QksOKOHkGxa/c3e30LGtARwUeoO1AGj6Hg9o7VQlExfAg/f2OZb4sMpxH5FrWWRP8nKhfx+z6CD4MOybjt2A5sYiGhy1KFnrktgyK8q9aTHBUiRHCKFExpQnXf0XGFMqNltB9/DiefDZa/wMmv79d9rI+pepRm7bj+A3mLbICIntCkHOkmq5Gp1PEWk=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617601406
+                    }
+                ]
+            }
+        }
+    },
+    "myprivacy.dpgmedia.nl": {
+        "/": {
+            "authId": {
+                "name": "authId",
+                "domain": "myprivacy.dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617602020,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759313602.005028,
+                        "expiry": 33696000.00502801,
+                        "value": "2f263afb-e7f2-46fd-b523-8f9fedd95ca8",
+                        "same_site": "lax",
+                        "timestamp": 1725617602019
+                    }
+                ]
+            },
+            "xAuthId": {
+                "name": "xAuthId",
+                "domain": "myprivacy.dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617602018,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759313602.004858,
+                        "expiry": 33696000.00485802,
+                        "value": "2f263afb-e7f2-46fd-b523-8f9fedd95ca8",
+                        "same_site": "lax",
+                        "timestamp": 1725617602006
+                    }
+                ]
+            }
+        }
+    }
+}

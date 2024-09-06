@@ -1,0 +1,48 @@
+{
+    "aftonbladet.se": {
+        "/": {
+            "_pulse2data": {
+                "name": "_pulse2data",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580656272,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140656.263116,
+                        "expiry": 34560000.26311588,
+                        "value": "%2Cv%2C%2C1725581556261%2C%2C%2C0%2C%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580656271
+                    }
+                ]
+            },
+            "_pulse2test": {
+                "name": "_pulse2test",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580656267,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725667056,
+                        "expiry": 86400,
+                        "value": "OeY51LkqQgERV07z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580656263
+                    }
+                ]
+            }
+        }
+    }
+}

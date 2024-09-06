@@ -1,0 +1,263 @@
+{
+    "spt.apps.gov.bc.ca": {
+        "/": {
+            "3c6aa5bf75cec870d6dde49c758533da": {
+                "name": "3c6aa5bf75cec870d6dde49c758533da",
+                "domain": "spt.apps.gov.bc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566595557,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "dc9f3a5c86c3b951e48bf09e30ae9acd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566595556
+                    }
+                ]
+            },
+            "sp": {
+                "name": "sp",
+                "domain": "spt.apps.gov.bc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566595556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757102595.552458,
+                        "expiry": 31536000.552458048,
+                        "value": "6ad1a683-9496-43fd-976c-8da65488d965",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566595553
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.82257104,
+                        "value": "6ad1a683-9496-43fd-976c-8da65488d965",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566595824
+                    }
+                ]
+            }
+        }
+    },
+    "gov.bc.ca": {
+        "/": {
+            "_sp_id.75a4": {
+                "name": "_sp_id.75a4",
+                "domain": "www2.gov.bc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725566594116,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760126594.109851,
+                        "expiry": 34560000.10985088,
+                        "value": "ed0af006-da18-4dce-9f88-01bee8e80731.1725566594.1.1725566594.1725566594.1c7b68a6-31ab-44b1-9784-62bb4e7ac87e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566594115
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.808442116,
+                        "value": "ed0af006-da18-4dce-9f88-01bee8e80731.1725566594.1.1725566595.1725566594.1c7b68a6-31ab-44b1-9784-62bb4e7ac87e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566594809
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.81014991,
+                        "value": "ed0af006-da18-4dce-9f88-01bee8e80731.1725566594.1.1725566595.1725566594.1c7b68a6-31ab-44b1-9784-62bb4e7ac87e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566594810
+                    }
+                ]
+            },
+            "_sp_ses.75a4": {
+                "name": "_sp_ses.75a4",
+                "domain": "www2.gov.bc.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725566594113,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725568394,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566594107
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566594116
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566594809
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566594811
+                    }
+                ]
+            },
+            "a1f8f4f2630d5dc8c83d6bc79f73de7c": {
+                "name": "a1f8f4f2630d5dc8c83d6bc79f73de7c",
+                "domain": "www2.gov.bc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566590118,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "da6dee74de2066e23e720b45c1bda1db",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566592558
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "321bcc287ffbb2ff6240de0c36efc294",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566592616
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7542c51b0ea61351c5d894ac23c08324",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566592764
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "912cf504602a366a13e816973b287600",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566592773
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "82c45fb227e73fa9e60e3e903ea791c2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566593011
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7542c51b0ea61351c5d894ac23c08324",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566593210
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "912cf504602a366a13e816973b287600",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566593260
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7542c51b0ea61351c5d894ac23c08324",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566593276
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d323823d5a29a57d01688d5d174ecee5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566593368
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "411998394d77da52bff17e5b5048c191",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566593679
+                    }
+                ]
+            }
+        }
+    }
+}

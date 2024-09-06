@@ -1,0 +1,2015 @@
+{
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570554466,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759266555.462311,
+                        "expiry": 33696001.46231103,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554465
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570554464,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759266555.462247,
+                        "expiry": 33696001.462246895,
+                        "value": "e5a97031-257b-4654-a796-6b2cbc238a1c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554462
+                    }
+                ]
+            }
+        }
+    },
+    "crwdcntrl.net": {
+        "/": {
+            "_cc_dc": {
+                "name": "_cc_dc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570554312,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748898360.310963,
+                        "expiry": 23327806.310962915,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554311
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570554313,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748898360.311023,
+                        "expiry": 23327806.311022997,
+                        "value": "78052fe46d944a286d5be19e3e1ae76d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554312
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "APC": {
+                "name": "APC",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570553590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741122553.58944,
+                        "expiry": 15552000.589440107,
+                        "value": "AfxxVi65zHAAktbjxxNjedJ2cAwCVY_RPJSjgWKDmt7NWGiq4mqfZg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553589
+                    }
+                ]
+            },
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570553243,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130553.241678,
+                        "expiry": 34560000.241678,
+                        "value": "AHWqTUn-qaTxIvhrox53uZqQvK-pBKaSQFBEcWfaSlJWmcqqpGhUKB4s-GjFJynlhnI",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553242
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570553591,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728162553.589486,
+                        "expiry": 2592000.5894858837,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553591
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570553591,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741122553.589504,
+                        "expiry": 15552000.589504004,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553591
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570552773,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725571452.771513,
+                        "expiry": 900.7715129852295,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552772
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.7716588973999,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552776
+                    }
+                ]
+            }
+        }
+    },
+    "gazeta.pl": {
+        "/": {
+            "OTAdditionalConsentString": {
+                "name": "OTAdditionalConsentString",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570551600,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106551,
+                        "expiry": 31536000,
+                        "value": "1~70.89.93.108.122.149.196.259.318.323.415.486.494.495.540.574.864.981.1051.1095.1097.1205.1276.1301.1415.1423.1449.1570.1577.1651.1659.1716.1870.1878.1889.1985.1987.2008.2072.2135.2137.2253.2322.2357.2411.2465.2477.2501.2526.2568.2571.2575.2584.2677.2854.2874.2958.2999.3028.3063.3077.3222.3225.3226.3231.3234.3235.3236.3237.3238.3240.3244.3250.3251.3253.3260.3270.3272.3281.3288.3290.3292.3293.3296.3300.3306.3307.3309.3314.3315.3316.3318.3324.3328.3330.3531.3831.14332.15731.16831.16931.21233.23031.25731.25931.26031.26831.27731.27831.28031.28731.28831.29631.31631.32531.33631",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551599
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570551566,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106551,
+                        "expiry": 31536000,
+                        "value": "2024-09-05T21:09:11.565Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551566
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570546238,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A09%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a84a4faf-626d-4b2e-ab86-772d0beae186&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.gazeta.pl%2F0%2C0.html",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546744
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A09%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a84a4faf-626d-4b2e-ab86-772d0beae186&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.gazeta.pl%2F0%2C0.html",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546745
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A09%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a84a4faf-626d-4b2e-ab86-772d0beae186&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.gazeta.pl%2F0%2C0.html",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546750
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A09%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a84a4faf-626d-4b2e-ab86-772d0beae186&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.gazeta.pl%2F0%2C0.html",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546751
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "groups=C0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0001%3A1%2CA0001%3A0%2CV2STACK42%3A0&datestamp=Thu+Sep+05+2024+23%3A09%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&hosts=&genVendors=wps%3A0%2Cwta%3A0%2Chel%3A0%2Cwyb%3A0%2Cwad%3A0%2Cwxa%3A0%2Cgra%3A0%2Cuni%3A0%2Cwlr%3A0%2Cfcb%3A0%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "groups=C0002%3A0%2CC0003%3A0%2CC0004%3A0%2CC0001%3A1%2CA0001%3A0%2CV2STACK42%3A0&datestamp=Thu+Sep+05+2024+23%3A09%3A11+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&hosts=&genVendors=wps%3A0%2Cwta%3A0%2Chel%3A0%2Cwyb%3A0%2Cwad%3A0%2Cwxa%3A0%2Cgra%3A0%2Cuni%3A0%2Cwlr%3A0%2Cfcb%3A0%2C&landingPath=NotLandingPage",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551567
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CA0001%3A1%2CV2STACK42%3A1&datestamp=Thu+Sep+05+2024+23%3A09%3A11+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&hosts=&genVendors=wps%3A0%2Cwta%3A0%2Chel%3A0%2Cwyb%3A0%2Cwad%3A0%2Cwxa%3A0%2Cgra%3A0%2Cuni%3A0%2Cwlr%3A0%2Cfcb%3A0%2C&landingPath=NotLandingPage",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551580
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CA0001%3A1%2CV2STACK42%3A1&datestamp=Thu+Sep+05+2024+23%3A09%3A11+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&hosts=H284%3A1%2CH19%3A1%2CH12%3A1%2CH13%3A1%2CH38%3A1%2CH11%3A1%2CH16%3A1%2CH45%3A1%2CH190%3A1%2CH20%3A1%2CH22%3A1%2CH286%3A1%2CH61%3A1%2CH367%3A1%2CH238%3A1%2CH313%3A1%2CH82%3A1%2CH229%3A1%2CH14%3A1%2CH275%3A1%2CH34%3A1%2CH474%3A1%2CH49%3A1%2CH584%3A1%2CH150%3A1%2CH225%3A1%2CH582%3A1%2CH244%3A1%2CH239%3A1%2CH266%3A1%2CH7%3A1%2CH604%3A1%2CH299%3A1%2CH147%3A1%2CH4%3A1%2CH195%3A1%2CH262%3A1%2CH200%3A1%2CH271%3A1%2CH227%3A1%2CH281%3A1%2CH512%3A1%2CH296%3A1%2CH25%3A1%2CH23%3A1%2CH565%3A1%2CH24%3A1%2CH497%3A1%2CH104%3A1%2CH316%3A1%2CH328%3A1%2CH305%3A1%2CH131%3A1%2CH222%3A1%2CH6%3A1%2CH576%3A1%2CH513%3A1%2CH5%3A1%2CH9%3A1%2CH228%3A1%2CH312%3A1%2CH10%3A1%2CH485%3A1%2CH278%3A1%2CH40%3A1%2CH15%3A1%2CH574%3A1%2CH307%3A1%2CH248%3A1%2CH393%3A1%2CH583%3A1%2CH276%3A1%2CH273%3A1%2CH188%3A1%2CH543%3A1%2CH141%3A1%2CH53%3A1%2CH383%3A1%2CH198%3A1%2CH277%3A1%2CH445%3A1%2CH304%3A1%2CH599%3A1%2CH29%3A1%2CH133%3A1%2CH311%3A1%2CH111%3A1%2CH109%3A1%2CH280%3A1%2CH573%3A1%2CH26%3A1%2CH226%3A1%2CH199%3A1%2CH554%3A1%2CH282%3A1%2CH309%3A1%2CH293%3A1%2CH42%3A1%2CH264%3A1%2CH524%3A1%2CH231%3A1%2CH285%3A1%2CH27%3A1%2CH283%3A1%2CH153%3A1%2CH269%3A1%2CH320%3A1%2CH87%3A1%2CH302%3A1%2CH237%3A1%2CH28%3A1%2CH502%3A1%2CH221%3A1%2CH294%3A1%2CH194%3A1%2CH591%3A1%2CH230%3A1%2CH300%3A1%2CH17%3A1%2CH387%3A1%2CH470%3A1%2CH157%3A1%2CH381%3A1%2CH44%3A1%2CH500%3A1%2CH297%3A1%2CH1%3A1%2CH21%3A1%2CH192%3A1%2CH75%3A1%2CH18%3A1%2CH191%3A1%2CH8%3A1%2CH366%3A1&genVendors=wps%3A1%2Cwta%3A1%2Chel%3A1%2Cwyb%3A1%2Cwad%3A1%2Cwxa%3A1%2Cgra%3A1%2Cuni%3A1%2Cwlr%3A1%2Cfcb%3A1%2C&landingPath=NotLandingPage",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551601
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CA0001%3A1%2CV2STACK42%3A1&datestamp=Thu+Sep+05+2024+23%3A09%3A11+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&hosts=H284%3A1%2CH19%3A1%2CH12%3A1%2CH13%3A1%2CH38%3A1%2CH11%3A1%2CH16%3A1%2CH45%3A1%2CH190%3A1%2CH20%3A1%2CH22%3A1%2CH286%3A1%2CH61%3A1%2CH367%3A1%2CH238%3A1%2CH313%3A1%2CH82%3A1%2CH229%3A1%2CH14%3A1%2CH275%3A1%2CH34%3A1%2CH474%3A1%2CH49%3A1%2CH584%3A1%2CH150%3A1%2CH225%3A1%2CH582%3A1%2CH244%3A1%2CH239%3A1%2CH266%3A1%2CH7%3A1%2CH604%3A1%2CH299%3A1%2CH147%3A1%2CH4%3A1%2CH195%3A1%2CH262%3A1%2CH200%3A1%2CH271%3A1%2CH227%3A1%2CH281%3A1%2CH512%3A1%2CH296%3A1%2CH25%3A1%2CH23%3A1%2CH565%3A1%2CH24%3A1%2CH497%3A1%2CH104%3A1%2CH316%3A1%2CH328%3A1%2CH305%3A1%2CH131%3A1%2CH222%3A1%2CH6%3A1%2CH576%3A1%2CH513%3A1%2CH5%3A1%2CH9%3A1%2CH228%3A1%2CH312%3A1%2CH10%3A1%2CH485%3A1%2CH278%3A1%2CH40%3A1%2CH15%3A1%2CH574%3A1%2CH307%3A1%2CH248%3A1%2CH393%3A1%2CH583%3A1%2CH276%3A1%2CH273%3A1%2CH188%3A1%2CH543%3A1%2CH141%3A1%2CH53%3A1%2CH383%3A1%2CH198%3A1%2CH277%3A1%2CH445%3A1%2CH304%3A1%2CH599%3A1%2CH29%3A1%2CH133%3A1%2CH311%3A1%2CH111%3A1%2CH109%3A1%2CH280%3A1%2CH573%3A1%2CH26%3A1%2CH226%3A1%2CH199%3A1%2CH554%3A1%2CH282%3A1%2CH309%3A1%2CH293%3A1%2CH42%3A1%2CH264%3A1%2CH524%3A1%2CH231%3A1%2CH285%3A1%2CH27%3A1%2CH283%3A1%2CH153%3A1%2CH269%3A1%2CH320%3A1%2CH87%3A1%2CH302%3A1%2CH237%3A1%2CH28%3A1%2CH502%3A1%2CH221%3A1%2CH294%3A1%2CH194%3A1%2CH591%3A1%2CH230%3A1%2CH300%3A1%2CH17%3A1%2CH387%3A1%2CH470%3A1%2CH157%3A1%2CH381%3A1%2CH44%3A1%2CH500%3A1%2CH297%3A1%2CH1%3A1%2CH21%3A1%2CH192%3A1%2CH75%3A1%2CH18%3A1%2CH191%3A1%2CH8%3A1%2CH366%3A1&genVendors=wps%3A1%2Cwta%3A1%2Chel%3A1%2Cwyb%3A1%2Cwad%3A1%2Cwxa%3A1%2Cgra%3A1%2Cuni%3A1%2Cwlr%3A1%2Cfcb%3A1%2C&landingPath=NotLandingPage&consentId=da7f7dcd-f72b-4761-b0c0-3b014590cd7c&interactionCount=1&isAnonUser=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551618
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "groups=C0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0001%3A1%2CA0001%3A1%2CV2STACK42%3A1&datestamp=Thu+Sep+05+2024+23%3A09%3A11+GMT%2B0200+(Central+European+Summer+Time)&version=202405.1.0&hosts=H284%3A1%2CH19%3A1%2CH12%3A1%2CH13%3A1%2CH38%3A1%2CH11%3A1%2CH16%3A1%2CH45%3A1%2CH190%3A1%2CH20%3A1%2CH22%3A1%2CH286%3A1%2CH61%3A1%2CH367%3A1%2CH238%3A1%2CH313%3A1%2CH82%3A1%2CH229%3A1%2CH14%3A1%2CH275%3A1%2CH34%3A1%2CH474%3A1%2CH49%3A1%2CH584%3A1%2CH150%3A1%2CH225%3A1%2CH582%3A1%2CH244%3A1%2CH239%3A1%2CH266%3A1%2CH7%3A1%2CH604%3A1%2CH299%3A1%2CH147%3A1%2CH4%3A1%2CH195%3A1%2CH262%3A1%2CH200%3A1%2CH271%3A1%2CH227%3A1%2CH281%3A1%2CH512%3A1%2CH296%3A1%2CH25%3A1%2CH23%3A1%2CH565%3A1%2CH24%3A1%2CH497%3A1%2CH104%3A1%2CH316%3A1%2CH328%3A1%2CH305%3A1%2CH131%3A1%2CH222%3A1%2CH6%3A1%2CH576%3A1%2CH513%3A1%2CH5%3A1%2CH9%3A1%2CH228%3A1%2CH312%3A1%2CH10%3A1%2CH485%3A1%2CH278%3A1%2CH40%3A1%2CH15%3A1%2CH574%3A1%2CH307%3A1%2CH248%3A1%2CH393%3A1%2CH583%3A1%2CH276%3A1%2CH273%3A1%2CH188%3A1%2CH543%3A1%2CH141%3A1%2CH53%3A1%2CH383%3A1%2CH198%3A1%2CH277%3A1%2CH445%3A1%2CH304%3A1%2CH599%3A1%2CH29%3A1%2CH133%3A1%2CH311%3A1%2CH111%3A1%2CH109%3A1%2CH280%3A1%2CH573%3A1%2CH26%3A1%2CH226%3A1%2CH199%3A1%2CH554%3A1%2CH282%3A1%2CH309%3A1%2CH293%3A1%2CH42%3A1%2CH264%3A1%2CH524%3A1%2CH231%3A1%2CH285%3A1%2CH27%3A1%2CH283%3A1%2CH153%3A1%2CH269%3A1%2CH320%3A1%2CH87%3A1%2CH302%3A1%2CH237%3A1%2CH28%3A1%2CH502%3A1%2CH221%3A1%2CH294%3A1%2CH194%3A1%2CH591%3A1%2CH230%3A1%2CH300%3A1%2CH17%3A1%2CH387%3A1%2CH470%3A1%2CH157%3A1%2CH381%3A1%2CH44%3A1%2CH500%3A1%2CH297%3A1%2CH1%3A1%2CH21%3A1%2CH192%3A1%2CH75%3A1%2CH18%3A1%2CH191%3A1%2CH8%3A1%2CH366%3A1&genVendors=wps%3A1%2Cwta%3A1%2Chel%3A1%2Cwyb%3A1%2Cwad%3A1%2Cwxa%3A1%2Cgra%3A1%2Cuni%3A1%2Cwlr%3A1%2Cfcb%3A1%2C&landingPath=NotLandingPage&consentId=da7f7dcd-f72b-4761-b0c0-3b014590cd7c&interactionCount=1&isAnonUser=1&intType=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551619
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570553250,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741122553,
+                        "expiry": 15552000,
+                        "value": "ID=8cf6157309d168d6:T=1725570553:RT=1725570553:S=AA-Afjbu0s6LBSeDou8ckGkEvKtZ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553249
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570553247,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759266553,
+                        "expiry": 33696000,
+                        "value": "ID=282b64d19cbec6d7:T=1725570553:RT=1725570553:S=ALNI_MagepBeySSy_tx4nv7SGQp6gbf2ug",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553246
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570545582,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759698545,
+                        "expiry": 34128000,
+                        "value": "KK0ny.VMDR4NJQXW7_bqwpuUWYdGmJXetk8yRZ0udKf.J7|1725570545|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570545580
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "KK0ny.VMDR4NJQXW7_bqwpuUWYdGmJXetk8yRZ0udKf.J7|1725570545|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570546356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "KK0ny.VMDR4NJQXW7_bqwpuUWYdGmJXetk8yRZ0udKf.J7|1725570545|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570547356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "KK0ny.VMDR4NJQXW7_bqwpuUWYdGmJXetk8yRZ0udKf.J7|1725570545|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570548357
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "KK0ny.VMDR4NJQXW7_bqwpuUWYdGmJXetk8yRZ0udKf.J7|1725570545|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570549355
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "KK0ny.VMDR4NJQXW7_bqwpuUWYdGmJXetk8yRZ0udKf.J7|1725570545|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570550355
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "KK0ny.VMDR4NJQXW7_bqwpuUWYdGmJXetk8yRZ0udKf.J7|1725570545|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570551356
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570553249,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759266553,
+                        "expiry": 33696000,
+                        "value": "UID=00000eec135dd096:T=1725570553:RT=1725570553:S=ALNI_MZZ8hyl5TgWE8ObIEKG-9VdzPPl9g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553248
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570554314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1748898554,
+                        "expiry": 23328000,
+                        "value": "78052fe46d944a286d5be19e3e1ae76d",
+                        "same_site": "lax",
+                        "timestamp": 1725570554314
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570552236,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760130552.233447,
+                        "expiry": 34560000.233447075,
+                        "value": "GA1.1.1116517803.1725570552",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570552235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.26846099,
+                        "value": "GA1.1.1116517803.1725570552",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570552269
+                    }
+                ]
+            },
+            "_ga_49SJJ7MKWZ": {
+                "name": "_ga_49SJJ7MKWZ",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570552234,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760130552.232961,
+                        "expiry": 34560000.23296094,
+                        "value": "GS1.1.1725570552.1.0.1725570552.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570552234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.303056,
+                        "value": "GS1.1.1725570552.1.0.1725570553.59.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570553305
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.34979391,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570555350
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.350253105,
+                        "value": "GS1.1.1725570552.1.0.1725570555.57.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570555351
+                    }
+                ]
+            },
+            "_ga_LPFWLXLKNS": {
+                "name": "_ga_LPFWLXLKNS",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570552268,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760130552.267824,
+                        "expiry": 34560000.267823935,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570552268
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.268153906,
+                        "value": "GS1.1.1725570552.1.0.1725570552.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570552269
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.35552192,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570555356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.355895996,
+                        "value": "GS1.1.1725570552.1.0.1725570555.57.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570555356
+                    }
+                ]
+            },
+            "_rdc1725570552313": {
+                "name": "_rdc1725570552313",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570552314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725570562,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1725570552313
+                    }
+                ]
+            },
+            "bwGuidv2": {
+                "name": "bwGuidv2",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545950,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106545,
+                        "expiry": 31536000,
+                        "value": "277686446db9fd0f3748d749",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570545949
+                    }
+                ]
+            },
+            "bwPageviewId": {
+                "name": "bwPageviewId",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545952,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574145,
+                        "expiry": 3600,
+                        "value": "313ab7434d8c769261b1b0ff",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570545951
+                    }
+                ]
+            },
+            "bwVisitId": {
+                "name": "bwVisitId",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545951,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725572345,
+                        "expiry": 1800,
+                        "value": "0338d948cfb3e9122de87cfa",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570545951
+                    }
+                ]
+            },
+            "cric": {
+                "name": "cric",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570543518,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130543.48817,
+                        "expiry": 34560000.48816991,
+                        "value": "cD1lZGFlZGY1ZS0yMDk4LTQwYzQtYmFjMy1iYzFlY2JiYzIwYTEmaD0mdG09MTcyNTU3MDU0MzYyOSZ2PTEuNC4w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570543517
+                    }
+                ]
+            },
+            "cric_pubid": {
+                "name": "cric_pubid",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570543520,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130543.488334,
+                        "expiry": 34560000.48833394,
+                        "value": "edaedf5e-2098-40c4-bac3-bc1ecbbc20a1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570543519
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570554611,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759266554,
+                        "expiry": 33696000,
+                        "value": "Ck_WmF9iQnpubEI1eXB0MSUyRllvcFZoUTY4MkloUE4xSEFzTTIwTDNwaXp2SGZYc3dhWGZyQTBqVnRxUXRRWWVKJTJGZzd0TFAwY3lMWEZSbExQWm5ocTdjSG16aEtkUnB6eVo3c2NNTFdrR1JQcDZSdFdVb0F5QWdUc2lGcCUyRnFPSmhqWTZVeFlDOVlFYWY5UXNvT1BtUURJY3VsNDlxVzQ3bjBWVHJzcWMlMkJaUlV4ekdsUXBFaWF3STVxdnRyQTBnemFzNmllT0EzNkJod2U1bFJmQlBKJTJGU1dUb1JqdyUzRCUzRA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570554609
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570553947,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725574153,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570553947
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570553946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725574153,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570553946
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570551599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106551,
+                        "expiry": 31536000,
+                        "value": "CQEeHPAQEeHPAAcABBPLBFFsAP_gAEPgAAYgKaNVvC5ebWlj8XZWIftkaYwP5ZgzpkQxBhaBEeYFwIOG7BgGB2EwNAV4JiACGBAAsiKBIQFlGABUCQAAAIgRqCCMYk2MgDNKJKBgiFMROkNYCB5mmgFD2QCY5kiss0dxmBegAAAAEEwCwAAAAAAAAAAAAAAAAgAAAQAAAAAAAAAAIAAAAQBAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAfff_9Ln_-uB_-_wU1AJMFCogBLAkICBQMIIEAAgiCAiAAAAAAkDQAQAgAAJ2BAEOsJAAAAQAAgAAAABREACAAASABCIAAACAQAAQCAQABgAADAQAECAACACwAAgABANAACAggEAwAAMQIhTAgCAAAAEIIAEgAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRlaYFo-YLntMAyQBAgAEBIo4ACAkUkABASKUAAgJF.f_wACHwAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551595
+                    }
+                ]
+            },
+            "lotame_domain_check": {
+                "name": "lotame_domain_check",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570554314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725570564,
+                        "expiry": 10,
+                        "value": "gazeta.pl",
+                        "same_site": "lax",
+                        "timestamp": 1725570554313
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570554315,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725656955,
+                        "expiry": 86401,
+                        "value": "1725656954500",
+                        "same_site": "lax",
+                        "timestamp": 1725570554314
+                    }
+                ]
+            },
+            "rodoAccepted": {
+                "name": "rodoAccepted",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570546776,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757106546,
+                        "expiry": 31536000,
+                        "value": "-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570546775
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570551625
+                    }
+                ]
+            },
+            "rodoAgora": {
+                "name": "rodoAgora",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570544588,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757106544,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570544587
+                    }
+                ]
+            },
+            "rodoConfigData": {
+                "name": "rodoConfigData",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570546777,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757106546,
+                        "expiry": 31536000,
+                        "value": "{\"showAds\":false,\"functionalCookies\":false,\"performanceCookies\":false}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570546776
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"showAds\":true,\"functionalCookies\":true,\"performanceCookies\":true}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570551626
+                    }
+                ]
+            },
+            "rodoConsents": {
+                "name": "rodoConsents",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570546775,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757106546,
+                        "expiry": 31536000,
+                        "value": "{\"tcf_cs\":\"ago:0\",\"tcf_r\":false}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570546774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{\"tcf_cs\":\"ago:1\",\"tcf_r\":true,\"tcf_pr\":\"onetrust\",\"tcf_v\":2,\"tcf_c\":\"1,2,3,4,5,6,7,8,9,10,11\",\"tcf_sf\":\"1,2\",\"tcf_pa\":\"gpl,wps,wta,hel,wyb,wad,wxa,gra,uni,wlr,fcb\"}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570551624
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570543523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760130543.488381,
+                        "expiry": 34560000.48838091,
+                        "value": "149A88A98A85k1725570543642",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570543521
+                    }
+                ]
+            },
+            "hptab": {
+                "name": "hptab",
+                "domain": ".www.gazeta.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570543506,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757106543.487073,
+                        "expiry": 31536000.487072945,
+                        "value": "K",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570543491
+                    }
+                ]
+            },
+            "hptabusersegments": {
+                "name": "hptabusersegments",
+                "domain": ".www.gazeta.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570543516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725570843.488058,
+                        "expiry": 300.48805809020996,
+                        "value": "#",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570543508
+                    }
+                ]
+            },
+            "AdviewMCGP": {
+                "name": "AdviewMCGP",
+                "domain": "www.gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570552696,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1750366031,
+                        "expiry": 24795479,
+                        "value": "third",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552696
+                    }
+                ]
+            },
+            "HP_SID": {
+                "name": "HP_SID",
+                "domain": "www.gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570543521,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "847CD014AA3D1F91FF2999DC1A33377E.hp29",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570543520
+                    }
+                ]
+            },
+            "OneTrustWPCCPAGoogleOptOut": {
+                "name": "OneTrustWPCCPAGoogleOptOut",
+                "domain": "www.gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570546436,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757106546,
+                        "expiry": 31536000,
+                        "value": "true",
+                        "same_site": "lax",
+                        "timestamp": 1725570546435
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "true",
+                        "same_site": "lax",
+                        "timestamp": 1725570551621
+                    }
+                ]
+            },
+            "lux_uid": {
+                "name": "lux_uid",
+                "domain": "www.gazeta.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570551653,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725572351.652166,
+                        "expiry": 1800.65216588974,
+                        "value": "172557055165163012",
+                        "same_site": "lax",
+                        "timestamp": 1725570551652
+                    }
+                ]
+            },
+            "usprivacy": {
+                "name": "usprivacy",
+                "domain": "www.gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545084,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757106545,
+                        "expiry": 31536000,
+                        "value": "1---",
+                        "same_site": "lax",
+                        "timestamp": 1725570545083
+                    }
+                ]
+            },
+            "weatherWidget__city": {
+                "name": "weatherWidget__city",
+                "domain": "www.gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570544905,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760130544.88303,
+                        "expiry": 34560000.88302994,
+                        "value": "756135",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570544903
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570545465,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698545.462863,
+                        "expiry": 34128000.46286297,
+                        "value": "KlGwtMGGQMQG5oUvriYW8U9UssGMXP8cf8ySssX6nsGfGKfGHb2xxjGoxcxSY8CBI8l8MG..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545463
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.400264025,
+                        "value": "KlQukMMGQMQG5oUvriYW8U9UssGMy14oL6nxGsRP5x7tGKGGqGjELGllleX2GGiNxFm_R8SMGm7Buts_f5nG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546401
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.674753904,
+                        "value": "KlxNIRXGQMQG5oUvriYW8U9UssGMw14oL6nxGsRP5x7tGKGGqGjELGllleX2GGiNxFm_E8SMGm7ButshYZHG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570547677
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.707494974,
+                        "value": "KlSWcMMGQMQG5oUvriYW8U9UssGM_14oL6nxGsRP5x7tGKGGqGjELGllleX2GGiNxFm_F8SMGm7ButshYZHG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551708
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.83357191,
+                        "value": "KlxzdMXGQMQG5oUvriYW8U9UssGMc14oL6nxGsRP5x7tGKGGqGjELGllleX2GGiNxFm_f8SMGm7ButshYZHG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552834
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570545231,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698545.228282,
+                        "expiry": 34128000.228281975,
+                        "value": "TiSH4ziZAEWUeXYMbfgf7.iWKuU8tbq3c9OJ9Bd9CPL.v7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545230
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.46288705,
+                        "value": "Ttd8xcMhcBYVnzB3dM9g1co9SWRptMXaQ59f7irG2Zv.e7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545465
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.40029597,
+                        "value": "0sfGSUFoxiU19TeSJUV7NxWe_z15W6e0gInpi7ls1zD.57",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546401
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.67486501,
+                        "value": "8PRw0.4IcvaYoBqzdXRvvyEqthMrfG6eHMzKxojJZaL.07",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570547678
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.707525015,
+                        "value": "Al0b5TFc.iplKqn69SsLbdb.pmy2Hx.SNknbauhwqFf.f7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551708
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.8335979,
+                        "value": "q12AEmtFkgDsUrtAKiGesUKeWCEiKokKgHO1AZ4xI6X.R7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552835
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570545230,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726175345.228255,
+                        "expiry": 604800.2282550335,
+                        "value": "KlQr9MXGQMQG5oUvriYW8U9UssGMXP8cfRbG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545229
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570545229,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698545.228188,
+                        "expiry": 34128000.22818804,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545228
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.46279311,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545463
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.40014291,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546400
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.67456889,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570547677
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.707438946,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551708
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.83350992,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552834
+                    }
+                ]
+            }
+        }
+    },
+    "nsaudience.pl": {
+        "/": {
+            "ucJFP93eeO_h0": {
+                "name": "ucJFP93eeO_h0",
+                "domain": ".nsaudience.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570555054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725570614.951102,
+                        "expiry": 59.95110201835632,
+                        "value": "mi191c4051ceb2e192c10012eea5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570555053
+                    }
+                ]
+            },
+            "ucPaz9d1LJRbs": {
+                "name": "ucPaz9d1LJRbs",
+                "domain": ".nsaudience.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570555056,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725570614.951926,
+                        "expiry": 59.9519259929657,
+                        "value": "mi191c4051cec6aa2ebb48606024c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570555055
+                    }
+                ]
+            },
+            "ucdGTdM7MSIgA": {
+                "name": "ucdGTdM7MSIgA",
+                "domain": ".nsaudience.pl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570554444,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725570614.44233,
+                        "expiry": 60.44232988357544,
+                        "value": "mi191c4051aee7d2db971205807c0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554442
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".nsaudience.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570554662,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106554.659752,
+                        "expiry": 31536000.659751892,
+                        "value": "mi191c4051aee7d2db971205807c0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554661
+                    }
+                ]
+            },
+            "ut": {
+                "name": "ut",
+                "domain": ".nsaudience.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570554662,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106554.659827,
+                        "expiry": 31536000.659826994,
+                        "value": "1725570554821",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554662
+                    }
+                ]
+            }
+        }
+    },
+    "adv.adview.pl": {
+        "/adview_mcgp": {
+            "AdviewMCGP": {
+                "name": "AdviewMCGP",
+                "domain": "adv.adview.pl",
+                "path": "/adview_mcgp",
+                "current_label": 0,
+                "label_ts": 1725570552695,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "yes",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552693
+                    }
+                ]
+            }
+        }
+    },
+    "gdpr.api.dmp.nsaudience.pl": {
+        "/": {
+            "agree_gdpr": {
+                "name": "agree_gdpr",
+                "domain": "gdpr.api.dmp.nsaudience.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570554663,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725570555.659899,
+                        "expiry": 1.6598989963531494,
+                        "value": "\"bnNfMSwxO25zXzIsMQ==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554663
+                    }
+                ]
+            },
+            "agree_time_gdpr": {
+                "name": "agree_time_gdpr",
+                "domain": "gdpr.api.dmp.nsaudience.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570554664,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725570555.659934,
+                        "expiry": 1.6599340438842773,
+                        "value": "1725487200000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554664
+                    }
+                ]
+            },
+            "capping_gdpr": {
+                "name": "capping_gdpr",
+                "domain": "gdpr.api.dmp.nsaudience.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570554665,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725570555.659963,
+                        "expiry": 1.6599628925323486,
+                        "value": "1725570554821",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570554664
+                    }
+                ]
+            }
+        }
+    },
+    "liquid.agora.pl": {
+        "/": {
+            "bwGuidv3": {
+                "name": "bwGuidv3",
+                "domain": "liquid.agora.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130545.911546,
+                        "expiry": 34560000.91154599,
+                        "value": "%7B%22g%22%3A%224764ca4f10ad31abef53e01a%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545915
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.77678895,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546783
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.820365906,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553821
+                    }
+                ]
+            },
+            "bwPageviewId": {
+                "name": "bwPageviewId",
+                "domain": "liquid.agora.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570546785,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574146.776828,
+                        "expiry": 3600.7768280506134,
+                        "value": "313ab7434d8c769261b1b0ff",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546784
+                    }
+                ]
+            },
+            "bwSyncId": {
+                "name": "bwSyncId",
+                "domain": "liquid.agora.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570545680,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130545.678864,
+                        "expiry": 34560000.678864,
+                        "value": "47a4964e8c82595c2f6b8d1d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545680
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91066408,
+                        "value": "47a4964e8c82595c2f6b8d1d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545911
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.91144395,
+                        "value": "47a4964e8c82595c2f6b8d1d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545913
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.77683592,
+                        "value": "47a4964e8c82595c2f6b8d1d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546785
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.82030892,
+                        "value": "47a4964e8c82595c2f6b8d1d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553821
+                    }
+                ]
+            },
+            "bwVisitId": {
+                "name": "bwVisitId",
+                "domain": "liquid.agora.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545915,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725572345.911474,
+                        "expiry": 1800.9114739894867,
+                        "value": "d28237424e9881d0cb17e1ac",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545914
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.7768139839172,
+                        "value": "0338d948cfb3e9122de87cfa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546784
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.8203520774841,
+                        "value": "0338d948cfb3e9122de87cfa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570553821
+                    }
+                ]
+            }
+        }
+    },
+    "squid.gazeta.pl": {
+        "/bdtrck": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "squid.gazeta.pl",
+                "path": "/bdtrck",
+                "current_label": 0,
+                "label_ts": 1725570545714,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4DA7C16F807E8D47DBF60F26497E05AC",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570545713
+                    }
+                ]
+            }
+        },
+        "/": {
+            "bwGuidv3": {
+                "name": "bwGuidv3",
+                "domain": "squid.gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545711,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18817091,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546188
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18864298,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546189
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.66672611,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570546668
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.03139305,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570547032
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.54095602,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570547542
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.542027,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570547544
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.880599976,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551881
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.881211996,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570551881
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.79803705,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552798
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.949839115,
+                        "value": "%7B%22g%22%3A%22277686446db9fd0f3748d749%22%2C%22ids%22%3A%7B%7D%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570552950
+                    }
+                ]
+            },
+            "bwPageviewId": {
+                "name": "bwPageviewId",
+                "domain": "squid.gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545949,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574145.94714,
+                        "expiry": 3600.947139978409,
+                        "value": "313ab7434d8c769261b1b0ff",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545948
+                    }
+                ]
+            },
+            "bwVisitId": {
+                "name": "bwVisitId",
+                "domain": "squid.gazeta.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570545713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725572345.708966,
+                        "expiry": 1800.7089660167694,
+                        "value": "0338d948cfb3e9122de87cfa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545712
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.9471139907837,
+                        "value": "0338d948cfb3e9122de87cfa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570545947
+                    }
+                ]
+            }
+        }
+    }
+}

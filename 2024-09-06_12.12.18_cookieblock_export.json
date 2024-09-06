@@ -1,0 +1,70 @@
+{
+    "settlinginbelgium.be": {
+        "/": {
+            "6cea17882bc4e30b4f866cfe624f692e": {
+                "name": "6cea17882bc4e30b4f866cfe624f692e",
+                "domain": "settlinginbelgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617530614,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "2a147941768a58b32353f58a2b9b1f05",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617530602
+                    }
+                ]
+            },
+            "BIGipServer~SSB~SSB~router.ssb-03.paas.cloud.ssbdc.be_80": {
+                "name": "BIGipServer~SSB~SSB~router.ssb-03.paas.cloud.ssbdc.be_80",
+                "domain": "settlinginbelgium.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617530617,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rd1194o00000000000000000000ffff0a18a710o80",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617530615
+                    }
+                ]
+            }
+        }
+    },
+    "socialsecurity.be": {
+        "/": {
+            "BIGipServer~SOC~SOC~static-egov.prd.extranetdc.be_8100": {
+                "name": "BIGipServer~SOC~SOC~static-egov.prd.extranetdc.be_8100",
+                "domain": "www.socialsecurity.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617521363,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rd636o00000000000000000000ffff0a00b221o8100",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617521347
+                    }
+                ]
+            }
+        }
+    }
+}

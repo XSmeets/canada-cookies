@@ -1,0 +1,1219 @@
+{
+    "ohio.gov": {
+        "/": {
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292162,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726239091.123808,
+                        "expiry": 604799.1238079071,
+                        "value": "8VvtyBkyDRO2h5ISQXvxVK6p6Ni+3cC/LLWQUdG4FWsQjhDzOa/Ff2/Q5ZQQibOoGb1Ia4xt+AMAJ/u49QXpuEj0j6eP8f+cu1DgKNy/hgXmB80Cx2Mf/Xke9+3I",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292159
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.481071949,
+                        "value": "JiDU1Oj/u2Z97/8YkgsvgtG4LQm+wvLSh7P4aZpkBsYX5qgZcMxmp0TTT9Zn8JDy7aLAizY4XEt/n/RNtawumCjppTqtO/7S64ud6oxnJBFRphjFWFdSeA5cxsxT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292488
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4901490211,
+                        "value": "J6b9yfHJB5oFkMaDYGKIdJ90fz1lM2zns5bxUO/pnU+y4rbZcLDEZt2j8NAqTEcV3A3esxQUsPvYN3PH6attmsxDEv01GE34Obkqb1MK5s0nY9UEPCfvu+exUXpj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292500
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.9945669174,
+                        "value": "u/Oej2wIPqUxOKiTtk+dSSpIholwJPDq6cLpq20468iJLbPM8lB1Apas6yHFL9Wakc89h2tCpw5zjNLSbj0y0mmMKCVMfruH8JZkpKQZI8enntNlVdzZgBRuzSV/",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292997
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0007200241,
+                        "value": "5IXmlFjqhLnoU59BONfIRgUq+w6WraQnbTCXURICGy0uqjq2IxJgcXEfLk4gnBMxM0P019PtF54VATU7dm4rqPd8zUbxG/6h5myXBRsZRpE6Me9avy8npjo8kvFt",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293006
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3288071156,
+                        "value": "YzvgZrN1hRbeElrrQVbGnnU5GLGu/SbBF2XIldhvzI1EclcNMZ96dNVTFxof5/nV/IMQo2FaN0rWJKjFm5nXhxVVElwM6HaAa06HPkVESaI30KT6Dr6qV51Zhlm+",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293329
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3316650391,
+                        "value": "1916ULxn3daxEqpL1uefe8Nda+HxolTo7RU8BLR5SvU646SQKfnFkTobMcludbUaGY7n7uU5hlpdZVsh+dVTR1phJ5l9u8Mz8i77KAvfAJ3kKhS7ulPgZlocjtuc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293332
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.857749939,
+                        "value": "GhgoIX137/nN7XD5DTqmfvpsSDfpoOdQhXx9ebVxrvEOipvGkiftMuBgEUSF1+PnJDfYkVkqmVnAn+qwY9+CNQ3xjpamV1hd1qkEtbn5r64Lz119Y4ZZSUoQ4aML",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293862
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0266699791,
+                        "value": "OfX5p7PujKubxuedZsUtA+It3OVoll9OQoCRM9M/IRi8qPopr4QjW83ddi4OZAWSJFxj2x91oe9X4l1UV/mNu/yhPiID/gDEiYNHbJlOGI94LQkm5SvE7VjQKkKG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634294030
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2118310928,
+                        "value": "AWENWohJijOyDTyquZc0Znu9n8dB+LoFRcWq5PgXtoSGDmg+l1MB1iEuZl5wtaWfKFP7eIP6/4l/k6xZvKUgeP2o250tLfYz6LGDRF2ykIvnbFFyML1LAqcQwaZn",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634297214
+                    }
+                ]
+            },
+            "AWSALBAPP-0": {
+                "name": "AWSALBAPP-0",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292165,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726239092.123926,
+                        "expiry": 604800.1239259243,
+                        "value": "AAAAAAAAAABHZEYNdbJlUXZlFQ4TLy94Ur3ARcLR7KRkiQVToMXqtwtUCrT1H5Xc5ssUseTrFesPPQ6iP7kslDJ33pMurVvM+xrwfTb1zkgSaNFaS3oOJBiF6byOfD3M4NlF5Quq5qCqn+o=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292164
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4813790321,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292489
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4907720089,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292501
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.9946711063,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292998
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0008220673,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293007
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3288478851,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293330
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3317859173,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293332
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.8578379154,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293862
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0268349648,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634294031
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.2119278908,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634297214
+                    }
+                ]
+            },
+            "AWSALBAPP-1": {
+                "name": "AWSALBAPP-1",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292167,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726239092.123972,
+                        "expiry": 604800.1239719391,
+                        "value": "_remove_",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292165
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4815940857,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292491
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4908890724,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292501
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.9947209358,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292998
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0008659363,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293007
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3288640976,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293330
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3318510056,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293333
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.8578801155,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293863
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0270349979,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634294031
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.2119719982,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634297214
+                    }
+                ]
+            },
+            "AWSALBAPP-2": {
+                "name": "AWSALBAPP-2",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292167,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726239092.124009,
+                        "expiry": 604800.124008894,
+                        "value": "_remove_",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292167
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4816288948,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292492
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4910540581,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292501
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604799.9947650433,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293000
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0009069443,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293007
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3288850784,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293330
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3319311142,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293333
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.8579161167,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293864
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0272500515,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634294031
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.2120509148,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634297215
+                    }
+                ]
+            },
+            "AWSALBAPP-3": {
+                "name": "AWSALBAPP-3",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292168,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726239092.124045,
+                        "expiry": 604800.1240448952,
+                        "value": "_remove_",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292167
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4913721085,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634292501
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604799.9948089123,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293000
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0009450912,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293007
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3288989067,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293330
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3319540024,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293333
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.8579530716,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293864
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.0272939205,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634294031
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.2120931149,
+                        "value": "_remove_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634297215
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292163,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726239091.123854,
+                        "expiry": 604799.1238539219,
+                        "value": "8VvtyBkyDRO2h5ISQXvxVK6p6Ni+3cC/LLWQUdG4FWsQjhDzOa/Ff2/Q5ZQQibOoGb1Ia4xt+AMAJ/u49QXpuEj0j6eP8f+cu1DgKNy/hgXmB80Cx2Mf/Xke9+3I",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292162
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4811720848,
+                        "value": "JiDU1Oj/u2Z97/8YkgsvgtG4LQm+wvLSh7P4aZpkBsYX5qgZcMxmp0TTT9Zn8JDy7aLAizY4XEt/n/RNtawumCjppTqtO/7S64ud6oxnJBFRphjFWFdSeA5cxsxT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292488
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4904088974,
+                        "value": "J6b9yfHJB5oFkMaDYGKIdJ90fz1lM2zns5bxUO/pnU+y4rbZcLDEZt2j8NAqTEcV3A3esxQUsPvYN3PH6attmsxDEv01GE34Obkqb1MK5s0nY9UEPCfvu+exUXpj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292500
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.9946188927,
+                        "value": "u/Oej2wIPqUxOKiTtk+dSSpIholwJPDq6cLpq20468iJLbPM8lB1Apas6yHFL9Wakc89h2tCpw5zjNLSbj0y0mmMKCVMfruH8JZkpKQZI8enntNlVdzZgBRuzSV/",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292998
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0007779598,
+                        "value": "5IXmlFjqhLnoU59BONfIRgUq+w6WraQnbTCXURICGy0uqjq2IxJgcXEfLk4gnBMxM0P019PtF54VATU7dm4rqPd8zUbxG/6h5myXBRsZRpE6Me9avy8npjo8kvFt",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293006
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3288269043,
+                        "value": "YzvgZrN1hRbeElrrQVbGnnU5GLGu/SbBF2XIldhvzI1EclcNMZ96dNVTFxof5/nV/IMQo2FaN0rWJKjFm5nXhxVVElwM6HaAa06HPkVESaI30KT6Dr6qV51Zhlm+",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293329
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3317270279,
+                        "value": "1916ULxn3daxEqpL1uefe8Nda+HxolTo7RU8BLR5SvU646SQKfnFkTobMcludbUaGY7n7uU5hlpdZVsh+dVTR1phJ5l9u8Mz8i77KAvfAJ3kKhS7ulPgZlocjtuc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293332
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.8577950001,
+                        "value": "GhgoIX137/nN7XD5DTqmfvpsSDfpoOdQhXx9ebVxrvEOipvGkiftMuBgEUSF1+PnJDfYkVkqmVnAn+qwY9+CNQ3xjpamV1hd1qkEtbn5r64Lz119Y4ZZSUoQ4aML",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293862
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0267710686,
+                        "value": "OfX5p7PujKubxuedZsUtA+It3OVoll9OQoCRM9M/IRi8qPopr4QjW83ddi4OZAWSJFxj2x91oe9X4l1UV/mNu/yhPiID/gDEiYNHbJlOGI94LQkm5SvE7VjQKkKG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634294030
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2118821144,
+                        "value": "AWENWohJijOyDTyquZc0Znu9n8dB+LoFRcWq5PgXtoSGDmg+l1MB1iEuZl5wtaWfKFP7eIP6/4l/k6xZvKUgeP2o250tLfYz6LGDRF2ykIvnbFFyML1LAqcQwaZn",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634297214
+                    }
+                ]
+            },
+            "AWSALBTG": {
+                "name": "AWSALBTG",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292148,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726239091.122227,
+                        "expiry": 604799.1222269535,
+                        "value": "HGCKRHAEkc5BV6a2AZ3k7R/zC8Cxic+TJTmTgCj52YdBIiHaz3AAC8G7gP0tiXnEKARy78NHBmm+JuD1GPQKAUOQwpERkvvsGcruJTDzZsPS8oLJD2fW6GMJR2NjJUPxgP9InrIWahEWupEXaKNt94tMih041+7dwLQA/6+sbu4sXISdnYE=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292128
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.480932951,
+                        "value": "KN3yciO0EOkKnteXvevKrXmpGPqj0uxsSI6VKSOLBb20SmvHVfe4A6A/KcV60ePCpwdFeQdAQN4i7Vd9z6TZTBUyoiPSvou/e1aU+TkY4eI3TmCB5NvPyh7lDLHuWizgococCEuZJtuZOblIN9+Qt947SkDdRhas0Yu0oPsiXAS5OPjJ9BU=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292483
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4894859791,
+                        "value": "9ck0cbwI8JKW0uAGLqL2pydspBbxICMF94Tkew3K/KZlU9Hkimjl4MvrdAVoklPdMsC+aedFIdgks8AmgZujJgwLAuuKSSzAX+xWscTyO0K8Iun3g75h2FJpBQB9V/0Fv1BIzYJmfFqxaliqQuDug06VuJkTNimZaK5UrZ+neU6qeWkbxHo=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292500
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.9943649769,
+                        "value": "FHKyWxrTWLuoBFo+yHAFX0iPcXMBmxYe/GMGcvConjLLbvHCy4Rceq0YbESQUorpbGuGVs39kmDAHnjJFhvhzKITxXSOydDBwubzDj8NA6H0E8iddxZ7M/AEw4NIythHjD1BqPeAysgzoH3TiF6csjubzvFkWAmI/9AKeB7VV8GtcB6Qk5U=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292996
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0003728867,
+                        "value": "Pcy4WWPoWaCcGsaWxLhAVkKQgDZLGDoi/nZB8h6v/4TUSGcoYc469so/+U9bPwbJ2244756NE+vS65bXAr4E3atALGyx4bEDz2k4fgQ8X4Zj5TQ3U1MgECjsP77qPB5NbHv3BzimIhFnWh0b4V37gcCaVOktFuSy6fYV1Zmtl0dmVLQVDT4=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293006
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3287398815,
+                        "value": "glqS3qFqesV2W4EjslN4eBIjEFZ8s4lzMuLtVz/pjvmE4EpnbFXAJAR3tLLC8lQ74NFuN77Uq9aGh9SxqTI8EkdLJ3GmbLRZ2BKgJpwzN0IeTBhJ8HpW0tKL/1EtMBF6btf2tyi/DGeDu02A8b4fVgBlpXs9308zjTV6Cutu+0xnb7LqjsI=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293329
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3314299583,
+                        "value": "hQyl+S1hIjOUNzVIPhT37xJEErgYjK4oDB776t6jIoANbSs0Eclfo1r1GSbAZiTFqXHzkKtzyFtD8v30o4lQOqjuE7WADSy0/GvIihP9nTaGfC2HqeprW4M4CJyMwaVhjxgGWndRuD14uXnVQ4NGdDZ6qO/3Hz6wLwBZafcL5K62UVE2a6M=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293332
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.8575470448,
+                        "value": "T+Z/4vhBSC2+4+001WgoxqCplbXBXc1sBev7S9MYqHiPUUvHmmsyAoBWE+54Q6GJrY//rqsY8LeBtLf145DkxPlRFp/nt1lmrozEeAS40I8BgFZeufZqoc7xJ1JoxxuQ+yVpUtZJSmeCjdtSuvxNYwaKRVtEV/vdzRdvHWxxPG7ea1d2qL4=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293860
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0261969566,
+                        "value": "oqNdMA1cccuRt+wcaF60E5IqO6lQdZ9JeBsvLel1Wu17F4a6p27ckgi4Xv4CfENdzaOUw2WKHM7CCJun7ScCYhZQgXcIeklThsBbye2xFqCfNjq+BHHe0t1zQPlD5x+3gf3LKxysuA/+PvNCpih9/B7U2GPB+0PcEl7rmre3NfR993zS7XQ=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634294029
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2116560936,
+                        "value": "wDP1nLiG9CiDO7HaNtNx8h/1fYBri9E0nX54EWwIr7T6t4iaQq1tEmehTf1ChY1dDUNyZWRmhLCBMILZBGCV5zf2rQQGmgXQny/mA0mOxjwXx2c7CzGhiodpRJHzS2hwYC/edjp595HdhlNF6QXnvAg/nAPbCq+IsZkNctSnM+kG/JyG9U8=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634297213
+                    }
+                ]
+            },
+            "AWSALBTGCORS": {
+                "name": "AWSALBTGCORS",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292159,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726239091.123731,
+                        "expiry": 604799.1237308979,
+                        "value": "HGCKRHAEkc5BV6a2AZ3k7R/zC8Cxic+TJTmTgCj52YdBIiHaz3AAC8G7gP0tiXnEKARy78NHBmm+JuD1GPQKAUOQwpERkvvsGcruJTDzZsPS8oLJD2fW6GMJR2NjJUPxgP9InrIWahEWupEXaKNt94tMih041+7dwLQA/6+sbu4sXISdnYE=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292151
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4810299873,
+                        "value": "KN3yciO0EOkKnteXvevKrXmpGPqj0uxsSI6VKSOLBb20SmvHVfe4A6A/KcV60ePCpwdFeQdAQN4i7Vd9z6TZTBUyoiPSvou/e1aU+TkY4eI3TmCB5NvPyh7lDLHuWizgococCEuZJtuZOblIN9+Qt947SkDdRhas0Yu0oPsiXAS5OPjJ9BU=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292487
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.49000597,
+                        "value": "9ck0cbwI8JKW0uAGLqL2pydspBbxICMF94Tkew3K/KZlU9Hkimjl4MvrdAVoklPdMsC+aedFIdgks8AmgZujJgwLAuuKSSzAX+xWscTyO0K8Iun3g75h2FJpBQB9V/0Fv1BIzYJmfFqxaliqQuDug06VuJkTNimZaK5UrZ+neU6qeWkbxHo=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292500
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.9945089817,
+                        "value": "FHKyWxrTWLuoBFo+yHAFX0iPcXMBmxYe/GMGcvConjLLbvHCy4Rceq0YbESQUorpbGuGVs39kmDAHnjJFhvhzKITxXSOydDBwubzDj8NA6H0E8iddxZ7M/AEw4NIythHjD1BqPeAysgzoH3TiF6csjubzvFkWAmI/9AKeB7VV8GtcB6Qk5U=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292997
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0005099773,
+                        "value": "Pcy4WWPoWaCcGsaWxLhAVkKQgDZLGDoi/nZB8h6v/4TUSGcoYc469so/+U9bPwbJ2244756NE+vS65bXAr4E3atALGyx4bEDz2k4fgQ8X4Zj5TQ3U1MgECjsP77qPB5NbHv3BzimIhFnWh0b4V37gcCaVOktFuSy6fYV1Zmtl0dmVLQVDT4=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293006
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3287858963,
+                        "value": "glqS3qFqesV2W4EjslN4eBIjEFZ8s4lzMuLtVz/pjvmE4EpnbFXAJAR3tLLC8lQ74NFuN77Uq9aGh9SxqTI8EkdLJ3GmbLRZ2BKgJpwzN0IeTBhJ8HpW0tKL/1EtMBF6btf2tyi/DGeDu02A8b4fVgBlpXs9308zjTV6Cutu+0xnb7LqjsI=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293329
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3314869404,
+                        "value": "hQyl+S1hIjOUNzVIPhT37xJEErgYjK4oDB776t6jIoANbSs0Eclfo1r1GSbAZiTFqXHzkKtzyFtD8v30o4lQOqjuE7WADSy0/GvIihP9nTaGfC2HqeprW4M4CJyMwaVhjxgGWndRuD14uXnVQ4NGdDZ6qO/3Hz6wLwBZafcL5K62UVE2a6M=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293332
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.8576951027,
+                        "value": "T+Z/4vhBSC2+4+001WgoxqCplbXBXc1sBev7S9MYqHiPUUvHmmsyAoBWE+54Q6GJrY//rqsY8LeBtLf145DkxPlRFp/nt1lmrozEeAS40I8BgFZeufZqoc7xJ1JoxxuQ+yVpUtZJSmeCjdtSuvxNYwaKRVtEV/vdzRdvHWxxPG7ea1d2qL4=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634293861
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0264348984,
+                        "value": "oqNdMA1cccuRt+wcaF60E5IqO6lQdZ9JeBsvLel1Wu17F4a6p27ckgi4Xv4CfENdzaOUw2WKHM7CCJun7ScCYhZQgXcIeklThsBbye2xFqCfNjq+BHHe0t1zQPlD5x+3gf3LKxysuA/+PvNCpih9/B7U2GPB+0PcEl7rmre3NfR993zS7XQ=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634294030
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2117729187,
+                        "value": "wDP1nLiG9CiDO7HaNtNx8h/1fYBri9E0nX54EWwIr7T6t4iaQq1tEmehTf1ChY1dDUNyZWRmhLCBMILZBGCV5zf2rQQGmgXQny/mA0mOxjwXx2c7CzGhiodpRJHzS2hwYC/edjp595HdhlNF6QXnvAg/nAPbCq+IsZkNctSnM+kG/JyG9U8=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634297214
+                    }
+                ]
+            },
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634292164,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0000NmcAkkhJkDhVm4paOrhg2_j:1faiksm8j",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725634292163
+                    }
+                ]
+            },
+            "_pk_id.5370b119-457c-40f7-85eb-280317af5eca.2855": {
+                "name": "_pk_id.5370b119-457c-40f7-85eb-280317af5eca.2855",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634298714,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759589498,
+                        "expiry": 33955200,
+                        "value": "8901a4f3b4d0bb31.1725634299.0.1725634299..",
+                        "same_site": "lax",
+                        "timestamp": 1725634298710
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "8901a4f3b4d0bb31.1725634299.0.1725634299..",
+                        "same_site": "lax",
+                        "timestamp": 1725634298716
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "8901a4f3b4d0bb31.1725634299.1.1725634299.1725634299.",
+                        "same_site": "lax",
+                        "timestamp": 1725634298718
+                    }
+                ]
+            },
+            "_pk_ses.5370b119-457c-40f7-85eb-280317af5eca.2855": {
+                "name": "_pk_ses.5370b119-457c-40f7-85eb-280317af5eca.2855",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634298719,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725636098,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725634298718
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634293023,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725634293023
+                    }
+                ]
+            },
+            "stg_externalReferrer": {
+                "name": "stg_externalReferrer",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725634297860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634297863
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634297864
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634297866
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634297867
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634297869
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634297870
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634298881
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634298886
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634298970
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725634298974
+                    }
+                ]
+            },
+            "stg_last_interaction": {
+                "name": "stg_last_interaction",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725634297873,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757170297,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2006%20Sep%202024%2014:51:37%20GMT",
+                        "same_site": "lax",
+                        "timestamp": 1725634297873
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2006%20Sep%202024%2014:51:37%20GMT",
+                        "same_site": "lax",
+                        "timestamp": 1725634297875
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2006%20Sep%202024%2014:51:38%20GMT",
+                        "same_site": "lax",
+                        "timestamp": 1725634298986
+                    }
+                ]
+            },
+            "stg_returning_visitor": {
+                "name": "stg_returning_visitor",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725634297856,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757170297,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2006%20Sep%202024%2014:51:37%20GMT",
+                        "same_site": "lax",
+                        "timestamp": 1725634297855
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2006%20Sep%202024%2014:51:37%20GMT",
+                        "same_site": "lax",
+                        "timestamp": 1725634297875
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Fri%2C%2006%20Sep%202024%2014:51:38%20GMT",
+                        "same_site": "lax",
+                        "timestamp": 1725634298986
+                    }
+                ]
+            },
+            "stg_traffic_source_priority": {
+                "name": "stg_traffic_source_priority",
+                "domain": "ohio.gov",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725634297858,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725636097,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725634297857
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725634297875
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725634298986
+                    }
+                ]
+            }
+        }
+    }
+}

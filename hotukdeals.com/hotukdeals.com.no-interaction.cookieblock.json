@@ -1,0 +1,151 @@
+{
+    "hotukdeals.com": {
+        "/": {
+            "f_v": {
+                "name": "f_v",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623004264,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757159004.232252,
+                        "expiry": 31536000.232251883,
+                        "value": "%223941ad26-6c45-11ef-a46c-0242ac110002%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623004256
+                    }
+                ]
+            },
+            "navi": {
+                "name": "navi",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623004268,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728042204.232346,
+                        "expiry": 2419200.232346058,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623004267
+                    }
+                ]
+            },
+            "pepper_session": {
+                "name": "pepper_session",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623004254,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725625104.23204,
+                        "expiry": 2100.2320399284363,
+                        "value": "%22jaO6jjZXM9NsktcCfZWsoSn6C1CDXNENLzbQi6dv%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623004235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.0228519439697,
+                        "value": "%22jaO6jjZXM9NsktcCfZWsoSn6C1CDXNENLzbQi6dv%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623005023
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2100.144217967987,
+                        "value": "%22jaO6jjZXM9NsktcCfZWsoSn6C1CDXNENLzbQi6dv%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623005144
+                    }
+                ]
+            },
+            "u_l": {
+                "name": "u_l",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623004266,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725623904.232294,
+                        "expiry": 900.2322940826416,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623004265
+                    }
+                ]
+            },
+            "xsrf_t": {
+                "name": "xsrf_t",
+                "domain": ".hotukdeals.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623004267,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725749004.232318,
+                        "expiry": 126000.2323179245,
+                        "value": "%225S72RLynRNH9ytWBQ4HWfdOkKcBqm0FjaoImM0Q7%22",
+                        "same_site": "strict",
+                        "timestamp": 1725623004266
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.02289199829,
+                        "value": "%225S72RLynRNH9ytWBQ4HWfdOkKcBqm0FjaoImM0Q7%22",
+                        "same_site": "strict",
+                        "timestamp": 1725623005023
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 126000.14427089691,
+                        "value": "%225S72RLynRNH9ytWBQ4HWfdOkKcBqm0FjaoImM0Q7%22",
+                        "same_site": "strict",
+                        "timestamp": 1725623005144
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "novinky.cz": {
+        "/": {
+            "__cw_snc": {
+                "name": "__cw_snc",
+                "domain": ".novinky.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570939019,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574539.01489,
+                        "expiry": 3600.0148899555206,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570939016
+                    }
+                ]
+            },
+            "last-redirect": {
+                "name": "last-redirect",
+                "domain": ".www.novinky.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570937537,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725571837.519278,
+                        "expiry": 900.519278049469,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570937524
+                    }
+                ]
+            }
+        }
+    },
+    "szn.cz": {
+        "/": {
+            "lps": {
+                "name": "lps",
+                "domain": ".szn.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570938601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728249338.584513,
+                        "expiry": 2678400.584512949,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.Ztofeg.uZLHvzubZvgu_FpF3T6L51kIC7k",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570938599
+                    }
+                ]
+            },
+            "user-flags": {
+                "name": "user-flags",
+                "domain": ".szn.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570938598,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130938.584382,
+                        "expiry": 34560000.58438206,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570938586
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "quebec.ca": {
+        "/": {
+            "dev_ga": {
+                "name": "dev_ga",
+                "domain": ".quebec.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566082919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760126082.9004,
+                        "expiry": 34560000.90039992,
+                        "value": "GA1.1.2100724372.1725566083",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566082917
+                    }
+                ]
+            },
+            "dev_ga_8BGN8R6SNX": {
+                "name": "dev_ga_8BGN8R6SNX",
+                "domain": ".quebec.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566082917,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760126082.899903,
+                        "expiry": 34560000.89990306,
+                        "value": "GS1.1.1725566082.1.0.1725566082.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566082907
+                    }
+                ]
+            }
+        }
+    }
+}

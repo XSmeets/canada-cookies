@@ -1,0 +1,795 @@
+{
+    "liadm.com": {
+        "/": {
+            "lidid": {
+                "name": "lidid",
+                "domain": ".liadm.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627452061,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760187452.05897,
+                        "expiry": 34560000.058969975,
+                        "value": "67fd9cdf-ca02-4a66-9816-0ec129848a40",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627452059
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.19691992,
+                        "value": "67fd9cdf-ca02-4a66-9816-0ec129848a40",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627452201
+                    }
+                ]
+            }
+        }
+    },
+    "newsbreak.com": {
+        "/": {
+            "__nbpix_uid": {
+                "name": "__nbpix_uid",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627450496,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760187450.494956,
+                        "expiry": 34560000.49495602,
+                        "value": "1-tldnm6xn-m0qq12f2",
+                        "same_site": "lax",
+                        "timestamp": 1725627450495
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627451244,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733403451,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725627451243.686293814525000606",
+                        "same_site": "lax",
+                        "timestamp": 1725627451244
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725627450654,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760187450.652086,
+                        "expiry": 34560000.65208602,
+                        "value": "GA1.1.289161998.1725627451",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450653
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.999059916,
+                        "value": "GA1.2.289161998.1725627451",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450999
+                    }
+                ]
+            },
+            "_ga_R9E7L6CF8Y": {
+                "name": "_ga_R9E7L6CF8Y",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627450652,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760187450.651617,
+                        "expiry": 34560000.65161705,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450651
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.65181589,
+                        "value": "GS1.1.1725627450.1.0.1725627450.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450653
+                    }
+                ]
+            },
+            "_ga_WZ9071F311": {
+                "name": "_ga_WZ9071F311",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627451446,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760187451.445836,
+                        "expiry": 34560000.44583607,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627451446
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.44603205,
+                        "value": "GS1.2.1725627451.1.0.1725627451.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627451447
+                    }
+                ]
+            },
+            "_gat_UA-87964567-2": {
+                "name": "_gat_UA-87964567-2",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725627451004,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725627511,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627451003
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627450362,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733403450,
+                        "expiry": 7776000,
+                        "value": "1.1.1022851048.1725627450",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450361
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725627451002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725713850,
+                        "expiry": 86399,
+                        "value": "GA1.2.1327378500.1725627451",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627451000
+                    }
+                ]
+            },
+            "_tldtest_ZM-8_SCmwjvoYoFhsA-tZp": {
+                "name": "_tldtest_ZM-8_SCmwjvoYoFhsA-tZp",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627450095,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450094
+                    }
+                ]
+            },
+            "_tldtest_jcSxr7u8oz0GNAw1AEwZ-4": {
+                "name": "_tldtest_jcSxr7u8oz0GNAw1AEwZ-4",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627450097,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450097
+                    }
+                ]
+            },
+            "amp_946c9f": {
+                "name": "amp_946c9f",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627450099,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163450,
+                        "expiry": 31536000,
+                        "value": "Cf49hIewPzwyaW67qZxQ_t...1i73mignf.1i73mignf.0.0.0",
+                        "same_site": "lax",
+                        "timestamp": 1725627450098
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Cf49hIewPzwyaW67qZxQ_t...1i73mignf.1i73migni.3.1.4",
+                        "same_site": "lax",
+                        "timestamp": 1725627450100
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "Cf49hIewPzwyaW67qZxQ_t...1i73mignf.1i73mijgu.4.1.5",
+                        "same_site": "lax",
+                        "timestamp": 1725627452959
+                    }
+                ]
+            },
+            "amp_cookie_test2zQNSGAoB77oxS93eMaQj6": {
+                "name": "amp_cookie_test2zQNSGAoB77oxS93eMaQj6",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627450098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163450,
+                        "expiry": 31536000,
+                        "value": "1725627450095",
+                        "same_site": "lax",
+                        "timestamp": 1725627450097
+                    }
+                ]
+            },
+            "amplitude_testnewsbreak.com": {
+                "name": "amplitude_testnewsbreak.com",
+                "domain": ".newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627450097,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163450,
+                        "expiry": 31536000,
+                        "value": "MC4zMTE1NzUzNjA0OTY0NTkwNg==",
+                        "same_site": "lax",
+                        "timestamp": 1725627450096
+                    }
+                ]
+            },
+            "amp_cookie_testbbcr5z5wmGzh8kNqPfcT5s": {
+                "name": "amp_cookie_testbbcr5z5wmGzh8kNqPfcT5s",
+                "domain": "www.newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627450089,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725627450088",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450088
+                    }
+                ]
+            },
+            "dicbo_id": {
+                "name": "dicbo_id",
+                "domain": "www.newsbreak.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725627451735,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725627751,
+                        "expiry": 300,
+                        "value": "%7B%22dicbo_fetch%22%3A1725627451731%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627451732
+                    }
+                ]
+            },
+            "nb_a": {
+                "name": "nb_a",
+                "domain": "www.newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627448277,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.0085349083,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450009
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.1236970425,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450124
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.2403268814,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450241
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.2604079247,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450260
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.340738058,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450341
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.345190048,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450345
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.3551928997,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450355
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.434313059,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450434
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.446562052,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450446
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.469994068,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627450470
+                    }
+                ]
+            },
+            "nb_g": {
+                "name": "nb_g",
+                "domain": "www.newsbreak.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627448286,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728219448.261181,
+                        "expiry": 2592000.261181116,
+                        "value": "mountain-view-ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627448277
+                    }
+                ]
+            },
+            "nb_wuid": {
+                "name": "nb_wuid",
+                "domain": "www.newsbreak.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725627448288,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760187448.261237,
+                        "expiry": 34560000.261236906,
+                        "value": "8db66444-df28-42f6-8578-0f53e5392014",
+                        "same_site": "strict",
+                        "timestamp": 1725627448286
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627451236,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757163451.231134,
+                        "expiry": 31536000.231133938,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.39599991,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451398
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.399719954,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451407
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627451233,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757163451.231014,
+                        "expiry": 31536000.231014013,
+                        "value": "d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.3955009,
+                        "value": "d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451397
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.399425983,
+                        "value": "d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451407
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627451234,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757163451.231084,
+                        "expiry": 31536000.23108411,
+                        "value": "d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451233
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.395927906,
+                        "value": "d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451397
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.39960599,
+                        "value": "d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451407
+                    }
+                ]
+            }
+        },
+        "/adtigerhk-newsbreakapp-network/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/adtigerhk-newsbreakapp-network/",
+                "current_label": 0,
+                "label_ts": 1725627451237,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_6c5f7d4ceee70630a415c40cf029c9c1_d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb_1725627451_1725627451_CNawjgYQ9sFVGMiMpbucMiABKAEwJjiJ6AdAsvEHSOzZ2ANQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451236
+                    }
+                ]
+            }
+        },
+        "/adtigerhk-newsbreakde-sc/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/adtigerhk-newsbreakde-sc/",
+                "current_label": 0,
+                "label_ts": 1725627451407,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_9675d4eb62753860e320f6e39d67b5bd_d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb_1725627451_1725627451_CNawjgYQ_cFVGMiMpbucMiABKAMwJjiJ6AdAsvEHSOzZ2ANQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451405
+                    }
+                ]
+            }
+        },
+        "/adtigerhk-newsbreakit-sc/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/adtigerhk-newsbreakit-sc/",
+                "current_label": 0,
+                "label_ts": 1725627451401,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_b49431ead8cbf4e79172f459aec847f0_d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb_1725627451_1725627451_CNawjgYQxM5VGMiMpbucMiABKAMwJjiJ6AdAsvEHSOzZ2ANQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451398
+                    }
+                ]
+            }
+        },
+        "/tb-newsbreak-us-07-sc/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/tb-newsbreak-us-07-sc/",
+                "current_label": 0,
+                "label_ts": 1725627451408,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_b6fc6f72f52efd1d337743d3fb722c69_d55a1104-b546-4374-80fb-32d80357403c-tuctdd481bb_1725627451_1725627451_CNawjgYQ2cleGMiMpbucMiABKAMwJjiJ6AdAsvEHSOzZ2ANQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627451407
+                    }
+                ]
+            }
+        }
+    },
+    "i.liadm.com": {
+        "/s": {
+            "_li_ss": {
+                "name": "_li_ss",
+                "domain": "i.liadm.com",
+                "path": "/s",
+                "current_label": 3,
+                "label_ts": 1725627452200,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728219452.196787,
+                        "expiry": 2592000.196787119,
+                        "value": "CgsKCQj_____BxDyGA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627452198
+                    }
+                ]
+            }
+        }
+    }
+}

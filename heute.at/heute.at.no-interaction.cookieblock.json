@@ -1,0 +1,129 @@
+{
+    "heute.at": {
+        "/": {
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": ".heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615457317,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757151457.316113,
+                        "expiry": 31536000.316112995,
+                        "value": "459b34d3-8d66-4528-81e2-193b6dd5eae2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615457317
+                    }
+                ]
+            },
+            "__Host-next-auth.csrf-token": {
+                "name": "__Host-next-auth.csrf-token",
+                "domain": "www.heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615455693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0b13be9d12449fca38ec657a564149703ad6dcb4097906c2e8d41daf7765bcd4%7C3d7db50fd40b963caff77e372357e99e541f2572938d658978d76d4ee6952415",
+                        "same_site": "lax",
+                        "timestamp": 1725615455681
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "914784f35b820fc97fdb4ccff95dc62f102c18720c0b25ce5dc72639712ae2aa%7C083e6585c1cb050bb3acc8ab294e25ec95c5ba359e4c70912c0847d46d585a0e",
+                        "same_site": "lax",
+                        "timestamp": 1725615455920
+                    }
+                ]
+            },
+            "__Secure-next-auth.callback-url": {
+                "name": "__Secure-next-auth.callback-url",
+                "domain": "www.heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615455698,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.heute.at",
+                        "same_site": "lax",
+                        "timestamp": 1725615455693
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.heute.at",
+                        "same_site": "lax",
+                        "timestamp": 1725615455921
+                    }
+                ]
+            },
+            "__heute.isAuthenticated": {
+                "name": "__heute.isAuthenticated",
+                "domain": "www.heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615455924,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701855,
+                        "expiry": 86400,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615455922
+                    }
+                ]
+            },
+            "__heute.isPURAboUser": {
+                "name": "__heute.isPURAboUser",
+                "domain": "www.heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615455699,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701855,
+                        "expiry": 86400,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615455698
+                    }
+                ]
+            }
+        }
+    }
+}

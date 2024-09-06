@@ -1,0 +1,69 @@
+{
+    "politiken.dk": {
+        "/": {
+            "pol-auth2": {
+                "name": "pol-auth2",
+                "domain": ".politiken.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580298828,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116298.794667,
+                        "expiry": 31536000.794667006,
+                        "value": "AhG9MreAuUTDnRpL8nzKy70wAAAAAGbaRAsA-5-_DM19EW-avw==",
+                        "same_site": "lax",
+                        "timestamp": 1725580298817
+                    }
+                ]
+            },
+            "pol-auth": {
+                "name": "pol-auth",
+                "domain": ".politiken.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580298815,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116298.79436,
+                        "expiry": 31536000.794359922,
+                        "value": "AhG9MreAuUTDnRpL8nzKy70wAAAAAGbaRAtxQ5QrY_kzyGAo",
+                        "same_site": "lax",
+                        "timestamp": 1725580298798
+                    }
+                ]
+            },
+            "CookieConsent": {
+                "name": "CookieConsent",
+                "domain": "politiken.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580299584,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140299.583648,
+                        "expiry": 34560000.58364797,
+                        "value": "-3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580299584
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,859 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "APC": {
+                "name": "APC",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571514954,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741123514.953178,
+                        "expiry": 15552000.953177929,
+                        "value": "AfxxVi69sZjZ90UIW6eRalXeXL4Ef9vWlJAkymui_ibXIk1mtNAcMg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571514953
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571514956,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741123514.953291,
+                        "expiry": 15552000.95329094,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571514955
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571514958,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725572414.953312,
+                        "expiry": 900.953311920166,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571514957
+                    }
+                ]
+            }
+        }
+    },
+    "kupi.cz": {
+        "/": {
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".kupi.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571513545,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733347513,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725571513542.92653969708732410",
+                        "same_site": "lax",
+                        "timestamp": 1725571513543
+                    }
+                ]
+            },
+            "adblock_redirect": {
+                "name": "adblock_redirect",
+                "domain": ".kupi.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725571509394,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725657909.365862,
+                        "expiry": 86400.3658618927,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571509392
+                    }
+                ]
+            },
+            "iad": {
+                "name": "iad",
+                "domain": ".kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571509401,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725657909.36613,
+                        "expiry": 86400.3661301136,
+                        "value": "d",
+                        "same_site": "strict",
+                        "timestamp": 1725571509400
+                    }
+                ]
+            },
+            "lps": {
+                "name": "lps",
+                "domain": ".kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571510608,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728249910.60449,
+                        "expiry": 2678400.6044900417,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.Ztohtg.elxjQQxywa2M-oI2JuEM2cJDves",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571510606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.5797109604,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.Ztohtw.3Cl8-kvkZdrGVR4FDXTHNqiOo3k",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571511582
+                    }
+                ]
+            },
+            "user-flags": {
+                "name": "user-flags",
+                "domain": ".kupi.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571510606,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760131510.60437,
+                        "expiry": 34560000.60437012,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571510605
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.57951093,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571511582
+                    }
+                ]
+            },
+            "user_identifier": {
+                "name": "user_identifier",
+                "domain": ".kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571509396,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1735943109.365909,
+                        "expiry": 10371600.3659091,
+                        "value": "cda2b08eef58e4c75b5eb707a747cbf44ccf4bb55652ebf78f241f83e76593d6510875f2830bf21412d8b84b3f9bc6d33c4dcb327ab4ff3ff69232d372f46d70",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571509394
+                    }
+                ]
+            },
+            "cmphitorder": {
+                "name": "cmphitorder",
+                "domain": ".www.kupi.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725571514197,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107514,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571514197
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571515573
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571516046
+                    }
+                ]
+            },
+            "cmprefreshcount": {
+                "name": "cmprefreshcount",
+                "domain": ".www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571514196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107514,
+                        "expiry": 31536000,
+                        "value": "0|lig2k0hmt9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571514196
+                    }
+                ]
+            },
+            "cmpsessid": {
+                "name": "cmpsessid",
+                "domain": ".www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571514195,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107514,
+                        "expiry": 31536000,
+                        "value": "lig2k0hmt9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571514194
+                    }
+                ]
+            },
+            "cmptestcookie": {
+                "name": "cmptestcookie",
+                "domain": ".www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571515787,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107515,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571515786
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571516262
+                    }
+                ]
+            },
+            "SRV_ID": {
+                "name": "SRV_ID",
+                "domain": "kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571507924,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "kupi-www3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571507912
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "kupi-www2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571509401
+                    }
+                ]
+            },
+            "": {
+                "name": "",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571512089,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "secure",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571512089
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571509389,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6gqkqqchg6c2vb60on8vthhtu1",
+                        "same_site": "lax",
+                        "timestamp": 1725571509386
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6gqkqqchg6c2vb60on8vthhtu1",
+                        "same_site": "lax",
+                        "timestamp": 1725571512355
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6gqkqqchg6c2vb60on8vthhtu1",
+                        "same_site": "lax",
+                        "timestamp": 1725571513313
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6gqkqqchg6c2vb60on8vthhtu1",
+                        "same_site": "lax",
+                        "timestamp": 1725571513315
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6gqkqqchg6c2vb60on8vthhtu1",
+                        "same_site": "lax",
+                        "timestamp": 1725571513318
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6gqkqqchg6c2vb60on8vthhtu1",
+                        "same_site": "lax",
+                        "timestamp": 1725571513358
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6gqkqqchg6c2vb60on8vthhtu1",
+                        "same_site": "lax",
+                        "timestamp": 1725571513612
+                    }
+                ]
+            },
+            "_nss": {
+                "name": "_nss",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571509384,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725571509367
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725571512355
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725571513311
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725571513312
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725571513315
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725571513318
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725571513358
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725571513612
+                    }
+                ]
+            },
+            "countVisitThirty": {
+                "name": "countVisitThirty",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571512094,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728249912,
+                        "expiry": 2678400,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571512094
+                    }
+                ]
+            },
+            "daysNumberThirty": {
+                "name": "daysNumberThirty",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571512094,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728249912,
+                        "expiry": 2678400,
+                        "value": "1725571512093",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571512093
+                    }
+                ]
+            },
+            "session_pv": {
+                "name": "session_pv",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571512091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571512090
+                    }
+                ]
+            },
+            "session_type": {
+                "name": "session_type",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571509399,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725573309.366041,
+                        "expiry": 1800.366040945053,
+                        "value": "n",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571509398
+                    }
+                ]
+            },
+            "uidf": {
+                "name": "uidf",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571509400,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107509.366082,
+                        "expiry": 31536000.366081953,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571509400
+                    }
+                ]
+            },
+            "unseen_l": {
+                "name": "unseen_l",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725571509392,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725575109.365785,
+                        "expiry": 3600.365784883499,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571509390
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.3543639183044,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571512356
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.3110489845276,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571513313
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.3132829666138,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571513316
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.317090034485,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571513319
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.3576560020447,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571513358
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.611232995987,
+                        "value": "%5B%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571513613
+                    }
+                ]
+            },
+            "user_locality": {
+                "name": "user_locality",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571509397,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107509.365967,
+                        "expiry": 31536000.365967035,
+                        "value": "3100",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571509396
+                    }
+                ]
+            },
+            "user_slocality": {
+                "name": "user_slocality",
+                "domain": "www.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571509398,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107509.366004,
+                        "expiry": 31536000.36600399,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571509397
+                    }
+                ]
+            }
+        }
+    },
+    "seznam.cz": {
+        "/": {
+            "sid": {
+                "name": "sid",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571516260,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728170716.257988,
+                        "expiry": 2599200.257987976,
+                        "value": "id=7869581121905446407|t=1725571516.458|te=1725571516.458|c=5F024FFCE99B2FC8539D769D167784F4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571516258
+                    }
+                ]
+            }
+        }
+    },
+    "img.kupi.cz": {
+        "/": {
+            "SRV_ID": {
+                "name": "SRV_ID",
+                "domain": "img.kupi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571510825,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "kupi-www2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571510820
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "kupi-www1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571510827
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "kupi-www3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571510937
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "kupi-www2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571510938
+                    }
+                ]
+            }
+        }
+    }
+}

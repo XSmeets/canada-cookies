@@ -1,0 +1,121 @@
+{
+    "nyc.gov": {
+        "/": {
+            "RT": {
+                "name": "RT",
+                "domain": ".nyc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632913607,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726237713,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=nyc.gov&si=g0s2586wi9l&ss=m0qta573&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632913597
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".nyc.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632916237,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760192916.234243,
+                        "expiry": 34560000.234242916,
+                        "value": "GA1.1.545063622.1725632916",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632916236
+                    }
+                ]
+            },
+            "_ga_X0W5WYPG3G": {
+                "name": "_ga_X0W5WYPG3G",
+                "domain": ".nyc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632916235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760192916.23365,
+                        "expiry": 34560000.23364997,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632916234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.233897924,
+                        "value": "GS1.1.1725632916.1.0.1725632916.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632916236
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.nyc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632914427,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726237714.41433,
+                        "expiry": 604800.4143300056,
+                        "value": "QkXUoqKpxlj7R1FhTy28WUPO2+JdrwDxOFJ5g/fpxD/H7IptzsmGOWCM2otuMbQcgXb3SLiY+H4oynhRN/23f4YA8+GjLRJ5kjjVrtYNCJ6WFNnl0+hHJIjWer/3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632914416
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.nyc.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632914429,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726237714.414499,
+                        "expiry": 604800.4144990444,
+                        "value": "QkXUoqKpxlj7R1FhTy28WUPO2+JdrwDxOFJ5g/fpxD/H7IptzsmGOWCM2otuMbQcgXb3SLiY+H4oynhRN/23f4YA8+GjLRJ5kjjVrtYNCJ6WFNnl0+hHJIjWer/3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725632914427
+                    }
+                ]
+            }
+        }
+    }
+}

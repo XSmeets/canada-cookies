@@ -1,0 +1,209 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635648072,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725636548.070483,
+                        "expiry": 900.0704829692841,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635648070
+                    }
+                ]
+            }
+        }
+    },
+    "maryland.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".maryland.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635647531,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195647.528331,
+                        "expiry": 34560000.52833104,
+                        "value": "GA1.1.1664415555.1725635648",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635647530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.82223201,
+                        "value": "GA1.1.1664415555.1725635648",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635648825
+                    }
+                ]
+            },
+            "_ga_LJCC9XG5J9": {
+                "name": "_ga_LJCC9XG5J9",
+                "domain": ".maryland.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635648824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195648.821656,
+                        "expiry": 34560000.82165599,
+                        "value": "GS1.1.1725635648.1.0.1725635648.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635648823
+                    }
+                ]
+            },
+            "_ga_SLX0CQ3HRM": {
+                "name": "_ga_SLX0CQ3HRM",
+                "domain": ".maryland.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635647530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195647.528058,
+                        "expiry": 34560000.52805805,
+                        "value": "GS1.1.1725635647.1.0.1725635647.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635647529
+                    }
+                ]
+            },
+            "JSEnabled": {
+                "name": "JSEnabled",
+                "domain": "www.maryland.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635644919,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "True",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635644901
+                    }
+                ]
+            },
+            "WSS_FullScreenMode": {
+                "name": "WSS_FullScreenMode",
+                "domain": "www.maryland.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635647498,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635647497
+                    }
+                ]
+            },
+            "mdegov": {
+                "name": "mdegov",
+                "domain": "www.maryland.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635644655,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!8J6myoov0C24ON5m9OGzO+01y5rxWHYtCgljOnYEc+O3BlleFyUK0pktvloLXPCz1/ek1FHpPf3luvFtpOvr4EL9u3MZnyywIW9X0YiEnZvv",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635644642
+                    }
+                ]
+            },
+            "monsido": {
+                "name": "monsido",
+                "domain": "www.maryland.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635650041,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728227650,
+                        "expiry": 2592000,
+                        "value": "3CE1725635650036",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635650038
+                    }
+                ]
+            }
+        }
+    },
+    "egov.maryland.gov": {
+        "/": {
+            "mdegov": {
+                "name": "mdegov",
+                "domain": "egov.maryland.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635645728,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!0IdC/aQtfghGvFFm9OGzO+01y5rxWMxWejuCFzhtbYrfLbX744MJAxW90aZYAVeoqkYFckNMjDCbgb5jTZwxLnbxOPIQcdpE/HpaOCK9Bhk=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635645726
+                    }
+                ]
+            }
+        }
+    }
+}

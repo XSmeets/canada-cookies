@@ -1,0 +1,622 @@
+{
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580686353,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356686.350078,
+                        "expiry": 7776000.350078106,
+                        "value": "e1qgtNVPJvZuSx34zrxFzP_CadFNzwCUdGXsvsvEbxqyjN-JgaL7X2fxwtrkCpw6nJV_d4Meyci3A7lx8Sy74ySX4P5GtKLXLk4kLtvG_Ac.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580686350
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.4991829395,
+                        "value": "e1qgtNVPJvZuSx34zrxFzP_CadFNzwCUdGXsvsvEbxqyjN-JgaL7X2fxwtrkCpw6nJV_d4Meyci3A7lx8Sy74ySX4P5GtKLXLk4kLtvG_Ac.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580686499
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580686353,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140686.350146,
+                        "expiry": 34560000.350146055,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580686353
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.49923897,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580686499
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580686354,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356686.350174,
+                        "expiry": 7776000.35017395,
+                        "value": "5952709533392942847",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580686354
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.499259949,
+                        "value": "5952709533392942847",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580686500
+                    }
+                ]
+            }
+        }
+    },
+    "aftonbladet.se": {
+        "/": {
+            "__codnp": {
+                "name": "__codnp",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580686956,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725667086,
+                        "expiry": 86400,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580686954
+                    }
+                ]
+            },
+            "_cmp_advertising": {
+                "name": "_cmp_advertising",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580685355,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741132685.352869,
+                        "expiry": 15552000.352869034,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685353
+                    }
+                ]
+            },
+            "_cmp_analytics": {
+                "name": "_cmp_analytics",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580685351,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741132685.351008,
+                        "expiry": 15552000.351007938,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685351
+                    }
+                ]
+            },
+            "_cmp_marketing": {
+                "name": "_cmp_marketing",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580685347,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760140685.346207,
+                        "expiry": 34560000.3462069,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685347
+                    }
+                ]
+            },
+            "_cmp_personalisation": {
+                "name": "_cmp_personalisation",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580685357,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741132685.354169,
+                        "expiry": 15552000.354168892,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685356
+                    }
+                ]
+            },
+            "_pulse2data": {
+                "name": "_pulse2data",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580672296,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140672.285627,
+                        "expiry": 34560000.28562689,
+                        "value": "%2Cv%2C%2C1725581572284%2C%2C%2C0%2C%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580672296
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.260765076,
+                        "value": "b307cfa6-ad9e-4db9-bd27-7d5f49a49471%2Cv%2C%2C1726790275000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDVUMjM6NTc6NTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA1VDIzOjU3OjU1WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..tmpgRsVkoyrWptRMWn5AJg.ypbGmc1wJh3j3bHqn1Rg3U6n0ee2K0xMt-RcOSS9AIrWEo-Ju2ldz5ySOIL7NGNnFmYNhf7vzp5i0C3104OBQx9EdsPBh9_fFHfYzTckM31VdD8rKKiV-kUUp2Ph_tZN6QwJm3sxD0f5C8pxF9iUsLQM0UbGChrGOevYUWomqyMp_B53t3fTymBlgN2qq2lyZOU2UH_PTaimYdwUm-NjCGFPyal6e5OgC-uSxXfVQDw.Ixyw5p1_bj_8VvdU9djzYg%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580675264
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.34255099,
+                        "value": "b307cfa6-ad9e-4db9-bd27-7d5f49a49471%2Cv%2C%2C1726790275000%2C%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685343
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.343385935,
+                        "value": "b307cfa6-ad9e-4db9-bd27-7d5f49a49471%2Cv%2C%2C1726790275000%2C%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685344
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.34758592,
+                        "value": "b307cfa6-ad9e-4db9-bd27-7d5f49a49471%2Cv%2C%2C1726790275000%2C%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685349
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.351845026,
+                        "value": "b307cfa6-ad9e-4db9-bd27-7d5f49a49471%2Cv%2C%2C1725580685351%2C%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685352
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.60323,
+                        "value": "c2ebbecf-507e-481f-bdef-7c5ac3fcc936%2Cv%2C%2C1726790285000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDVUMjM6NTc6NTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA1VDIzOjU4OjA1WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..5hLtJNd4iQm4dWnTe-lqdQ.GrLKVrk3P5B_iYBTjmSbvXEA929GUbxlQaY7DmQLmCqCjpOQvTO36BMPisAOW70xzijPLxM_yPKdbMrjfM0BCfxt8VnNRYSxnUiIfkVC1nhuYdEIAKYytFMjecJyUD2XMGwq2gmJg3AFQ5XW20ZaF6ne8ZdwKej-mNT0VtPfvX1bpsAkjIavCs9K7b-JD1iuYnfUWiWmOJ53HmZjsy-E6R7-opy4Rp8jvdqKJQt9FOo7TMcQwjsot2uWYcI2NyN5iH20bwQqn6dyVZ-db53WyvBTIgzQmksrk5IndlaVrqn_8lyc5opM0uxkY2RYKC1_HmyXt8t6a4OhWQb-i1mQog.ArSdOD-5JHUXClYiQQ3TLQ%2C%2C0%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..HVCPuLEpgRzSDEf_Fziy-UvhC4ckN7jnTbHIB82v_EM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685603
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.6091969,
+                        "value": "c2ebbecf-507e-481f-bdef-7c5ac3fcc936%2Cv%2C%2C1726790285000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDVUMjM6NTc6NTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA1VDIzOjU4OjA1WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..fPBAVmk0W_p2YRycKLLPmg.7hoX8XeCXYXt-8xAbrwFjqy57_4agmRUOheEm45Y4DNUQVAMGEVEk7vFDkdafV2CF0Kg4M3dcBm-6z21vQqul6i0xh5StoVmWvPC8LCK-VHOOELRatNreLEOM47PQGo5Ap5GBdCCpV4gXs2VfwONxLCkYNLfCjK8R_korxPDEHrplNTKpzi3kRu0zclxCQiJi0IJBdUGVbKvwul6qzsn2CG2R0etaIL0J7wcvl6cE6XRtx17BMaRiML0f9BrXPaionXjs2-TAG37mvi-JP2-6S77G7hnq9cpkveA1lT6Y3pbpqDa9Q4ek2QLKS5f-7SSlpQCJ6c5id2V8BK2G3Eyqg.e6nYCa2grXbRiaqsvykPKg%2C%2C0%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..HVCPuLEpgRzSDEf_Fziy-UvhC4ckN7jnTbHIB82v_EM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685609
+                    }
+                ]
+            },
+            "_pulse2test": {
+                "name": "_pulse2test",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580672290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725667072,
+                        "expiry": 86400,
+                        "value": "Y2LfdWsHJwq3iauF",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580672285
+                    }
+                ]
+            },
+            "_pulsesession": {
+                "name": "_pulsesession",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725580685364,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725582485,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A6b129f9a-1bfd-4d4e-93d7-d7907d10256e%22%2C1725580685362%2C1725580685362%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685363
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A6b129f9a-1bfd-4d4e-93d7-d7907d10256e%22%2C1725580685362%2C1725580685364%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685365
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A6b129f9a-1bfd-4d4e-93d7-d7907d10256e%22%2C1725580685362%2C1725580685365%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685365
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A6b129f9a-1bfd-4d4e-93d7-d7907d10256e%22%2C1725580685362%2C1725580685606%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685607
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3A6b129f9a-1bfd-4d4e-93d7-d7907d10256e%22%2C1725580685362%2C1725580687159%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580687161
+                    }
+                ]
+            },
+            "_sp_su": {
+                "name": "_sp_su",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580673580,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116673.577746,
+                        "expiry": 31536000.577745914,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580673578
+                    }
+                ]
+            },
+            "consentDate": {
+                "name": "consentDate",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580685358,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741132685.355188,
+                        "expiry": 15552000.355187893,
+                        "value": "2024-09-05T23:58:05.559Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685357
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580685357,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741132685.355061,
+                        "expiry": 15552000.355061054,
+                        "value": "2532df65-0d72-4bcb-8906-7f39ad2dcd9d_35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685357
+                    }
+                ]
+            },
+            "iter_id": {
+                "name": "iter_id",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580686764,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760140686.760957,
+                        "expiry": 34560000.760957,
+                        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhaWQiOiI2NmRhNDU4ZmY3MDhjMTdmMDU0MjkyNjkiLCJjb21wYW55X2lkIjoiNjA5NGVhMjQxNmQ1YjUwMDAxNWM2NDdlIiwiaWF0IjoxNzI1NTgwNjg3fQ.KwA1WNemYW2vBWFeND8xUc_Lxlhi1cxxMEH_OwFcqs4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580686762
+                    }
+                ]
+            },
+            "x-sch-variant": {
+                "name": "x-sch-variant",
+                "domain": ".aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580685926,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726185485,
+                        "expiry": 604800,
+                        "value": "affiliate-segmentation-B%2Caffiliate-teaser-label-B%2Cfrontpage-coco-challenger.N0oWz1IrWdtqOyog3yQxUvSxjr3kpCHKVEBxUmhHks0%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685922
+                    }
+                ]
+            },
+            "X-AB-Site-Version": {
+                "name": "X-AB-Site-Version",
+                "domain": "www.aftonbladet.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580677400,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726185477,
+                        "expiry": 604800,
+                        "value": "regular",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580677396
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "regular",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685346
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "regular",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685350
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "regular",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685353
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "regular",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685356
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "regular",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580685927
+                    }
+                ]
+            }
+        }
+    },
+    "schibsted.com": {
+        "/": {
+            "cis-jwe": {
+                "name": "cis-jwe",
+                "domain": ".schibsted.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580675262,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116675.255163,
+                        "expiry": 31536000.255162954,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDVUMjM6NTc6NTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA1VDIzOjU3OjU1WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..ju_Nh7FN8y8BzncfG7dHYQ.SB8fSf9DAUTcGhp3Ba13bDtMis4PKLvbzFAnObs5axc6Y58PVWcbnnxmNjWtGOzO7tsvnGo891W5C9W7DvfTjA.QEzIXdoWyvnldlPm8hBDVg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580675256
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.25741005,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDVUMjM6NTc6NTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA1VDIzOjU3OjU1WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..qT-1QEYlUF0OeRjlTtFzzA.EC-SQzYPzMBrvZc35UM95q4NxwIPBav2GHBwtRbwqKRYnTA8naoPAkCCO63X4J78yP-8azjg00KFA8AJMGhbtg.R78ysQ2KwH7JlLkffZ6IvA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580675263
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.599632025,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDVUMjM6NTc6NTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA1VDIzOjU4OjA1WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..satcDfNnrMThgyXanJfJTw.hl9_eppS5gVtqNfLx9UlPo54a6eY_sboraY88XHhr5OO8cTX7xCGFV7M7g69m1nQU0NtBCINuRw-V1m5uhcMFw.zAU69YSgPZWBTUAeBCgEEA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685600
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.60080099,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDVUMjM6NTc6NTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA1VDIzOjU4OjA1WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..zy932tw-5ht-kbzlZGgzTw.wch-EKepLWrS3wj0_7Ib6EQ9QYM-OYokemtxcViLA7l-c_H7HEf1j1qGSGcWF_7DUGiv71N8nERTN-VU5QY1sw.Ou-CVwqzrhWQ9JxlxoegaQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580685601
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.726979017,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDVUMjM6NTc6NTVaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA1VDIzOjU4OjA2WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..NBIswgUl7LtgB4ObrLSPJw.owxCaij4iP_nWSvgu7HtzqmBJiFWo8fsatTln0iMKTLlkJZOBWEkUm8fkxM3saJa3qW58w7YgRzMaseH-m2DuXaGHHeXvJnz-Tag-aIqEPH53rzhYkKni_k8jsLRvyNk.99rHz56meB9A6hE-4MKt-w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580686728
+                    }
+                ]
+            }
+        }
+    }
+}

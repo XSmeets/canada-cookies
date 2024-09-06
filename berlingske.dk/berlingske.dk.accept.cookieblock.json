@@ -1,0 +1,2178 @@
+{
+    "accounts.berlingske.dk": {
+        "/": {
+            "gmid": {
+                "name": "gmid",
+                "domain": ".accounts.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580365866,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116365.857558,
+                        "expiry": 31536000.857558012,
+                        "value": "gmid.ver4.AtLt5gH4eg.9rUlcMaGuhJu8a-ytF-hJSINGMHU8zW6uyKfdLqA9yDn4GN0ed97UyY2CRlQOb7N.dAX1qkHuQ3eMrALd-U_ZcLzt8WeXsytgeYQWf7WDO7qBYxEO3HuN9uZ3xGoCbNKkInEAAFkIxKVyuNcTrNv4qw.sc3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580365864
+                    }
+                ]
+            },
+            "hasGmid": {
+                "name": "hasGmid",
+                "domain": ".accounts.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580365878,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741222365.857651,
+                        "expiry": 15642000.857650995,
+                        "value": "ver4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580365877
+                    }
+                ]
+            },
+            "ucid": {
+                "name": "ucid",
+                "domain": ".accounts.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580365877,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116365.857633,
+                        "expiry": 31536000.857633114,
+                        "value": "1R6IXU3Xksz-45W_NexhMQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580365876
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366977,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356366.976466,
+                        "expiry": 7776000.9764659405,
+                        "value": "ScUvatpHfawmQXjvwabDcZtC8zWLh6ESLYosAH9PGLJlhfga1ERcK4_xomxuFLeAtsTXtoofHJXrVkt1QLom_10EPYcqEC5BruB1i_Tly3Y.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366976
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.128763914,
+                        "value": "ScUvatpHfawmQXjvwabDcZtC8zWLh6ESLYosAH9PGLJlhfga1ERcK4_xomxuFLeAtsTXtoofHJXrVkt1QLom_10EPYcqEC5BruB1i_Tly3Y.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.4369289875,
+                        "value": "GwgAtkkusqmyNWdbVoWmPZm4QdcpMPUyrcQRTFGpQlC4-rh_4pZo8xnNOBTsvi2X6BDfaPmdhDCsotDokDiODpwqBA7yUm02PP5h0qqjPEQ.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367437
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366978,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356366.976499,
+                        "expiry": 7776000.976499081,
+                        "value": "ChgI1NVNEAoYASABKAEwz4jptgY4AUABSAEQz4jptgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366978
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.436964989,
+                        "value": "ChgI1NVNEAoYASABKAEwz4jptgY4AUABSAEQz4jptgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367437
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366783,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140366.783111,
+                        "expiry": 34560000.783111095,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366783
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.97651291,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366978
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.08510089,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367085
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.12883711,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.43698192,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367437
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366979,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356366.976534,
+                        "expiry": 7776000.97653389,
+                        "value": "7713834628233547917",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366979
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.128861904,
+                        "value": "7713834628233547917",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367130
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.437007904,
+                        "value": "1667248442378622251",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367437
+                    }
+                ]
+            }
+        }
+    },
+    "ads.adnuntius.delivery": {
+        "/": {
+            "c": {
+                "name": "c",
+                "domain": ".ads.adnuntius.delivery",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366944,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726336366.940545,
+                        "expiry": 756000.9405450821,
+                        "value": "0AAAAAQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366944
+                    }
+                ]
+            },
+            "i": {
+                "name": "i",
+                "domain": ".ads.adnuntius.delivery",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726336366.940474,
+                        "expiry": 756000.9404740334,
+                        "value": "0AAAAAQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366943
+                    }
+                ]
+            },
+            "r": {
+                "name": "r",
+                "domain": ".ads.adnuntius.delivery",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726336366.940516,
+                        "expiry": 756000.940515995,
+                        "value": "0AAAAAQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366943
+                    }
+                ]
+            },
+            "s": {
+                "name": "s",
+                "domain": ".ads.adnuntius.delivery",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366944,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726336366.940527,
+                        "expiry": 756000.9405269623,
+                        "value": "0AAAAAQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366943
+                    }
+                ]
+            },
+            "sessionId": {
+                "name": "sessionId",
+                "domain": ".ads.adnuntius.delivery",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725580366943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4570c91872d19e7541617c6c86737ff4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4570c91872d19e7541617c6c86737ff4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367184
+                    }
+                ]
+            },
+            "usi": {
+                "name": "usi",
+                "domain": ".ads.adnuntius.delivery",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366942,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728172366.940434,
+                        "expiry": 2592000.940433979,
+                        "value": "try_opt!adnfp25a553f8dd3f1a2e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366941
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.1840679646,
+                        "value": "try_opt!adnfp25a553f8dd3f1a2e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367184
+                    }
+                ]
+            },
+            "v": {
+                "name": "v",
+                "domain": ".ads.adnuntius.delivery",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366944,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726336366.940538,
+                        "expiry": 756000.9405379295,
+                        "value": "0AAAAAQAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366944
+                    }
+                ]
+            }
+        }
+    },
+    "ads.pubmatic.com": {
+        "/": {
+            "KCCH": {
+                "name": "KCCH",
+                "domain": ".ads.pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367906,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725666767,
+                        "expiry": 86400,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367906
+                    }
+                ]
+            }
+        }
+    },
+    "berlingske.dk": {
+        "/": {
+            "BMSESSID": {
+                "name": "BMSESSID",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366390,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "s1aoopr9d26rql5i8femoasftt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366389
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "o01h54lv4kpa876qc9v26qq4op",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366422
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741132366,
+                        "expiry": 15551999,
+                        "value": "ID=53d7c04341f84e48:T=1725580366:RT=1725580366:S=AA-Afjazg0DfJyef0BICh1_vOA6d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367016
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367015,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759276366,
+                        "expiry": 33695999,
+                        "value": "ID=7b1b60e2830cfec2:T=1725580366:RT=1725580366:S=ALNI_MYT-Q54IL9vYrM3Q37gMx929pIwUg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367014
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367320,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759708367,
+                        "expiry": 34128000,
+                        "value": "JkLaUZCv5A9Lh6JtUp2bFwkRq7mJWXe5qG.ZMCwB1ZD.W7|1725580367|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580367319
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367015,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759276366,
+                        "expiry": 33695999,
+                        "value": "UID=00000eec1bed575e:T=1725580366:RT=1725580366:S=ALNI_MbELy5TUf3_Sp5UF6uKXAShvJ-oEQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367015
+                    }
+                ]
+            },
+            "_clck": {
+                "name": "_clck",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580368243,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757116368,
+                        "expiry": 31536000,
+                        "value": "1sr8st4%7C2%7Cfox%7C1%7C1709",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580368242
+                    }
+                ]
+            },
+            "_clsk": {
+                "name": "_clsk",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580368251,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725666768,
+                        "expiry": 86400,
+                        "value": "g523yo%7C1725580368250%7C1%7C0%7Cw.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580368251
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366923,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733356366,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725580366921.120622310429058045",
+                        "same_site": "lax",
+                        "timestamp": 1725580366922
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366592,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733356366,
+                        "expiry": 7776000,
+                        "value": "1.1.2004538204.1725580367",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366592
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776001,
+                        "value": "1.1.2004538204.1725580367",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366623
+                    }
+                ]
+            },
+            "_gd1725580366054_sharedId": {
+                "name": "_gd1725580366054_sharedId",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366061,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366061
+                    }
+                ]
+            },
+            "_gd1725580366389_sharedId": {
+                "name": "_gd1725580366389_sharedId",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366394,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366394
+                    }
+                ]
+            },
+            "_k5a": {
+                "name": "_k5a",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757116367,
+                        "expiry": 31536000,
+                        "value": "61@{\"u\":[{\"uid\":\"rCMDG5556vALrIlz\",\"ts\":1725580367},1725670367]}",
+                        "same_site": "strict",
+                        "timestamp": 1725580367132
+                    }
+                ]
+            },
+            "_pubcid": {
+                "name": "_pubcid",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366063,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757116366,
+                        "expiry": 31536000,
+                        "value": "1f8ea153-7837-41e2-9c96-adc453c07596",
+                        "same_site": "lax",
+                        "timestamp": 1725580366062
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.387702942,
+                        "value": "1f8ea153-7837-41e2-9c96-adc453c07596",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366390
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1f8ea153-7837-41e2-9c96-adc453c07596",
+                        "same_site": "lax",
+                        "timestamp": 1725580366395
+                    }
+                ]
+            },
+            "_pubcid_cst": {
+                "name": "_pubcid_cst",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366063,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757116366,
+                        "expiry": 31536000,
+                        "value": "kSylLAssaw%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725580366063
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "kSylLAssaw%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725580366395
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1725580366358": {
+                "name": "_sp_root_domain_test_1725580366358",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366360,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1725580366358",
+                        "same_site": "lax",
+                        "timestamp": 1725580366359
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580358335,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725587558.316043,
+                        "expiry": 7200.316042900085,
+                        "value": "2A02862B312AFF8841596E563B8D4FDA~000000000000000000000000000000~YAAQhCshF/nh9r+RAQAAw7OaxBk75x9afpqDUhR30AsZVOyw/ZDIUu4r2Iyx6Tr5B6dbNlOKsq2p+gtPpqTOb/T1YGWMvUXY4TI2ygMuxOMxTxRQVqzSSGnABfn6AyxGXapF1YqBDQOJbyHys2OTT+Jo/mOoOl7NO9hzzFyPKT81TfmkPVqfjHmfuzp0EQZpWrG6XpXKT44dXKPiJi4kuPB8acZIyKNhNQFH1+9LGz169S16l4kKHnZccKtywgEWHHbE56JpBB/LKioK7c4ZHrLGuaM1KVq6iNiv/UqlU7BsMnzWVflFaUflL84WZqGZEeocdpGedtyPpq2qKm7wb1wl1kLjSE4JFk8iwcH+PTMdrQsVDotXK/pM9HTxIKuIcdvZ4mFxUPKya2ha",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580358318
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366424,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725587566.421949,
+                        "expiry": 7200.4219489097595,
+                        "value": "C7D400FAC0525E60252584AEBD299688~YAAQhCshF9fi9r+RAQAAbtOaxBlOuV+dBpDUsXPcAeiYLEmRXl5HnxbX1GADJWN/GGsQUSoCr7/IycW6GdGTsTpDc0hz6hCos6bAA6jgba4WzwJZX0P8Hm8Dtf+dCDQFFc4mmizMlQ1UAePA3CHWsXNTPHpG7IkbT7tHncaqm5VBdSmad84CeV6yiyjyYi+442nQKA5I5hMzLnSYb1f7hF7+SC6Qd5X0ayu8NHKur8d9nXK5rPy01tN6LhTy8AKtPrgJ~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366423
+                    }
+                ]
+            },
+            "cto_bidid": {
+                "name": "cto_bidid",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366982,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759283559,
+                        "expiry": 33703193,
+                        "value": "P7c6Bl92JTJCQ1ZoR0V0RUdJaWRFWUlGVzNmdk1HTHZ5Z2hiaUg1MTdOJTJCOG9zTmRHdEI1Vm1iSWdvUXRteWJNS3J1OFZMcEZ3eTZ0dnB1WW1vZ1BoVjIxRUJ3bkMwZVg4YUpwbWprUUpON0FSSDNDa3VQRk9KSW9uJTJCSkxaUXhPc1M4T0dVYg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366981
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366980,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759283559,
+                        "expiry": 33703193,
+                        "value": "C3YKbF8lMkZvWmNhbUY4R3JsNlpKeWJ5JTJGTENtVk5jUSUyRk43JTJGVzdUVjUlMkZ5T29udDZFaDRWJTJGZ3gyZ0ZNdHc1SWZBY0FsYzRUOUMlMkZCQ2VJSTJxSXRYT2RPJTJGMjM3NlhPZjdCektnMWxtWmk1d1RySkR5dnpTSERTQk5jbEFURXE0R29KJTJCS1NmTUNOUDZWUSUyQkxGc2V0WlFmb0lkM3dpUTdRV2dIV3NMQ3BZVnljR3IlMkI4cjlrJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366979
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367923,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725583967,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580367922
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367921,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725583967,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580367921
+                    }
+                ]
+            },
+            "gig_bootstrap_3_LZveQwIm7nkC6teLj5GvZB5_XXm4htOO_DfivllJXOnhXNu9BPwiP9_th7epNQeM": {
+                "name": "gig_bootstrap_3_LZveQwIm7nkC6teLj5GvZB5_XXm4htOO_DfivllJXOnhXNu9BPwiP9_th7epNQeM",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366045,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116366,
+                        "expiry": 31536000,
+                        "value": "accounts_ver4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366044
+                    }
+                ]
+            },
+            "sp": {
+                "name": "sp",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116367.945169,
+                        "expiry": 31536000.945168972,
+                        "value": "e404a47f-a9ed-438d-bf03-8fdd2c72cc63",
+                        "same_site": "strict",
+                        "timestamp": 1725580367945
+                    }
+                ]
+            },
+            "spid.7ff3": {
+                "name": "spid.7ff3",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366362,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140366.36078,
+                        "expiry": 34560000.36078,
+                        "value": "ec635d39-1191-4d22-bef2-770b2f38fc00.1725580366.1.1725580366..eea9fe31-9551-49fe-9a26-0f104fa98b37....0",
+                        "same_site": "lax",
+                        "timestamp": 1725580366361
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.36982107,
+                        "value": "ec635d39-1191-4d22-bef2-770b2f38fc00.1725580366.1.1725580366..eea9fe31-9551-49fe-9a26-0f104fa98b37..8c0e7a13-52da-4ace-b80e-527ef1c2eaa0.1725580366368.1",
+                        "same_site": "lax",
+                        "timestamp": 1725580366370
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.25199199,
+                        "value": "ec635d39-1191-4d22-bef2-770b2f38fc00.1725580366.1.1725580368..eea9fe31-9551-49fe-9a26-0f104fa98b37..8c0e7a13-52da-4ace-b80e-527ef1c2eaa0.1725580366368.2",
+                        "same_site": "lax",
+                        "timestamp": 1725580368252
+                    }
+                ]
+            },
+            "spses.7ff3": {
+                "name": "spses.7ff3",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580366361,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725582166,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725580366360
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725580366370
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725580368252
+                    }
+                ]
+            },
+            "gig_canary": {
+                "name": "gig_canary",
+                "domain": ".www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580362798,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580362797
+                    }
+                ]
+            },
+            "gig_canary_ver": {
+                "name": "gig_canary_ver",
+                "domain": ".www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580362799,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16174-3-28759665",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580362798
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580359380,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726185159.373497,
+                        "expiry": 604800.3734970093,
+                        "value": "JytqFOd/00E9T98q7tyOLey2EbHfogAvVfQBtkezB8E4Xwrowj8l5BTjn4+AJfHfcSd4eB3YZPVP7pVHm7GXg4jisSbWlUgWRPxXlS+OSnXYeSvn7Ob5jj9lDwaw",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580359374
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3743131161,
+                        "value": "1m+JfWGNn6hMadK6g5deeexO5njuJTZBkahMKv89+CrLyL4U0qfHpf/o50tlgQhE5el3iWkJ0abB9bottdUbApKIssbYdCAB3COFs+VxGB1nbc3HwpvB11XsF2sP",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580359382
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.3876149654,
+                        "value": "tfPrkOarT8y/KUj1XZaeEST1510WKWW7zERigKrKe2tP8VqwriC0D4VMN2RYEfX79KgYBE/ekOjxid11ZvV0rUvexsukwwA1go30Sgxfy+EHKoDl+IhpzkwYbA71",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366388
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800.4216771126,
+                        "value": "2edGAbCEWuIRvUs+KuNczMJAZcXsXfpq8Nm7dRoU/Ls547XP1nFtG7dqsMEij78TdiChKiISr+ZKsSpzhN+ejElmEa0ND6O7X3kd9EFz1ev0ix3M6AF6/Q+5v0q7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366422
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580359382,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726185159.374341,
+                        "expiry": 604800.374341011,
+                        "value": "1m+JfWGNn6hMadK6g5deeexO5njuJTZBkahMKv89+CrLyL4U0qfHpf/o50tlgQhE5el3iWkJ0abB9bottdUbApKIssbYdCAB3COFs+VxGB1nbc3HwpvB11XsF2sP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580359382
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.3876619339,
+                        "value": "tfPrkOarT8y/KUj1XZaeEST1510WKWW7zERigKrKe2tP8VqwriC0D4VMN2RYEfX79KgYBE/ekOjxid11ZvV0rUvexsukwwA1go30Sgxfy+EHKoDl+IhpzkwYbA71",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366388
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.4217419624,
+                        "value": "2edGAbCEWuIRvUs+KuNczMJAZcXsXfpq8Nm7dRoU/Ls547XP1nFtG7dqsMEij78TdiChKiISr+ZKsSpzhN+ejElmEa0ND6O7X3kd9EFz1ev0ix3M6AF6/Q+5v0q7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366422
+                    }
+                ]
+            },
+            "CookieConsent": {
+                "name": "CookieConsent",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580359650,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140359.650309,
+                        "expiry": 34560000.650309086,
+                        "value": "-3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580359650
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31535999,
+                        "value": "{stamp:%27slsGDyT1Rz1hT9GB+382xprjCfsq6lLCX3/wluecS7tUpbcXbuHrbg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1725580365538%2Cregion:%27ca%27}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366054
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31535999,
+                        "value": "{stamp:%27slsGDyT1Rz1hT9GB+382xprjCfsq6lLCX3/wluecS7tUpbcXbuHrbg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1725580365538%2Cregion:%27ca%27}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366079
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.07984495,
+                        "value": "{stamp:%27slsGDyT1Rz1hT9GB+382xprjCfsq6lLCX3/wluecS7tUpbcXbuHrbg==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1725580365538%2Cregion:%27ca%27}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366080
+                    }
+                ]
+            },
+            "frequencyCounter": {
+                "name": "frequencyCounter",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366055
+                    }
+                ]
+            },
+            "isFrequencyCounterSession": {
+                "name": "isFrequencyCounterSession",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366058,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725582166,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366058
+                    }
+                ]
+            },
+            "userInfo": {
+                "name": "userInfo",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366392,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22username%22%3Anull%2C%22email%22%3Anull%2C%22roles%22%3A%5B%22Anonymous%22%5D%2C%22userId%22%3Anull%2C%22subscriptionType%22%3Anull%2C%22UID%22%3Anull%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366390
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22username%22%3Anull%2C%22email%22%3Anull%2C%22roles%22%3A%5B%22Anonymous%22%5D%2C%22userId%22%3Anull%2C%22subscriptionType%22%3Anull%2C%22UID%22%3Anull%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580366422
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366782,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116366.781502,
+                        "expiry": 31536000.78150201,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366782
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.224215984,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367224
+                    }
+                ]
+            }
+        }
+    },
+    "cdns.eu1.gigya.com": {
+        "/": {
+            "apiDomain_3_y-jd0TXyC7mzfQtaKbUTfLazF6yO-2Nzuc32nOceGlIwP8LlAq1NLCCHESxSbKLJ": {
+                "name": "apiDomain_3_y-jd0TXyC7mzfQtaKbUTfLazF6yO-2Nzuc32nOceGlIwP8LlAq1NLCCHESxSbKLJ",
+                "domain": ".cdns.eu1.gigya.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580364229,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116364,
+                        "expiry": 31536000,
+                        "value": "accounts.berlingske.dk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580364228
+                    }
+                ]
+            },
+            "gig_canary_3_y-jd0TXyC7mzfQtaKbUTfLazF6yO-2Nzuc32nOceGlIwP8LlAq1NLCCHESxSbKLJ": {
+                "name": "gig_canary_3_y-jd0TXyC7mzfQtaKbUTfLazF6yO-2Nzuc32nOceGlIwP8LlAq1NLCCHESxSbKLJ",
+                "domain": ".cdns.eu1.gigya.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366438,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116366,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366436
+                    }
+                ]
+            },
+            "gig_canary_ver_3_y-jd0TXyC7mzfQtaKbUTfLazF6yO-2Nzuc32nOceGlIwP8LlAq1NLCCHESxSbKLJ": {
+                "name": "gig_canary_ver_3_y-jd0TXyC7mzfQtaKbUTfLazF6yO-2Nzuc32nOceGlIwP8LlAq1NLCCHESxSbKLJ",
+                "domain": ".cdns.eu1.gigya.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580366440,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116366,
+                        "expiry": 31536000,
+                        "value": "16174-3-28759665",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366439
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367210,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140367.208942,
+                        "expiry": 34560000.20894194,
+                        "value": "AHWqTUk2v1sJpAc6h5k0og9tjeBVPuMQGt97fr2YBHyubi1dJ6-OtRqWTqGu4cveJJY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367209
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.27973795,
+                        "value": "AHWqTUnArFDld4xkijNAsXb01AMK_X3mT2kE9yi5Qd8lb2c3EQo-LZiw-1XUr3ETChs",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367281
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.855716944,
+                        "value": "AHWqTUnJC4W9DLS7ZGXwTosHopZ-qWCl3RENcfJRrZ4ve3ELoiw5g_Y5HMngXLsiiCg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367856
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367282,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741132367.279801,
+                        "expiry": 15552000.279800892,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367281
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366657,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725581266.655793,
+                        "expiry": 900.6557929515839,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366656
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 899.8971049785614,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366897
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.123547077179,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367125
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.1274108886719,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367127
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.1423900127411,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367143
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.155580997467,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367156
+                    }
+                ]
+            }
+        }
+    },
+    "gigya.com": {
+        "/": {
+            "gig3pctest": {
+                "name": "gig3pctest",
+                "domain": ".gigya.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725580364233,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725580365,
+                        "expiry": 1,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580364232
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580368249,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759708368.248561,
+                        "expiry": 34128000.248560905,
+                        "value": "KlS4kMaGQMQG-gtX0iHQ7H9UssGMXP8c25nSG6QfbaLBFRxSG7RrGS6GYoGtFlMQYH8W8jBGqSRxSG8.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368249
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580368025,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759708368.023571,
+                        "expiry": 34128000.023571014,
+                        "value": "yBERKOsEooNk8t24bsqsI1z3KryvW8p7SVG7wzARzSX.27",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368025
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.248575926,
+                        "value": "mEFmY4AkXmSIHhSofxkUhkz1yAivOnHN7IcoMtixOF7.S7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368249
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580368025,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726185168.023546,
+                        "expiry": 604800.0235459805,
+                        "value": "KlGTaMGGQMQG-gtX0iHQ7H9UssGMXP8c25nSG6QfbaLBXBG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368024
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580368024,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759708368.023506,
+                        "expiry": 34128000.023505926,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368023
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.24849892,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368248
+                    }
+                ]
+            }
+        }
+    },
+    "id5-sync.com": {
+        "/": {
+            "id5": {
+                "name": "id5",
+                "domain": ".id5-sync.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580368212,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356368.21082,
+                        "expiry": 7776000.21081996,
+                        "value": "55ea23ca-9060-7ecd-941a-daf8bb040d98#1725580368448#1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368211
+                    }
+                ]
+            }
+        }
+    },
+    "linkedin.com": {
+        "/": {
+            "AnalyticsSyncHistory": {
+                "name": "AnalyticsSyncHistory",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580367644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728172367.640933,
+                        "expiry": 2592000.640933037,
+                        "value": "AQISeB7pL7-gXwAAAZHEmtgBYfLBbCcuOFfpV1L57WZ8XEMO63kjhbJpsb_a0KYJI0fmLHPMLE-Op7Pc0qERNQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367643
+                    }
+                ]
+            },
+            "UserMatchHistory": {
+                "name": "UserMatchHistory",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367643,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728172367.640913,
+                        "expiry": 2592000.6409130096,
+                        "value": "AQIeYvxChld4oQAAAZHEmtgBvRs3yW_c9YYkUXlXYBJef2Y42AkpAE_u1ikPtdC9FVmCWPBi9Lmc6A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367641
+                    }
+                ]
+            },
+            "bcookie": {
+                "name": "bcookie",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116367.431361,
+                        "expiry": 31536000.43136096,
+                        "value": "\"v=2&1eb67efc-c72b-45d4-86e1-40c094a4f7e3\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367432
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.64094305,
+                        "value": "\"v=2&1eb67efc-c72b-45d4-86e1-40c094a4f7e3\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367644
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.207683086,
+                        "value": "\"v=2&1eb67efc-c72b-45d4-86e1-40c094a4f7e3\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368208
+                    }
+                ]
+            },
+            "li_sugr": {
+                "name": "li_sugr",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356367.431331,
+                        "expiry": 7776000.431330919,
+                        "value": "40527605-d1bc-4ab3-9b9b-f65fa79287d7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367431
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.640870094,
+                        "value": "40527605-d1bc-4ab3-9b9b-f65fa79287d7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.207653046,
+                        "value": "40527605-d1bc-4ab3-9b9b-f65fa79287d7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368208
+                    }
+                ]
+            },
+            "lidc": {
+                "name": "lidc",
+                "domain": ".linkedin.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725666767.431386,
+                        "expiry": 86400.43138599396,
+                        "value": "\"b=OGST05:s=O:r=O:a=O:p=O:g=3167:u=1:x=1:i=1725580367:t=1725666767:v=2:sig=AQH48Q4RiI2oglMBpJybC5yaSAX87qWM\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367432
+                    }
+                ]
+            },
+            "bscookie": {
+                "name": "bscookie",
+                "domain": ".www.linkedin.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367979,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116367.978607,
+                        "expiry": 31536000.97860694,
+                        "value": "\"v=1&2024090523524837a2b7a6-b0c3-47b5-814b-35fb2e78bdfcAQEhWY30FZm1txovrRwc3O4uvjieO-jy\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367979
+                    }
+                ]
+            }
+        }
+    },
+    "pubmatic.com": {
+        "/": {
+            "KTPCACOOKIE": {
+                "name": "KTPCACOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367894,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356367,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367894
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580368103
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366906,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116366.903265,
+                        "expiry": 31536000.903265,
+                        "value": "1|mFVHqHkj5bGMle+LhoGtd9HuO+9z7bdc0bAUDfekaR9vQ4jGx7UYWpSTP7/tjj70R/EAkEKKB8LgcRgjl6EitdcPLGWduGG6vsVAPbIH/+G+xUA9sgf/4Q==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366906
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580366906,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116366.903247,
+                        "expiry": 31536000.903247118,
+                        "value": "M0PXZWKV-10-54NR",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580366905
+                    }
+                ]
+            }
+        }
+    },
+    "t.co": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".t.co",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367215,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725582167.214612,
+                        "expiry": 1800.214612007141,
+                        "value": "tesY2Z1l1isYhgof21DukJA1YM2EDST5.JX0n.TN_7Q-1725580367-1.0.1.1-8fRf9NCUeBEao3lApUoISbQ8Nf5v3nB3HjO6mgoT1sTLrzKMHmMQwmRjx_aL0C9Qq3aooAW7lBbPABS6j6klaQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367215
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.276209115982,
+                        "value": "N1_PIuUxO3L4Qcd77pQ5l4F_6Z8.gYw5agCakz5a5ac-1725580367-1.0.1.1-EF1U_5_3YfVbouQGQvvo9ckTZp3rsdUDJs2lFko.8rekpcy_rG7f16o8MhPgOf63JDHbEJld1aXBIc.ulzmqUg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367276
+                    }
+                ]
+            },
+            "muc_ads": {
+                "name": "muc_ads",
+                "domain": ".t.co",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367215,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140367.214567,
+                        "expiry": 34560000.214566946,
+                        "value": "4551cb63-1c1f-4fb1-8699-4ba612d927a6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367214
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.27615595,
+                        "value": "b3d79bed-13a3-46cc-aba6-8d2f00cc79ae",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367276
+                    }
+                ]
+            }
+        }
+    },
+    "twitter.com": {
+        "/": {
+            "guest_id": {
+                "name": "guest_id",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140367.287032,
+                        "expiry": 34560000.28703189,
+                        "value": "v1%3A172558036755935679",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.35881901,
+                        "value": "v1%3A172558036755855700",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367361
+                    }
+                ]
+            },
+            "guest_id_ads": {
+                "name": "guest_id_ads",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367288,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140367.287006,
+                        "expiry": 34560000.2870059,
+                        "value": "v1%3A172558036755935679",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367288
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.35878897,
+                        "value": "v1%3A172558036755855700",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367361
+                    }
+                ]
+            },
+            "guest_id_marketing": {
+                "name": "guest_id_marketing",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580367288,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140367.286975,
+                        "expiry": 34560000.28697491,
+                        "value": "v1%3A172558036755935679",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367287
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.35875106,
+                        "value": "v1%3A172558036755855700",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367360
+                    }
+                ]
+            },
+            "personalization_id": {
+                "name": "personalization_id",
+                "domain": ".twitter.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580367289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140367.28702,
+                        "expiry": 34560000.28701997,
+                        "value": "\"v1_n0cRwqQM0cRhEfUX1XSzSg==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.358803034,
+                        "value": "\"v1_IAcXNuITXKa2eiwD792Uaw==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367361
+                    }
+                ]
+            }
+        }
+    },
+    "bt-pbs.relevant-digital.com": {
+        "/": {
+            "uids": {
+                "name": "uids",
+                "domain": "bt-pbs.relevant-digital.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725580367357,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356367.356152,
+                        "expiry": 7776000.356152058,
+                        "value": "eyJ0ZW1wVUlEcyI6eyJhZG54cyI6eyJ1aWQiOiI3NzEzODM0NjI4MjMzNTQ3OTE3IiwiZXhwaXJlcyI6IjIwMjQtMDktMTlUMjM6NTI6NDcuNTg2MDI3ODA2WiJ9fX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580367356
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "expresso.pt": {
+        "/": {
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".expresso.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578619328,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757201019,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzQ4MDItOWI5Yy02NzNlLWFkYzYtODY3ZGU2MTkxMmRlIiwiY3JlYXRlZCI6IjIwMjQtMDktMDVUMjM6MjM6MzkuMzIxWiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA1VDIzOjIzOjM5LjMyMVoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725578619323
+                    }
+                ]
+            },
+            "gig_canary": {
+                "name": "gig_canary",
+                "domain": ".expresso.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578620806,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578620805
+                    }
+                ]
+            },
+            "gig_canary_ver": {
+                "name": "gig_canary_ver",
+                "domain": ".expresso.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578620807,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16174-3-28759635",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578620806
+                    }
+                ]
+            },
+            "imp-store-cookie": {
+                "name": "imp-store-cookie",
+                "domain": "expresso.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578620278,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725578620272",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578620273
+                    }
+                ]
+            }
+        }
+    }
+}

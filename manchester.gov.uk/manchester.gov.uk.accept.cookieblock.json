@@ -1,0 +1,288 @@
+{
+    "manchester.gov.uk": {
+        "/": {
+            "TestCookie": {
+                "name": "TestCookie",
+                "domain": ".manchester.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725624978963,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624978954
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".manchester.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725624990358,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760184990.354991,
+                        "expiry": 34560000.35499096,
+                        "value": "GA1.1.2114392863.1725624990",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624990356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.44208193,
+                        "value": "GA1.3.2114392863.1725624990",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624990447
+                    }
+                ]
+            },
+            "_ga_75Z92G4SRL": {
+                "name": "_ga_75Z92G4SRL",
+                "domain": ".manchester.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725624990355,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760184990.354274,
+                        "expiry": 34560000.354274035,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624990354
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.35458112,
+                        "value": "GS1.1.1725624990.1.0.1725624990.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624990356
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.47568989,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624992476
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.47646189,
+                        "value": "GS1.1.1725624990.1.0.1725624992.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624992478
+                    }
+                ]
+            },
+            "_gat_gtag_UA_2689131_1": {
+                "name": "_gat_gtag_UA_2689131_1",
+                "domain": ".manchester.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725624990450,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725625050,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624990449
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".manchester.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725624990448,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725711390,
+                        "expiry": 86400,
+                        "value": "GA1.3.1593184238.1725624990",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624990447
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".manchester.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725624990430,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760184990.427102,
+                        "expiry": 34560000.42710209,
+                        "value": "9a7092bf-a44b-649c-ba4e-9c29d3c60049",
+                        "same_site": "lax",
+                        "timestamp": 1725624990428
+                    }
+                ]
+            },
+            "CookieConsent": {
+                "name": "CookieConsent",
+                "domain": "www.manchester.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725624979602,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760184979.60083,
+                        "expiry": 34560000.60083008,
+                        "value": "-3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624979601
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "{stamp:%27FPuSQO4iNUCXYr/iaDt+J0tORae6P96bnkeTlmMIfTEhaGbK1fxc9Q==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:6%2Cutc:1725624989621%2Cregion:%27ca%27}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624989578
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.manchester.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725624978952,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "o9DHErJBxpVEN7dWvWSCoypPEhdO6wiLTeCZj2Trv6L0OLbV8wTZ3haKIvl%2C5zEm",
+                        "same_site": "unspecified",
+                        "timestamp": 1725624978937
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725624991058,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741176991.055115,
+                        "expiry": 15552000.055114985,
+                        "value": "dQcCLQIeNvM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725624991058
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725624991060,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741176991.055225,
+                        "expiry": 15552000.055224895,
+                        "value": "CgJDQRIEGgAgTQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725624991058
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725624991057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "GTVsSJ1mQf4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725624991057
+                    }
+                ]
+            }
+        }
+    }
+}

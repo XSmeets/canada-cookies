@@ -1,0 +1,114 @@
+{
+    "just.ro": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".just.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573545691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133545.677734,
+                        "expiry": 34560000.6777339,
+                        "value": "GA1.1.1401933405.1725573546",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573545690
+                    }
+                ]
+            },
+            "_ga_PCQGGE8BZE": {
+                "name": "_ga_PCQGGE8BZE",
+                "domain": ".just.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573545690,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133545.677461,
+                        "expiry": 34560000.67746091,
+                        "value": "GS1.1.1725573545.1.0.1725573545.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573545685
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.23140192,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573557232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.23201394,
+                        "value": "GS1.1.1725573545.1.0.1725573557.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573557233
+                    }
+                ]
+            },
+            "ct-ultimate-gdpr-cookie": {
+                "name": "ct-ultimate-gdpr-cookie",
+                "domain": "www.just.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573553809,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109443,
+                        "expiry": 31535890,
+                        "value": "eyJjb25zZW50X2xldmVsIjoiMiIsImNvbnNlbnRfZXhwaXJlX3RpbWUiOiIxNzU3MTA5NDQzIiwiY29uc2VudF90aW1lIjoiMTcyNTU3MzQ0MyIsImNvbnNlbnRfZGVjbGluZWQiOmZhbHNlfQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573553807
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/recaptcha": {
+            "_GRECAPTCHA": {
+                "name": "_GRECAPTCHA",
+                "domain": "www.google.com",
+                "path": "/recaptcha",
+                "current_label": 0,
+                "label_ts": 1725573551173,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741125551.172409,
+                        "expiry": 15552000.172409058,
+                        "value": "09ACY6sGxQK6NL4ZYviTbHLUFeEW4fC1zcO4MwbaCzJAUrkyphvdCb3j8ZssREkMWxBnjW6JkqKphtqQfEbQRCXMo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573551173
+                    }
+                ]
+            }
+        }
+    }
+}

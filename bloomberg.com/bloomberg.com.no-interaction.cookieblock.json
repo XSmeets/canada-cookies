@@ -1,0 +1,572 @@
+{
+    "bloomberg.com": {
+        "/": {
+            "__sppvid": {
+                "name": "__sppvid",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627228843,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "729d2b1e-be63-453f-ac15-6e183527402a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228842
+                    }
+                ]
+            },
+            "_last-refresh": {
+                "name": "_last-refresh",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229681,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725630829.677378,
+                        "expiry": 3600.6773779392242,
+                        "value": "2024-9-6%2012%3A53",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229680
+                    }
+                ]
+            },
+            "_reg-csrf-token": {
+                "name": "_reg-csrf-token",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "sUtUDumu-pGbPZkCbLkrZKiRvYcEsp5bag7k",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229677
+                    }
+                ]
+            },
+            "_reg-csrf": {
+                "name": "_reg-csrf",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "s%3Af9eeXC_RTiNJw7LcVOpkvGQJ.%2B79W4MlwTbmIkNUALgamyaqFLHnBmOYUp7w35AcsnLg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229678
+                    }
+                ]
+            },
+            "_session_id_backup": {
+                "name": "_session_id_backup",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229049,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163229.046664,
+                        "expiry": 31536000.046664,
+                        "value": "54eaeb36-8792-4f74-b961-2dd128ce1c76",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229049
+                    }
+                ]
+            },
+            "_sp_krux": {
+                "name": "_sp_krux",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229631,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733403229.630899,
+                        "expiry": 7776000.6308989525,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229631
+                    }
+                ]
+            },
+            "_user-data": {
+                "name": "_user-data",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229680,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725630829.677215,
+                        "expiry": 3600.6772150993347,
+                        "value": "%7B%22status%22%3A%22anonymous%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229679
+                    }
+                ]
+            },
+            "agent_id": {
+                "name": "agent_id",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725627229048,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163229.046581,
+                        "expiry": 31536000.04658103,
+                        "value": "da8527a7-8951-4670-a9ba-441a5bc18795",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229047
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627230009,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757163230.009324,
+                        "expiry": 31536000.009324074,
+                        "value": "50a9a42e-ebef-4f86-9435-0ae9a82d05dc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627230009
+                    }
+                ]
+            },
+            "exp_pref": {
+                "name": "exp_pref",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627227693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228891
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228891
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228893
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228894
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228908
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228911
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CANADA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228917
+                    }
+                ]
+            },
+            "gatehouse_id": {
+                "name": "gatehouse_id",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725627229050,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163229.046708,
+                        "expiry": 31536000.046708107,
+                        "value": "2cd3baa6-dac5-4434-9e5a-694cc41aff50",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229050
+                    }
+                ]
+            },
+            "geo_info": {
+                "name": "geo_info",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163229.046721,
+                        "expiry": 31536000.04672098,
+                        "value": "%7B%22countryCode%22%3A%22CA%22%2C%22country%22%3A%22CA%22%2C%22field_d%22%3A%22datapacket.com%22%2C%22field_n%22%3A%22cp%22%2C%22trackingRegion%22%3A%22US%22%2C%22cacheExpiredTime%22%3A1726232029191%2C%22region%22%3A%22US%22%2C%22fieldN%22%3A%22cp%22%2C%22fieldD%22%3A%22datapacket.com%22%7D%7C1726232029191",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229050
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "{%22country%22:%22CA%22%2C%22region%22:%22US%22%2C%22fieldD%22:%22datapacket.com%22%2C%22fieldN%22:%22cp%22}|1726232029666",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229666
+                    }
+                ]
+            },
+            "seen_uk": {
+                "name": "seen_uk",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627227703,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627227702
+                    }
+                ]
+            },
+            "session_id": {
+                "name": "session_id",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229048,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163229.046629,
+                        "expiry": 31536000.046628952,
+                        "value": "54eaeb36-8792-4f74-b961-2dd128ce1c76",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229048
+                    }
+                ]
+            },
+            "session_key": {
+                "name": "session_key",
+                "domain": ".bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627229050,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757163229.046689,
+                        "expiry": 31536000.046689034,
+                        "value": "882d90d1fcdf965f24c195dc4613212f6e345d9f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627229049
+                    }
+                ]
+            },
+            "country_code": {
+                "name": "country_code",
+                "domain": ".www.bloomberg.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725627227701,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228891
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228893
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228894
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228908
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228911
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228916
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725627228917
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627230379,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759323230.378138,
+                        "expiry": 33696000.378138065,
+                        "value": "1141a7181bf5c3f40c80c941725627230",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627230378
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725627230379,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759323230.378164,
+                        "expiry": 33696000.37816405,
+                        "value": "1141a7181bf5c3f40c80c941725627230",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725627230379
+                    }
+                ]
+            }
+        }
+    }
+}

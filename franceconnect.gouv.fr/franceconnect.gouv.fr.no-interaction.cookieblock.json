@@ -1,0 +1,47 @@
+{
+    "franceconnect.gouv.fr": {
+        "/": {
+            "bln_challengejs": {
+                "name": "bln_challengejs",
+                "domain": ".franceconnect.gouv.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578276307,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725579176.291025,
+                        "expiry": 900.2910249233246,
+                        "value": "lKeNlfvp78xCVGNM8Wnfc0ScNdv57TltF25LHa_RM-GSRARyrf1zaYivDmz29wuyfP9o-4svPxZH7ugO-bMhZ5BXKX2O6FCNJAXwhYFbQ3rjnCdgr609EiiXn9QPbohAfMEYMGTKsn10TenvmvL-KH0EBJ4x92BEnPNs_2C9Ery0z2F3Anyx4JIcCW56JUfFqio0TZ62YpD7F6k0SxkudDRInThd-bt58DTuqYYAAVm4Pw1RV0heft7rgjReoC614iN_M8adCiR7KcXIQhPKJg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578276300
+                    }
+                ]
+            },
+            "tst_bln_cookie_enabled": {
+                "name": "tst_bln_cookie_enabled",
+                "domain": ".franceconnect.gouv.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725578276300,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578276291
+                    }
+                ]
+            }
+        }
+    }
+}

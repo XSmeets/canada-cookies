@@ -1,0 +1,48 @@
+{
+    "expressen.se": {
+        "/": {
+            "__extblt": {
+                "name": "__extblt",
+                "domain": ".expressen.se",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580701935,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733356701.91536,
+                        "expiry": 7776000.915359974,
+                        "value": "18",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580701918
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".expressen.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580703203,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757203103,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzQ5ZmYtNWRjMC02MzkzLWJlZGEtNWVlNDViYjE5NGE3IiwiY3JlYXRlZCI6IjIwMjQtMDktMDVUMjM6NTg6MjMuMTk2WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA1VDIzOjU4OjIzLjE5NloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725580703199
+                    }
+                ]
+            }
+        }
+    }
+}

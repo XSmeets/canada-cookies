@@ -1,0 +1,191 @@
+{
+    "southend.gov.uk": {
+        "/": {
+            "CookieControl": {
+                "name": "CookieControl",
+                "domain": ".southend.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623679159,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733403279,
+                        "expiry": 7779600,
+                        "value": "{\"necessaryCookies\":[],\"optionalCookies\":{\"analytics\":\"accepted\"},\"statement\":{\"shown\":true,\"updated\":\"13/05/2020\"},\"consentDate\":1725623679154,\"consentExpiry\":90,\"interactedWith\":true,\"user\":\"05FF1206-A2F8-49A7-BCDF-CB60017F441D\"}",
+                        "same_site": "lax",
+                        "timestamp": 1725623679156
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".southend.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623674470,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183674.468917,
+                        "expiry": 34560000.46891689,
+                        "value": "GA1.1.806801967.1725623674",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623674469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.806915045,
+                        "value": "GA1.3.806801967.1725623674",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623679807
+                    }
+                ]
+            },
+            "_ga_R0HFSHMR24": {
+                "name": "_ga_R0HFSHMR24",
+                "domain": ".southend.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623674468,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183674.467519,
+                        "expiry": 34560000.467519045,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623674467
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.46800089,
+                        "value": "GS1.1.1725623674.1.0.1725623674.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623674469
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.76768899,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623682768
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.76843095,
+                        "value": "GS1.1.1725623674.1.0.1725623682.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623682770
+                    }
+                ]
+            },
+            "_gat_gtag_UA_45695070_1": {
+                "name": "_gat_gtag_UA_45695070_1",
+                "domain": ".southend.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623679813,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725623739,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623679810
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".southend.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623679809,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725710079,
+                        "expiry": 86400,
+                        "value": "GA1.3.1970865391.1725623680",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623679808
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.southend.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623672680,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ZoJltcwPyUjro1FMIl6Da82dGqwFm7iN0O2IApWoh1IcvZl2o%2C4r0Sz8Uy4ndC0l",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623672662
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.southend.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623673033,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623673027
+                    }
+                ]
+            }
+        }
+    }
+}

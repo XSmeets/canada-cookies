@@ -1,0 +1,764 @@
+{
+    "accounts.ocado.com": {
+        "/": {
+            "TREACLE": {
+                "name": "TREACLE",
+                "domain": ".accounts.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668192,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "184027323",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "184093536",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668280
+                    }
+                ]
+            },
+            "TS01a0b4b1": {
+                "name": "TS01a0b4b1",
+                "domain": ".accounts.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668200,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01dbe31481963e58fc418ccfc75d0a4c735006e3407f8ca4bc24deac6daf5044e91fd47328693076b9694f13b8da35378cc79c4cbe",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668198
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d37917128fa1b0cbf53380273b62ec2a58138fc9723d0a689db3446257693aa78d607cf899c30b7ca7062236d2a9407eded632cb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668281
+                    }
+                ]
+            },
+            "TS01aceb45": {
+                "name": "TS01aceb45",
+                "domain": "accounts.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668196,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01dbe31481963e58fc418ccfc75d0a4c735006e3407f8ca4bc24deac6daf5044e91fd47328693076b9694f13b8da35378cc79c4cbe",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668193
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01d37917128fa1b0cbf53380273b62ec2a58138fc9723d0a689db3446257693aa78d607cf899c30b7ca7062236d2a9407eded632cb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668280
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01dbe314815ba8aa42d09a11ea69f88036a6a6f307b1ad3300a3330d0064623dd24abead765d17f3776c229cdebe1c70df261f578f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668638
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01dbe314815ba8aa42d09a11ea69f88036a6a6f307b1ad3300a3330d0064623dd24abead765d17f3776c229cdebe1c70df261f578f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668880
+                    }
+                ]
+            },
+            "bs": {
+                "name": "bs",
+                "domain": "accounts.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668880,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733398668.872601,
+                        "expiry": 7776000.872601032,
+                        "value": "u6SzL8Xzj1SB09CNG20o",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668878
+                    }
+                ]
+            }
+        },
+        "/auth-service": {
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "accounts.ocado.com",
+                "path": "/auth-service",
+                "current_label": 0,
+                "label_ts": 1725622668876,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7725F16226610318EFD70E214322753A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668875
+                    }
+                ]
+            },
+            "TS01397fe9": {
+                "name": "TS01397fe9",
+                "domain": "accounts.ocado.com",
+                "path": "/auth-service",
+                "current_label": 0,
+                "label_ts": 1725622668883,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01dbe314815ba8aa42d09a11ea69f88036a6a6f307b1ad3300a3330d0064623dd24abead765d17f3776c229cdebe1c70df261f578f",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668880
+                    }
+                ]
+            }
+        }
+    },
+    "ocado.com": {
+        "/": {
+            "OCADOSESSIONID": {
+                "name": "OCADOSESSIONID",
+                "domain": ".ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622665061,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "64C0EA35A8A334B69440A2A653AFDBA5141474A8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725622665059
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668333,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725622668335
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725622668338
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=&consentId=897442eb-5d9c-4598-9659-24f0a0364e79&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725622668340
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=&consentId=897442eb-5d9c-4598-9659-24f0a0364e79&interactionCount=0&landingPath=https%3A%2F%2Fwww.ocado.com%2Fwebshop%2FstartWebshop.do",
+                        "same_site": "lax",
+                        "timestamp": 1725622668341
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=&consentId=897442eb-5d9c-4598-9659-24f0a0364e79&interactionCount=0&landingPath=https%3A%2F%2Fwww.ocado.com%2Fwebshop%2FstartWebshop.do",
+                        "same_site": "lax",
+                        "timestamp": 1725622668486
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=&consentId=897442eb-5d9c-4598-9659-24f0a0364e79&interactionCount=0&landingPath=https%3A%2F%2Fwww.ocado.com%2Fwebshop%2FstartWebshop.do",
+                        "same_site": "lax",
+                        "timestamp": 1725622668487
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=&consentId=897442eb-5d9c-4598-9659-24f0a0364e79&interactionCount=0&landingPath=https%3A%2F%2Fwww.ocado.com%2Fwebshop%2FstartWebshop.do",
+                        "same_site": "lax",
+                        "timestamp": 1725622668488
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=&consentId=897442eb-5d9c-4598-9659-24f0a0364e79&interactionCount=0&landingPath=https%3A%2F%2Fwww.ocado.com%2Fwebshop%2FstartWebshop.do",
+                        "same_site": "lax",
+                        "timestamp": 1725622668488
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=&consentId=897442eb-5d9c-4598-9659-24f0a0364e79&interactionCount=0&landingPath=https%3A%2F%2Fwww.ocado.com%2Fwebshop%2FstartWebshop.do&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725622668493
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+13%3A37%3A48+GMT%2B0200+(Central+European+Summer+Time)&version=6.17.0&isIABGlobal=false&hosts=&consentId=897442eb-5d9c-4598-9659-24f0a0364e79&interactionCount=0&landingPath=https%3A%2F%2Fwww.ocado.com%2Fwebshop%2FstartWebshop.do&groups=C0001%3A1%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725622668494
+                    }
+                ]
+            },
+            "QueueITAccepted-SDFrts345E-V3_ocadoaccounts": {
+                "name": "QueueITAccepted-SDFrts345E-V3_ocadoaccounts",
+                "domain": ".ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668637,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725709068.635402,
+                        "expiry": 86400.63540196419,
+                        "value": "EventId%3Docadoaccounts%26QueueId%3Da23eff5d-abd5-4b6c-8b21-698e86898794%26RedirectType%3Dsafetynet%26IssueTime%3D1725622668%26Hash%3D77c713a234c572430d5e61eb1c827a1b76675594175e69b1134d9f4d01a42e23",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668635
+                    }
+                ]
+            },
+            "QueueITAccepted-SDFrts345E-V3_ocadoshoploggedout": {
+                "name": "QueueITAccepted-SDFrts345E-V3_ocadoshoploggedout",
+                "domain": ".ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622664808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725709064.803306,
+                        "expiry": 86400.80330610275,
+                        "value": "EventId%3Docadoshoploggedout%26QueueId%3D00000000-0000-0000-0000-000000000000%26RedirectType%3Ddisabled%26IssueTime%3D1725622664%26Hash%3D181115c3c3a1af2d4e642744a9b1bdd4347af145eafce58000f2a08baf5e4a38",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622664804
+                    }
+                ]
+            },
+            "TS011f4592": {
+                "name": "TS011f4592",
+                "domain": ".ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622665064,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef971f1785ece9175dd8a8ab067ca4152cec4f11f19597dc1995ba9a0133dfb8e47acc2e6e253485a02b031268df331c3d525ff6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622665063
+                    }
+                ]
+            },
+            "TS01b8ad75": {
+                "name": "TS01b8ad75",
+                "domain": ".ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01dbe31481963e58fc418ccfc75d0a4c735006e3407f8ca4bc24deac6daf5044e91fd47328693076b9694f13b8da35378cc79c4cbe",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01dbe31481963e58fc418ccfc75d0a4c735006e3407f8ca4bc24deac6daf5044e91fd47328693076b9694f13b8da35378cc79c4cbe",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622668638
+                    }
+                ]
+            },
+            "TS01e00a79": {
+                "name": "TS01e00a79",
+                "domain": ".ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622663679,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef971f1785ece9175dd8a8ab067ca4152cec4f11f19597dc1995ba9a0133dfb8e47acc2e6e253485a02b031268df331c3d525ff6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622663670
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef971f1785ece9175dd8a8ab067ca4152cec4f11f19597dc1995ba9a0133dfb8e47acc2e6e253485a02b031268df331c3d525ff6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622664810
+                    }
+                ]
+            },
+            "BP": {
+                "name": "BP",
+                "domain": "www.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622665059,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725633465.049121,
+                        "expiry": 10800.049120903015,
+                        "value": "12",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725622665057
+                    }
+                ]
+            },
+            "COOKIE_CONSENT": {
+                "name": "COOKIE_CONSENT",
+                "domain": "www.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622665697,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757158665.690699,
+                        "expiry": 31536000.6906991,
+                        "value": "y",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622665694
+                    }
+                ]
+            },
+            "LAST_REQUEST_TIME": {
+                "name": "LAST_REQUEST_TIME",
+                "domain": "www.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622665053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725622665132",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622665050
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725622665425",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622665693
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725622667316",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622667229
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725622667764",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622667672
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725622669210",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622669129
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725622671608",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622671535
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725622671545",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622671618
+                    }
+                ]
+            },
+            "TS010b03a2": {
+                "name": "TS010b03a2",
+                "domain": "www.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622663669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef971f1785ece9175dd8a8ab067ca4152cec4f11f19597dc1995ba9a0133dfb8e47acc2e6e253485a02b031268df331c3d525ff6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622663656
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef971f1785ece9175dd8a8ab067ca4152cec4f11f19597dc1995ba9a0133dfb8e47acc2e6e253485a02b031268df331c3d525ff6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622664809
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef971f1785ece9175dd8a8ab067ca4152cec4f11f19597dc1995ba9a0133dfb8e47acc2e6e253485a02b031268df331c3d525ff6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622665062
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef971f1785ece9175dd8a8ab067ca4152cec4f11f19597dc1995ba9a0133dfb8e47acc2e6e253485a02b031268df331c3d525ff6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622665698
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0120f0fe062b3e384383aef2115cb593e6ddecc31892b31c2ddbfc292f6ebc7452b233c47175285a1ae75555596b90e6ebbd817185",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622667229
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "012ce4a25f5d7d3342415df3a326df76cfc5516f4f25666da936cd656fdca4fb47403c4878c6c104912a458ea66c224c9cd9a5acd3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622667672
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01ef971f1783eb21c6e15e5e96d0ace44a4ff33e6cc746eb205fd38cbe4008a7b98b2a0cf9ef4d70224061cbb8e71b45fb96b324b1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622669130
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "012ce4a25fa2b0c4fd9b9cdd3de70269c7ce778546ce275051e249effea350a87b59f01333c7c5a998a8f733b62c6d9f2cbd4c9e85",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622671536
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0112f9b99ac079a0ae50b8278af3819e2facf7cf853f475c66e3bd34e37c86bb3d4dc937396152b940c07c1a24751f43b8d61d9c26",
+                        "same_site": "unspecified",
+                        "timestamp": 1725622671619
+                    }
+                ]
+            },
+            "W3SESSIONID": {
+                "name": "W3SESSIONID",
+                "domain": "www.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622665057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "64EA35A334B694A2A653AFA5141474A8.OCADO170",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725622665054
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "64EA35A334B694A2A653AFA5141474A8.OCADO170",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725622671536
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "64EA35A334B694A2A653AFA5141474A8.OCADO170",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725622671618
+                    }
+                ]
+            }
+        }
+    },
+    "q.ocado.com": {
+        "/": {
+            "Queue-it-a23eff5d-abd5-4b6c-8b21-698e86898794": {
+                "name": "Queue-it-a23eff5d-abd5-4b6c-8b21-698e86898794",
+                "domain": "q.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668405,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725626268.397357,
+                        "expiry": 3600.3973569869995,
+                        "value": "WasRedirected=false&i=638612194684967954",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725622668402
+                    }
+                ]
+            },
+            "Queue-it-token": {
+                "name": "Queue-it-token",
+                "domain": "q.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622668402,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725622848.397197,
+                        "expiry": 180.39719700813293,
+                        "value": "e_ocadoaccounts~q_a23eff5d-abd5-4b6c-8b21-698e86898794~ts_1725622848~ce_true~rt_safetynet~h_d1a19475a4f2763d2ba420e94d49f172fc7845481f9de237378c315c78c77fd5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725622668398
+                    }
+                ]
+            },
+            "Queue-it": {
+                "name": "Queue-it",
+                "domain": "q.ocado.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725622664437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757158664.432344,
+                        "expiry": 31536000.43234396,
+                        "value": "u=311ecfe2-44ff-4b49-a444-5a0cad72b6a2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725622664433
+                    }
+                ]
+            }
+        }
+    }
+}

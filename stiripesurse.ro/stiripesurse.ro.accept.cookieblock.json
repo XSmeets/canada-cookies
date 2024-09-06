@@ -1,0 +1,1323 @@
+{
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223526,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759269223.525361,
+                        "expiry": 33696000.52536106,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223526
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573220606,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109220.603629,
+                        "expiry": 31536000.603629112,
+                        "value": "s32uuimdocbf2dh1y7aznq3tt",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573220604
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.856004,
+                        "value": "cx:10q6sgedmchx31ehp7wt7250s9:3bgvgkikd2eb5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573220857
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.85699296,
+                        "value": "s32uuimdocbf2dh1y7aznq3tt",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573220858
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.725040913,
+                        "value": "cx:10q6sgedmchx31ehp7wt7250s9:3bgvgkikd2eb5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573221743
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.206903934,
+                        "value": "cx:10q6sgedmchx31ehp7wt7250s9:3bgvgkikd2eb5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573222207
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223794,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701223.792677,
+                        "expiry": 34128000.792676926,
+                        "value": "KlGboMXGQMQGx4Uabtmx8g9UssGMXP8cfRbG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.378778934,
+                        "value": "KlSnyMXGQMQGx4Uabtmx8g9UssGMo1DoL6nxGsRPtP7iGKGGqGBELGl8lej2GSfPgK4oHFSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224379
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.38142204,
+                        "value": "KlQh3MGGQMQGx4Uabtmx8g9UssGMo1DoL6nxGsRPtP7iGKGGqGBELGl8lej2GSfPgK4o7FSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224381
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.42525792,
+                        "value": "KlShhRaGQMQGx4Uabtmx8g9UssGMo1DoL6nxGsRPtP7iGKGGqGBELGl8lej2GSfPgK4oLFSG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224426
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.632375956,
+                        "value": "Klx4jMMGQMQGx4Uabtmx8g9UssGMo1DoL6nxGsRPtP7iGKGGqGBELGl8lej2GSfPgK4oUsSMGmpfK1uQXmG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224633
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.63748002,
+                        "value": "Klx4jMMGQMQGx4Uabtmx8g9UssGMo1DoL6nxGsRPtP7iGKGGqGBELGl8lej2GSfPgK4oUsSMGmpfK1uQXmG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224638
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.64045,
+                        "value": "KlQIPRMGQMQGx4Uabtmx8g9UssGMo1DoL6nxGsRPtP7iGKGGqGBELGl8lej2GSfPgK4o7sSMGmpfK1uQXmG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224640
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.00105691,
+                        "value": "KlG-URGGQMQGx4Uabtmx8g9UssGMg1DoL6nxGsRPoeniGKGGqGBELGl8lej2GSfPgKVoEGSMGmpfK1uQfFbG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573225001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.00774002,
+                        "value": "KlQWsMGGQMQGx4Uabtmx8g9UssGMg1DoL6nxGsRPoeniGKGGqGBELGl8lej2GSfPgK4cMBaSn3ovK5ngHmG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573225008
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223565,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701223.562119,
+                        "expiry": 34128000.56211901,
+                        "value": "PmeMMY1eKwlizf_LBljP4jSQ1b3ditMya3zHPZWG1Lf.u7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.79269409,
+                        "value": "6YvXLXNAKBVUpTu9R0nxZ0Tuto7uWjAxMQwLPsBVDjP.w7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223794
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.37885809,
+                        "value": "9dXKTzIbj1pGUm96HiE8FhUOh6HB_2bnzeRBGoxQJv...7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224379
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.38144112,
+                        "value": "9WvKUTIe2QRGZgxNHubDMgb1dTUEuGno2BtBN0arKx..W7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.42463493,
+                        "value": "7zxq7wUlj9qD6d_FTJ885ueFh4KUOLVZstspRRrgiOT.u7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224425
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.425282955,
+                        "value": "9dXKT1xFebRokLXKORJgFOeFhxiUGLVNshWjRBsx4Cv.M7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224426
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.63241696,
+                        "value": "Tx8VT_.jKUFqZkxiszd_CtYotgTTNE50pPKQkz5QaAj.U7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224634
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.63751602,
+                        "value": "TykbiYAM5.CE.fVO0oDSxuSB9I2QpkgamutPiYP1lTv.l7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224638
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.00108695,
+                        "value": "_ZoVWe.DodycXUMfUKGwX3Kk6cCqy.fBIzRnGeMs_Rr.n7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573225001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.00776696,
+                        "value": "WTq1_d.W619swmBDsLtWLHJ2iQ2qqThuWPfRkF6Nob3.07",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573225008
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223564,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726178023.562085,
+                        "expiry": 604800.5620849133,
+                        "value": "KlGboMXGQMQGx4Uabtmx8g9UssGMXP8cfRbG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223563
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223563,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701223.562017,
+                        "expiry": 34128000.562016964,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223562
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.79261899,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223793
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.378643036,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224379
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.38136411,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224381
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.42454505,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224425
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.425209045,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224426
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.6322279,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224633
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.63740897,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224637
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.00099301,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573225001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.00769091,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573225008
+                    }
+                ]
+            }
+        }
+    },
+    "ro.adocean.pl": {
+        "/": {
+            "GAD": {
+                "name": "GAD",
+                "domain": ".ro.adocean.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573222303,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701222.30208,
+                        "expiry": 34128000.302079916,
+                        "value": "KlSImMaGQMGGKVIRttex8g9UssGMXP8cfRySssX6Sssa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573222302
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.534281015,
+                        "value": "KlxkLRGGQMGGKVIRttex8g9UssGMXP8cfRySssX6QssGvaGpI7EPoQCsL18GYsCFS8mUuAeGsG..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573222534
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.026341915,
+                        "value": "KlQCfMaGQMGGKVIRttex8g9UssGMo1DoL6PxGsRP5x8waGQsG0gRi7yGYoGtFlM2xgGWi1BpY8as1JLsYIBXXb8HnM8lf5nG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224027
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.385637045,
+                        "value": "KlSd5RGGQMGGKVIRttex8g9UssGMo1DoL6PxGsRP5x7xaGQsG0gRi7yGYoGtFlM2xgGWi1BpY8Xs1JLsYIBXXb8HnM8lf5nG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573224385
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.01062012,
+                        "value": "KlS_uMaGQMGGKVIRttex8g9UssGMg1DoL6PxGsRP5x7taGQsG0gRi7yGYoGtFlM2xgGWi1BpY88s1JLsYIBXXb8HnMBGLAHG",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573225010
+                    }
+                ]
+            },
+            "ao_cookie_support_check": {
+                "name": "ao_cookie_support_check",
+                "domain": "ro.adocean.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223021,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725573225,
+                        "expiry": 2,
+                        "value": "0.1261800374919264",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223019
+                    }
+                ]
+            }
+        }
+    },
+    "stiripesurse.ro": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573222008,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109222,
+                        "expiry": 31536000,
+                        "value": "2024-09-05T21:53:42.006Z",
+                        "same_site": "lax",
+                        "timestamp": 1725573222007
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573219086,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.stiripesurse.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573219325
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.stiripesurse.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573219326
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.stiripesurse.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573219326
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.stiripesurse.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573219326
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.stiripesurse.ro%2F&groups=BG2234%3A1%2CC0010%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725573219331
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A39+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.stiripesurse.ro%2F&groups=BG2234%3A1%2CC0010%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725573219332
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=BG2234%3A1%2CC0010%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725573222008
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2234%3A1%2CC0001%3A1%2CC0008%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0009%3A1%2CC0011%3A1%2CC0007%3A1%2CC0005%3A1%2CV2STACK1%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725573222009
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2234%3A1%2CC0001%3A1%2CC0008%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0009%3A1%2CC0011%3A1%2CC0007%3A1%2CC0005%3A1%2CV2STACK1%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725573222039
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A53%3A42+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=e9c3adf1-e5a6-4c3c-ad4c-ea376b0ea5bb&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2234%3A1%2CC0001%3A1%2CC0008%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0009%3A1%2CC0011%3A1%2CC0007%3A1%2CC0005%3A1%2CV2STACK1%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725573222050
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223698,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759701223,
+                        "expiry": 34128000,
+                        "value": "rfEnv81Gxcn9_.bgHZZcNWWL55sYkwAstklyV5eUuJD.j7|1725573223|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573223698
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573219140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725573249,
+                        "expiry": 30,
+                        "value": "m0ptqp8jafy055",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573219140
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptqp8ogaxahu",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573219145
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptqp9o7ikkfv",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573219184
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptqqkbsi0k0h",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573220860
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptqqtcfughur",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573221185
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptqri15zu6c4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573222074
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptqtt33q1mow",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573225064
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573222896,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349222,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725573222894.567278568592568946",
+                        "same_site": "lax",
+                        "timestamp": 1725573222895
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573218733,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133218.731014,
+                        "expiry": 34560000.73101401,
+                        "value": "GA1.2.1022970451.1725573219",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573218731
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.015435934,
+                        "value": "GA1.1.1022970451.1725573219",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573219018
+                    }
+                ]
+            },
+            "_ga_7CGZMQ6XRQ": {
+                "name": "_ga_7CGZMQ6XRQ",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573219017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133219.015024,
+                        "expiry": 34560000.01502395,
+                        "value": "GS1.1.1725573219.1.0.1725573219.0.0.224636004",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573219016
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.062608,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573225063
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.06285405,
+                        "value": "GS1.1.1725573219.1.0.1725573225.0.0.224636004",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573225063
+                    }
+                ]
+            },
+            "_gat": {
+                "name": "_gat",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573218738,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573278,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573218736
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573218735,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725659618,
+                        "expiry": 86400,
+                        "value": "GA1.2.1053586505.1725573219",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573218734
+                    }
+                ]
+            },
+            "_ht_s": {
+                "name": "_ht_s",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573223603,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725575124,
+                        "expiry": 1901,
+                        "value": "1725573223.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573223602
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1901,
+                        "value": "1725573223.2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573223605
+                    }
+                ]
+            },
+            "_ht_v": {
+                "name": "_ht_v",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573223605,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109223,
+                        "expiry": 31536000,
+                        "value": "1725573223.7276455294",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573223604
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725573219181,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701219,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0ptqp8pc61s1hbm%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725573219180
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573219148,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701219,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725573219147
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmAdm4Cs3ABwA2DgNEAmblN4BOUaJABfIA",
+                        "same_site": "lax",
+                        "timestamp": 1725573219176
+                    }
+                ]
+            },
+            "ao-fpgad": {
+                "name": "ao-fpgad",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223028,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759269223,
+                        "expiry": 33696000,
+                        "value": "%7B%22fpcRequired%22%3Afalse%2C%22checkTS%22%3A1725573223025%2C%22domain%22%3A%22stiripesurse.ro%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725573223027
+                    }
+                ]
+            },
+            "ao_cookie_support_check314": {
+                "name": "ao_cookie_support_check314",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573223027,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573225,
+                        "expiry": 2,
+                        "value": "0.36014166151180116",
+                        "same_site": "lax",
+                        "timestamp": 1725573223027
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573220862,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701220,
+                        "expiry": 34128000,
+                        "value": "cx%3A10q6sgedmchx31ehp7wt7250s9%3A3bgvgkikd2eb5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573220861
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573219190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701219,
+                        "expiry": 34128000,
+                        "value": "m0ptqp8pc61s1hbm",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573219185
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0ptqp8pc61s1hbm",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573221186
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0ptqp8pc61s1hbm",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573222075
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0ptqp8pc61s1hbm",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573225064
+                    }
+                ]
+            },
+            "cleared-onetrust-cookies": {
+                "name": "cleared-onetrust-cookies",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573217475,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757116417,
+                        "expiry": 31543200,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573217466
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573222038,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109222,
+                        "expiry": 31536000,
+                        "value": "CQEeHPAQEeHPAAcABBENBFF8AP_gAAAAAChQKVtV_G__bXlr8X73aftkeY1f9_h77sQxBhfJk-4FzLvW_JwX32EzNA36tqYKmRIAu3bBIQNlGJDUTVCgaogVrzDMak2coTNKJ6BkiFMRe2dYCF5vmwtj-QKY5vr991d52R-t7dr83dzyz4Vnv3a5_2a1WJCdA58tDfv_bROb-9IOd_x8v4v8_N_rE2_eT1l_tevp7D9-ctu79XX-9_fff79Ln_-uB_-AAAAwJBPAAQAAuACgAKgAcAA8ACCAF4AagA8ACIAEwAKoAbwA9AB-AEJAIYAiQBHACWAE0AMAAYcAygDLAGyAOeAdwB3wD2APiAfYB-wD_AQAAikBFwEYAI1ASIBJYCfgKDAVABVwC5gF6AMUAaIA2gBuADiQI9AkUBOwChwFHgKRAWwAuQBd4C8wGGwMjAyQBk4DMwGcwNXA1kBt4DdQHBAOTAcuA8cB_wEEwIMAQhghaCF0EPQQ_gj6CP4EigJIQSYBJkCWYEtwJfATAAmYBM4CbgQBOAA4AEgARwBOAEHAI4AX0BKwCZQE2gKQgU-BUICuQFhALEAW4AvIBf4DEAGLAMhAaMA1MBtADbgG6QPJA8qB8gHygP3AgIBAwCCIEKwIeARTAlSBMUCZoE1BwEYABEADgAPAAuACQAH4ARwA0ACOAHIAQCAg4CEAERAI4AVAA6QCRQErAJiATKAm0BSYCoQFSwK5ArsBYgC1AFuALoAX-AwQBiADFgGQgMmAaMA1MBrwDaAG3AN0AceA5YBz4DygHxAPlAfbA_YD9wICAQMAgeBBECDYEKwIeARTAjABG8CQgEjYJIgkkBKkCXAEuwJggTDAmaBNQCbAE2x0GEABcAFAAVAA4ACCAFwAagA8ACIAEwAKsAXABdADEAG8APQAfoBDAESAJYATQAnABRgDAAGGAMoAaIA2QBzwDuAO8Ae0A-wD9AH_ARQBGICOgJLAT8BQYCogKuAWIAucBeQF6AMUAbQA3ABxADqAH2ARfAj0CRAEyAJ2AUPAo8CkAFNAKsAWKAtgBboC4AFyALtAXeAvMBfQDDQGPQMjAyQBk4DKgGWAMzAZyA00BqsDVwNYAbeA3UBxYDkwHLgPHAeSA-sB9wEAQIMAQtAh0BD2CPoI_gSKAkgBJkCWYEugJfATAAmYBM4CbgE3gJwkAEwACAAHgBoAHIARwAsQBfQE2gKTAVKArkBYgC8gGCAM8AaMA1MBtwDdAHLAOfgeSB5QD4gH7AQEAgeBBsCFYEMwIpgRgAjSBG-CSIJJATDAmaBNgCbZCBWAAsACgALgAagBVAC4AGIAN4AegBHADAAHPAO4A7wB_gEUAJSAUGAqICrgFzAMUAbQA6gCPQFNAKsAWKAtEBcAC5AGRgMnAZyA1UB44EGAIUAQtAh0BD0CRQEkAJdATOJQLwAEAALAAoABwAHgARAAmABVAC4AGKAQwBEgCOAFGAMAAbIA7wB-QFRAVcAuYBigDqAImARfAj0CRAFHgKaAWKAtgBecDIwMkAZOAzkBrADbwIAgQPAgwBCECHoEigJIAS6Al8BMwCZwE3AJwkgDoAFwAjgDuAIAAQcAjgBUAEigJWATEAm0BSYC3AF_gMWAZYAzwBuQDdAHLAPKAfuBAQCCIEMwIwASSAmaBNsoA6AAUABcAEgALgAjgCOAE4AOQAdwA-wCAAEHALEAXUA14B2wD_gJFATEAm0BT8CpAKlAV2AtwBdAC8gGCAMWAZMAzwBowDUwGvAN0AcsA8oB8QD5QH2wP2A_cCAgEDAIHgQbAhWBDwCKYEYAI9gSNgkiCSQEqQJdgTNAmoBNgCbYE4SkE8ABcAFAAVAA4ACCAGQAaAA8ACIAEwAKQAVQAxAB-gEMARIAowBgADKAGiANkAc4A74B-AH6ARYAjEBHQElAKDAVEBVwC5gF5AMUAbQA3AB1AD2gH2ARMAi-BHoEiAJ2AUOApABTQCrAFigLYAXAAuQBdoC8wF9AMNgZGBkgDJwGWAM5gawBrIDbwG6gOCAcmA8UB44D_gIJgQYAhCBC0CGcEOQQ6gj6CP4EigJIQSYBJkCWYEugJfATAAmYBM4CbxaAYADUAYAA7gC9AH2AU0AqwBmYDxwIegTMAm4WAHADLAI4Aj0BMQCbQFcgNGAamA3QBywEBAIwATNAmwAA.f_wAAAAAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725573222031
+                    }
+                ]
+            },
+            "dtype": {
+                "name": "dtype",
+                "domain": "stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573215969,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "computer",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573215957
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "computer",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573216852
+                    }
+                ]
+            },
+            "_tfpvi": {
+                "name": "_tfpvi",
+                "domain": "www.stiripesurse.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573223111,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109223,
+                        "expiry": 31536000,
+                        "value": "N2QwMzlkZDctMGFkMC00ZWYxLWJkZGEtMDhkYjcwYzFlNzgyIzctNg%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573223110
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223251,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109223.249158,
+                        "expiry": 31536000.249157906,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223251
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223250,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109223.249093,
+                        "expiry": 31536000.249093056,
+                        "value": "a5a6c0a1-bff2-4151-967b-e0a31466790d-tuctdd3ade7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223249
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573223251,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109223.249129,
+                        "expiry": 31536000.249129057,
+                        "value": "a5a6c0a1-bff2-4151-967b-e0a31466790d-tuctdd3ade7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223250
+                    }
+                ]
+            }
+        },
+        "/somasocial3371/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/somasocial3371/",
+                "current_label": 0,
+                "label_ts": 1725573223252,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_331b37d61b38b4cb161e89659d17b334_a5a6c0a1-bff2-4151-967b-e0a31466790d-tuctdd3ade7_1725573223_1725573223_CNawjgYQgLVbGLqkt6GcMiABKAEwJjiJ6AdAsvEHSOzZ2ANQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573223252
+                    }
+                ]
+            }
+        }
+    },
+    "cdn.taboola.com": {
+        "/": {
+            "abLdr": {
+                "name": "abLdr",
+                "domain": "cdn.taboola.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573222507,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725584022.506099,
+                        "expiry": 10800.506098985672,
+                        "value": "27",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573222506
+                    }
+                ]
+            }
+        }
+    }
+}

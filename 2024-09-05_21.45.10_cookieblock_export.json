@@ -1,0 +1,797 @@
+{
+    "loblaws.ca": {
+        "/": {
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565446688,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760125446.687042,
+                        "expiry": 34560000.687042,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725565446688
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.68831205,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725565446689
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.69024491,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725565446690
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.69236493,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1721e456-5627-4e88-96d5-750f12401106",
+                        "same_site": "lax",
+                        "timestamp": 1725565446693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.69340491,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1721e456-5627-4e88-96d5-750f12401106&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725565446694
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.69670391,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1721e456-5627-4e88-96d5-750f12401106&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.loblaws.ca%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725565446696
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.86176896,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1721e456-5627-4e88-96d5-750f12401106&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.loblaws.ca%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725565446862
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.86205602,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A06+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1721e456-5627-4e88-96d5-750f12401106&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.loblaws.ca%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725565446862
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.723321915,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A44%3A37+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=1721e456-5627-4e88-96d5-750f12401106&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.loblaws.ca%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725565477725
+                    }
+                ]
+            },
+            "Origin_Session_Cookie": {
+                "name": "Origin_Session_Cookie",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565444011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444460
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444920
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445540
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445601
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565446036
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447140
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447151
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565448881
+                    }
+                ]
+            },
+            "PIM-SESSION-ID": {
+                "name": "PIM-SESSION-ID",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565444331,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rSJjd5rnN51TPg1W",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444329
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565443415,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757101443.399536,
+                        "expiry": 31536000.399535894,
+                        "value": "A02792646938EE5B44E9CECDBF85800F~-1~YAAQixwhF8jh7sCRAQAAfh23wwyuHjdBuOV3yWrC+mSZhJcqIjNiv32YBn51bBmc8NRkJxhAIV3+nZe+FZG10gKglUISjjfa7rBwK3y/ZMCW2Fy27HHA7pXQMiQnQYfm7Y2LQAJPJQHlCE35qhtn0JzQB+Z2fe84x4ZvClSa+4lgGkcR5R5u1xU2YGDj0MoD1SetmSkYF4VQZBxN3ra6gDR97es+7Heiv5wsv9TSHZp84BCx646iNL1i4REMW3EiHYed15TT7vtRBAqmYxi2w1rWI6/54aqSNAPhF+YmeAx0/gvs8YP6T/XsjO9CYJAM2DzZ+8QnvQWyZVLaYLXgc2ljzQ+WtqXJ46hWZHowFvCPsR7hhHlL5lwHzA4=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565443402
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.58130288,
+                        "value": "A02792646938EE5B44E9CECDBF85800F~-1~YAAQiRwhFybUR7uRAQAApyG3wwxAwZ1mwsbM2C3aTff1utrVK0R+rTu2egDAulBt/d7Nx0nNd5fxCXfPDR6M6HCyq+tvvV5vmijaekdfwSx94vGxrCqPfAZLJhl6BoYdvK2AzqytTOXQx8s0XI5rHrdXRrVPDoxinDzn15Ym+cWH/WYyJUzgJE/gvlXOBn+1tM56ukC2zaA0kWoHuGEgYVg83NM3x3KYfXz+lKGmrA8kPzy90O2vbaCoQsgaYRrK7Z76agvngSmpAXsjRJa8N9MfHkFL0TOjyFLC2lIcaw7XFLxJpx5Wkt1E9B0rSDHidXz8wDQFf00S5Ofn8rLiKEHLBzfEREXt69ThscBeJRalHiirgO5wz1vI5LBv9oWxp5DlKT+16qGFKw==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.998436928,
+                        "value": "A02792646938EE5B44E9CECDBF85800F~-1~YAAQiRwhF9/UR7uRAQAAvCO3wwzBk6CgrIwadxGmAejEhWDtAJqIm4lmrvBfHSBHZttFzH9OL59rqjhEBC28L/4cOF0akkEAP9fIyYuxKhhYNHESGV6kb3nd5/TyGde6L4eFDXTPpLGGZ9c6kb66RO2ZT320rvz+bOmCO0qfKXrrMm8Ea47GH3dZwg4QFRwWYA6DJEnp3EslxN8wXWSBi9y+BkDAswL/jaq5gXQw8XU8kAyAw705c3Sa6qL9zmKAqwohTKcsQl7urlyjYA5HxTIvmNfmUu5n3fMm3oJlcA/5Ht5xENMCybCiFXjs8Zjq/1RuppLQ9bmxE10f/1raWu4QjufuqcNUD9QYQRKxfmhdX+fb1s1g4oSfb3htu/q00Jddwnflyr65gg==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.539235115,
+                        "value": "A02792646938EE5B44E9CECDBF85800F~-1~YAAQiRwhF43VR7uRAQAA2SW3wwwvZGoe0pW+1AH/118sPxI+wBlzUyqIfo4YjubL0RD911Kbo9s/YlTMiq++s/Gm+RKCE18KZ2/IGF9YkoiReVU54qj5YilUwsppcTClnxtL36kvhe6I307T7B0AHPZCOCVieGFlJYnsAYRtM5TW2x2JKN/b3cEYTMdM3TvhsTvMIW5jLyvvnqgFCAsl1fLvaegLotfVTZsBXqJk2DBTwcyOlYjcSnklOWSGUgLXH659/cEL7+nDxdASghEVY3vXGPCjpFwFffhf2KU0pEtLE1KCNhU8w8gAU+DUuzsySvtt0TXBP/XLxbo4hrUkiVnWkYnlSjiPpl6ocvYG7UTR0l8z4rpnLfB/AdRm2p3LS4j/E6VPmw8vNA==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445540
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.035559893,
+                        "value": "A02792646938EE5B44E9CECDBF85800F~-1~YAAQiRwhFx7WR7uRAQAAxye3wwyGsr0hcQYMXjbEoG9WZUj0QkIKmBB3+gQejK3g6yfe6wXqLZ5rK/Dtweb+g4kvzt8gVPljK17CPOIQY6jryQsci+10UQD836HoCs2Qn3GoGMdkvJHbMJ/qeoPSUUiSvTXcUZ6HbeVrUQ89p2A1pKB0UDRhNsINwuqaTFc1uxXY84yGswaNXYSjqs+hmUEiRz99B6ZmTuM6ZmKsJVD9rBHnEzEwNSLYzq2AwS5pH/ovBlm10GCeZQZkmKh+K37AJyYdpLg3xxjvF93nf4trMT+Q9wClpXw4v6/7pDKaWt/VQalo2osLZ0T3wGk8WSW+KA8Xht6MkYFED80tDgqyfYuiRbdh6SVq0ygGDwnRDxMG1+6/KdDOcg==~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565446036
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725565446952,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733341446,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725565446951.171876307491575607",
+                        "same_site": "lax",
+                        "timestamp": 1725565446951
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725565446951.171876307491575607",
+                        "same_site": "lax",
+                        "timestamp": 1725565446954
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565444017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.94962310791,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF2UelbORAQAAkyS3wxn+4n+2guMePQC9TuS0ebjAJd+mCwkZqUW3gX6PdMrmy0tUxUArVP3JLnpE2FRqjITvgNTOEGv05sFY1a50dSS/v4RHm931UA74oQo0rIAVDz0u3JdLZnKzyr1Pu+64PzRd+9YY4n3oxOrci8ip54QTLy+MXtP9GGgrHmmX+BkTD8cq9DIqT0pv/opKOmOn3UX5YaEEUEotBfwGR9jp7VTwNGu43eAy5kbWdyBLHRMz86WVmXKK27ONRrAfkEVrOddZMLP19wyYjCqOjDbUSg84sIFfbP69Xpt3M1k56kc12refvBUG+XIZkxt9hNgjGgLcf3kvcJvokXl8EYs5je8XFMJuM055QFOljxOPpPJ2Arfr3mfFxPo23J1GwFkljzI2hSnsAiZ02aX1An2LrMYPpDcg2ZZcRcihmHo=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445950
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.950573921204,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF3AelbORAQAAnCS3wxlpXO4Ub20WTkin9zWZmqtfM6CkN92p9T01a0rMQ58eM8FqatazVq7DNJolNeFyAjv9gp8o1/RDAAeXth2bVORo4Y+aifL4MdM2Ozm4jaV6S+XSVnPECktdgXboLL+YRZKXuKnNTe9KBaQNwBVPrH9IE9use2YEjdf6VsOtRVzE8bZYwQ3vcz/mUEPkmYo9QKhicNWWnVET+8+VV0GAvvYkLCRH2lw2LLRix8T9xRd8QdXclMmbC60xPn97Iha8ZCQApLaSrI35R+xS70Ue5zGuX5SYJUy9p4vTraoS+CUXZBLenMRCAowr3VGdj4yyR+ox7zTD9Lpx2u/gRRg29b/FOCkRe51W9P0svl8KitYrzJUsOtCC7d5r/fHwgrsK/Aeq4gzRoDH2IeTgBChXZfyyVn820hbceoljOKU=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445950
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.951236963272,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF3kelbORAQAAoSS3wxn0pC7ty7Pm0tkR1IqC2D22ql1tyJP083h6eNiG6EyA+eGAkpwkNud9am1asM+yImhbsxUDAokA/j8zfu48HjWZKyNy6+kgF9YGvbg5gYioLHJ4H6MKHaGNp8r1ruI1+2riTUVt1f6Kv16AiD52gMwoD4EVVANp5qGWB9zehknNt1whrZc1p5GuJg8Bdar/jOt0izM9FA6yV2WP7es7x0jgvXgG/xot474DKr3aqkd0JZCGNob+nenWVuSTCwiX+hTW7CZxd3AZMou/ivEhl+tBhvNLAi8XMj8h0vj/lPC0qHBwBaRKGRQXsU+zs0so01O/55WCw+VzrwyYUL+CmaEA9hEfFY+GYknC5UnWNpzYyQZIR7xldepyfwG1GO9MwMAYVwM88WjilF8NgtBEFh192ljfXvKSpGSCJ8M=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445951
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.957573890686,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF1QelbORAQAAkCS3wxn9aklxq+tfp9CiG7QBS1YnAxU3ALGSk9+fBa/uxwx1bFWTpfQWOov9JWHMT8Y7TouDOp2j6RUIjBONDIY41YbaJ2iECGzxvaav7phrkVbw+TKgBc43VOqBgNqEQYNYXaIkKrbIkqfVKe+4twidD1KyNVCE6HRDp/3WIYwUgEfy56QOhvIGLxpMUfyxrVMWxOVtXPd5aZQVdwuaISgq2wdSzaLX8bOyPshEsLsveTZwvHANaQ17bByLj0RYyp1ZyvABVwwQvMApfS+oHf7drT7NzCUxMIjLLsiEZlXi515o+qjEw+uZ1no/agz4BOcwkTcvprpwzzjamZBxYmXnb7j20F9g8VRd3PLvU3tJ8GgL+ZHE2Jsqe2rdkoVgeCiyuOHFcedfdF8Iyr56vwUqRVSh6Rh52g7EPVpKTYg=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445957
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.9580891132355,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF1YelbORAQAAkCS3wxlKToXxrxkxl3xP27t4b1kG7pM3yvhG2zndmhIofHkCGvDljRmlJhaqM1TdQbpBhcfzV0lTlX9QPNtAV/6fdrHfR81JPOKApQIwMxlW/AfHQJ/ZHD41Kh+oynuh8AHlRvQFestgDgn1QTO63x8ETzDGsaKvVaQZDGASEgRMyzzqn7JVQmfKjv5x11PeZR9qa/RjRy10dSW4q5p+KqUNgARN621/cxi2dJ4tpXOVU0s+8Rx6WcyA5uHWiwJ4ElnBEIsOaezzoofYWFsk0MYUfIYe6ZK8FUIhrrmKg77wGa5c6Qa47DUZm7jLOQDsaed4YArvGMnZzJmcZjzHnD804d/OdlcuDRdjZDdCxO8kvax/LdRGyu8VyaLAyVJu6wUYY+0KYZTR737PkGSlnXeHXBRrLDQwNB35Ktw0o7k=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445958
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.95907497406,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF5YelbORAQAAvyS3wxlUEforjEIxRp9mJXTY/kFtG576E1D7rRA3g0Isrp0wq3rK9zkyV1cmccHIV9t78TqaRgrdEWS+cFR/z1W9NTTIpBJIiCWgd0pqYdEFKpD4CZXgbwMN2PDtNfNbUZtrnivQou52H85Wm/80WZDRfLPPwfysPJeyN5YreJQfqq8thX4tZHVCnYlRLG+w/EjbZHrTGo8gsdLQKZZuSE/Au9YV2g0L7zagYR7G0W/63KcnqrJaZYUTAm2Etvf167umd+3dQTXP7913V+CrMbtQrcYdWHLKzDrTRQPz023EAdXn81uppYqFewJZ9wzh8R9JnaQySKEnJyCp6JTwzto5QinhcCcMHCLshObo0pDBa0zJvYqGp0gjRO+Ui6+zDFMtBPD/ce+Ye0dsL+uG1doVbjNrHI8kbkb/nFzO7sA=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445959
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.959827899933,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF1UelbORAQAAkCS3wxlaRKYZrJHP1aJjvwEZNgMHNZa/XZktSx3JmY+aqAjaGhjB5+FcpDMB4fxFzsB/RgcC50UJ6fv6BkvODybsqY8styyjVb9a+bFwdvjZQ5Y3kec98HUUsgyqSg3Yo20t3kYBaZKOL8V1KRqicoq+X7klNRBY3ZvrPPYfhshcQYMx+SILbsAE2seqJbljzr4yKHn88+oueiE9OgIF63Cd9UIie9Dnm2TNXtsWuuRhnjEykGRhED7aXJkBsE3QoaE9S/chMQ32G+vpCB4cbTZI2NdyiboIAD8kfRIaL4F0z4KCI9tFxHNfzFF+madcqYBHC/xiCpeYOfGCkTzGhJd4cZOaBGSuR07lzKuWmUQJGF0hv9p7pwb1+zkr3+TS9Bnn8H4IOmIbbhN1/nnW5XQN/Ek4uU/DGokDIhw95PI=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.960377931595,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF4kelbORAQAArSS3wxktV+PaZnJdEdoaXTVrzMUs9q6binqdX/eT2QVx1fdpXzTyygxPUq/qx7vJBLnBFidyGIi5UaXpRUMu+o+jsZLtyVVKYWdPu2RDwwBJRoKOeUt1ViMEKS1A2rKC3Zkk043gxkJIMB1QzX6HS4eKUFB9AGfm/wskKZPORTMT5fZcvJMorN9N88dgZdit+P1DFy1xJHaz5LwNoOfMBVEJYH/T429uzLr/Ql6kXktCylDZnZprJYBUNzwG29BO01gObPHKB5r17AZ469UBvWwFsDGhsPRvRalZADF/wK7lXcJ6H27sPx+91NPMgd/9U/5h9oPe412ZnAbG6UCPlmcAFlRRPWzdygCUeJHI5a8F73SVo4K4eSbs+yZP++nOmXV8E6y8IHmjJM/U/SlQsgBJq9Pm3szkNewDi2IK+yk=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.961172103882,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF2celbORAQAAlyS3wxlmI0VH/h5kjgd/+yWlm0o0P41ArgyYzVm9HHk5IVauy1U0l3sggzHoPr453XjOk4NRHQd+Jc/S61IYW8Gw12aiYgE7zOf3KETXfNptzZG0ZFJr627l+5rvuq+W9pUFyZzn6WYeF0S+TYNJu/v7rEPqPc4OXGvl7Pcwvz25TZCcadgr0Uz7HTAfrX/35QvVkYvRoa62ASjh2WhBixIaq8iRQxqYx8BCP5z13EACmsPZnQlnyD5nz59n+gwUNVwDRqH8fMwx7b0/yOuKK2AIorH4xIcd7CByTgtYHkam0lDVP3J3sc+6207jY0qLtpN8oIBkDYuoZJsO00TAYB7KobvFYb1lCplhXwc3/LiPyJp4yODtysmNtdfE9IXq6Lh9U43veFon72/6OmHAU5lCvHbdhUWftMJMjIZbXn0=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445961
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.961602926254,
+                        "value": "54A944F23E047F42832F274608EA7628~000000000000000000000000000000~YAAQ8xjQF2MelbORAQAAkyS3wxm8TGsXto9PAFQY2OIjJDynyvYyjdXNiavyMqNZEpGaSpy8yMi/fy1axV1lwDbisisLWu0dl975Nki1tSSeMtN76R4JdlVe82ojOCDgpI6K2nQaaKlKflda1KGOKfLgiR+lFHCnqE5Eiass+ztB7QVTH80tUcQ/oVvZ3ndcH7vFd1rtjhOZXdZ2LgfEuVh2ry6dwdNdvEhAO1c3uqMRAxLcm9hZIwMYtiqJuLILSTpDyyXYpm0r1wt1RcWcPHIDzb3YMpQYw15D4LBMkQ2i/tkqHOAGCqP1yS8Xagzrig2lUGDDCzjrcbmSFdWI56UmU60iUO5TrZSumBeTE0CxAkwCJqPmk9hzt2/a3cyStqTRnXH2VxAct0FWxaEydgeD673zkL/3ZZAMfjQKGNITindPxYRXgCvQPkOQfq8=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565445961
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565447144,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725572647.134614,
+                        "expiry": 7200.134613990784,
+                        "value": "1E7EF3E8227039D211A1257CDF144DED~YAAQiRwhF1zXR7uRAQAAEiy3wxl0WT1Ifm7KOjzps9ql8XJsybGiwLVWyg7ociBv1ikTvx0q8tr3LgyiVbvvGM0/ZgTK1IeKqjX/fujUSczDEvbtDOvZLUGWGEre6LVJ6uRIodtvicDKxIq2F9R9hhXnQa1U3bF8VKbO18ogpUxGTpS9t7NxKU4zuXltOIPdtsOJPLU5zPmTFM+4hyfHopQsizWgUtn+yiUsR1vfXInXbvbwVkMnzEzAebvLSSxO~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447141
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.148344993591,
+                        "value": "B346AEE78022092BA7E96D6026C65B7A~YAAQiRwhF2LXR7uRAQAAIiy3wxml94tkpxrWlnNFu6rBBQeI5dgM2RlpXoFk+1gM7kdBy26HF2vnp1IQ8XsOZA8IfiyZQH0K44MWCZXkwwcfIPlQoV/Yk/sh8/Key1FKQt6G56J1qSpRb9irBGkLqcqYV4ntOrPJGYU2Dvcx6vxBuVOHrMd6chCEq+r2u/lYxDX9k6C6O/fCegxzIt827lEdzykeYCTxjMHoVoIYf3sIJDPjMu4QbMr6cBw28qCh~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447151
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565443426,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725579843.399664,
+                        "expiry": 14400.39966392517,
+                        "value": "31A762FA402EB3493C3B15BF4F3375FB~YAAQixwhF8nh7sCRAQAAfh23wxlGLgMQYCq8iutF6V51Y7aqZ2rWG+9pF22KHs2R1LZmFKnyoXCGD3Oa2XMATQyb1bV7uEmNNzO/+dB8j2FfxAwt6qpMSSAPwoJrjWCy8vB4q6P+lJyzFzOEwG8Ga5CdG9/pS+F8ZHdpQEbAob8aMJgrshTG2iKGYr1D6+OJJyjB3EynAh23bMj7Sf0ElZCMc4TybUfv9Jp6ZK6OW2WXldJ4+1NrIE4ED5y/WjLNM295g7QqvMv+StoAaQ62hptldJiDRLyVr9gyet1mzC4VAQD8GLj73o4aOXr1Pz1gTXOdgob/WrA5k83a7P+G4sfYbFZa7E3GLT7dmDxT/Z0pLXAqJJ7XNtTLg2n7ZlU+qJsL~3290677~3552067",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565443416
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14399.003086090088,
+                        "value": "31A762FA402EB3493C3B15BF4F3375FB~YAAQiRwhF3nTR7uRAQAA2B+3wxlwX8T54bYYZoii+JKIrCOm4el6/3D2KLu/XAbkh/FuRNulxC97zEGX7bacsXflfmmZcb+xpzFeh0U7ghBMvke8/26dPHbcFeViwfiAForbntSU6GF+LuytAcIPaS0EbmXMyyKU36qeTqTkge1HHEzT+sEiHGQp7qHm4OSb7urmdq7I1G2z32QFu961ocSPsE/LyDKiOmufTNmIyPLhDmvQOgM+hGSjD8+XmRWGK9Nl3oHmPSRnGNFy9zFxbBOfM2pFDtg5dQQCeHe5ya4PsUK3rKJeG7anbA5DcP75nV2DZXezbGtknSshIiknfQSsnXPBSCYBEBsEGmwJHS0I+GPcpGzvJgR7beYYwvyKgEEx269ecCM=~3290677~3552067",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444019
+                    }
+                ]
+            },
+            "moe_uuid": {
+                "name": "moe_uuid",
+                "domain": ".loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565448603,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7bbf752f-4f24-4283-884e-0254dbaec214",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565448602
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7bbf752f-4f24-4283-884e-0254dbaec214",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565448786
+                    }
+                ]
+            },
+            "ADRUM_BT1": {
+                "name": "ADRUM_BT1",
+                "domain": "www.loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565447140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725565477.134553,
+                        "expiry": 30.13455295562744,
+                        "value": "R:23|i:352465|e:1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447139
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.148253917694092,
+                        "value": "R:23|i:352468|e:2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447151
+                    }
+                ]
+            },
+            "ADRUM_BTa": {
+                "name": "ADRUM_BTa",
+                "domain": "www.loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565447137,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725565477.134503,
+                        "expiry": 30.13450288772583,
+                        "value": "R:23|g:d4c289c3-4b58-4871-ab04-3f302cd079aa|n:lblw_afe7f4d6-4637-4e11-95bb-0a169ff97498",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447136
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.148154973983765,
+                        "value": "R:23|g:0d693fdc-7149-4f69-9cb4-423b515b3a3e|n:lblw_afe7f4d6-4637-4e11-95bb-0a169ff97498",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447150
+                    }
+                ]
+            },
+            "SameSite": {
+                "name": "SameSite",
+                "domain": "www.loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565447138,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725565477.134527,
+                        "expiry": 30.13452696800232,
+                        "value": "None",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447137
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30.148190021514893,
+                        "value": "None",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565447150
+                    }
+                ]
+            },
+            "akavpau_vp": {
+                "name": "akavpau_vp",
+                "domain": "www.loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565444013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565744~id=e03fd8714bf9f8b54055982fb65a85ae",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565444011
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565744~id=e03fd8714bf9f8b54055982fb65a85ae",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565444176
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565744~id=e03fd8714bf9f8b54055982fb65a85ae",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565444582
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565744~id=e03fd8714bf9f8b54055982fb65a85ae",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565444921
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565745~id=b46c257198ea997e851fc58b0cd5e2f4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565444999
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565745~id=b46c257198ea997e851fc58b0cd5e2f4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565445540
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565745~id=b46c257198ea997e851fc58b0cd5e2f4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565445601
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565746~id=a98bdd6bc6f0066ef42708c116d684ff",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565446036
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565747~id=074919a25e4575a63db8db010002b2f6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565447140
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565747~id=074919a25e4575a63db8db010002b2f6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565447151
+                    }
+                ]
+            },
+            "customer_state": {
+                "name": "customer_state",
+                "domain": "www.loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565446943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725595200,
+                        "expiry": 29754,
+                        "value": "anonymous",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565446942
+                    }
+                ]
+            },
+            "lastVisited": {
+                "name": "lastVisited",
+                "domain": "www.loblaws.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725565444704,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760125444.702004,
+                        "expiry": 34560000.702003956,
+                        "value": "1725565444701",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565444702
+                    }
+                ]
+            },
+            "lcl_lang_pref": {
+                "name": "lcl_lang_pref",
+                "domain": "www.loblaws.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565444007,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757101444.002106,
+                        "expiry": 31536000.00210595,
+                        "value": "en",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565444005
+                    }
+                ]
+            }
+        }
+    }
+}

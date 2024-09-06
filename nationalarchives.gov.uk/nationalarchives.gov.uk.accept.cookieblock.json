@@ -1,0 +1,110 @@
+{
+    "nationalarchives.gov.uk": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".nationalarchives.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623771514,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183771.511842,
+                        "expiry": 34560000.51184201,
+                        "value": "GA1.1.212225449.1725623772",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623771513
+                    }
+                ]
+            },
+            "_ga_2CP7QT8TDG": {
+                "name": "_ga_2CP7QT8TDG",
+                "domain": ".nationalarchives.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623771512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183771.510535,
+                        "expiry": 34560000.510535,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623771511
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.511343,
+                        "value": "GS1.1.1725623771.1.0.1725623771.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623771513
+                    }
+                ]
+            },
+            "cookies_policy": {
+                "name": "cookies_policy",
+                "domain": ".nationalarchives.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623762619,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733399762.601892,
+                        "expiry": 7776000.6018919945,
+                        "value": "%7B%22usage%22%3Afalse%2C%22settings%22%3Afalse%2C%22essential%22%3Atrue%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623762606
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.7191329,
+                        "value": "%7B%22usage%22%3Atrue%2C%22settings%22%3Atrue%2C%22essential%22%3Atrue%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623768730
+                    }
+                ]
+            },
+            "dontShowCookieNotice": {
+                "name": "dontShowCookieNotice",
+                "domain": ".nationalarchives.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623768730,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733399768.719004,
+                        "expiry": 7776000.719003916,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623768720
+                    }
+                ]
+            }
+        }
+    }
+}

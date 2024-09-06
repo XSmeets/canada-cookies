@@ -1,0 +1,67 @@
+{
+    "theguardian.com": {
+        "/": {
+            "GU_mvt_id": {
+                "name": "GU_mvt_id",
+                "domain": ".theguardian.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725618331707,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733394331.693127,
+                        "expiry": 7776000.693126917,
+                        "value": "526975",
+                        "same_site": "unspecified",
+                        "timestamp": 1725618331696
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.81440711,
+                        "value": "526975",
+                        "same_site": "unspecified",
+                        "timestamp": 1725618331816
+                    }
+                ]
+            },
+            "GU_geo_country": {
+                "name": "GU_geo_country",
+                "domain": "www.theguardian.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725618331717,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725618331708
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725618331817
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "heureka.sk": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".heureka.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725572058080,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725573858.079008,
+                        "expiry": 1800.079008102417,
+                        "value": "5rr_BOiqt4r.JIwdOfS_t5g7.AxkKZPn4q_VsGmGQ6k-1725572058-1.0.1.1-nnWixUuKFxekFv6YDxKr6APxgDBWvgeareRsqBYC8rPK80Ohcgw0IcqrjGbXWm4GVzo6OIQ__3os.IWxvjU.uA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725572058080
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.0930080413818,
+                        "value": "R3Ex8RbmE0IkI4Vvf4mu0P5k1pC.uXrXt4KGjEALWTE-1725572058-1.0.1.1-U2rnpByP_baV5S_Zd28tQ26SbL9nBz63texpLuyQX2SfnJ_MJE6YAsSlkyQBi4Z75dyLMXqJ2C8acSHYLAMhfA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725572058094
+                    }
+                ]
+            }
+        }
+    },
+    "lidl.sk": {
+        "/": {
+            "inSession": {
+                "name": "inSession",
+                "domain": "www.lidl.sk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725572057477,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725572057472
+                    }
+                ]
+            }
+        }
+    }
+}

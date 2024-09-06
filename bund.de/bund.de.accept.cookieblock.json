@@ -1,0 +1,171 @@
+{
+    "verwaltung.bund.de": {
+        "/": {
+            "_pk_id.af83f5a8-8ad5-486f-a23d-b58498b69fad.a86d": {
+                "name": "_pk_id.af83f5a8-8ad5-486f-a23d-b58498b69fad.a86d",
+                "domain": "verwaltung.bund.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615360013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759570560,
+                        "expiry": 33955200,
+                        "value": "80d13e3f870838b9.1725615360.0.1725615360..",
+                        "same_site": "lax",
+                        "timestamp": 1725615360010
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955200,
+                        "value": "80d13e3f870838b9.1725615360.1.1725615360.1725615360.",
+                        "same_site": "lax",
+                        "timestamp": 1725615360015
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "80d13e3f870838b9.1725615360.1.1725615360.1725615360.",
+                        "same_site": "lax",
+                        "timestamp": 1725615360020
+                    }
+                ]
+            },
+            "_pk_ses.af83f5a8-8ad5-486f-a23d-b58498b69fad.a86d": {
+                "name": "_pk_ses.af83f5a8-8ad5-486f-a23d-b58498b69fad.a86d",
+                "domain": "verwaltung.bund.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615360018,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725617160,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725615360016
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725615360020
+                    }
+                ]
+            },
+            "isPiwikConsentSent": {
+                "name": "isPiwikConsentSent",
+                "domain": "verwaltung.bund.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615359056,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701759.05564,
+                        "expiry": 86400.05563998222,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615359056
+                    }
+                ]
+            },
+            "isTrackingConsentGiven": {
+                "name": "isTrackingConsentGiven",
+                "domain": "verwaltung.bund.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615357848,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726220157.839247,
+                        "expiry": 604800.8392469883,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615357839
+                    }
+                ]
+            },
+            "ppms_privacy_af83f5a8-8ad5-486f-a23d-b58498b69fad": {
+                "name": "ppms_privacy_af83f5a8-8ad5-486f-a23d-b58498b69fad",
+                "domain": "verwaltung.bund.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615359052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701759,
+                        "expiry": 86400,
+                        "value": "{%22consents%22:{%22custom_consent%22:{%22status%22:1}}%2C%22domain%22:{%22normalized%22:%22verwaltung.bund.de%22%2C%22isWildcard%22:false%2C%22pattern%22:%22verwaltung.bund.de%22}}",
+                        "same_site": "strict",
+                        "timestamp": 1725615359050
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "{%22consents%22:{%22custom_consent%22:{%22status%22:1}}%2C%22domain%22:{%22normalized%22:%22verwaltung.bund.de%22%2C%22isWildcard%22:false%2C%22pattern%22:%22verwaltung.bund.de%22}%2C%22visitorId%22:%220ee387bd-65b0-4d89-8850-a9bc2d8969c4%22}",
+                        "same_site": "strict",
+                        "timestamp": 1725615359056
+                    }
+                ]
+            },
+            "sscn-ac44c67534e0d3ac": {
+                "name": "sscn-ac44c67534e0d3ac",
+                "domain": "verwaltung.bund.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615348179,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "b3abf2b98643afdc92e4a46642757e82",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615348170
+                    }
+                ]
+            }
+        }
+    }
+}

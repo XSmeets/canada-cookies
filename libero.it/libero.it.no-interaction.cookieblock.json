@@ -1,0 +1,162 @@
+{
+    "evnt.iol.it": {
+        "/": {
+            "evntuid": {
+                "name": "evntuid",
+                "domain": ".evnt.iol.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725579853195,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ZtpCTQoCDU0AABpiHakAAALu",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725579853193
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ZtpCTQoCDU0AABonlVIAAACi",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725579853197
+                    }
+                ]
+            }
+        }
+    },
+    "imrworldwide.com": {
+        "/": {
+            "IMRID": {
+                "name": "IMRID",
+                "domain": ".imrworldwide.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725579853320,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759275853.317997,
+                        "expiry": 33696000.31799698,
+                        "value": "c18797f0-6be0-11ef-974f-8158d3969754",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725579853318
+                    }
+                ]
+            }
+        }
+    },
+    "libero.it": {
+        "/": {
+            "HPtestAB": {
+                "name": "HPtestAB",
+                "domain": ".libero.it",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725579853167,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757115853,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725579853166
+                    }
+                ]
+            },
+            "iub_storage_available": {
+                "name": "iub_storage_available",
+                "domain": ".libero.it",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725579852669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757115852,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725579852668
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725579852670
+                    }
+                ]
+            }
+        }
+    },
+    "italiaonline01.wt-eu02.net": {
+        "/215973748390194": {
+            "wteid_215973748390194": {
+                "name": "wteid_215973748390194",
+                "domain": "italiaonline01.wt-eu02.net",
+                "path": "/215973748390194",
+                "current_label": 2,
+                "label_ts": 1725579852208,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741131852.194347,
+                        "expiry": 15552000.194346905,
+                        "value": "4172557985200122782",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725579852197
+                    }
+                ]
+            },
+            "wtsid_215973748390194": {
+                "name": "wtsid_215973748390194",
+                "domain": "italiaonline01.wt-eu02.net",
+                "path": "/215973748390194",
+                "current_label": 0,
+                "label_ts": 1725579852217,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725579852209
+                    }
+                ]
+            }
+        }
+    }
+}

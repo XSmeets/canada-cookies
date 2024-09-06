@@ -1,0 +1,1626 @@
+{
+    "aritzia.com": {
+        "/": {
+            "ADRUM": {
+                "name": "ADRUM",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563700699,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "s~1725563700698&r~aHR0cHMlM0ElMkYlMkZ3d3cuYXJpdHppYS5jb20lMkY=",
+                        "same_site": "lax",
+                        "timestamp": 1725563700698
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "s~1725563706862&r~aHR0cHMlM0ElMkYlMkZ3d3cuYXJpdHppYS5jb20lMkY=",
+                        "same_site": "lax",
+                        "timestamp": 1725563706864
+                    }
+                ]
+            },
+            "AritziaSiteCookie": {
+                "name": "AritziaSiteCookie",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563686318,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728155685.282765,
+                        "expiry": 2591999.2827649117,
+                        "value": "Aritzia_CA|ca|en_CA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686317
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563700678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123700.676146,
+                        "expiry": 34560000.67614603,
+                        "value": "2024-09-05T19:15:00.676Z",
+                        "same_site": "lax",
+                        "timestamp": 1725563700677
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563691556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.680028915,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725563700681
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.69474697,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A00+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725563700695
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.66910505,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725563701669
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.669416904,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725563701670
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.67010307,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1725563701670
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.67180395,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1725563701672
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.672796965,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&geolocation=CA%3BON",
+                        "same_site": "lax",
+                        "timestamp": 1725563701673
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.6797359,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1725563701680
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.679955006,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1725563701680
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.703188896,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A15%3A01+GMT%2B0200+(Central+European+Summer+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4c8a16f8-114a-4e0a-a02a-10c720713110&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1&geolocation=CA%3BON&AwaitingReconsent=false",
+                        "same_site": "lax",
+                        "timestamp": 1725563701703
+                    }
+                ]
+            },
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563686322,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725565486.283357,
+                        "expiry": 1800.2833569049835,
+                        "value": "j7PH5z75jZSRxzOer1LtfoujSMRcgMUKmzY0cqL12FY-1725563686-1.0.1.1-C2U1dlQ.5041zuct23ggcIokRWX7NBAclnOFYjOY1Ql5kwNq0bEqSxjBwvc5eU2aABB0Uxw8xR2lfcMuENtNEw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686322
+                    }
+                ]
+            },
+            "__cq_seg": {
+                "name": "__cq_seg",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563691661,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155691.659508,
+                        "expiry": 2592000.65950799,
+                        "value": "0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.7698390484,
+                        "value": "0~0.00!1~0.00!2~0.00!3~0.00!4~0.00!5~0.00!6~0.00!7~0.00!8~0.00!9~0.00",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702771
+                    }
+                ]
+            },
+            "__cq_uuid": {
+                "name": "__cq_uuid",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563691660,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759691691.659464,
+                        "expiry": 34128000.65946388,
+                        "value": "acgi3xrxfVnb4A1vCFxKBCogEa",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691660
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000.76967311,
+                        "value": "acgi3xrxfVnb4A1vCFxKBCogEa",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702770
+                    }
+                ]
+            },
+            "__wid": {
+                "name": "__wid",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563691147,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564111,
+                        "expiry": 420,
+                        "value": "642510762",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691146
+                    }
+                ]
+            },
+            "_dy_csc_ses": {
+                "name": "_dy_csc_ses",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563691938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725566091.935865,
+                        "expiry": 2400.9358649253845,
+                        "value": "vndhxtwuqnjozhdsk05f3rqghnyau3ih",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691937
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2400.7142601013184,
+                        "value": "vndhxtwuqnjozhdsk05f3rqghnyau3ih",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701715
+                    }
+                ]
+            },
+            "_dy_df_geo": {
+                "name": "_dy_df_geo",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563692847,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155692,
+                        "expiry": 2592000,
+                        "value": "Canada..Toronto",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692846
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "Canada..Toronto",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702152
+                    }
+                ]
+            },
+            "_dy_geo": {
+                "name": "_dy_geo",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563692845,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155692,
+                        "expiry": 2592000,
+                        "value": "CA.NA.CA_ON.CA_ON_Toronto",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692845
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "CA.NA.CA_ON.CA_ON_Toronto",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702152
+                    }
+                ]
+            },
+            "_dy_soct": {
+                "name": "_dy_soct",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563691935,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099691,
+                        "expiry": 31536000,
+                        "value": "1725563691!!",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691935
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1725563692!1501580.0!",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692851
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1725563701!1501580.-9!",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701713
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1725563702!1501580.0!",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702153
+                    }
+                ]
+            },
+            "_dy_toffset": {
+                "name": "_dy_toffset",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563692848,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155692,
+                        "expiry": 2592000,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692847
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702152
+                    }
+                ]
+            },
+            "_dycnst": {
+                "name": "_dycnst",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563692504,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155692,
+                        "expiry": 2592000,
+                        "value": "dg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692502
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "dg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702114
+                    }
+                ]
+            },
+            "_dycst": {
+                "name": "_dycst",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563692841,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155692,
+                        "expiry": 2592000,
+                        "value": "dk.m.c.ws.fst.",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692841
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "dk.m.c.ws.fst.",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702149
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "dk.m.c.ws.fst.",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702149
+                    }
+                ]
+            },
+            "_dyid": {
+                "name": "_dyid",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563692840,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155692,
+                        "expiry": 2592000,
+                        "value": "-6426636426013965524",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692839
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "-6426636426013965524",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563702149
+                    }
+                ]
+            },
+            "_dyid_server": {
+                "name": "_dyid_server",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563701160,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757099700.156172,
+                        "expiry": 31535999.156172037,
+                        "value": "-6426636426013965524",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701159
+                    }
+                ]
+            },
+            "_dyjsession": {
+                "name": "_dyjsession",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563691937,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725565491.935246,
+                        "expiry": 1800.9352459907532,
+                        "value": "vndhxtwuqnjozhdsk05f3rqghnyau3ih",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691936
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7138969898224,
+                        "value": "vndhxtwuqnjozhdsk05f3rqghnyau3ih",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701714
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563691329,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760123691.327175,
+                        "expiry": 34560000.3271749,
+                        "value": "GA1.1.787851746.1725563691",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563691328
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.651804924,
+                        "value": "GA1.1.787851746.1725563691",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701652
+                    }
+                ]
+            },
+            "_ga_E6LWQ64Q02": {
+                "name": "_ga_E6LWQ64Q02",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563691328,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.1585269,
+                        "value": "GS1.1.1725563691.1.1.1725563702.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702158
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.5440259,
+                        "value": "GS1.1.1725563691.1.1.1725563702.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702544
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.555870056,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702556
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.55633712,
+                        "value": "GS1.1.1725563691.1.1.1725563702.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702556
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.56383395,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.564107895,
+                        "value": "GS1.1.1725563691.1.1.1725563702.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.57060099,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.57090902,
+                        "value": "GS1.1.1725563691.1.1.1725563702.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.87429404,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563706875
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.87474489,
+                        "value": "GS1.1.1725563691.1.1.1725563706.0.0.0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563706876
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563688644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733339688,
+                        "expiry": 7776000,
+                        "value": "1.1.1958307847.1725563689",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563688644
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775998,
+                        "value": "1.1.1958307847.1725563689",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691348
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775990,
+                        "value": "1.1.1958307847.1725563689",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563699185
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775988,
+                        "value": "1.1.1958307847.1725563689",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775988,
+                        "value": "1.1.1958307847.1725563689",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701659
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563692012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759259692,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692012
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563692013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759259692,
+                        "expiry": 33696000,
+                        "value": "j-i4tIAoHo7dgXvImuEScJBh2oK",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563692013
+                    }
+                ]
+            },
+            "dy_fs_page": {
+                "name": "dy_fs_page",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563691937,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "www.aritzia.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691937
+                    }
+                ]
+            },
+            "forterToken": {
+                "name": "forterToken",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563687652,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123687,
+                        "expiry": 34560000,
+                        "value": "597fab39fc3b494287de4760268e4dc7_1725563687649___15ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563687651
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "597fab39fc3b494287de4760268e4dc7_1725563687649__UDF4_15ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563688561
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "597fab39fc3b494287de4760268e4dc7_1725563687649__UDF43_15ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563688662
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "597fab39fc3b494287de4760268e4dc7_1725563687649__UDF43-m4_15ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563693306
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "597fab39fc3b494287de4760268e4dc7_1725563701469__UDF43-m4_15ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701470
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "597fab39fc3b494287de4760268e4dc7_1725563701469__UDF4_15ck",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701639
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "597fab39fc3b494287de4760268e4dc7_1725563701469__UDF43_15ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701779
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000,
+                        "value": "597fab39fc3b494287de4760268e4dc7_1725563701469__UDF43-m4_15ck_",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563703103
+                    }
+                ]
+            },
+            "scarab.visitor": {
+                "name": "scarab.visitor",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563691974,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%22318879F39690F55%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563691974
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%22318879F39690F55%22",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701887
+                    }
+                ]
+            },
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563688333,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563688332
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701533
+                    }
+                ]
+            },
+            "__cq_dnt": {
+                "name": "__cq_dnt",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563686319,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686319
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563688477
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563688481
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563688833
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563693467
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701159
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701811
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701833
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701943
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563703267
+                    }
+                ]
+            },
+            "cqcid": {
+                "name": "cqcid",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563686313,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "acgi3xrxfVnb4A1vCFxKBCogEa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686305
+                    }
+                ]
+            },
+            "cquid": {
+                "name": "cquid",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563686315,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "||",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686314
+                    }
+                ]
+            },
+            "dw": {
+                "name": "dw",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563687648,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563687647
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563701467
+                    }
+                ]
+            },
+            "dw_dnt": {
+                "name": "dw_dnt",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563686320,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686319
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563688477
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563688481
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563688833
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563693467
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701159
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701811
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701834
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701943
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563703267
+                    }
+                ]
+            },
+            "dwac_bccBUiaagYFO6aaacZXJ6E64UQ": {
+                "name": "dwac_bccBUiaagYFO6aaacZXJ6E64UQ",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563686304,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-3BbYDEW8LjDw8gDCSgwQDgMrU50XB_K_Oc%3D|dw-only|||CAD|false|Canada%2FPacific|true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686286
+                    }
+                ]
+            },
+            "dwanonymous_2229be5ea6f3843440b278529e0389ad": {
+                "name": "dwanonymous_2229be5ea6f3843440b278529e0389ad",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563686316,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741115686.282529,
+                        "expiry": 15552000.282529116,
+                        "value": "acgi3xrxfVnb4A1vCFxKBCogEa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686315
+                    }
+                ]
+            },
+            "dwsid": {
+                "name": "dwsid",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563686321,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ZO9SAMCb1PBWkXwIZs0LE6eTpC6F0TuCabWGQ2rddNN_SsEh94OrX4xpayeo_kU0qpf8dlt-MU0ApJWcwUmnCw==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686320
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": "www.aritzia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563686317,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-3BbYDEW8LjDw8gDCSgwQDgMrU50XB_K_Oc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563686316
+                    }
+                ]
+            }
+        }
+    },
+    "cquotient.com": {
+        "/": {
+            "uuid": {
+                "name": "uuid",
+                "domain": ".cquotient.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563691659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759691691.658665,
+                        "expiry": 34128000.65866494,
+                        "value": "acgi3xrxfVnb4A1vCFxKBCogEa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563691659
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.76788998,
+                        "value": "acgi3xrxfVnb4A1vCFxKBCogEa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702769
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563692051,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760123692.049958,
+                        "expiry": 34560000.04995799,
+                        "value": "AHWqTUkPV8EynJ5cVqybnN0LcrIYzVU95Z-5N1pNYPK3T7JrQxtgUBKsBG2sgPj0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563692050
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563691624,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725564591.623246,
+                        "expiry": 900.6232459545135,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563691623
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.8947451114655,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563691897
+                    }
+                ]
+            }
+        }
+    },
+    "dynamicyield.com": {
+        "/": {
+            "DYID": {
+                "name": "DYID",
+                "domain": ".dynamicyield.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563692500,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757099692.498285,
+                        "expiry": 31536000.498285055,
+                        "value": "-6426636426013965524",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563692499
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.090749025,
+                        "value": "-6426636426013965524",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702091
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563689188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759259689.186631,
+                        "expiry": 33696000.186630964,
+                        "value": "2lfGP1KSiwjLyZ44fuJWpTd0o0R",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563689186
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.06468201,
+                        "value": "2lfGP1KSiwjLyZ44fuJWpTd0o0R",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563702065
+                    }
+                ]
+            }
+        }
+    },
+    "recommender.scarabresearch.com": {
+        "/": {
+            "cdv": {
+                "name": "cdv",
+                "domain": "recommender.scarabresearch.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563691973,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757120643.970745,
+                        "expiry": 31556952.970745087,
+                        "value": "318879F39690F55",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563691971
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31556952.886226892,
+                        "value": "318879F39690F55",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563701886
+                    }
+                ]
+            }
+        },
+        "/merchants/152C6650A47F84E9": {
+            "s": {
+                "name": "s",
+                "domain": "recommender.scarabresearch.com",
+                "path": "/merchants/152C6650A47F84E9",
+                "current_label": 2,
+                "label_ts": 1725563691973,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1B8FE1B00B011545",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563691973
+                    }
+                ]
+            }
+        }
+    }
+}

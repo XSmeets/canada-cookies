@@ -1,0 +1,27 @@
+{
+    "gov.ie": {
+        "/": {
+            "csrftoken": {
+                "name": "csrftoken",
+                "domain": "www.gov.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725616676307,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757066276.287539,
+                        "expiry": 31449600.287539005,
+                        "value": "T27fssdqtnd2PjdPQcxNwaYn4K6Uta6t2SQMR08aQSuoQUVaYwE4Vu447zFkYG5E",
+                        "same_site": "lax",
+                        "timestamp": 1725616676293
+                    }
+                ]
+            }
+        }
+    }
+}

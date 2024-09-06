@@ -1,0 +1,27 @@
+{
+    "polisen.se": {
+        "/": {
+            "PolisenConsent": {
+                "name": "PolisenConsent",
+                "domain": "polisen.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725581098748,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757117099.734732,
+                        "expiry": 31536001.734731913,
+                        "value": "%7B%22accepted%22%3Atrue%2C%22timestamp%22%3A%222024-09-06T02%3A04%3A58.9856312%2B02%3A00%22%2C%22versionId%22%3A%22ec4ee2a1573346188901dba95081f5d2%22%2C%22purpose%22%3A%7B%22necessary%22%3Atrue%2C%22statistics%22%3Atrue%2C%22thirdParty%22%3Atrue%7D%7D",
+                        "same_site": "strict",
+                        "timestamp": 1725581098737
+                    }
+                ]
+            }
+        }
+    }
+}

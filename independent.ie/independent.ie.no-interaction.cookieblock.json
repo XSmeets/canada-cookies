@@ -1,0 +1,88 @@
+{
+    "independent.ie": {
+        "/": {
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".independent.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725616321239,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757238721,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzZiZjctMmQ1Yy02N2EzLWExZWEtM2NlMTUzM2VjMjVmIiwiY3JlYXRlZCI6IjIwMjQtMDktMDZUMDk6NTI6MDEuMjM3WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA2VDA5OjUyOjAxLjIzN1oiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725616321238
+                    }
+                ]
+            },
+            "gig_canary": {
+                "name": "gig_canary",
+                "domain": ".www.independent.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725616321112,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725616321108
+                    }
+                ]
+            },
+            "gig_canary_ver": {
+                "name": "gig_canary_ver",
+                "domain": ".www.independent.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725616321116,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16174-3-28760265",
+                        "same_site": "unspecified",
+                        "timestamp": 1725616321113
+                    }
+                ]
+            },
+            "_segmentgroup": {
+                "name": "_segmentgroup",
+                "domain": "www.independent.ie",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725616321133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1756720321,
+                        "expiry": 31104000,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725616321132
+                    }
+                ]
+            }
+        }
+    }
+}

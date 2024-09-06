@@ -1,0 +1,123 @@
+{
+    "kentucky.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".kentucky.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725636702053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760196702.047902,
+                        "expiry": 34560000.04790211,
+                        "value": "GA1.1.716163148.1725636702",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636702053
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.063508034,
+                        "value": "GA1.1.716163148.1725636702",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636702065
+                    }
+                ]
+            },
+            "_ga_QT7S70CFL1": {
+                "name": "_ga_QT7S70CFL1",
+                "domain": ".kentucky.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725636702065,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760196702.063194,
+                        "expiry": 34560000.06319404,
+                        "value": "GS1.1.1725636702.1.0.1725636702.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636702064
+                    }
+                ]
+            },
+            "_ga_RMEPDBYF49": {
+                "name": "_ga_RMEPDBYF49",
+                "domain": ".kentucky.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725636702052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760196702.047683,
+                        "expiry": 34560000.047683,
+                        "value": "GS1.1.1725636702.1.0.1725636702.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636702052
+                    }
+                ]
+            },
+            "WSS_FullScreenMode": {
+                "name": "WSS_FullScreenMode",
+                "domain": "www.kentucky.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725636702110,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636702110
+                    }
+                ]
+            }
+        }
+    },
+    "ky.gov": {
+        "/": {
+            "BigIPEnc": {
+                "name": "BigIPEnc",
+                "domain": "ky.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725636697993,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!Td1IpsYaPdEC/23h+/fi7WXfyqfbc6DF9E/Fa1JAGAYZOnnygkYFiRFzqj7H+9S+fMZ0yc6k1Bh70g==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636697980
+                    }
+                ]
+            }
+        }
+    }
+}

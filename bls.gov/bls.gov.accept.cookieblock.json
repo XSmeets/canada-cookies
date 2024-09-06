@@ -1,0 +1,114 @@
+{
+    "bls.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".bls.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635909738,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195909.727952,
+                        "expiry": 34560000.727952,
+                        "value": "GA1.1.58052929.1725635910",
+                        "same_site": "strict",
+                        "timestamp": 1725635909737
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".bls.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635909737,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195909.727711,
+                        "expiry": 34560000.72771096,
+                        "value": "GS1.1.1725635909.1.0.1725635909.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725635909733
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635909799,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741187909.798239,
+                        "expiry": 15552000.798238993,
+                        "value": "Y0arNFFV90U",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635909799
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725635909800,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741187909.798283,
+                        "expiry": 15552000.7982831,
+                        "value": "CgJDQRIEGgAgWQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635909799
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635909798,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4PpCjHKsFsU",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635909798
+                    }
+                ]
+            }
+        }
+    }
+}

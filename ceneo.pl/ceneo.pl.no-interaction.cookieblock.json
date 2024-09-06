@@ -1,0 +1,68 @@
+{
+    "ceneo.pl": {
+        "/": {
+            "__utmf": {
+                "name": "__utmf",
+                "domain": ".ceneo.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570704551,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725743505.529081,
+                        "expiry": 172801.5290811062,
+                        "value": "0_JfeH2ePsuolSBKQSmJbxQQ%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725570704533
+                    }
+                ]
+            },
+            "tc": {
+                "name": "tc",
+                "domain": ".ceneo.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570704561,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130704.531156,
+                        "expiry": 34560000.53115606,
+                        "value": "testName=SmartSearch&testVariant=1&testType=89&activeTest=SmartSearch",
+                        "same_site": "lax",
+                        "timestamp": 1725570704553
+                    }
+                ]
+            },
+            "__RequestVerificationToken": {
+                "name": "__RequestVerificationToken",
+                "domain": "www.ceneo.pl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570704563,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "856U175E0lX-TODxoVpVM5vrUP9J6AkYyDoWbHi2EroG4FFrf81hzYtZfeD39jpiYVJgaOIijwtNdQoCuVS_fqDbzKi6fXkfOp29N8Uq-Vo1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570704561
+                    }
+                ]
+            }
+        }
+    }
+}

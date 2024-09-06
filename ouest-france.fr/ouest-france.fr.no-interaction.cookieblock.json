@@ -1,0 +1,153 @@
+{
+    "ouest-france.fr": {
+        "/": {
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573914900,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725573944,
+                        "expiry": 30,
+                        "value": "m0pu5m32gk34uo",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573914895
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573914905,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701914,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0pu5m37jzqhjjzb%22%2C%22_t%22%3A%22mge933fb%7Cm0pu5m3b%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725573914904
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725573914906,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701914,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOZQAnAGYxAMwDGAH34AGAA5gArPzHSQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1725573914905
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573914364,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741388714,
+                        "expiry": 15814800,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzQzODUtZWY2Yi02YzM5LTllNTgtYzEzNGVkZWM1ODJlIiwiY3JlYXRlZCI6IjIwMjQtMDktMDVUMjI6MDU6MTQuMzU4WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA1VDIyOjA1OjE0LjM1OFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725573914359
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": ".ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573914903,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701914,
+                        "expiry": 34128000,
+                        "value": "%22exempt%22",
+                        "same_site": "lax",
+                        "timestamp": 1725573914902
+                    }
+                ]
+            },
+            "Wysistat": {
+                "name": "Wysistat",
+                "domain": "www.ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573914920,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759701914,
+                        "expiry": 34128000,
+                        "value": "0.6311256658017423_1725573914915%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931725573914915%C3%AF%C2%BF%C5%931%C3%AF%C2%BF%C5%931725573914%C3%AF%C2%BF%C5%930.6311256658017423_1725573914915%C3%AF%C2%BF%C5%931759701914915",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573914916
+                    }
+                ]
+            },
+            "WysistatAC": {
+                "name": "WysistatAC",
+                "domain": "www.ouest-france.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573914916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728165914,
+                        "expiry": 2592000,
+                        "value": "WysistatAC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573914915
+                    }
+                ]
+            }
+        }
+    }
+}

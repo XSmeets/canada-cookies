@@ -1,0 +1,62 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725568840045,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741380040.040321,
+                        "expiry": 15811200.040321112,
+                        "value": "517=dlb35B5TmmMph-hIVMBhOD32O3dhl2zaVqTs6_M86xT93rQ9-TaoPLhNbH7j5I-QoaG3gH6jv4i5eihwEvzKblCJ258e9cXUgT1vQYR_vzbyjPq-6kgGtln299PdlPpw9pgd0MYn4AfpkQoCGQtLiqZW4h5zSC720cz3IWJBttI",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725568840045
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15811200.334240913,
+                        "value": "517=7kek9dBo3323sbqTtT8W26fiMfaO36TIv9QOm2rydd-CJsxPtsszsOiDzjIEfzXtS5CppX_b8JT5sybF3W6myewv2IAr1YU3fUA_LGmeyafomAzhX2khHFBDN_32cy3RILe5_VLDzI5dHr70GX-LWSWuCC77o1ROsAzRb8tevL62bxh-YA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725568840335
+                    }
+                ]
+            }
+        }
+    },
+    "government.bg": {
+        "/": {
+            "cookiebar": {
+                "name": "cookiebar",
+                "domain": "government.bg",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725568840111,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757104840,
+                        "expiry": 31536000,
+                        "value": "CookieAllowed",
+                        "same_site": "unspecified",
+                        "timestamp": 1725568840105
+                    }
+                ]
+            }
+        }
+    }
+}

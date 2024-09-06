@@ -1,0 +1,232 @@
+{
+    "usa.gov": {
+        "/": {
+            "_ce.cch": {
+                "name": "_ce.cch",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635605771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635605770
+                    }
+                ]
+            },
+            "_ce.clock_event": {
+                "name": "_ce.clock_event",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635605916,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725722005,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635605916
+                    }
+                ]
+            },
+            "_ce.gtld": {
+                "name": "_ce.gtld",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635605769,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635605768
+                    }
+                ]
+            },
+            "_ce.irv": {
+                "name": "_ce.irv",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635605909,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "new",
+                        "same_site": "strict",
+                        "timestamp": 1725635605907
+                    }
+                ]
+            },
+            "_ce.s": {
+                "name": "_ce.s",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635605906,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757171605,
+                        "expiry": 31536000,
+                        "value": "v~7e115a349f6622130f4dc3b8852961bcfa947b05~lcw~1725635605904",
+                        "same_site": "strict",
+                        "timestamp": 1725635605905
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~7e115a349f6622130f4dc3b8852961bcfa947b05~lcw~1725635605905~lva~1725635605905~vpv~0~lcw~1725635605905",
+                        "same_site": "strict",
+                        "timestamp": 1725635605910
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635605710,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195605.703213,
+                        "expiry": 34560000.70321298,
+                        "value": "GA1.1.440592576.1725635606",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635605709
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.15868497,
+                        "value": "GA1.1.440592576.1725635606",
+                        "same_site": "strict",
+                        "timestamp": 1725635606160
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635606160,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195606.158218,
+                        "expiry": 34560000.15821791,
+                        "value": "GS1.1.1725635606.1.0.1725635606.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725635606159
+                    }
+                ]
+            },
+            "_ga_GXFTMLX26S": {
+                "name": "_ga_GXFTMLX26S",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635605709,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195605.702823,
+                        "expiry": 34560000.70282292,
+                        "value": "GS1.1.1725635605.1.0.1725635605.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635605708
+                    }
+                ]
+            },
+            "cebs": {
+                "name": "cebs",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635605910,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635605909
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635605237,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195605.225863,
+                        "expiry": 34560000.22586298,
+                        "value": "5d7fff9c-84e8-d99e-4247-795dca69a57c",
+                        "same_site": "lax",
+                        "timestamp": 1725635605227
+                    }
+                ]
+            }
+        }
+    }
+}

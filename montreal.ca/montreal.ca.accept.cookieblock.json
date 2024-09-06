@@ -1,0 +1,683 @@
+{
+    "bing.com": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725566818289,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759262819.287165,
+                        "expiry": 33696001.28716493,
+                        "value": "295F1DA490F165B12AAA0955915B6438",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566818288
+                    }
+                ]
+            }
+        }
+    },
+    "c.bing.com": {
+        "/": {
+            "MR": {
+                "name": "MR",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566818290,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726171619.287253,
+                        "expiry": 604801.287252903,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566818289
+                    }
+                ]
+            },
+            "SRM_B": {
+                "name": "SRM_B",
+                "domain": ".c.bing.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725566818292,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759262819.287291,
+                        "expiry": 33696001.28729105,
+                        "value": "295F1DA490F165B12AAA0955915B6438",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566818290
+                    }
+                ]
+            }
+        }
+    },
+    "c.clarity.ms": {
+        "/": {
+            "ANONCHK": {
+                "name": "ANONCHK",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725566818426,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567418.422948,
+                        "expiry": 600.422947883606,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566818426
+                    }
+                ]
+            },
+            "MR": {
+                "name": "MR",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566818425,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726171618.422923,
+                        "expiry": 604800.4229230881,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566818424
+                    }
+                ]
+            },
+            "SM": {
+                "name": "SM",
+                "domain": ".c.clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725566817581,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "T",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566817579
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566818423
+                    }
+                ]
+            }
+        }
+    },
+    "clarity.ms": {
+        "/": {
+            "MUID": {
+                "name": "MUID",
+                "domain": ".clarity.ms",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725566817582,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759262817.578446,
+                        "expiry": 33696000.57844591,
+                        "value": "18C0CBA5D8AB6E520892DF54DCAB6056",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566817581
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.42287588,
+                        "value": "295F1DA490F165B12AAA0955915B6438",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566818424
+                    }
+                ]
+            },
+            "CLID": {
+                "name": "CLID",
+                "domain": "www.clarity.ms",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566816726,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757102816.714336,
+                        "expiry": 31536000.71433592,
+                        "value": "832c244e0a874a079c98140bf46725dc.20240905.20250905",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566816716
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566820336,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567720.331929,
+                        "expiry": 900.3319289684296,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566820333
+                    }
+                ]
+            }
+        }
+    },
+    "montreal.ca": {
+        "/": {
+            "_ce.cch": {
+                "name": "_ce.cch",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566820159,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725566820157
+                    }
+                ]
+            },
+            "_ce.clock_data": {
+                "name": "_ce.clock_data",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566820889,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725653220,
+                        "expiry": 86400,
+                        "value": "-45%2C149.88.98.86%2C1%2Cfe0673f2a48d047b912b27e2a0c02f9f%2CChrome%2CCA",
+                        "same_site": "strict",
+                        "timestamp": 1725566820887
+                    }
+                ]
+            },
+            "_ce.clock_event": {
+                "name": "_ce.clock_event",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725566820298,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725653220,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725566820297
+                    }
+                ]
+            },
+            "_ce.gtld": {
+                "name": "_ce.gtld",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566820156,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725566820155
+                    }
+                ]
+            },
+            "_ce.irv": {
+                "name": "_ce.irv",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566820294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "new",
+                        "same_site": "strict",
+                        "timestamp": 1725566820293
+                    }
+                ]
+            },
+            "_ce.s": {
+                "name": "_ce.s",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566820291,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757102820,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566820289",
+                        "same_site": "strict",
+                        "timestamp": 1725566820289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566820290~lva~1725566820290~vpv~0~lcw~1725566820291",
+                        "same_site": "strict",
+                        "timestamp": 1725566820295
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566820291~lva~1725566820290~vpv~0~v11.fhb~1725566820893~lcw~1725566820893",
+                        "same_site": "strict",
+                        "timestamp": 1725566820894
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566820893~lva~1725566820290~vpv~0~v11.fhb~1725566820893~v11.lhb~1725566820893~lcw~1725566820893",
+                        "same_site": "strict",
+                        "timestamp": 1725566820894
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566820893~lva~1725566820290~vpv~0~v11.fhb~1725566820893~v11.lhb~1725566820893~v11.cs~337679~lcw~1725566820895",
+                        "same_site": "strict",
+                        "timestamp": 1725566820895
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566820895~lva~1725566820290~vpv~0~v11.fhb~1725566820893~v11.lhb~1725566820893~v11.cs~337679~lcw~1725566820895",
+                        "same_site": "strict",
+                        "timestamp": 1725566820896
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566820895~lva~1725566820290~vpv~0~v11.fhb~1725566820893~v11.lhb~1725566820893~v11.cs~337679~v11.s~69761af0-6bc2-11ef-a868-b97792692493~lcw~1725566820897",
+                        "same_site": "strict",
+                        "timestamp": 1725566820897
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566820897~lva~1725566820290~vpv~0~v11.fhb~1725566820893~v11.lhb~1725566820893~v11.cs~337679~v11.s~69761af0-6bc2-11ef-a868-b97792692493~v11.send~1725566822689~lcw~1725566822689",
+                        "same_site": "strict",
+                        "timestamp": 1725566822691
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566822689~lva~1725566820290~vpv~0~v11.fhb~1725566820893~v11.lhb~1725566820893~v11.cs~337679~v11.s~69761af0-6bc2-11ef-a868-b97792692493~v11.send~1725566822689~gtrk.la~m0ppxlpq~lcw~1725566822702",
+                        "same_site": "strict",
+                        "timestamp": 1725566822703
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~eb96aa4700869037e699a27a07310faf50651be7~lcw~1725566822702~lva~1725566820290~vpv~0~v11.fhb~1725566820893~v11.lhb~1725566820893~v11.cs~337679~v11.s~69761af0-6bc2-11ef-a868-b97792692493~v11.send~1725566822689~gtrk.la~m0ppxlpq~v11.sla~1725566822703~lcw~1725566822703",
+                        "same_site": "strict",
+                        "timestamp": 1725566822704
+                    }
+                ]
+            },
+            "_clck": {
+                "name": "_clck",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566817003,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757102817,
+                        "expiry": 31536000,
+                        "value": "radd00%7C2%7Cfox%7C0%7C1709",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566817001
+                    }
+                ]
+            },
+            "_clsk": {
+                "name": "_clsk",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566817772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725653217,
+                        "expiry": 86400,
+                        "value": "ii4rv3%7C1725566817770%7C1%7C1%7Co.clarity.ms%2Fcollect",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566817770
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725566820664,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733342820,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725566820662.479078941691004056",
+                        "same_site": "lax",
+                        "timestamp": 1725566820663
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566819782,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760126819.780424,
+                        "expiry": 34560000.78042412,
+                        "value": "GA1.1.736391695.1725566818",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566819781
+                    }
+                ]
+            },
+            "_ga_WQBSZL9LYT": {
+                "name": "_ga_WQBSZL9LYT",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566819783,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760126819.780855,
+                        "expiry": 34560000.78085494,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566819782
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.781299114,
+                        "value": "GS1.1.1725566817.1.0.1725566817.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566819785
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.787034035,
+                        "value": "GS1.1.1725566817.1.0.1725566819.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566819787
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.698525906,
+                        "value": "GS1.1.1725566817.1.0.1725566822.57.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566822699
+                    }
+                ]
+            },
+            "cebs": {
+                "name": "cebs",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566820295,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725566820294
+                    }
+                ]
+            },
+            "cebsp_": {
+                "name": "cebsp_",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566820891,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725566820890
+                    }
+                ]
+            },
+            "cookieyes-consent": {
+                "name": "cookieyes-consent",
+                "domain": ".montreal.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566816736,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757102816,
+                        "expiry": 31536000,
+                        "value": "consentid:OUpya0RSbkNaTHlrYW9xOVBCZENrM0pndXRGRzE4ZUg,consent:,action:,necessary:,functional:,analytics:,performance:,advertisement:,other:",
+                        "same_site": "strict",
+                        "timestamp": 1725566816728
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "consentid:OUpya0RSbkNaTHlrYW9xOVBCZENrM0pndXRGRzE4ZUg,consent:no,action:,necessary:yes,functional:,analytics:,performance:,advertisement:,other:",
+                        "same_site": "strict",
+                        "timestamp": 1725566817782
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "consentid:OUpya0RSbkNaTHlrYW9xOVBCZENrM0pndXRGRzE4ZUg,consent:no,action:,necessary:yes,functional:no,analytics:no,performance:no,advertisement:no,other:no",
+                        "same_site": "strict",
+                        "timestamp": 1725566817785
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "consentid:OUpya0RSbkNaTHlrYW9xOVBCZENrM0pndXRGRzE4ZUg,consent:no,action:yes,necessary:yes,functional:no,analytics:no,performance:no,advertisement:no,other:no",
+                        "same_site": "strict",
+                        "timestamp": 1725566819776
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "consentid:OUpya0RSbkNaTHlrYW9xOVBCZENrM0pndXRGRzE4ZUg,consent:yes,action:yes,necessary:yes,functional:yes,analytics:yes,performance:yes,advertisement:yes,other:yes",
+                        "same_site": "strict",
+                        "timestamp": 1725566819779
+                    }
+                ]
+            }
+        }
+    }
+}

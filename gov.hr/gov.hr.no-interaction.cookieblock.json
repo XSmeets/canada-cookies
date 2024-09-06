@@ -1,0 +1,90 @@
+{
+    "eusluge-nav.gov.hr": {
+        "/": {
+            "ASP.NET_SessionId": {
+                "name": "ASP.NET_SessionId",
+                "domain": "eusluge-nav.gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570149703,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "grrq34fvpsrwaa3reg41t1e5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570149702
+                    }
+                ]
+            },
+            "TS0108d024": {
+                "name": "TS0108d024",
+                "domain": "eusluge-nav.gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570149704,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01402d66b9af3e00d8053b925702597f29bce9706dd1f8da9637097c5a1208e3097d7ca72a841c681352c906d0453f396979b63e08",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570149703
+                    }
+                ]
+            }
+        }
+    },
+    "gov.hr": {
+        "/": {
+            "ASP.NET_SessionId": {
+                "name": "ASP.NET_SessionId",
+                "domain": "gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570147231,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ngmy0q1fgukuehwvxk0y2mgt",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570147214
+                    }
+                ]
+            },
+            "TS0108d024": {
+                "name": "TS0108d024",
+                "domain": "gov.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570147243,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01402d66b987fb8d2333e376881033cc566037d7ac01f07c4cdbd5c2d341f326497200fba1955a182c9175dd553fd32d4254089929",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570147233
+                    }
+                ]
+            }
+        }
+    }
+}

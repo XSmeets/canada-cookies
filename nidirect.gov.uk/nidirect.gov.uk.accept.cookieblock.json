@@ -1,0 +1,130 @@
+{
+    "nidirect.gov.uk": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".nidirect.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623511469,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183511.449197,
+                        "expiry": 34560000.449197054,
+                        "value": "GA1.1.413575060.1725623510",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623511468
+                    }
+                ]
+            },
+            "_ga_2MEDC76P56": {
+                "name": "_ga_2MEDC76P56",
+                "domain": ".nidirect.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623511473,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183511.456545,
+                        "expiry": 34560000.456545115,
+                        "value": "GS1.1.1725623509.1.0.1725623511.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623511472
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.531292915,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623514532
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.532124996,
+                        "value": "GS1.1.1725623509.1.0.1725623514.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623514533
+                    }
+                ]
+            },
+            "cookie-agreed-version": {
+                "name": "cookie-agreed-version",
+                "domain": "www.nidirect.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623511467,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757159511,
+                        "expiry": 31536000,
+                        "value": "1.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725623511458
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725623511474
+                    }
+                ]
+            },
+            "cookie-agreed": {
+                "name": "cookie-agreed",
+                "domain": "www.nidirect.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623511457,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757159511,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725623511447
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "strict",
+                        "timestamp": 1725623511473
+                    }
+                ]
+            }
+        }
+    }
+}

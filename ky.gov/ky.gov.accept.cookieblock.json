@@ -1,0 +1,133 @@
+{
+    "kentucky.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".kentucky.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725636722750,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760196722.743548,
+                        "expiry": 34560000.74354792,
+                        "value": "GA1.1.1439672484.1725636723",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636722748
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.756987095,
+                        "value": "GA1.1.1439672484.1725636723",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636722758
+                    }
+                ]
+            },
+            "_ga_QT7S70CFL1": {
+                "name": "_ga_QT7S70CFL1",
+                "domain": ".kentucky.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725636722748,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760196722.743367,
+                        "expiry": 34560000.74336696,
+                        "value": "GS1.1.1725636722.1.0.1725636722.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636722747
+                    }
+                ]
+            },
+            "_ga_RMEPDBYF49": {
+                "name": "_ga_RMEPDBYF49",
+                "domain": ".kentucky.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725636722757,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760196722.756578,
+                        "expiry": 34560000.75657797,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636722756
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.75671911,
+                        "value": "GS1.1.1725636722.1.0.1725636722.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636722757
+                    }
+                ]
+            },
+            "WSS_FullScreenMode": {
+                "name": "WSS_FullScreenMode",
+                "domain": "www.kentucky.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725636723235,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636723234
+                    }
+                ]
+            }
+        }
+    },
+    "ky.gov": {
+        "/": {
+            "BigIPEnc": {
+                "name": "BigIPEnc",
+                "domain": "ky.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725636718127,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!RZM1ZcaB9j1uOprh+/fi7WXfyqfbc8xDNJxPvBz54f1f7679FwD0QR+3cs74S5jN/2K3c1w1EQ8hKw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725636718113
+                    }
+                ]
+            }
+        }
+    }
+}

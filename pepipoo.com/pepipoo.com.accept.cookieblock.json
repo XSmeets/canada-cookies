@@ -1,0 +1,200 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623807908,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725624707.90567,
+                        "expiry": 900.905669927597,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623807906
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.931293964386,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623807933
+                    }
+                ]
+            }
+        }
+    },
+    "pepipoo.com": {
+        "/": {
+            "EUCookieConsent": {
+                "name": "EUCookieConsent",
+                "domain": ".pepipoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623809627,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183809.62538,
+                        "expiry": 34560000.62538004,
+                        "value": "Accept",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623809626
+                    }
+                ]
+            },
+            "__utma": {
+                "name": "__utma",
+                "domain": ".pepipoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623807437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183807.432702,
+                        "expiry": 34560000.432702065,
+                        "value": "231579422.52424925.1725623807.1725623807.1725623807.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623807433
+                    }
+                ]
+            },
+            "__utmb": {
+                "name": "__utmb",
+                "domain": ".pepipoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623807437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725625607,
+                        "expiry": 1800,
+                        "value": "231579422",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623807437
+                    }
+                ]
+            },
+            "__utmc": {
+                "name": "__utmc",
+                "domain": ".pepipoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623807438,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "231579422",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623807438
+                    }
+                ]
+            },
+            "__utmz": {
+                "name": "__utmz",
+                "domain": ".pepipoo.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623807439,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741391807,
+                        "expiry": 15768000,
+                        "value": "231579422.1725623807.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623807438
+                    }
+                ]
+            },
+            "CMSSESSIDb77d2c27": {
+                "name": "CMSSESSIDb77d2c27",
+                "domain": "pepipoo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623805342,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "87304dbfdfccb5661b97acd99f00c22a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623805330
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "5338fe7482107a91e630ab33f7d44eea",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623805824
+                    }
+                ]
+            }
+        }
+    },
+    "w3.org": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".w3.org",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623806261,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725625606.260908,
+                        "expiry": 1800.2609078884125,
+                        "value": "g07st4lqF14Mb65uGHl9bSQjB.UDWjZgTtcMrmFdYf0-1725623806-1.0.1.1-i7cQaksVjM3RmBOrBjOO2F2i2UarvdMBsHiT4NsbNiyRpIOvVP3oXWLIuJMFZe0P6H8uzho.xbLnqQUcV4IGCg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623806261
+                    }
+                ]
+            }
+        }
+    }
+}

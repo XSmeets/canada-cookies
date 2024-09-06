@@ -1,0 +1,79 @@
+{
+    "login.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".login.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632633334,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760192633.322625,
+                        "expiry": 34560000.32262492,
+                        "value": "GA1.1.1035180728.1725632633",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632633333
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.05733204,
+                        "value": "GA1.1.1035180728.1725632633",
+                        "same_site": "strict",
+                        "timestamp": 1725632634059
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".login.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632634059,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760192634.057067,
+                        "expiry": 34560000.05706692,
+                        "value": "GS1.1.1725632634.1.0.1725632634.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725632634058
+                    }
+                ]
+            },
+            "_ga_HBYXWFP794": {
+                "name": "_ga_HBYXWFP794",
+                "domain": ".login.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632633333,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760192633.322363,
+                        "expiry": 34560000.3223629,
+                        "value": "GS1.1.1725632633.1.0.1725632633.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632633329
+                    }
+                ]
+            }
+        }
+    }
+}

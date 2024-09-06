@@ -1,0 +1,857 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573276124,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574176.121821,
+                        "expiry": 900.1218209266663,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573276122
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.3391900062561,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573276340
+                    }
+                ]
+            }
+        }
+    },
+    "emag.ro": {
+        "/": {
+            "EMAGROSESSID": {
+                "name": "EMAGROSESSID",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725616463.90916,
+                        "expiry": 43200.90915989876,
+                        "value": "7iedc9feiedfgk9cn9fjshsufb",
+                        "same_site": "lax",
+                        "timestamp": 1725573263928
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 43200.45780611038,
+                        "value": "d3ltgarss0jk5a4cp2tkftqua4",
+                        "same_site": "lax",
+                        "timestamp": 1725573271459
+                    }
+                ]
+            },
+            "EMAGUUID": {
+                "name": "EMAGUUID",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573263941,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133263.909601,
+                        "expiry": 34560000.90960097,
+                        "value": "1725573264-23448540467-62979.647",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263940
+                    }
+                ]
+            },
+            "EMAGVISITOR": {
+                "name": "EMAGVISITOR",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263927,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133263.909015,
+                        "expiry": 34560000.90901494,
+                        "value": "a%3A1%3A%7Bs%3A7%3A%22user_id%22%3Bi%3A2424903241557249507%3B%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263913
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573275031,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349275,
+                        "expiry": 7776000,
+                        "value": "1.1.628360501.1725573275",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275030
+                    }
+                ]
+            },
+            "_pdr_internal": {
+                "name": "_pdr_internal",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725573263943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133263.909651,
+                        "expiry": 34560000.90965104,
+                        "value": "GA1.2.2881289617.1725573264",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263941
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.401917934,
+                        "value": "GA1.2.2881289617.1725573264",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265402
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.477210045,
+                        "value": "GA1.2.2881289617.1725573264",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265478
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.52599096,
+                        "value": "GA1.2.3146630038.1725573266",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265527
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.85277891,
+                        "value": "GA1.2.2881289617.1725573264",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265854
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.45782709,
+                        "value": "GA1.2.5599257323.1725573272",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573271459
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.71294594,
+                        "value": "GA1.2.9424891646.1725573272",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573271714
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.01001811,
+                        "value": "GA1.2.9424891646.1725573272",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275011
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.17970896,
+                        "value": "GA1.2.1625153424.1725573277",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573277181
+                    }
+                ]
+            },
+            "_pdr_session_id": {
+                "name": "_pdr_session_id",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573275590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573600,
+                        "expiry": 325,
+                        "value": "1725573275",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275590
+                    }
+                ]
+            },
+            "_pdr_view_id": {
+                "name": "_pdr_view_id",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263945,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725591263.909692,
+                        "expiry": 18000.909692049026,
+                        "value": "1725573264-11100.714-23448540467",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263943
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 18000.852901935577,
+                        "value": "1725573266-69126.914-23462413617",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 18000.179838895798,
+                        "value": "1725573277-50043.856-23462316552",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573277181
+                    }
+                ]
+            },
+            "eab1213": {
+                "name": "eab1213",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349263.909767,
+                        "expiry": 7776000.909766912,
+                        "value": "a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263946
+                    }
+                ]
+            },
+            "eab1333": {
+                "name": "eab1333",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263947,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349263.909805,
+                        "expiry": 7776000.909805059,
+                        "value": "b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263947
+                    }
+                ]
+            },
+            "eab1334": {
+                "name": "eab1334",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263948,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349263.909844,
+                        "expiry": 7776000.909843922,
+                        "value": "d",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263948
+                    }
+                ]
+            },
+            "eab1336": {
+                "name": "eab1336",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263949,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349263.909883,
+                        "expiry": 7776000.909883022,
+                        "value": "b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263948
+                    }
+                ]
+            },
+            "eab1346": {
+                "name": "eab1346",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263949,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349263.909919,
+                        "expiry": 7776000.9099190235,
+                        "value": "b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263949
+                    }
+                ]
+            },
+            "eab_allocation": {
+                "name": "eab_allocation",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263950,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.434722900390625,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573267435
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.94162392616272,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573267942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.48103904724121,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573268481
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.99909591674805,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573268999
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.52152109146118,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573269523
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.081170082092285,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573270082
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.45803189277649,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573271460
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.71340990066528,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573271714
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.01057696342468,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275012
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 60.18025493621826,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573277182
+                    }
+                ]
+            },
+            "gdpr_consent_type": {
+                "name": "gdpr_consent_type",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573275019,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275018
+                    }
+                ]
+            },
+            "gdpr_consent_version": {
+                "name": "gdpr_consent_version",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573275020,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728165275,
+                        "expiry": 2592000,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275020
+                    }
+                ]
+            },
+            "loginTooltipShown": {
+                "name": "loginTooltipShown",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725573265194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109265,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265193
+                    }
+                ]
+            },
+            "ltuid": {
+                "name": "ltuid",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573263939,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133263.909201,
+                        "expiry": 34560000.90920091,
+                        "value": "2424878863279056172",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263938
+                    }
+                ]
+            },
+            "site_version_11": {
+                "name": "site_version_11",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573263946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728165263.90973,
+                        "expiry": 2592000.9097299576,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573263945
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.4019999504,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265403
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.4772930145,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265478
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.5260469913,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265527
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.852982044,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.45785594,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573271460
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.713135004,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573271714
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.0101189613,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275012
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.179924965,
+                        "value": "not_mobile",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573277182
+                    }
+                ]
+            },
+            "sr": {
+                "name": "sr",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573265078,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109265,
+                        "expiry": 31536000,
+                        "value": "1920x979",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265076
+                    }
+                ]
+            },
+            "vp": {
+                "name": "vp",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573265079,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109265,
+                        "expiry": 31536000,
+                        "value": "1920x890",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265079
+                    }
+                ]
+            },
+            "web4_ga": {
+                "name": "web4_ga",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573275563,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133275.562093,
+                        "expiry": 34560000.56209302,
+                        "value": "GA1.1.574502319.1725573276",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275562
+                    }
+                ]
+            },
+            "web4_ga_JJCSV4C7C3": {
+                "name": "web4_ga_JJCSV4C7C3",
+                "domain": ".emag.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573275564,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133275.562579,
+                        "expiry": 34560000.56257892,
+                        "value": "GS1.1.1725573275.1.0.1725573275.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275564
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.56486511,
+                        "value": "GS1.1.1725573275.1.0.1725573275.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275565
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.747462034,
+                        "value": "GS1.1.1725573275.1.0.1725573275.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573275748
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.78041005,
+                        "value": "GS1.1.1725573275.1.0.1725573278.57.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573278781
+                    }
+                ]
+            },
+            "AID": {
+                "name": "AID",
+                "domain": "www.emag.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573265082,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573600,
+                        "expiry": 335,
+                        "value": "12571aac67f786c756dfe1843b12a5264b6ea00fce7e73aaff5407361618256e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573265081
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/recaptcha": {
+            "_GRECAPTCHA": {
+                "name": "_GRECAPTCHA",
+                "domain": "www.google.com",
+                "path": "/recaptcha",
+                "current_label": 0,
+                "label_ts": 1725573271444,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741125271.443423,
+                        "expiry": 15552000.443423033,
+                        "value": "09ACY6sGzA7_ByY25X92HUf1PmY8TOLcgclerXO8B_wv5_72PEz7vuBPDgMhbYIk6si87JMkJNFVvw9yq6Ywjf7BE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573271444
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "jofogas.hu": {
+        "/": {
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725572589154,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1736116989,
+                        "expiry": 10544400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzQyNDItNjVmMy02NWNjLTljMTktOWYwZDRmNDQ4NTc3IiwiY3JlYXRlZCI6IjIwMjQtMDktMDVUMjE6NDM6MDkuMTUxWiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA1VDIxOjQzOjA5LjE1MVoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725572589152
+                    }
+                ]
+            },
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".jofogas.hu",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725572588448,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757108588,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c424239500974c3ea4758d3005075001706d00bd0$_sn:1$_se:1$_ss:1$_st:1725574388438$ses_id:1725572588438%3Bexp-session$_pn:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725572588444
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c424239500974c3ea4758d3005075001706d00bd0$_sn:1$_se:1$_ss:1$_st:1725574388438$ses_id:1725572588438%3Bexp-session$_pn:1%3Bexp-session$dc_visit:1$dc_event:1%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725572589175
+                    }
+                ]
+            }
+        }
+    }
+}

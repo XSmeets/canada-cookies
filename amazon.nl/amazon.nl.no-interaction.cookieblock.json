@@ -1,0 +1,100 @@
+{
+    "amazon.nl": {
+        "/": {
+            "i18n-prefs": {
+                "name": "i18n-prefs",
+                "domain": ".amazon.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725617903469,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757153903.432222,
+                        "expiry": 31536000.43222189,
+                        "value": "EUR",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617903465
+                    }
+                ]
+            },
+            "session-id-time": {
+                "name": "session-id-time",
+                "domain": ".amazon.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617903465,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757153903.432197,
+                        "expiry": 31536000.432197094,
+                        "value": "2082787201l",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617903465
+                    }
+                ]
+            },
+            "session-id": {
+                "name": "session-id",
+                "domain": ".amazon.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617903464,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757153903.432143,
+                        "expiry": 31536000.432142973,
+                        "value": "260-2560069-3263253",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617903464
+                    }
+                ]
+            },
+            "csm-hit": {
+                "name": "csm-hit",
+                "domain": "www.amazon.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617902943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1755857902,
+                        "expiry": 30240000,
+                        "value": "tb:s-N8HMSFZKE649EDYJ3005|1725617902940&t:1725617902940",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617902942
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30240000,
+                        "value": "tb:s-N8HMSFZKE649EDYJ3005|1725617902940&t:1725617903193&adb:adblk_no",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617903194
+                    }
+                ]
+            }
+        }
+    }
+}

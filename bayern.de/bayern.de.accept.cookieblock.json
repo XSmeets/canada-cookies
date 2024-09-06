@@ -1,0 +1,67 @@
+{
+    "bayern.de": {
+        "/": {
+            "BayernMatomo": {
+                "name": "BayernMatomo",
+                "domain": "www.bayern.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615124951,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728207124,
+                        "expiry": 2592000,
+                        "value": "aktiviert",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615124950
+                    }
+                ]
+            },
+            "LB_STK_BAYERN_DE": {
+                "name": "LB_STK_BAYERN_DE",
+                "domain": "www.bayern.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615109689,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "962439946.20480.0000",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615109680
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.bayern.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615109678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "7lbioe4nl10sdaa29h4c84trpp",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615109663
+                    }
+                ]
+            }
+        }
+    }
+}

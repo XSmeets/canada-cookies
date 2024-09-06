@@ -1,0 +1,2071 @@
+{
+    "1rx.io": {
+        "/": {
+            "_rxuuid": {
+                "name": "_rxuuid",
+                "domain": ".1rx.io",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553016378,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089016.376627,
+                        "expiry": 31536000.37662697,
+                        "value": "%7B%22rx_uuid%22%3A%22RX-d86aae45-f71b-4c00-8712-a9a235a49404-005%22%2C%22zdxidn%22%3A%222155%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016377
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.512047052,
+                        "value": "%7B%22rx_uuid%22%3A%22RX-d86aae45-f71b-4c00-8712-a9a235a49404-005%22%2C%22zdxidn%22%3A%222155%22%2C%22nxtrdr%22%3Afalse%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016512
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.16985202,
+                        "value": "%7B%22rx_uuid%22%3A%22RX-d86aae45-f71b-4c00-8712-a9a235a49404-005%22%2C%22nxtrdr%22%3Afalse%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017172
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013155,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733329013.151836,
+                        "expiry": 7776000.151835918,
+                        "value": "35APJCOgjsS8xRG_dNdheqWwRGmR6lCi4fEG0803Q8TNdge_32ypP5HkzmnUTa0tTjJWEetw8KqnSsjhl2Mlo14fuEkMBS7nOygA1s25kZ0.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013154
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.148055077,
+                        "value": "35APJCOgjsS8xRG_dNdheqWwRGmR6lCi4fEG0803Q8TNdge_32ypP5HkzmnUTa0tTjJWEetw8KqnSsjhl2Mlo14fuEkMBS7nOygA1s25kZ0.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017150
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013156,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733329013.151867,
+                        "expiry": 7776000.151866913,
+                        "value": "ChgImftjEAoYASABKAEw9bLntgY4AUABSAEQ9bLntgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013155
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553012821,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.83141494,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012831
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.83557391,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012835
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.85828304,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012858
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.97081709,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012971
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.99127412,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012991
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.15187812,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013156
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.17284989,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013173
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.204061985,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013204
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.26167011,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013262
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.148247,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017151
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013156,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733329013.152066,
+                        "expiry": 7776000.152065992,
+                        "value": "8415387045681808412",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013156
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.1483109,
+                        "value": "8415387045681808412",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017151
+                    }
+                ]
+            }
+        }
+    },
+    "adsrvr.org": {
+        "/": {
+            "TDCPM": {
+                "name": "TDCPM",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553016424,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089016.421022,
+                        "expiry": 31536000.42102194,
+                        "value": "CAEYBSgCMgsImrqrypz0pj0QBTgB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016423
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.559123993,
+                        "value": "CAESGwoMc2hhcmV0aHJvdWdoEgsI7LvSnob0pj0QBRgFIAEoAjILCJq6q8qc9KY9EAU4AQ..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016559
+                    }
+                ]
+            },
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553016422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089016.420918,
+                        "expiry": 31536000.420917988,
+                        "value": "e2a08d9d-0392-4f23-8e6b-ce5b8c1a7bf5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016421
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.55905199,
+                        "value": "e2a08d9d-0392-4f23-8e6b-ce5b8c1a7bf5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016559
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553012708,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.708992958,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012709
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.709602118,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012709
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.780627012,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.036684036,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.053971052,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.09478402,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013095
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.155661106,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013157
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.256155968,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013256
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.257972956,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013258
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.315484047,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013315
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013496,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089013.495619,
+                        "expiry": 31536000.49561906,
+                        "value": "2jzn0qd0haf7o3uwapi0og3dr0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013496
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.499819994,
+                        "value": "3n1l5ll4zxejt1c7hb7k0qmbbc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013501
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.38566804,
+                        "value": "3n1l5ll4zxejt1c7hb7k0qmbbc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553014386
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.63719392,
+                        "value": "cx:38ty9tjp3hlhriarcdjaw3rhi:2e1sqkidg6u9u",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553014637
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.907614946,
+                        "value": "3n1l5ll4zxejt1c7hb7k0qmbbc",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553014909
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013129,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725553912.129032,
+                        "expiry": 899.1290318965912,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 899.3219859600067,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013323
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 899.4421529769897,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013443
+                    }
+                ]
+            }
+        }
+    },
+    "rubiconproject.com": {
+        "/": {
+            "audit": {
+                "name": "audit",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553012739,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089012.737544,
+                        "expiry": 31536000.73754406,
+                        "value": "1|mFVHqHkj5bG5P7bBV07zdNHuO+9z7bdc0bAUDfekaR+IJioedQ31jNsBOQQUDhNKcBUnMyBlvq8mGweUluV0NyVZKOAaGa56Io8tEQuGXfEYuY/fSI0kfg==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012738
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.77597499,
+                        "value": "1|mFVHqHkj5bHUcpCMFqiujNHuO+9z7bdc0bAUDfekaR+IJioedQ31jNsBOQQUDhNKcBUnMyBlvq8mGweUluV0NyVZKOAaGa56Io8tEQuGXfEYuY/fSI0kfg==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012776
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.778791904,
+                        "value": "1|mFVHqHkj5bHTg0TxS0FWndHuO+9z7bdc0bAUDfekaR+IJioedQ31jNsBOQQUDhNKcBUnMyBlvq8mGweUluV0NyVZKOAaGa56Io8tEQuGXfEYuY/fSI0kfg==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012779
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.799704075,
+                        "value": "1|mFVHqHkj5bFoiX3736SCNtHuO+9z7bdc0bAUDfekaR+IJioedQ31jNsBOQQUDhNKcBUnMyBlvq8mGweUluV0NyVZKOAaGa56Io8tEQuGXfEYuY/fSI0kfg==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012800
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.549158096,
+                        "value": "1|mFVHqHkj5bFoiX3736SCNtHuO+9z7bdc0bAUDfekaR8P5FjC9SuwDOawSiOpoIixEkjWnGt5shQqM9i914k4niwozGvkNy1cG7JtXJVTTK0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017558
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.80102396,
+                        "value": "1|mFVHqHkj5bFoiX3736SCNtHuO+9z7bdc0bAUDfekaR9JXf1a1mg6pOawSiOpoIixEkjWnGt5shQqM9i914k4niwozGvkNy1cG7JtXJVTTK0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017803
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.93631506,
+                        "value": "1|mFVHqHkj5bFoiX3736SCNtHuO+9z7bdc0bAUDfekaR+99SXitNnGJuawSiOpoIixEkjWnGt5shQqM9i914k4niwozGvkNy1cG7JtXJVTTK0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017936
+                    }
+                ]
+            },
+            "audit_p": {
+                "name": "audit_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553017553,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089017.548818,
+                        "expiry": 31536000.54881811,
+                        "value": "1|mFVHqHkj5bFoiX3736SCNtHuO+9z7bdc0bAUDfekaR8P5FjC9SuwDOawSiOpoIixEkjWnGt5shQqM9i914k4niwozGvkNy1cG7JtXJVTTK0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017550
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.800829887,
+                        "value": "1|mFVHqHkj5bFoiX3736SCNtHuO+9z7bdc0bAUDfekaR9JXf1a1mg6pOawSiOpoIixEkjWnGt5shQqM9i914k4niwozGvkNy1cG7JtXJVTTK0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017802
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.93627,
+                        "value": "1|mFVHqHkj5bFoiX3736SCNtHuO+9z7bdc0bAUDfekaR+99SXitNnGJuawSiOpoIixEkjWnGt5shQqM9i914k4niwozGvkNy1cG7JtXJVTTK0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017936
+                    }
+                ]
+            },
+            "khaos": {
+                "name": "khaos",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553012738,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089012.73752,
+                        "expiry": 31536000.73751998,
+                        "value": "M0PHPLT6-V-H06K",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012737
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.77593088,
+                        "value": "M0PHPLT7-5-EQUM",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012776
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.77876711,
+                        "value": "M0PHPLT5-5-E6QP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012779
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.7995739,
+                        "value": "M0PHPLT7-1M-88EV",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012800
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.549038887,
+                        "value": "M0PHPLT7-1M-88EV",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017556
+                    }
+                ]
+            },
+            "khaos_p": {
+                "name": "khaos_p",
+                "domain": ".rubiconproject.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553017558,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089017.549111,
+                        "expiry": 31536000.54911089,
+                        "value": "M0PHPLT7-1M-88EV",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017556
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013697,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759249013.696032,
+                        "expiry": 33696000.69603205,
+                        "value": "1638cf1410b95a016a1d9611725553013",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013696
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013698,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759249013.696093,
+                        "expiry": 33696000.69609308,
+                        "value": "1638cf1410b95a016a1d9611725553013",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013698
+                    }
+                ]
+            }
+        }
+    },
+    "sharethrough.com": {
+        "/": {
+            "stx_user_id": {
+                "name": "stx_user_id",
+                "domain": ".sharethrough.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553012710,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.98652792,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012986
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.9938259125,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553012994
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2591999.99960804,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.02768898,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013028
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.206163883,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013206
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.2320809364,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013232
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.257016897,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.113284111,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017115
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.1144719124,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017118
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.8281269073,
+                        "value": "0e003f77-682a-4921-9e77-acbe10b828e8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017830
+                    }
+                ]
+            }
+        }
+    },
+    "snapchat.com": {
+        "/": {
+            "sc_at": {
+                "name": "sc_at",
+                "domain": ".snapchat.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553014384,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759249014.382016,
+                        "expiry": 33696000.38201594,
+                        "value": "v2|H4sIAAAAAAAAAAXBgQ0AIAgDsItIHDqRc1DxCo63vUje3CbP6TIiKH6wJaYCjkxdqIIpyd4wqn1KBpDTMgAAAA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553014382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.5844779,
+                        "value": "v2|H4sIAAAAAAAAAE3GwREAIQgEsIqYYdE9xW5QuSos3q95ZSO5czb5nS41guILU+IzwJFpHQdVB5qRLAqep3oB62nOEkAAAAA=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553015587
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000.47814989,
+                        "value": "v2|H4sIAAAAAAAAAE3GwRHAIAgEwIqY4dBTSTcYsAqLzzf72kQxa085TpceQfEXW2IY4KiyhYuuD6aRbIpxf9UPafLpbEAAAAA=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016483
+                    }
+                ]
+            }
+        }
+    },
+    "tapad.com": {
+        "/": {
+            "TapAd_3WAY_SYNCS": {
+                "name": "TapAd_3WAY_SYNCS",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553016294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730737016.28934,
+                        "expiry": 5184000.289340019,
+                        "value": "",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016293
+                    }
+                ]
+            },
+            "TapAd_DID": {
+                "name": "TapAd_DID",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553016135,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730737016.128824,
+                        "expiry": 5184000.128823996,
+                        "value": "ef053fc2-6004-4204-90d8-880153b86d4f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016133
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.289252996,
+                        "value": "ef053fc2-6004-4204-90d8-880153b86d4f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016293
+                    }
+                ]
+            },
+            "TapAd_TS": {
+                "name": "TapAd_TS",
+                "domain": ".tapad.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553016131,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730737016.128707,
+                        "expiry": 5184000.128706932,
+                        "value": "1725553016095",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.289038897,
+                        "value": "1725553016095",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016291
+                    }
+                ]
+            }
+        }
+    },
+    "targeting.unrulymedia.com": {
+        "/": {
+            "_rxuuid": {
+                "name": "_rxuuid",
+                "domain": ".targeting.unrulymedia.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553017695,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089017.69211,
+                        "expiry": 31536000.69211006,
+                        "value": "%7B%22rx_uuid%22%3A%22RX-d86aae45-f71b-4c00-8712-a9a235a49404-005%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017693
+                    }
+                ]
+            }
+        }
+    },
+    "turn.com": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".turn.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553017035,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741105017.033962,
+                        "expiry": 15552000.033962011,
+                        "value": "4571481184430206742",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553017034
+                    }
+                ]
+            }
+        }
+    },
+    "tvasports.ca": {
+        "/": {
+            "FCNEC": {
+                "name": "FCNEC",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553014598,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757089014,
+                        "expiry": 31536000,
+                        "value": "%5B%5B%22AKsRol8Ruk-UzayF0d8j6jokdTLxuVAENySJ9LK1zyqWTHFsrUqKeL_W8zEiIQuXSQvPomR7KUOJSmAFCelogj4xkhREYcVMlOm_NNv48ddvbVLPdAFMtWKE9w631PjojUndiUpPoLHVPg2V2bEwwaLiKSrGaYR-bg%3D%3D%22%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553014596
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553011866,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726157811,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=tvasports.ca&si=jolww6he78n&ss=m0phpklh&sl=0&tt=0\"",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553011865
+                    }
+                ]
+            },
+            "_ScCbts": {
+                "name": "_ScCbts",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553014432,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726157814,
+                        "expiry": 604800,
+                        "value": "%5B%5D",
+                        "same_site": "lax",
+                        "timestamp": 1725553014432
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013154,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741105012,
+                        "expiry": 15551999,
+                        "value": "ID=6dddcc95c4d9c1a4:T=1725553012:RT=1725553012:S=AA-AfjZaXTMoWIXpcumIdOYYCXNP",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013153
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=49fa048bb44a5c32:T=1725553012:RT=1725553012:S=AA-AfjYkYI7n1zoPiZNRSW328XtC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013327
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=99a438e324b53999:T=1725553012:RT=1725553012:S=AA-AfjbtcsiMc0dXRjtdQ5zO7Yxy",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013445
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013151,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759249012,
+                        "expiry": 33695999,
+                        "value": "ID=947769d9469eff72:T=1725553012:RT=1725553012:S=ALNI_MbK7QuI9StUE8SapziqhYSdY0FkkQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013150
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=fb01bd18a0d2f574:T=1725553012:RT=1725553012:S=ALNI_MYacqU7k9aLFSxmnUt0OjkuV3U3uA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013327
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=5bdb5ff28a0db97a:T=1725553012:RT=1725553012:S=ALNI_MayaXQhxIj4PMDiPkWCs7dkIeMmsg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013444
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553013152,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759249012,
+                        "expiry": 33695999,
+                        "value": "UID=00000eec03e840f6:T=1725553012:RT=1725553012:S=ALNI_MazcKaCxcIjzM7TX-42IRMSS9qmVw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013152
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eec04ed6fef:T=1725553012:RT=1725553012:S=ALNI_Mb26P5riUNoww0xbeIMPjlx0kQwZg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013327
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eec040b1977:T=1725553012:RT=1725553012:S=ALNI_MZdW4qdxidVWYDg5hYfg3qKItgXFg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013444
+                    }
+                ]
+            },
+            "__utma": {
+                "name": "__utma",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553012527,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760113012.526513,
+                        "expiry": 34560000.5265131,
+                        "value": "30799008.1408116503.1725553013.1725553013.1725553013.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012527
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.52859092,
+                        "value": "30799008.1408116503.1725553013.1725553013.1725553013.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012532
+                    }
+                ]
+            },
+            "__utmb": {
+                "name": "__utmb",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553012528,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725554812,
+                        "expiry": 1800,
+                        "value": "30799008.0.10.1725553013",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012528
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "30799008.1.10.1725553013",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012532
+                    }
+                ]
+            },
+            "__utmc": {
+                "name": "__utmc",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553012529,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "30799008",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012528
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "30799008",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012532
+                    }
+                ]
+            },
+            "__utmt": {
+                "name": "__utmt",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553012532,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725553612,
+                        "expiry": 600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012531
+                    }
+                ]
+            },
+            "__utmz": {
+                "name": "__utmz",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553012530,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741321012,
+                        "expiry": 15768000,
+                        "value": "30799008.1725553013.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012529
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15768000,
+                        "value": "30799008.1725553013.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012533
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553012960,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725553042,
+                        "expiry": 30,
+                        "value": "m0phpm1qxpookl",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012960
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0phpm1xg62fx1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012966
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0phpm23vuaugs",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012972
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0phpm2tm1qqep",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012997
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0phpm2wku6a17",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553013001
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0phpm2yaay6qn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553013003
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0phpnjyig1aa9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553014911
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0phppwjqe4y8y",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553017955
+                    }
+                ]
+            },
+            "_dc_gtm_UA-24958131-2": {
+                "name": "_dc_gtm_UA-24958131-2",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553014019,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725553074,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553014018
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553013903,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760113013.902072,
+                        "expiry": 34560000.90207195,
+                        "value": "GA1.2.1408116503.1725553013",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553013902
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553012897,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733329012,
+                        "expiry": 7776000,
+                        "value": "1.1.1216784781.1725553013",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012897
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553013903,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725639413,
+                        "expiry": 86400,
+                        "value": "GA1.2.1152319536.1725553014",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553013903
+                    }
+                ]
+            },
+            "_hjSessionUser_1382938": {
+                "name": "_hjSessionUser_1382938",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725553014428,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089014,
+                        "expiry": 31536000,
+                        "value": "eyJpZCI6ImE0MjcyMzEwLTM3ZWYtNTY0Yy04NDk4LTA2MmVjMDVkMmIzZiIsImNyZWF0ZWQiOjE3MjU1NTMwMTQ0MjcsImV4aXN0aW5nIjpmYWxzZX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553014428
+                    }
+                ]
+            },
+            "_hjSession_1382938": {
+                "name": "_hjSession_1382938",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553014431,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725554814,
+                        "expiry": 1800,
+                        "value": "eyJpZCI6ImM2NDcyMDdhLWE3OGQtNDAwZC04NDU3LTM1ZjkyNWJhZmVlNCIsImMiOjE3MjU1NTMwMTQ0MjgsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553014430
+                    }
+                ]
+            },
+            "_hjTLDTest": {
+                "name": "_hjTLDTest",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553014422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".tvasports.ca",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553014421
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725553012972,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759681012,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0phpm1yesxcbr6z%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725553012971
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553012971,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759681012,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725553012969
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOAWABgHYevAEzCAbAE5hvXgA5ZvCSAC%2BQA",
+                        "same_site": "lax",
+                        "timestamp": 1725553012996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC5QGYAMATVAWdA2ArALQCMAHPgJyFZq6GkCGF6hqjuDUUpquWDwAI5goAX0SgADjCgAzAJYAPRCGFQQAGhAAXAJ6T1CEAGEAGiFGitkWAGVtDbZBUMAdgHtXmkBHnaoAJLoKsTEWKgA7GGoAEwxuBQxqGw8FBZAA",
+                        "same_site": "lax",
+                        "timestamp": 1725553012996
+                    }
+                ]
+            },
+            "_schn1": {
+                "name": "_schn1",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553013812,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725553193,
+                        "expiry": 180,
+                        "value": "enq8",
+                        "same_site": "lax",
+                        "timestamp": 1725553013811
+                    }
+                ]
+            },
+            "_scid": {
+                "name": "_scid",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725553013813,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759739711,
+                        "expiry": 34186698,
+                        "value": "moq-Ad524FHb0SvUbnUK7Iifeoqtrafo",
+                        "same_site": "lax",
+                        "timestamp": 1725553013812
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34186698,
+                        "value": "moq-Ad524FHb0SvUbnUK7Iifeoqtrafo",
+                        "same_site": "lax",
+                        "timestamp": 1725553013814
+                    }
+                ]
+            },
+            "_scid_r": {
+                "name": "_scid_r",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725553013815,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759739711,
+                        "expiry": 34186698,
+                        "value": "moq-Ad524FHb0SvUbnUK7Iifeoqtrafo",
+                        "same_site": "lax",
+                        "timestamp": 1725553013814
+                    }
+                ]
+            },
+            "_sctr": {
+                "name": "_sctr",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553016490,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759739714,
+                        "expiry": 34186698,
+                        "value": "1%7C1725487200000",
+                        "same_site": "lax",
+                        "timestamp": 1725553016489
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553014914,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759681014,
+                        "expiry": 34128000,
+                        "value": "cx%3A38ty9tjp3hlhriarcdjaw3rhi%3A2e1sqkidg6u9u",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553014912
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553012973,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759681012,
+                        "expiry": 34128000,
+                        "value": "m0phpm1yesxcbr6z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012973
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0phpm1yesxcbr6z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553012998
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0phpm1yesxcbr6z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553013002
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0phpm1yesxcbr6z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553013003
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0phpm1yesxcbr6z",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553017956
+                    }
+                ]
+            },
+            "qub_anonymous_id": {
+                "name": "qub_anonymous_id",
+                "domain": "www.tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553007640,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "30d04d65-1859-4306-8a9d-08a6aee8064a",
+                        "same_site": "lax",
+                        "timestamp": 1725553007628
+                    }
+                ]
+            },
+            "silent-authentication-attempt": {
+                "name": "silent-authentication-attempt",
+                "domain": "www.tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553008060,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725553068.055464,
+                        "expiry": 60.055464029312134,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553008057
+                    }
+                ]
+            },
+            "silent-authentication": {
+                "name": "silent-authentication",
+                "domain": "www.tvasports.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553007795,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725639407.789763,
+                        "expiry": 86400.78976297379,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553007793
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.3857998848,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553009388
+                    }
+                ]
+            }
+        }
+    },
+    "w55c.net": {
+        "/": {
+            "matchsharethrough": {
+                "name": "matchsharethrough",
+                "domain": ".w55c.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553016695,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728145016.691987,
+                        "expiry": 2592000.6919870377,
+                        "value": "5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016694
+                    }
+                ]
+            },
+            "wfivefivec": {
+                "name": "wfivefivec",
+                "domain": ".w55c.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725553016556,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759717017.555454,
+                        "expiry": 34164001.555454016,
+                        "value": "ELZb7AQ31SMfag5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016555
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.69171691,
+                        "value": "ELZb7AQ31SMfag5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553016694
+                    }
+                ]
+            }
+        }
+    },
+    "api.qub.ca": {
+        "/": {
+            "qub_anonymous_id": {
+                "name": "qub_anonymous_id",
+                "domain": "api.qub.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553007344,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757089007.326372,
+                        "expiry": 31536000.32637191,
+                        "value": "30d04d65-1859-4306-8a9d-08a6aee8064a",
+                        "same_site": "lax",
+                        "timestamp": 1725553007332
+                    }
+                ]
+            }
+        }
+    },
+    "sc-static.net": {
+        "/scevent.min.js": {
+            "X-AB": {
+                "name": "X-AB",
+                "domain": "sc-static.net",
+                "path": "/scevent.min.js",
+                "current_label": 2,
+                "label_ts": 1725553013766,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725639413.764643,
+                        "expiry": 86400.76464295387,
+                        "value": "e017adef622b41909b9c719dc2d3819f",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553013765
+                    }
+                ]
+            }
+        }
+    }
+}

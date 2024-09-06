@@ -1,0 +1,47 @@
+{
+    "inyourarea.co.uk": {
+        "/": {
+            "usprivacy": {
+                "name": "usprivacy",
+                "domain": ".www.inyourarea.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725620186468,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759316186.456053,
+                        "expiry": 33696000.45605302,
+                        "value": "1N--",
+                        "same_site": "lax",
+                        "timestamp": 1725620186457
+                    }
+                ]
+            },
+            "cookies.js": {
+                "name": "cookies.js",
+                "domain": "www.inyourarea.co.uk",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725620184452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725620184448
+                    }
+                ]
+            }
+        }
+    }
+}

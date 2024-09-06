@@ -1,0 +1,98 @@
+{
+    "olx.ro": {
+        "/": {
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573297202,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109297,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A54%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725573297202
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A54%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725573297203
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A54%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=",
+                        "same_site": "lax",
+                        "timestamp": 1725573297233
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A54%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=a11facef-3e9d-496b-abf2-5c1a13557701&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725573297234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A54%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=a11facef-3e9d-496b-abf2-5c1a13557701&interactionCount=0&landingPath=https%3A%2F%2Fwww.olx.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573297235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A54%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=&consentId=a11facef-3e9d-496b-abf2-5c1a13557701&interactionCount=1&landingPath=https%3A%2F%2Fwww.olx.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573297283
+                    }
+                ]
+            },
+            "deviceGUID": {
+                "name": "deviceGUID",
+                "domain": ".olx.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573297045,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760133297.040051,
+                        "expiry": 34560000.04005098,
+                        "value": "7b61e9cd-88c7-44d0-8e3d-cfaba6fa84ce",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573297040
+                    }
+                ]
+            }
+        }
+    }
+}

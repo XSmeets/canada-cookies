@@ -1,0 +1,121 @@
+{
+    "vlaanderen.be": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".vlaanderen.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617484956,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177484.949725,
+                        "expiry": 34560000.94972491,
+                        "value": "GA1.1.671549579.1725617485",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617484955
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.305794,
+                        "value": "GA1.2.671549579.1725617485",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617485306
+                    }
+                ]
+            },
+            "_ga_CKZ5MCVKXT": {
+                "name": "_ga_CKZ5MCVKXT",
+                "domain": ".vlaanderen.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617484955,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760177484.94944,
+                        "expiry": 34560000.94944,
+                        "value": "GS1.1.1725617484.1.0.1725617484.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617484954
+                    }
+                ]
+            },
+            "_gat_UA-32317403-1": {
+                "name": "_gat_UA-32317403-1",
+                "domain": ".vlaanderen.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617485308,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725617545,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617485307
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".vlaanderen.be",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617485307,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725703885,
+                        "expiry": 86400,
+                        "value": "GA1.2.1126731194.1725617485",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617485306
+                    }
+                ]
+            },
+            "_ALGOLIA": {
+                "name": "_ALGOLIA",
+                "domain": "www.vlaanderen.be",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617483958,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741169483,
+                        "expiry": 15552000,
+                        "value": "anonymous-1c2a12e2-45a1-416c-a82e-434e1eccbcb5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617483953
+                    }
+                ]
+            }
+        }
+    }
+}

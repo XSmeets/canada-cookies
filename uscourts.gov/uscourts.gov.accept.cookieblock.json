@@ -1,0 +1,424 @@
+{
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635951991,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741447151.989658,
+                        "expiry": 15811200.989658117,
+                        "value": "517=c9IpTVQ5sh5Fjb_WKOLt0vCkk3d6hBnoys7tXt11cYpa8QEg8N0bRPhxwQmytI-X97ABBVtNepUjihK4t4Mkv0nLi-Q8tYTLhVPN64zzSj_AxnYZhW7DdG7jimPPT6iK-endPJxvHWP3oQQvSRGF-Hnf0fQeHmqiM4wWGcsS-14",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635951991
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15811200.990515947,
+                        "value": "517=k1nwrDT_Ux1VokDZKdDS-K1kc_6n8Qn9Eba_TBGwFpgcTVbjeKsGVId8iz7Pjtjmu4lYZzvwXPbrgDfnnb2AQtQydmDuIGbpo8F5vc6c84D6qWXlfQogpe0JFIZ_TOqhHDtiZH6Rh5Y9z2zodgAImqEEemPb7T5AlhL6cE2tsfQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635951993
+                    }
+                ]
+            }
+        }
+    },
+    "uscourts.gov": {
+        "/": {
+            "_4c_": {
+                "name": "_4c_",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635951180,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195951.176012,
+                        "expiry": 34560000.17601204,
+                        "value": "%7B%22_4c_s_%22%3A%22dVDRjoMgEPyVZp9L4yoW8LXP9w2NAq2mPTFA9XqN%2F36LNZdLm%2BOF3dmZYZkHTK3toUKRl%2FuiVCWiwC1c7D1A9QDfmXSNUIGpm4JLKVldiIzxk1asEVwyRC0bLhH3XMEWvpJXUXBExRUKPm9BD6vHA7QzlrxQ7ZDvMGOnQJL4naA8o3Lwztx0PMb7kHiTbTbBXGhg7Nhpe5w6E9vFYKGvaGu7cxsTnMkFHnxqqJq63rjpVbaivzKpEtp4NwWblIfWu0%2B7wVwS7CgI%2BKg1ld6erPcLhbrQxbTjLWh38zHszm5cUUrvz4A9B8O47nR1ur4mJeU%2Br4HlpcjzggKTGeURr1DJPc%2FSmZ%2FKJT98ZQv1zn5%2Bg9n%2Bf9n7I%2FP8Aw%3D%3D%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635951176
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.706839085,
+                        "value": "%7B%22_4c_s_%22%3A%22dVDRjsIgEPwVs89igFKBvvp832BaQNvolQawPc%2F032%2BpzeWiOV7YnZ0ZlnnA1LoeKiZ5uS9KXZaS8i1c3D1C9YDQ2XyNUIGtm0IopUhdSErEyWjSSKEIY0Y1QjG2Fxq28JW9ikIwpoVmUsxbMMPq8QDjrUMvpndM7Bglp4iS9J0hTrEcgrc3k47pPmTe5JpNtBccWDd2xh2nzqZ2MVjoK9q67tymDFO1wEPIDVZT11s%2FvcpW9FemdEab4KfosvLQBv%2FpNowrhD0GAR%2B1wTK4kwthoWAXu5R3vEXjbyHF3dmPK4rp%2FRmQ52AY152u3tTXrMTc5zUwXkrOCwxMUcwjXaFSe0HzmZ%2FKJT%2F2ypb6nf38BnH9%2F7L3R%2Bb5Bw%3D%3D%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635955710
+                    }
+                ]
+            },
+            "_ce.cch": {
+                "name": "_ce.cch",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635950597,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635950597
+                    }
+                ]
+            },
+            "_ce.clock_data": {
+                "name": "_ce.clock_data",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635951285,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725722351,
+                        "expiry": 86400,
+                        "value": "-148%2C149.88.98.86%2C1%2Cfe0673f2a48d047b912b27e2a0c02f9f%2CChrome%2CCA",
+                        "same_site": "strict",
+                        "timestamp": 1725635951284
+                    }
+                ]
+            },
+            "_ce.clock_event": {
+                "name": "_ce.clock_event",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635950735,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725722350,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635950734
+                    }
+                ]
+            },
+            "_ce.gtld": {
+                "name": "_ce.gtld",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635950597,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635950596
+                    }
+                ]
+            },
+            "_ce.irv": {
+                "name": "_ce.irv",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635950731,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "new",
+                        "same_site": "strict",
+                        "timestamp": 1725635950730
+                    }
+                ]
+            },
+            "_ce.s": {
+                "name": "_ce.s",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635950729,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757171950,
+                        "expiry": 31536000,
+                        "value": "v~5476caf375821cb817b78a4fb5628c1eb3d73dbb~lcw~1725635950728",
+                        "same_site": "strict",
+                        "timestamp": 1725635950728
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~5476caf375821cb817b78a4fb5628c1eb3d73dbb~lcw~1725635950728~lva~1725635950728~vpv~0~lcw~1725635950729",
+                        "same_site": "strict",
+                        "timestamp": 1725635950733
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~5476caf375821cb817b78a4fb5628c1eb3d73dbb~lcw~1725635950729~lva~1725635950728~vpv~0~v11.cs~351378~lcw~1725635951287",
+                        "same_site": "strict",
+                        "timestamp": 1725635951287
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~5476caf375821cb817b78a4fb5628c1eb3d73dbb~lcw~1725635951287~lva~1725635950728~vpv~0~v11.cs~351378~lcw~1725635951287",
+                        "same_site": "strict",
+                        "timestamp": 1725635951288
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~5476caf375821cb817b78a4fb5628c1eb3d73dbb~lcw~1725635951287~lva~1725635950728~vpv~0~v11.cs~351378~v11.s~5e62cc70-6c63-11ef-8324-b7c78236a485~lcw~1725635951288",
+                        "same_site": "strict",
+                        "timestamp": 1725635951289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~5476caf375821cb817b78a4fb5628c1eb3d73dbb~lcw~1725635951288~lva~1725635950728~vpv~0~v11.cs~351378~v11.s~5e62cc70-6c63-11ef-8324-b7c78236a485~v11.send~1725635955710~lcw~1725635955710",
+                        "same_site": "strict",
+                        "timestamp": 1725635955712
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635949286,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195949.276211,
+                        "expiry": 34560000.27621102,
+                        "value": "GA1.1.1150354686.1725635949",
+                        "same_site": "strict",
+                        "timestamp": 1725635949285
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60680604,
+                        "value": "GA1.1.1150354686.1725635949",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635949609
+                    }
+                ]
+            },
+            "_ga_83ZBSG354S": {
+                "name": "_ga_83ZBSG354S",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635949608,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195949.606499,
+                        "expiry": 34560000.60649896,
+                        "value": "GS1.1.1725635949.1.0.1725635949.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635949607
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635949285,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195949.276031,
+                        "expiry": 34560000.27603102,
+                        "value": "GS1.1.1725635949.1.0.1725635949.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725635949281
+                    }
+                ]
+            },
+            "cebs": {
+                "name": "cebs",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635950732,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635950731
+                    }
+                ]
+            },
+            "cebsp_": {
+                "name": "cebsp_",
+                "domain": ".uscourts.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635951287,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635951286
+                    }
+                ]
+            }
+        }
+    },
+    "youtube.com": {
+        "/": {
+            "VISITOR_INFO1_LIVE": {
+                "name": "VISITOR_INFO1_LIVE",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635949442,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741187949.441341,
+                        "expiry": 15552000.441340923,
+                        "value": "LHaWOL2BtVA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635949442
+                    }
+                ]
+            },
+            "VISITOR_PRIVACY_METADATA": {
+                "name": "VISITOR_PRIVACY_METADATA",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725635949443,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741187949.441364,
+                        "expiry": 15552000.44136405,
+                        "value": "CgJDQRIEGgAgbA%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635949442
+                    }
+                ]
+            },
+            "YSC": {
+                "name": "YSC",
+                "domain": ".youtube.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635949441,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "qD5blWr654U",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725635949441
+                    }
+                ]
+            }
+        }
+    }
+}

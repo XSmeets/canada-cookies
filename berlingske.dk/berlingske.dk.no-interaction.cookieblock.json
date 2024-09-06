@@ -1,0 +1,130 @@
+{
+    "berlingske.dk": {
+        "/": {
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580338325,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725587538.299769,
+                        "expiry": 7200.299768924713,
+                        "value": "F1AC48342CCEFE07920F5C794FB311E3~000000000000000000000000000000~YAAQhCshF/zf9r+RAQAAk2WaxBk7WrtCXCeNEfp6RD+Jhqvof6G4CVSU/p71iAxODC9kIB2ERxNJwJT/yeUuU7n0EFT++YeAqcgY1t+TZZ11gLuWrLT0mdgdlOcEAWV9645F6F9loJE1zIlzRZZ4yzv3IubnPh48lutI7jXbpZ4mVUpJ23XllU/h0bSh8keSxlMOUV6+Er6wUvNVJE7pI5frMefZy66i/8uoCLwl1YUvTGJH47Lmj0j01dHx49scXhk3gEC75wjj/8TzIwjrniVbDcVR8K4z2kEHrnX/aIt7fXzQFMWmkYwGlKWMDfw4/le8+Qa0PTft4deVveBqO5jp8LTTyps5JRbo9iCELxdHZ6a4BcXwSJmhoxW/KFN1WHWCpS6B+iQb1w5i",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580338304
+                    }
+                ]
+            },
+            "gig_canary": {
+                "name": "gig_canary",
+                "domain": ".www.berlingske.dk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580342791,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580342790
+                    }
+                ]
+            },
+            "gig_canary_ver": {
+                "name": "gig_canary_ver",
+                "domain": ".www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580342792,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "16174-3-28759665",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580342791
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580338656,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726185138.639226,
+                        "expiry": 604800.6392259598,
+                        "value": "CjeTbjuMS5sR6yAwpc+xbASeu7PJ1a85DDWvuWED2+L3jA+PwTcls/Y9gJvTf4I3B6BhkR1srjphpevA18AV5NWNqa4c+GqETOjfTuhV2aMm74ympR5niFXUZABk",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580338642
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580338659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726185138.639938,
+                        "expiry": 604800.6399381161,
+                        "value": "CjeTbjuMS5sR6yAwpc+xbASeu7PJ1a85DDWvuWED2+L3jA+PwTcls/Y9gJvTf4I3B6BhkR1srjphpevA18AV5NWNqa4c+GqETOjfTuhV2aMm74ympR5niFXUZABk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580338657
+                    }
+                ]
+            },
+            "CookieConsent": {
+                "name": "CookieConsent",
+                "domain": "www.berlingske.dk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580339684,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140339.68393,
+                        "expiry": 34560000.68392992,
+                        "value": "-3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580339684
+                    }
+                ]
+            }
+        }
+    }
+}

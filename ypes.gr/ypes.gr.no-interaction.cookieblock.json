@@ -1,0 +1,99 @@
+{
+    "ypes.gr": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".ypes.gr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725569755749,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760129755.742516,
+                        "expiry": 34560000.74251604,
+                        "value": "GA1.1.1669503947.1725569756",
+                        "same_site": "unspecified",
+                        "timestamp": 1725569755748
+                    }
+                ]
+            },
+            "_ga_0GBFFNCPWT": {
+                "name": "_ga_0GBFFNCPWT",
+                "domain": ".ypes.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725569755747,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760129755.741215,
+                        "expiry": 34560000.74121499,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725569755741
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.742166996,
+                        "value": "GS1.1.1725569755.1.0.1725569755.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725569755748
+                    }
+                ]
+            },
+            "cookieyes-consent": {
+                "name": "cookieyes-consent",
+                "domain": "www.ypes.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725569755893,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757105755,
+                        "expiry": 31536000,
+                        "value": "consentid:S3lvQ2RSeHRESk1ITU4xSXJkR3NLZWFhb2tjdE43NTk,consent:,action:,necessary:,functional:,analytics:,performance:,advertisement:,other:",
+                        "same_site": "strict",
+                        "timestamp": 1725569755891
+                    }
+                ]
+            },
+            "gsis_cookie": {
+                "name": "gsis_cookie",
+                "domain": "www.ypes.gr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725569754843,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!q438hmsJvBDwNKvaKTmQRiCtURnZ1xjAxe7tBD0kpVQjUMjDuLUmakMWZgxHvGFE4mhoYoF6ourpj8q+Rf/9Wogn/A3wJtkBaDeKv0Q=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725569754826
+                    }
+                ]
+            }
+        }
+    }
+}

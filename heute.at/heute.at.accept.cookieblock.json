@@ -1,0 +1,160 @@
+{
+    "heute.at": {
+        "/": {
+            "consentDate": {
+                "name": "consentDate",
+                "domain": ".heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615489902,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757151489.899911,
+                        "expiry": 31536000.899910927,
+                        "value": "2024-09-06T09:38:09.737Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615489901
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": ".heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615485545,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757151485.544561,
+                        "expiry": 31536000.54456091,
+                        "value": "674aa884-804d-4599-891a-c89506525107",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615485545
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.899791956,
+                        "value": "674aa884-804d-4599-891a-c89506525107_35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615489900
+                    }
+                ]
+            },
+            "__Host-next-auth.csrf-token": {
+                "name": "__Host-next-auth.csrf-token",
+                "domain": "www.heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615483811,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "6d2e5177a11c6987f268609335286e10cd02919ad2941edd2517234dbf73dec9%7Cfc0997c9404d77362430cc7b08fbfc6d50fa32c30201056c5548c5abd50d6e2e",
+                        "same_site": "lax",
+                        "timestamp": 1725615483806
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1317f9fd45b12bbee91601ba2e8fb03e3a5adf5f538f827676d47c96a9631de8%7C3c5e0636e16a7144a370cf33f8f88f1537e978d1cfdc783382f0177ad5bb050f",
+                        "same_site": "lax",
+                        "timestamp": 1725615484049
+                    }
+                ]
+            },
+            "__Secure-next-auth.callback-url": {
+                "name": "__Secure-next-auth.callback-url",
+                "domain": "www.heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615483815,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.heute.at",
+                        "same_site": "lax",
+                        "timestamp": 1725615483811
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.heute.at",
+                        "same_site": "lax",
+                        "timestamp": 1725615484050
+                    }
+                ]
+            },
+            "__heute.isAuthenticated": {
+                "name": "__heute.isAuthenticated",
+                "domain": "www.heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615484052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701884,
+                        "expiry": 86400,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615484051
+                    }
+                ]
+            },
+            "__heute.isPURAboUser": {
+                "name": "__heute.isPURAboUser",
+                "domain": "www.heute.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615483817,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701883,
+                        "expiry": 86400,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615483816
+                    }
+                ]
+            }
+        }
+    }
+}

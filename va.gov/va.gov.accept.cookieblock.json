@@ -1,0 +1,369 @@
+{
+    "eauth.va.gov": {
+        "/": {
+            "PD-S-SESSION-ID": {
+                "name": "PD-S-SESSION-ID",
+                "domain": ".eauth.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632471806,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0_xQ1QCQdMo4hbXJtYZsRCkJLd+j/GQJ9J6zSNATj6H4T7qCpSJTM=_AAAAAAA=_U6ewxL/c3Y9762OyBx77nfrlXF8=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725632471804
+                    }
+                ]
+            },
+            "TS015b3c81": {
+                "name": "TS015b3c81",
+                "domain": ".eauth.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632471812,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "01874af5a43c1f42e407d3755df974510f34c1928602d1c4890a5efd459b1bc99208cac340edad58995396aba94bc9940e8d8d93be",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632471810
+                    }
+                ]
+            },
+            "TS0148db7c": {
+                "name": "TS0148db7c",
+                "domain": "eauth.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632471809,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725633371.802465,
+                        "expiry": 900.8024649620056,
+                        "value": "01874af5a43c1f42e407d3755df974510f34c1928602d1c4890a5efd459b1bc99208cac340edad58995396aba94bc9940e8d8d93be",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632471808
+                    }
+                ]
+            },
+            "__Secure-BIGipServer": {
+                "name": "__Secure-BIGipServer",
+                "domain": "eauth.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632471808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!pQfAknvoeUFI32vntwajW8exdyDxGp+BChoM7gqNbMOW/TikbTu/JZc4IYlXM0HL2CLPIrxRR3BQwQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632471806
+                    }
+                ]
+            }
+        }
+    },
+    "va.gov": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".va.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632470483,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760192470.475905,
+                        "expiry": 34560000.47590494,
+                        "value": "GA1.1.1526967170.1725632470",
+                        "same_site": "strict",
+                        "timestamp": 1725632470482
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60756302,
+                        "value": "GA1.1.1526967170.1725632470",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632470609
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".va.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632470481,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760192470.475694,
+                        "expiry": 34560000.47569394,
+                        "value": "GS1.1.1725632470.1.0.1725632470.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725632470480
+                    }
+                ]
+            },
+            "_ga_YPB3FD0PQ9": {
+                "name": "_ga_YPB3FD0PQ9",
+                "domain": ".va.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632470608,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760192470.607339,
+                        "expiry": 34560000.607338905,
+                        "value": "GS1.1.1725632470.1.0.1725632470.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632470608
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.61123705,
+                        "value": "GS1.1.1725632470.1.0.1725632470.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632470611
+                    }
+                ]
+            },
+            "FLIPPER_ID": {
+                "name": "FLIPPER_ID",
+                "domain": "www.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632470074,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728310870,
+                        "expiry": 2678400,
+                        "value": "tw5igrq6zwn87jlb848tah",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632470070
+                    }
+                ]
+            },
+            "kampyleSessionPageCounter": {
+                "name": "kampyleSessionPageCounter",
+                "domain": "www.va.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725632471860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757168471,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725632471859
+                    }
+                ]
+            },
+            "kampyleUserPercentile": {
+                "name": "kampyleUserPercentile",
+                "domain": "www.va.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725632471862,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757168471,
+                        "expiry": 31536000,
+                        "value": "12.137001297559813",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725632471861
+                    }
+                ]
+            },
+            "kampyleUserSession": {
+                "name": "kampyleUserSession",
+                "domain": "www.va.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725632471855,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757168471,
+                        "expiry": 31536000,
+                        "value": "1725632471853",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725632471854
+                    }
+                ]
+            },
+            "kampyleUserSessionsCount": {
+                "name": "kampyleUserSessionsCount",
+                "domain": "www.va.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725632471859,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757168471,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725632471858
+                    }
+                ]
+            },
+            "mdLogger": {
+                "name": "mdLogger",
+                "domain": "www.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632471851,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757168471,
+                        "expiry": 31536000,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725632471850
+                    }
+                ]
+            }
+        }
+    },
+    "api.va.gov": {
+        "/": {
+            "TS01f27c67": {
+                "name": "TS01f27c67",
+                "domain": "api.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632471997,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725633371.989658,
+                        "expiry": 900.9896581172943,
+                        "value": "01874af5a46f8a1bbbb5dc9fe116884e7d18faf58aebdd294be9f7e521baf86a262dc5d31220cb0f1644abdeb63987709a7b016fed",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632471993
+                    }
+                ]
+            },
+            "api_session": {
+                "name": "api_session",
+                "domain": "api.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632471993,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "FV98IyJQJz%2FzjV08NSZ79sixeNDF%2BK3%2B%2BeLvo5hdVBIZSqeIdbrXGeGbAFKe8zssNRxm2lFMsKH39acCiCpTQqFv1jq%2F5oXNMduFVG19M1h%2F75Odob9dekX3z%2BegCIZlgdBH0j2N3ZiQOmPyQuBrMUmRngV0y5%2FYlY4QiAUW7hu3rC0cAJV6pjF7dAdhMPTSBhvLFInyfJfIEcUCWlLuZ0ipOmTxegwS6qzmKlHIbArlPQ7zzTjonjH7rsgoBNXULmX2lSdAE2P8tT%2FUvdcKYZyiVy%2FxdreXRsIfYMS1grP5fT6mGb0bOUPBmg%3D%3D--rzc3wXuh1ladSOrt--xgbRYorh33kGz3en6oNPVA%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725632471990
+                    }
+                ]
+            }
+        }
+    },
+    "resource.digital.voice.va.gov": {
+        "/": {
+            "SERVERID": {
+                "name": "SERVERID",
+                "domain": "resource.digital.voice.va.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632470536,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "4178e39a-c2a0-493e-9834-bdfbf204cfea",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632470535
+                    }
+                ]
+            }
+        }
+    }
+}

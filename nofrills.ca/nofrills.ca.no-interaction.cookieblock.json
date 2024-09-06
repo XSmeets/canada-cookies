@@ -1,0 +1,946 @@
+{
+    "nofrills.ca": {
+        "/": {
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565207917,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760125207.916863,
+                        "expiry": 34560000.916862965,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A40%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0",
+                        "same_site": "lax",
+                        "timestamp": 1725565207917
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.91768694,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A40%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725565207918
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.91894388,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A40%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725565207919
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.91991711,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A40%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=28d26097-e508-4eb8-9459-b6b68ea43c22",
+                        "same_site": "lax",
+                        "timestamp": 1725565207920
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.920269966,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A40%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=28d26097-e508-4eb8-9459-b6b68ea43c22&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725565207920
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.92264104,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A40%3A07+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=28d26097-e508-4eb8-9459-b6b68ea43c22&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.nofrills.ca%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725565207922
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.08761001,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A40%3A08+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=28d26097-e508-4eb8-9459-b6b68ea43c22&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.nofrills.ca%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725565208088
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.273597956,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A40%3A14+GMT%2B0200+(Central+European+Summer+Time)&version=202406.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=28d26097-e508-4eb8-9459-b6b68ea43c22&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.nofrills.ca%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725565214274
+                    }
+                ]
+            },
+            "Origin_Session_Cookie": {
+                "name": "Origin_Session_Cookie",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565204301,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565205872
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565206069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565206770
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565206812
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565207291
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565208831
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565209190
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565210682
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565212427
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565213267
+                    }
+                ]
+            },
+            "PIM-SESSION-ID": {
+                "name": "PIM-SESSION-ID",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565205147,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NVdtmvl7k8FF6gE0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565205146
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565203174,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757101203.156528,
+                        "expiry": 31536000.156527996,
+                        "value": "0435AE0EC5C39EA87DF8E3401F36C719~-1~YAAQnn86FxledcKRAQAACnOzwwxM82kSwrfF4mTxyMF3vltByccfx9SnY4MMBwjshBWPgJEBeDQq/5kU0KG0KMRFiduzL/wIN7u9qefTB5VZsLkDgKOzZuVqBMbK3/z+4rXefdWT7cVFZnhyS8VrJyAaZAoaitdBTR7M61VeiNgowIwREr7E9b/C1rkmQ+ycN9o3eUkgZkun7JpI4F1u5nhdA7uLSpjhXGPwDti9tPzfFwfYxA3y6N/MyCp0L9tKknAAwO2qEcD8mwciSyEfciOieqi8EktxLyV9WRzEWpkQ0hJPFX6jaRHunT9LqLupWbVkTTlpO41JGIuIHVgWKkzAZETvjJtn408fO2GtvKb3ugrfYA+UdTGPIiV2~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565203159
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.903974056,
+                        "value": "0435AE0EC5C39EA87DF8E3401F36C719~-1~YAAQnn86F4VidcKRAQAAa3mzwwym5tR+qbzV/tXvmReyQeIdBi0rnPOje7ZXihKGerK77fFlcGVbWDxC78xK+8ZvBJsML914xGDYnyblPx78Jt0AjSJv+pjGjkaqzV9PncUSoA505LNTbpg3zHi3DT6zcjWDffXmdiK6TQtYEe6HCwTFpqA+qaHq5stL6/a5nHvzYH7zEcyCHgx4GH0PXggCWRdWorv0mMcWE3g7WsW8uNOsrnGHt8a/byeL8GLXxgHUuMacwJeegJUYNJX3tg/32AW/Uw6+6hF8bzbflfeA3ZUJP1pyozJAnLaSnRQX/oyY9Tip6EZ2V6pP+PkDHvrtclsecMUy13f1i0n7azcQpa1TYvCONZ7UWdc3HH+kijdUcDaz7G6Bis0=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565204907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.870439053,
+                        "value": "0435AE0EC5C39EA87DF8E3401F36C719~-1~YAAQnn86F29ldcKRAQAApH2zwwzwVoawSZ+6VCXEqfh/ulwuZooQI45ZgqYn4kThpHpKvnih3fY/veuVGptn7udbbsuX4DCMTypf/nC2BM4v+eCorSc7DoCKQ01bXO7bfTube91gUJB7hfjR59M9YR9kv+IiWs5eNGEYxEc6gzXF/ZwPEFkozXzSQcYCnvwBnJzG21NdqZNC22f0dvCEtMyll9e47j1sEyTvriAitgEuWIYgtVrX17F57XYkl39gdX6uiCTQ+56KA/nhQWxQOYFrNzUi9PPPyyISvAA38R0ivnrgK1i8hkKGJbeA7ga23NubPNk+zEDCdtoSGP6N396Y1XMKpzWC71jP56GfYx+3SYZwUar5+CCmKY4NRDnD0OK1Z6ksvQ/eom0=~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565205872
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.812051058,
+                        "value": "0435AE0EC5C39EA87DF8E3401F36C719~-1~YAAQnn86F9tndcKRAQAAUYGzwwx+saUEjV9WPQFP6p3eV7Gka/bDM47tOiPlEKXe+cCFTm+77PXE/2AIAjPjjYjQ+G4eGvuBu2w8Dz1Dpx/jAdsjx5YuDrEfIiUu68iz52SBkHnlLl2AN+Wno7S4P6vnjAhzB/GELLx2sg5w2oXzPARW5Ba8E0CY8L52vAQHa+gY6QqhHM0hKWfrw6H3A43sb2Wlx+aVtOOYJeh7Fu0908qi8ubaGqOE3wX5DKQsZHA1ZGOspe8+r5Bj8fIwVV7KkG4j2WpF7aF7y2/YI1d9BkV6zxzfVXQrErZUpJVWMjBDZs9wgQxAWm7G0ThXHiw7cSfdMDUCTNZGLd5Ty1eg68+S8sww2mo7lYQVWkzQqr6f1Ddz+XPxXE0=~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565206812
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.290452957,
+                        "value": "0435AE0EC5C39EA87DF8E3401F36C719~-1~YAAQnn86FytpdcKRAQAAMIOzwwy215YmybEi4Yh/NXI85fB78u78MNu7OFjoxpjeLiKM3k02zh3k+z8ijB32TVNA2jj/Z4y5XqIRqVFAR/leASxq+pnmQHc9Do6ztu9ZV2t9GVZlfgY4zY9qaVrSic9kdQ2Q0WVTMTtLJ9CsQEfwHFwW52jVisuq/9RBSH9vCH0Lypoue8mxBwqKm95sDpF+IbqYEpv7TWpiUvLZpWe2Fz6K3mk+rsBeW+gI6+U/HvWuTQJ4Mz5rCMGG7e5Bpij3bX7/CZvo2NEUazoesvyLqNWTSlKJ76VA8rWyJpgeJUkKlvRbQmIqmEoI9el24cE3sL1Xmg9TFcwPu0WoJW2a/cff5xT65141mXB+ev0o1ICtU694FyN7jIk=~-1~||0||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565207292
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725565209686,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733341209,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725565209681.754597133885333414",
+                        "same_site": "lax",
+                        "timestamp": 1725565209683
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725565209681.754597133885333414",
+                        "same_site": "lax",
+                        "timestamp": 1725565209690
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1725565210148": {
+                "name": "_sp_root_domain_test_1725565210148",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565210150,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1725565210148",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565210149
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1725565210150": {
+                "name": "_sp_root_domain_test_1725565210150",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565210155,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1725565210150",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565210154
+                    }
+                ]
+            },
+            "_spvid_id.4c91": {
+                "name": "_spvid_id.4c91",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725565210154,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760125210.150163,
+                        "expiry": 34560000.150162935,
+                        "value": "1a03a164-29f1-40ad-b0b5-ac0a69814c82.1725565210.1.1725565210..457476ac-386d-44a9-8d35-6e08fbd1533b....0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565210153
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.15408301,
+                        "value": "1a03a164-29f1-40ad-b0b5-ac0a69814c82.1725565210.1.1725565210..457476ac-386d-44a9-8d35-6e08fbd1533b..a33cebcd-6970-464f-af34-d6fc6b32cb67.1725565210152.1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565210157
+                    }
+                ]
+            },
+            "_spvid_ses.4c91": {
+                "name": "_spvid_ses.4c91",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725565210153,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567010,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565210151
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565210158
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565204308,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725572403.286399,
+                        "expiry": 7199.286398887634,
+                        "value": "B22FA34A954DC2A7EC4A7C21FD7CD287~000000000000000000000000000000~YAAQnn86F1hhdcKRAQAAc3ezwxmnh7OfiCGFVUBnlFH/m8geQHc4l34i4Ur348kNcL3qJ8i+iVZcQfLsqIPDwa8N07q7g2Rd+kp2PrQZPkKggnjWTZa5AIpZcE7rUPE8Sze/3grqVhzCuNzgfGGpMGw3LRWrfrOMmzsV2Je9lIQZwos4IgByAyACWOqsS4ljOoqEO5gfCiHgwi+7bFy5DMcs5dtIlF2iVhhtSOmBiFuKdVwtQLVJ0RYo/sO33mEdQyheCfnHIlBmUBlVAaesbnoACHK3s0YkR1n2HJAesSCD/xxAYCP0QpU0agWj5KAx9Hu/jc+VdmSslwyuq2vuUorxvgNnPUeEkl4RDiDFiSeR2adCh9RGbJxf5v0MByx+",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565204305
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.068588972092,
+                        "value": "6D2D453EC550223D93821CD66846D906~000000000000000000000000000000~YAAQnn86F+hldcKRAQAAan6zwxk9eQjaK3SVVE+27lpz6W07SoWVjaMEbmkBmfDhaDfpsh257D9/ssHRvKxDvtTxuWv4NjzG6obEV8shzpyMjiNwQcU8qNa+sWw5RqG+uRYOJq0ZIt7vepz7ndURpig9xO3pwGHWdn0SFQxyFgbEFcsOY6GmF1nsrIHxECaPcIGvaZrJiIYcxK/7hBAxdlTOz8+9SArt8K5mJOIE2CybpBFdSaESnKBG+R5urK5K7+pwNg5L0eusuhjwTysgU/iVpWcHi7ykLZk9iKlG2Wa0TLtL+EBNWdkv0oTUruiRPcadO61UHVkKnP1NAiIT83ujLgsMpD8cYhXLadf67iGLQe65BlOtjbLNBKir2rj7LT/ZaH+tw5cgHip5c/mtIQ2zUyuBQKM1oRaQIQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565206069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.769809961319,
+                        "value": "6D2D453EC550223D93821CD66846D906~000000000000000000000000000000~YAAQnn86F7JndcKRAQAAKYGzwxlvFzhiEgpc43L4uuFlEIKm7ToFBPOU9Qcpe3ZtEPne+J7BiXiQJDPDe7h2D2Kp2GfuK/TSMtAHcj+fnCebNhfODx87sdGokYwWpdc7gEwIbM+ZuNgezEZ9289BK6JdP3zbX5icj4O1zPvTYJXZn29TMp4ZjQbk/1dowtGZbkeanoj7LofcIVXA3hLMoyKQrJf6wC4dke9zYSCvDrD7YjqIf9HFqNis+H5rORqTItjrvgcwycP1BXGci6x0RusVJgGbzg1PLTNR+hMv2hT/7XNMBz7Q72IXI1jwsO0A2fQX0BZCkhtBjNW6PjN2Ti357uGw4Sf/T/770/Z8xfjHfCKpjYsJ5/Njr/mxWNSUHi8WvAuk+bEZG4WsAhJHJJcj7tBGLNxnYsdDDKSNS4hWfzVotDgJ2kfDU2Jy2SblMFaB",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565206771
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565208836,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725572408.816249,
+                        "expiry": 7200.816248893738,
+                        "value": "1475C5F4A91C3334896657A5A82A9566~YAAQnn86F69tdcKRAQAAJ4mzwxnmqXQtb4EQnQa900nddYE+yPV1VRCG0lUpkWEJL8YkjlQ5uC1dfzlk0LFCCI8ednW27WK4QfK60qRaxVbBF/uzaDMRw7Eh0rabmA3Nt3Tcm18n0JOB6L9vjnm9xa7fOWgq5Fj8NRyciifoQCn6QeD067EOJM1nrg04xBhOa+donMnmCForHSweZaovn6MaIz/9xRLxrek2X6sSFfJ/tqFAlALTbMEjRT7U2d0RoA==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565208833
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.1859810352325,
+                        "value": "8EA21ECC51A192178C306C0E07B431B9~YAAQnn86F5hudcKRAQAAl4qzwxkaWhFbQnBZswNn/U/QI75NgUKsTmzQOoPah99WgU00DfXe3b6UyMsVVNJ8+3F3hhSzAnjiXA1EW7/MRaeyr8NWTuhlBQpWioAsZv24Zw/RgjFF/EXW2ChfPu9p63nDYjeF4ptF0i1Pvdgi/NPAvfz1riqjgQXdbT30o8D6hMa1GKClJldTbQbj0mQ8FqPhEf5SRoYkRQziO3yRIu1CR2CGaLEP0rDLQexITdsdPg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565209191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.422532081604,
+                        "value": "8EA21ECC51A192178C306C0E07B431B9~YAAQnn86F5h2dcKRAQAAxpazwxmtrX64+W/gzf7QJjVWVInny/4nd7DnxcpJZmmrsqGsDzEnL4pTJjiv9uJri+E9t8DvPPgjRhhMzmUmM0x/lsBSe1ff+x9GT8lHhENM6iVwG3+7djAlG4v9aUDbXcEXkjzbsPVfxJq8ejLgX237o2SR6i1l3fQAINYb6UqwGPZ5ASFQGP8kA+gCatXIQlFev75cpbXBzogXatnRJ9aAjilkEiGff5v2RzWE9M7ltg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565212428
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7196.262545108795,
+                        "value": "8EA21ECC51A192178C306C0E07B431B9~YAAQnn86F095dcKRAQAAg5qzwxkrLfUlVIEe8m9h8DTGJyADzefiS/OzNVcbPmMDtSUt/pCwk06iY3cdKntTTzR40uKXXD0b8PXqCBYK3YE19dqWXkeR0E2NB3tjStcuiDpOSzJvo6c8vXnXdTqwtk7cnowMDmkJ5pf6hvF3rvCdJOnU0GuaxnHqT/7U9/sonT3dJTPZsPax4iiVmRg9P8Uxcz0R3NCXkIxIfz0FnxJzyyILDjaKCrcae8J8Ts7UMw==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565213267
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565203186,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725579603.156786,
+                        "expiry": 14400.156785964966,
+                        "value": "66AC1275AF7C256E66A690FDF7FC5552~YAAQnn86FxpedcKRAQAACnOzwxlMeIlHuvutGYU6/g/T6MZrR+YMtxO1oHDaH0Wq0nO+c40i4ODx3WNpWx41Ln8OICtgVgPjOaTI8X5qCLkhpR+dPrRQr7+SfuN7rArno6dMDYysoJow4Uvq94O4vGEdrpReoXSwwZsM36BYNkxQhFD6Wq1/O1V0xWMF0drjsQKFx79tes7RGpm76ZL9auUj3en6TcXBqUvB+k1TLCHPWL9hCJbDk3Hkn81HXLSBJMWp/in6JDVysYh2kKxa/QW4HlfW0dDBlzJp869tL4AMckO7B4DR7BOmrGNL9QlCSYv79MWGXBf1gJnq8OcmCCXXj7ZUB0H9NXhyK60ctRUSWKKWiO9LlrSSMqpTllodq+CQ9w==~3753266~4535606",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565203175
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14399.286633968353,
+                        "value": "66AC1275AF7C256E66A690FDF7FC5552~YAAQnn86F1phdcKRAQAAc3ezwxkCfdb9TsKI6yxkwjREkE9eKdP56e80Lw3Z1hkwBCBA7arXk5qsG1WCnvhYTiqBMTyZb9A9fu057BfY4Z0FVtz2sQnJiAVRmDHqqeaujtypOlZwhbpZWcc26urhbgDNLLdAy6ja0tFANFkdtuI1OXqZcBwSJyzMVdg9zpi5+RccHWIjOzvVVYtEkdp3gqdxALRXcTyMSTI9bij88RoAf59biRNPb7tRpGPzinlLe6IevoHymCorefel5QkcTepzw9FUwCL/J+Cl4iXDCE+UCzQkNH9CjytsZciyZV5201Ys41Js084fTbt1Gav12tmJplSY01sJEi9+pEU6swkkei4yF+KLISQ47166ty7mzOFgB4yQDG+a~3753266~4535606",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565204309
+                    }
+                ]
+            },
+            "ADRUM_BT1": {
+                "name": "ADRUM_BT1",
+                "domain": "www.nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565208831,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725565238.815978,
+                        "expiry": 30.815978050231934,
+                        "value": "R:24|i:352465|e:1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565208830
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.184869050979614,
+                        "value": "R:24|i:352468|e:13",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565209190
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.67668390274048,
+                        "value": "R:24|i:352462|e:121|d:2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565210682
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.422350883483887,
+                        "value": "R:24|i:352462|e:121",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565212427
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.262331008911133,
+                        "value": "R:24|i:646470|e:1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565213266
+                    }
+                ]
+            },
+            "ADRUM_BTa": {
+                "name": "ADRUM_BTa",
+                "domain": "www.nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565208824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725565238.815847,
+                        "expiry": 30.815846920013428,
+                        "value": "R:24|g:03a12d28-bffb-4a5f-8ce6-05b83544ec86|n:lblw_afe7f4d6-4637-4e11-95bb-0a169ff97498",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565208821
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.184638023376465,
+                        "value": "R:24|g:e292abc8-b38b-43a9-9419-9b4561e4119c|n:lblw_afe7f4d6-4637-4e11-95bb-0a169ff97498",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565209189
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.67643404006958,
+                        "value": "R:24|g:a8319956-acc6-4aa7-a90c-aaf08ec7944f|n:lblw_afe7f4d6-4637-4e11-95bb-0a169ff97498",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565210680
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.422152042388916,
+                        "value": "R:24|g:35232087-3d8c-47c7-bbd2-150b3c63a2c8|n:lblw_afe7f4d6-4637-4e11-95bb-0a169ff97498",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565212426
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 30.26221990585327,
+                        "value": "R:24|g:0dae1fb2-794d-43ad-b91d-5d5b43824565|n:lblw_afe7f4d6-4637-4e11-95bb-0a169ff97498",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565213265
+                    }
+                ]
+            },
+            "SameSite": {
+                "name": "SameSite",
+                "domain": "www.nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565208827,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725565238.815908,
+                        "expiry": 30.815907955169678,
+                        "value": "None",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565208825
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30.184722900390625,
+                        "value": "None",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565209189
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30.676508903503418,
+                        "value": "None",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565210681
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30.422214031219482,
+                        "value": "None",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565212426
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30.262264013290405,
+                        "value": "None",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565213265
+                    }
+                ]
+            },
+            "akavpau_vp": {
+                "name": "akavpau_vp",
+                "domain": "www.nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565204304,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565505~id=8f16c617834485cf16ebf4126fb59af5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565205872
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565506~id=685af951eae20ab19408c40f6ad8aea1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565206069
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565506~id=685af951eae20ab19408c40f6ad8aea1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565206770
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565506~id=685af951eae20ab19408c40f6ad8aea1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565206812
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565507~id=d34504ef196260715b2374a1009788d2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565207292
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565508~id=983e3b19558b809b8814e431883f6bac",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565208832
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565509~id=e971a56c3d25342ecaef133d82f9bc9e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565209190
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565510~id=bc5e38426eea661488cfee39b3810e20",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565210682
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565511~id=374dc0f054615a3e651d474b0e1838ae",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565212427
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725565513~id=694560378cf0e2c9bebd7699ed028ce5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565213267
+                    }
+                ]
+            },
+            "auto_store_selected": {
+                "name": "auto_store_selected",
+                "domain": "www.nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565213307,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726774813,
+                        "expiry": 1209600,
+                        "value": "2712",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565213306
+                    }
+                ]
+            },
+            "customer_state": {
+                "name": "customer_state",
+                "domain": "www.nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565208522,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725595200,
+                        "expiry": 29992,
+                        "value": "anonymous",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565208521
+                    }
+                ]
+            },
+            "lastVisited": {
+                "name": "lastVisited",
+                "domain": "www.nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565205406,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760125205.401369,
+                        "expiry": 34560000.401369095,
+                        "value": "1725565205400",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565205402
+                    }
+                ]
+            },
+            "lcl_lang_pref": {
+                "name": "lcl_lang_pref",
+                "domain": "www.nofrills.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725565204297,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757101203.285116,
+                        "expiry": 31535999.285115957,
+                        "value": "en",
+                        "same_site": "unspecified",
+                        "timestamp": 1725565204290
+                    }
+                ]
+            }
+        }
+    },
+    "pcid.ca": {
+        "/": {
+            "_spvid_": {
+                "name": "_spvid_",
+                "domain": ".pcid.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725565211269,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757101211.264196,
+                        "expiry": 31536000.26419592,
+                        "value": "cf9ab8b9-dcd1-4d31-a924-f9d8b1579ed9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725565211266
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "national-lottery.co.uk": {
+        "/": {
+            "utag_main": {
+                "name": "utag_main",
+                "domain": ".national-lottery.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623199323,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757159199,
+                        "expiry": 31536000,
+                        "value": "v_id:0191c72866540017e53f344825cd05075002306d00bd0$_sn:1$_ss:1$_pn:1%3Bexp-session$_st:1725624999316$ses_id:1725623199316%3Bexp-session",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623199319
+                    }
+                ]
+            },
+            "DTID": {
+                "name": "DTID",
+                "domain": "www.national-lottery.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623197534,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760183197.500105,
+                        "expiry": 34560000.500104904,
+                        "value": "8ef236152460abe56fe2c9949729109a2ead366",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623197533
+                    }
+                ]
+            },
+            "SID": {
+                "name": "SID",
+                "domain": "www.national-lottery.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623197523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "A1C3B336FAEC5C40C7D2C5D0F92EB41C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623197504
+                    }
+                ]
+            },
+            "authenticated": {
+                "name": "authenticated",
+                "domain": "www.national-lottery.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623197533,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623197524
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623199572
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623199585
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623199586
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623200048
+                    }
+                ]
+            },
+            "cam213": {
+                "name": "cam213",
+                "domain": "www.national-lottery.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623197535,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!AktlHOHxZJoH/vZ9DcODLRzuENPvyU1+sF2x7xozlAOODFlMtteLGGg171yJ9YV0idBUYzpcL8RPuA==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623197534
+                    }
+                ]
+            },
+            "cam2": {
+                "name": "cam2",
+                "domain": "www.national-lottery.co.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623197536,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "!GH0VciB+Ibq/dmTAR5uiDIBOy4Z9KFbUvI6WDbYOV0JtELJFqSZqz9wOyEwliaDGv3CBASl6+Zvo3A==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623197536
+                    }
+                ]
+            }
+        }
+    }
+}

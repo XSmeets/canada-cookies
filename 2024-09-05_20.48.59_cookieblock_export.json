@@ -1,0 +1,180 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553509890,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725554409.887876,
+                        "expiry": 900.887876033783,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725553509888
+                    }
+                ]
+            }
+        }
+    },
+    "google.com": {
+        "/": {
+            "NID": {
+                "name": "NID",
+                "domain": ".google.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725562146281,
+                "storeId": "0",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741373346.27743,
+                        "expiry": 15811200.277430058,
+                        "value": "517=LMVBgR_XOtd3rv2IrqcIV-KFAYHLr_Cx3zCq3ES-piCLBE6kJzw98s4rCtKalGFP7WRgatGKfJ5L9hfEftGQiKrViqdjnzQB_sq3udXgE0978YYzfoX8-32TX4l1N9LSZ9YNO1q3sZF76vTeo4Gpou0Z-8rYFo4dXwvZwZ21uA5O49kLYZssVz1a7kERTKemsCerYwuYHA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725562146281
+                    }
+                ]
+            }
+        }
+    },
+    "lenecrologue.com": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".lenecrologue.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553509365,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760113509.357893,
+                        "expiry": 34560000.35789299,
+                        "value": "GA1.1.1052549106.1725553509",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553509364
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.149893045,
+                        "value": "GA1.2.1052549106.1725553509",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553510150
+                    }
+                ]
+            },
+            "_ga_4LWK0WSCGP": {
+                "name": "_ga_4LWK0WSCGP",
+                "domain": ".lenecrologue.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553509364,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760113509.357537,
+                        "expiry": 34560000.35753703,
+                        "value": "GS1.1.1725553509.1.0.1725553509.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553509363
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.05331707,
+                        "value": "GS1.1.1725553509.1.0.1725553529.40.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553529055
+                    }
+                ]
+            },
+            "_gat_gtag_UA_4816779_2": {
+                "name": "_gat_gtag_UA_4816779_2",
+                "domain": ".lenecrologue.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553510155,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725553570,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553510154
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".lenecrologue.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725553510152,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725639910,
+                        "expiry": 86400,
+                        "value": "GA1.2.1208551112.1725553510",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553510150
+                    }
+                ]
+            },
+            "XSID": {
+                "name": "XSID",
+                "domain": "www.lenecrologue.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725553508478,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "p6djnp4lliu2f14b4rulhiromv",
+                        "same_site": "unspecified",
+                        "timestamp": 1725553508464
+                    }
+                ]
+            }
+        }
+    }
+}

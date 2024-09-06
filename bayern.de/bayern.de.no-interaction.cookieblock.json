@@ -1,0 +1,46 @@
+{
+    "bayern.de": {
+        "/": {
+            "LB_STK_BAYERN_DE": {
+                "name": "LB_STK_BAYERN_DE",
+                "domain": "www.bayern.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615080018,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "962439946.20480.0000",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615080009
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.bayern.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615080006,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "hb54dsnh3tqaks0d455n19esvb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615079991
+                    }
+                ]
+            }
+        }
+    }
+}

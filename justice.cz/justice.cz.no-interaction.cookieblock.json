@@ -1,0 +1,88 @@
+{
+    "justice.cz": {
+        "/": {
+            "BIGipServer~Internal~MSp-PORTALAPL-80": {
+                "name": "BIGipServer~Internal~MSp-PORTALAPL-80",
+                "domain": "justice.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571564765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "rd2o00000000000000000000ffffac1ff406o80",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571564763
+                    }
+                ]
+            },
+            "COOKIE_SUPPORT": {
+                "name": "COOKIE_SUPPORT",
+                "domain": "justice.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571564763,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757107564.734,
+                        "expiry": 31536000.733999968,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571564754
+                    }
+                ]
+            },
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "justice.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571564753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "31307876928F19509B12AFD43C243BE8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571564736
+                    }
+                ]
+            },
+            "LFR_SESSION_STATE_10158": {
+                "name": "LFR_SESSION_STATE_10158",
+                "domain": "justice.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571569315,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107569.307909,
+                        "expiry": 31536000.30790901,
+                        "value": "1725571569307",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571569312
+                    }
+                ]
+            }
+        }
+    }
+}

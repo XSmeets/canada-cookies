@@ -1,0 +1,181 @@
+{
+    "assnat.qc.ca": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".assnat.qc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566320612,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760126320.605164,
+                        "expiry": 34560000.60516405,
+                        "value": "GA1.1.1741364386.1725566321",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566320612
+                    }
+                ]
+            },
+            "_ga_KTMHVEF0VV": {
+                "name": "_ga_KTMHVEF0VV",
+                "domain": ".assnat.qc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725566320611,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760126320.604751,
+                        "expiry": 34560000.60475111,
+                        "value": "GS1.1.1725566320.1.0.1725566320.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566320610
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.0629859,
+                        "value": "GS1.1.1725566320.1.0.1725566323.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566323064
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".assnat.qc.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725566303966,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733342303,
+                        "expiry": 7776000,
+                        "value": "1.1.1954295755.1725566304",
+                        "same_site": "unspecified",
+                        "timestamp": 1725566303960
+                    }
+                ]
+            },
+            "_pk_id.3.d4b8": {
+                "name": "_pk_id.3.d4b8",
+                "domain": "www.assnat.qc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566320957,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759521521,
+                        "expiry": 33955201,
+                        "value": "9db8dd999eb141a3.1725566321.1.1725566321.1725566321.",
+                        "same_site": "lax",
+                        "timestamp": 1725566320956
+                    }
+                ]
+            },
+            "_pk_ses.3.d4b8": {
+                "name": "_pk_ses.3.d4b8",
+                "domain": "www.assnat.qc.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566320959,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725568120,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725566320958
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566321132,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567221.130681,
+                        "expiry": 900.1306810379028,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566321131
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.1911799907684,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566321196
+                    }
+                ]
+            }
+        }
+    },
+    "google-analytics.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".www.google-analytics.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725566321342,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733342321.339633,
+                        "expiry": 7776000.339632988,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725566321340
+                    }
+                ]
+            }
+        }
+    }
+}

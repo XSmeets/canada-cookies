@@ -1,0 +1,2091 @@
+{
+    "ad.gt": {
+        "/": {
+            "au_3p_check": {
+                "name": "au_3p_check",
+                "domain": ".ad.gt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570082054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082054
+                    }
+                ]
+            }
+        }
+    },
+    "amazon-adsystem.com": {
+        "/": {
+            "ad-id": {
+                "name": "ad-id",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081944,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1743541281.9427,
+                        "expiry": 17971200.94269991,
+                        "value": "A9mGcGgU3kqTpyAT1ezuDzE|t",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081943
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 17971200.09820795,
+                        "value": "A9mGcGgU3kqTpyAT1ezuDzE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082100
+                    }
+                ]
+            },
+            "ad-privacy": {
+                "name": "ad-privacy",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570082101,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130082.098256,
+                        "expiry": 34560000.09825611,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082100
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081973,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759266081.96953,
+                        "expiry": 33696000.969530106,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081972
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081971,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759266081.969452,
+                        "expiry": 33696000.969451904,
+                        "value": "771e624a-2821-4bf9-945d-96d83b1299be",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081970
+                    }
+                ]
+            }
+        }
+    },
+    "crwdcntrl.net": {
+        "/": {
+            "_cc_dc": {
+                "name": "_cc_dc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081339,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748898360.337149,
+                        "expiry": 23328279.337148905,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081338
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081342,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748898360.33841,
+                        "expiry": 23328279.3384099,
+                        "value": "a89a7c0a40cc9d9bdcf26e1ffe619b3c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081342
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.net": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080054,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106080.052919,
+                        "expiry": 31536000.05291891,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080053
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.572084904,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080572
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080055,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106080.052978,
+                        "expiry": 31536000.05297804,
+                        "value": "UserID=4e8880f9-5e34-4247-8774-f129c7003b2c&Created=09/05/2024 21:01:20&UserMode=0&guid=2146ec4b-7f49-4090-87e7-669eb9d8339a&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.57212305,
+                        "value": "UserID=4e8880f9-5e34-4247-8774-f129c7003b2c&Created=09/05/2024 21:01:20&UserMode=0&guid=2146ec4b-7f49-4090-87e7-669eb9d8339a&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080572
+                    }
+                ]
+            }
+        }
+    },
+    "dotmetrics.rocks": {
+        "/": {
+            "DotMetrics.DeviceKey": {
+                "name": "DotMetrics.DeviceKey",
+                "domain": ".dotmetrics.rocks",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106080.890557,
+                        "expiry": 31536000.89055705,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080891
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.541834116,
+                        "value": "DeviceID=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081542
+                    }
+                ]
+            },
+            "DotMetrics.UniqueUserIdentityCookie": {
+                "name": "DotMetrics.UniqueUserIdentityCookie",
+                "domain": ".dotmetrics.rocks",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080894,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106080.89071,
+                        "expiry": 31536000.890710115,
+                        "value": "UserID=92294539-a352-4336-b649-3f1cbcfe6afd&Created=09/05/2024 21:01:21&UserMode=0&guid=e2ece6bf-ac9b-4d6a-8905-9148fec1d21b&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080893
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.541887045,
+                        "value": "UserID=92294539-a352-4336-b649-3f1cbcfe6afd&Created=09/05/2024 21:01:21&UserMode=0&guid=e2ece6bf-ac9b-4d6a-8905-9148fec1d21b&ver=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081542
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570082001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130081.999652,
+                        "expiry": 34559999.99965191,
+                        "value": "AHWqTUlolJbar0h3eFWCEUOfB0L31vLXDnIzZ4CUXr5Hp8i7lgk4K7wdv2EmFngn_rs",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082000
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080091,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725570980.090036,
+                        "expiry": 900.0900359153748,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080090
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0955018997192,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080095
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.138247013092,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080138
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.1452829837799,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080145
+                    }
+                ]
+            }
+        }
+    },
+    "hit.gemius.pl": {
+        "/": {
+            "Gdyn": {
+                "name": "Gdyn",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698081.131253,
+                        "expiry": 34128000.131253004,
+                        "value": "KlxKQMGGQMQGtTrQR8YS8U9UssGMXP8c25nSGgQBB1GQo6MUGsRPIQlGvGQpGRT8SLL8RLcGsy8Pge9iaQG.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081132
+                    }
+                ]
+            },
+            "Gdynp": {
+                "name": "Gdynp",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570080924,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698080.921126,
+                        "expiry": 34128000.92112589,
+                        "value": "b19nQ2fKKEkR1XiHjkrIdq_dicFFqVCuxPBDLgtFWa7.C7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080923
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.13133192,
+                        "value": "b1y2qTiRpm2sgwadG6y81kwKqNCqlxE.UoRhwdRBidz.e7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081133
+                    }
+                ]
+            },
+            "Gtest": {
+                "name": "Gtest",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570080923,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726174880.921093,
+                        "expiry": 604800.9210929871,
+                        "value": "KlSuKRMGQMQGtTrQR8YS8U9UssGMXP8c25nSGgQBB1GQo61UsG..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080922
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".hit.gemius.pl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570080922,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698080.921002,
+                        "expiry": 34128000.92100191,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080921
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000.13113403,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081132
+                    }
+                ]
+            }
+        }
+    },
+    "id5-sync.com": {
+        "/": {
+            "id5": {
+                "name": "id5",
+                "domain": ".id5-sync.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081947,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733346081.945577,
+                        "expiry": 7776000.945576906,
+                        "value": "1b597475-7551-78d8-abe8-c592a5bc373a#1725570082097#1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081946
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.288727999,
+                        "value": "1b597475-7551-78d8-abe8-c592a5bc373a#1725570082097#2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082290
+                    }
+                ]
+            }
+        }
+    },
+    "insurads.com": {
+        "/": {
+            "___iat_gid": {
+                "name": "___iat_gid",
+                "domain": ".insurads.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570080094,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106080.090934,
+                        "expiry": 31536000.09093404,
+                        "value": "6719045279FDB07C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080093
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.259254932,
+                        "value": "6719045279FDB07C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080260
+                    }
+                ]
+            }
+        }
+    },
+    "njuskalo.hr": {
+        "/": {
+            "___iat_ses": {
+                "name": "___iat_ses",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725571880,
+                        "expiry": 1800,
+                        "value": "6719045279FDB07C",
+                        "same_site": "lax",
+                        "timestamp": 1725570080097
+                    }
+                ]
+            },
+            "___iat_vis": {
+                "name": "___iat_vis",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570080119,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741122080,
+                        "expiry": 15552000,
+                        "value": "6719045279FDB07C.43850f4c237f4f1160d405c7efee7dde.1725570080280.6642b5d9ad345a167a0983bf3a83aed3.AIIOEBORIA.11111111.1-0.0",
+                        "same_site": "lax",
+                        "timestamp": 1725570080118
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570082123,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741122081,
+                        "expiry": 15551999,
+                        "value": "ID=d6400e3963a31b7f:T=1725570081:RT=1725570081:S=AA-AfjafW0YgLC3mtTx_DXejVhYZ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082123
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=d6400e3963a31b7f:T=1725570081:RT=1725570081:S=AA-AfjafW0YgLC3mtTx_DXejVhYZ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082231
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570082119,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759266081,
+                        "expiry": 33695999,
+                        "value": "ID=6272833cbd67e8a7:T=1725570081:RT=1725570081:S=ALNI_MbZYBAK1qwrdhKBqWOUizpglGhp2w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082118
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=6272833cbd67e8a7:T=1725570081:RT=1725570081:S=ALNI_MbZYBAK1qwrdhKBqWOUizpglGhp2w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082120
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=6272833cbd67e8a7:T=1725570081:RT=1725570081:S=ALNI_MbZYBAK1qwrdhKBqWOUizpglGhp2w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082230
+                    }
+                ]
+            },
+            "__gfp_64b": {
+                "name": "__gfp_64b",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080208,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759698080,
+                        "expiry": 34128000,
+                        "value": "OHgrt0ua3h7GK.RtKLqx16PXWHSG3BGEZAF8E8JxI4X.S7|1725570080|2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570080207
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570082121,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759266081,
+                        "expiry": 33695999,
+                        "value": "UID=00000eec1219467f:T=1725570081:RT=1725570081:S=ALNI_MZjQZbFTjeJXEpAsB041sdAUhvmDw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082121
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000eec1219467f:T=1725570081:RT=1725570081:S=ALNI_MZjQZbFTjeJXEpAsB041sdAUhvmDw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082230
+                    }
+                ]
+            },
+            "__ssds": {
+                "name": "__ssds",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570068572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741125668,
+                        "expiry": 15555600,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570068571
+                    }
+                ]
+            },
+            "__sstester": {
+                "name": "__sstester",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570068571,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741125668,
+                        "expiry": 15555600,
+                        "value": "_5420063882",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570068567
+                    }
+                ]
+            },
+            "__ssuzjsr2": {
+                "name": "__ssuzjsr2",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069064,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741125669,
+                        "expiry": 15555600,
+                        "value": "a9be0cd8e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570069063
+                    }
+                ]
+            },
+            "__utma": {
+                "name": "__utma",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570079646,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760130079.64572,
+                        "expiry": 34560000.645720005,
+                        "value": "228389250.1161754804.1725570080.1725570080.1725570080.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079646
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64844489,
+                        "value": "228389250.1161754804.1725570080.1725570080.1725570080.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.65249491,
+                        "value": "228389250.1161754804.1725570080.1725570080.1725570080.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079652
+                    }
+                ]
+            },
+            "__utmb": {
+                "name": "__utmb",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570079647,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725571879,
+                        "expiry": 1800,
+                        "value": "228389250.0.10.1725570080",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079646
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "228389250.1.10.1725570080",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "228389250.2.9.1725570080",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079653
+                    }
+                ]
+            },
+            "__utmc": {
+                "name": "__utmc",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570079647,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "228389250",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079647
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "228389250",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "228389250",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079653
+                    }
+                ]
+            },
+            "__utmt": {
+                "name": "__utmt",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570079650,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725570679,
+                        "expiry": 600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079649
+                    }
+                ]
+            },
+            "__utmz": {
+                "name": "__utmz",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570079648,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "228389250.1725570080.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079648
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "228389250.1725570080.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "228389250.1725570080.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079653
+                    }
+                ]
+            },
+            "__uzmaj2": {
+                "name": "__uzmaj2",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570069065,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741125669,
+                        "expiry": 15555600,
+                        "value": "e715f14a-87d8-45b6-8e5f-2d81917f2a4a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570069064
+                    }
+                ]
+            },
+            "__uzmbj2": {
+                "name": "__uzmbj2",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069065,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741125669,
+                        "expiry": 15555600,
+                        "value": "1725570069",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570069065
+                    }
+                ]
+            },
+            "__uzmcj2": {
+                "name": "__uzmcj2",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069066,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741125669,
+                        "expiry": 15555600,
+                        "value": "376891030015",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570069065
+                    }
+                ]
+            },
+            "__uzmdj2": {
+                "name": "__uzmdj2",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069067,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741125669,
+                        "expiry": 15555600,
+                        "value": "1725570069",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570069066
+                    }
+                ]
+            },
+            "_au_1d": {
+                "name": "_au_1d",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570082056,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106082.055361,
+                        "expiry": 31536000.055361032,
+                        "value": "AU1D-0100-001725570082-WZH6TCLZ-HN5I",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082055
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570081348,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1748898081,
+                        "expiry": 23328000,
+                        "value": "a89a7c0a40cc9d9bdcf26e1ffe619b3c",
+                        "same_site": "lax",
+                        "timestamp": 1725570081347
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570079691,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725570109,
+                        "expiry": 30,
+                        "value": "m0prvetln4rce",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079690
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570079927,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733346079,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725570079926.787151016744654492",
+                        "same_site": "lax",
+                        "timestamp": 1725570079927
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725570079926.787151016744654492",
+                        "same_site": "lax",
+                        "timestamp": 1725570080146
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570079678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130079.67707,
+                        "expiry": 34560000.6770699,
+                        "value": "GA1.1.553473329.1725570080",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570079678
+                    }
+                ]
+            },
+            "_ga_JFK5H9SG0P": {
+                "name": "_ga_JFK5H9SG0P",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570079677,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760130079.676005,
+                        "expiry": 34560000.67600489,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570079676
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.676506996,
+                        "value": "GS1.1.1725570079.1.0.1725570079.60.0.913133353",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570079677
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.167388916,
+                        "value": "GS1.1.1725570079.1.0.1725570082.57.0.913133353",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082167
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.17270589,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082173
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.173173904,
+                        "value": "GS1.1.1725570079.1.0.1725570082.57.0.913133353",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082173
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.244313,
+                        "value": "deleted",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082244
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.24498892,
+                        "value": "GS1.1.1725570079.1.0.1725570082.57.0.913133353",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570082246
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570079036,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733346079,
+                        "expiry": 7776000,
+                        "value": "1.1.729928232.1725570079",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079035
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.729928232.1725570079",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079554
+                    }
+                ]
+            },
+            "_hjSessionUser_51746": {
+                "name": "_hjSessionUser_51746",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570080404,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106080,
+                        "expiry": 31536000,
+                        "value": "eyJpZCI6IjdiZjdlNzFlLTg4ZjYtNTY5Mi05NzQxLTc1MTQ5NWU3MDU5OCIsImNyZWF0ZWQiOjE3MjU1NzAwODA0MDMsImV4aXN0aW5nIjpmYWxzZX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080403
+                    }
+                ]
+            },
+            "_hjSession_51746": {
+                "name": "_hjSession_51746",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080407,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725571880,
+                        "expiry": 1800,
+                        "value": "eyJpZCI6IjRjZTA1MDY0LTI4ZTItNGRjNS1iNDIyLTQxYzRlNjdjYTFiNiIsImMiOjE3MjU1NzAwODA0MDMsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080406
+                    }
+                ]
+            },
+            "_hjTLDTest": {
+                "name": "_hjTLDTest",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570080397,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".njuskalo.hr",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570080396
+                    }
+                ]
+            },
+            "connectId": {
+                "name": "connectId",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081872,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106081.868121,
+                        "expiry": 31536000.86812091,
+                        "value": "{\"ttl\":86400000,\"lastUsed\":1725570081867,\"lastSynced\":1725570081867}",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081871
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570082175,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759266082,
+                        "expiry": 33696000,
+                        "value": "wy_A8F9IU3poMTl5RVpOSGZQRU9oVk1TM1dPMUl0S3BUVVNuMVAlMkZ1WVhaUFUlMkZWMUlnaW1OaklWMmJpakhQN0FnUlJRTzBwU3NaM3pvbyUyRnNYNFd4NFBTNnFHQmpOWjglMkJsaGlvTmh1bGRZYWZJJTJGeW1HRlBRSW85V3UyUXByOTV3OTJXM1BHRzY4Z051JTJGd3A3enZSS25wRVF0eXNwY2hvUklBQjQ3dkZrbnZBbGRWTW80cWZtQkVtYzBBTXNNeU1IU0Jycm1Mbkp6UW83UFJrNHp3Y3N5ZGJRJTJCSFElM0QlM0Q",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570082174
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081450,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573681,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570081450
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570081449,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573681,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570081448
+                    }
+                ]
+            },
+            "df_uid": {
+                "name": "df_uid",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570079738,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760130079.737038,
+                        "expiry": 34560000.7370379,
+                        "value": "70a71d9d-5fed-409e-b0a0-04e7c33089d6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079737
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570068513,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757192468,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzNmZGItMDE4MC02ZmNhLWI1NzItMTVkNjJkZjc0YTFhIiwiY3JlYXRlZCI6IjIwMjQtMDktMDVUMjE6MDE6MDguNTA0WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA1VDIxOjAxOjA4LjUwNFoiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725570068506
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzNmZGItMDE4MC02ZmNhLWI1NzItMTVkNjJkZjc0YTFhIiwiY3JlYXRlZCI6IjIwMjQtMDktMDVUMjE6MDE6MDguNTA0WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA1VDIxOjAxOjE4Ljk4NVoiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYW1hem9uIiwiYzppbnRvd293aW4tcWF6dDV0R2kiLCJjOmhvdGphciIsImM6bmV3LXJlbGljIiwiYzpjb21tMTAwIiwiYzpsaXZlY2hhdCIsImM6Ym9va2l0c2gtS2I4bmJBRGgiLCJjOmNvbW0xMDB2aS13ZG1NbTRKNiIsImM6Ym9va2l0bGEtTWFSZ2dtUE4iLCJjOmRvdG1ldHJpYy1nYjJmaktDSiIsImM6c3R5cmlhLXFoVWNra1plIiwiYzppc2xvbmxpbmUtRjlHQmdwUWgiLCJjOnhpdGktQjN3Ym5KS1IiLCJjOmV0YXJnZXQtV3dFakFRM0ciLCJjOmdvb2dsZWFuYS0yM2RkY3JEaCIsImM6bnVrYXJlY29tLXdra0JkcU04IiwiYzptaWRhcy1lQm5UR1hMRiIsImM6Z29vZ2xlYW5hLTRUWG5KaWdSIiwiYzpwaWFub2h5YnItUjNWS0MycjQiLCJjOnBpbnRlcmVzdCIsImM6dGVsdW0ta3c0RG1wUGsiLCJjOmdlbWl1c3NhLW1ja2lRYW5LIiwiYzppbnN1cmFkcy1KZ0NGNnBtWCIsImM6aG90amFyLVpMUExleFZiIiwiYzpnb29nbGVhbmEtOGlIR1JDdFUiLCJjOm9wdGltYXhtZS1OSFhlUWNDayIsImM6ZGlkb21pLW5rR2pHZHhqIiwiYzpzbWFydGFkc2UtN1dNOFhnVEYiLCJjOmNyaXRlb3NhLWdqcGNybWdCIiwiYzpnb29nbGVhZHYtWlo5ZTdZZGkiLCJjOm5qdXNrYWxvbi1BWWNOTmFpdyIsImM6Ymlkc3dpdGNoLUV0YjdMYTRSIiwiYzphZGFnaW8tRllnZjR3UkQiLCJjOm5qdXNrYWxvbi1BN2NQVmVFYSIsImM6YW1hem9uYWQtQzJ5bk5VbjkiLCJjOnlhaG9vYWRlLW1SSFFraG1VIiwiYzptZHByaW1pcy1XTVpBUm13NiIsImM6YW1hem9uLUw4NHRKUXg0IiwiYzpkaWRvbWkiXX0sInB1cnBvc2VzIjp7ImVuYWJsZWQiOlsiZGV2aWNlX2NoYXJhY3RlcmlzdGljcyIsImdlb2xvY2F0aW9uX2RhdGEiLCJvZ2xhc2l2YWNrLVE0RDlibVRHIiwiYXVkaWVuY2VtLWhKeGFlR3JSIiwiYW5hbHl0aWNzLXhHSHhHcFRMIl19LCJ2ZW5kb3JzX2xpIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzpib3hub3dkLTN4TmlKamZCIl19LCJ2ZXJzaW9uIjoyLCJhYyI6IkFrdUFFQUZrQkpZQS5Ba3VBRUFGa0JKWUEifQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725570078997
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570079002,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757192478,
+                        "expiry": 31622400,
+                        "value": "CQEeY0AQEeY0AAHABBENBFFsAP_gAEPgAAAAKaNV_G__bWlr8X73aftkeY1P9_h77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIAu3bBIQNlGJDUTVCgaogVryDMak2coTNKJ6BkiFMRe2dYCF5vmwtj-QKY5vr991dx2B-t7dr83dzyz4VHn3a5_2a0WJCdA5-tDfv9bROb-9IOd_x8v4v8_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff_9Ln_-uB_-_wUyAJMNCogDLAkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABRkACAAACABCIAIACgQAAQCBQABgAQDAQAEDAACACQEAgABAdAhTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8ACAREwUAAAAABWAAICwWBxJICVCQQJcQbQAAEACAQQAVCCTkwABAGbLUHgybRlaYBo-YJENMAyACOgAgJkAAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725570078997
+                    }
+                ]
+            },
+            "lotame_domain_check": {
+                "name": "lotame_domain_check",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570081347,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725570091,
+                        "expiry": 10,
+                        "value": "njuskalo.hr",
+                        "same_site": "lax",
+                        "timestamp": 1725570081346
+                    }
+                ]
+            },
+            "njuskalo_adblock_detected": {
+                "name": "njuskalo_adblock_detected",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570069291,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741212069,
+                        "expiry": 15642000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570069290
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15642000,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079042
+                    }
+                ]
+            },
+            "njuskalo_privacy_policy": {
+                "name": "njuskalo_privacy_policy",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069581,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741212069.569086,
+                        "expiry": 15642000.569086075,
+                        "value": "12",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570069580
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".njuskalo.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570081348,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725656482,
+                        "expiry": 86401,
+                        "value": "1725656481518",
+                        "same_site": "lax",
+                        "timestamp": 1725570081348
+                    }
+                ]
+            },
+            "DM_SitId220": {
+                "name": "DM_SitId220",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570080378,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570080377
+                    }
+                ]
+            },
+            "DM_SitId220SecId922": {
+                "name": "DM_SitId220SecId922",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570080379,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570080378
+                    }
+                ]
+            },
+            "DM_SitId220SecId922Stress": {
+                "name": "DM_SitId220SecId922Stress",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570081217,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570081216
+                    }
+                ]
+            },
+            "DM_SitId220Stress": {
+                "name": "DM_SitId220Stress",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725570081215,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570081215
+                    }
+                ]
+            },
+            "DotMetrics.DomainCookie": {
+                "name": "DotMetrics.DomainCookie",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570079729,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106079,
+                        "expiry": 31536000,
+                        "value": "{\"dc\":\"806c9719-240c-4a5b-bb6b-50c6000b0555\",\"ts\":1725570079728}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079728
+                    }
+                ]
+            },
+            "DotMetrics.DomainCookieStress": {
+                "name": "DotMetrics.DomainCookieStress",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570080566,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106080,
+                        "expiry": 31536000,
+                        "value": "{\"dc\":\"d28671db-c54d-4dca-a2ad-128af72fcfd1\",\"ts\":1725570080565}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570080565
+                    }
+                ]
+            },
+            "__uzma": {
+                "name": "__uzma",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741294869.568776,
+                        "expiry": 15724800.568775892,
+                        "value": "d20d6599-8402-41ae-b2ff-98114f90fa8f",
+                        "same_site": "lax",
+                        "timestamp": 1725570069570
+                    }
+                ]
+            },
+            "__uzmb": {
+                "name": "__uzmb",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069574,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741294869.568907,
+                        "expiry": 15724800.568907022,
+                        "value": "1725570069",
+                        "same_site": "lax",
+                        "timestamp": 1725570069572
+                    }
+                ]
+            },
+            "__uzmc": {
+                "name": "__uzmc",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069578,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741294869.569001,
+                        "expiry": 15724800.56900096,
+                        "value": "426401063167",
+                        "same_site": "lax",
+                        "timestamp": 1725570069577
+                    }
+                ]
+            },
+            "__uzmd": {
+                "name": "__uzmd",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069579,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741294869.569042,
+                        "expiry": 15724800.569041967,
+                        "value": "1725570069",
+                        "same_site": "lax",
+                        "timestamp": 1725570069578
+                    }
+                ]
+            },
+            "__uzme": {
+                "name": "__uzme",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725570069577,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741294869.568958,
+                        "expiry": 15724800.568958044,
+                        "value": "0815",
+                        "same_site": "lax",
+                        "timestamp": 1725570069574
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570079699,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698079,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0prvetrrbaq5mcu%22%2C%22_t%22%3A%22mge6sw5u%7Cm0prvetu%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725570079699
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570079700,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698079,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOZQAbBADuAVjAAffgAYADjABuUEiAC%2BQA",
+                        "same_site": "lax",
+                        "timestamp": 1725570079700
+                    }
+                ]
+            },
+            "_tfpvi": {
+                "name": "_tfpvi",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570079577,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757106079,
+                        "expiry": 31536000,
+                        "value": "ODcyZDJhZjgtNzlkNy00NmE3LTkzMTktYzZhN2Q3NGRjMzgyIy0zLTI%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725570079577
+                    }
+                ]
+            },
+            "login_2fa": {
+                "name": "login_2fa",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570068786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106068,
+                        "expiry": 31536000,
+                        "value": "7b992f48-0b97-410b-abe7-cf8a620d2b3d",
+                        "same_site": "strict",
+                        "timestamp": 1725570068785
+                    }
+                ]
+            },
+            "nuka-fp": {
+                "name": "nuka-fp",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570068785,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106068,
+                        "expiry": 31536000,
+                        "value": "7b992f48-0b97-410b-abe7-cf8a620d2b3d",
+                        "same_site": "strict",
+                        "timestamp": 1725570068784
+                    }
+                ]
+            },
+            "nuka-ppid": {
+                "name": "nuka-ppid",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570080135,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106080,
+                        "expiry": 31536000,
+                        "value": "5dc29dc7-a940-424c-9e4d-f7345bed22bf",
+                        "same_site": "strict",
+                        "timestamp": 1725570080134
+                    }
+                ]
+            },
+            "nuka-recommender-fp": {
+                "name": "nuka-recommender-fp",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570079042,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106079,
+                        "expiry": 31536000,
+                        "value": "7b992f48-0b97-410b-abe7-cf8a620d2b3d",
+                        "same_site": "strict",
+                        "timestamp": 1725570079041
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570079697,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698079,
+                        "expiry": 34128000,
+                        "value": "%22optin%22",
+                        "same_site": "lax",
+                        "timestamp": 1725570079697
+                    }
+                ]
+            },
+            "pa_user": {
+                "name": "pa_user",
+                "domain": "www.njuskalo.hr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570079698,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759698079,
+                        "expiry": 34128000,
+                        "value": "%7B%22id%22%3A%22%22%2C%22category%22%3Anull%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725570079698
+                    }
+                ]
+            }
+        }
+    },
+    "openx.net": {
+        "/": {
+            "i": {
+                "name": "i",
+                "domain": ".openx.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081842,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757106081.838794,
+                        "expiry": 31536000.838793993,
+                        "value": "9c2026e4-d01c-43f6-9906-b90a69b36fea|1725570082",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081839
+                    }
+                ]
+            }
+        }
+    },
+    "google-analytics.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".www.google-analytics.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725570081176,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733346081.174358,
+                        "expiry": 7776000.174357891,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081175
+                    }
+                ]
+            }
+        }
+    },
+    "yahoo.com": {
+        "/": {
+            "A3": {
+                "name": "A3",
+                "domain": ".yahoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725570081869,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757127681.866309,
+                        "expiry": 31557600.866308928,
+                        "value": "d=AQABBCIc2mYCENAwFCz7geSSpCMRe5S3YYYFEgEBAQFt22bjZiXaxyMA_eMAAA&S=AQAAAvltXBHRWhwzUisr0gzTUfY",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725570081867
+                    }
+                ]
+            }
+        }
+    }
+}

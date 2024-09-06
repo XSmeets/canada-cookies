@@ -1,0 +1,285 @@
+{
+    "cnbc.com": {
+        "/": {
+            "AMCVS_A8AB776A5245B4220A490D44%40AdobeOrg": {
+                "name": "AMCVS_A8AB776A5245B4220A490D44%40AdobeOrg",
+                "domain": ".cnbc.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626274632,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626274630
+                    }
+                ]
+            },
+            "AMCV_A8AB776A5245B4220A490D44%40AdobeOrg": {
+                "name": "AMCV_A8AB776A5245B4220A490D44%40AdobeOrg",
+                "domain": ".cnbc.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626273938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760186273.937041,
+                        "expiry": 34560000.937041044,
+                        "value": "-1124106680%7CMCIDTS%7C19973%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626273937
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.62630892,
+                        "value": "-1124106680%7CMCIDTS%7C19973%7CMCMID%7C50954719975875774060048012695483389354%7CMCAAMLH-1726231074%7C7%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626274628
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.628321886,
+                        "value": "-1124106680%7CMCIDTS%7C19973%7CMCMID%7C50954719975875774060048012695483389354%7CMCAAMLH-1726231074%7C7%7CMCAAMB-1726231074%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725633474s%7CNONE%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626274633
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64126897,
+                        "value": "-1124106680%7CMCIDTS%7C19973%7CMCMID%7C50954719975875774060048012695483389354%7CMCAAMLH-1726231074%7C7%7CMCAAMB-1726231074%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725633474s%7CNONE%7CvVersion%7C5.2.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626274641
+                    }
+                ]
+            },
+            "region": {
+                "name": "region",
+                "domain": ".cnbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626271842,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733402271.821344,
+                        "expiry": 7776000.821343899,
+                        "value": "USA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626271830
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".cnbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626273935,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626273934
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626273936
+                    }
+                ]
+            },
+            "akaas_CNBC_Audience_Segmentation": {
+                "name": "akaas_CNBC_Audience_Segmentation",
+                "domain": ".www.cnbc.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626271852,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728218271.822266,
+                        "expiry": 2592000.822266102,
+                        "value": "1728218271~rv=24~id=945b284f655d506244308a8cf486c675",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626271843
+                    }
+                ]
+            },
+            "AWSALB": {
+                "name": "AWSALB",
+                "domain": "www.cnbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626274219,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726231074.213704,
+                        "expiry": 604800.2137041092,
+                        "value": "ePA/i0sShitd3HO/dt+E7HM/cqoDHfd9u+aZFH+MSSQySjt6bVku1afTg/T50NhYctTQkjZ7ejtUJW6BH6DmhMAI+J0Ru5XmewyhYCxBLw4EjDWd4SQy5jowspQI",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626274214
+                    }
+                ]
+            },
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "www.cnbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626274221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726231074.213856,
+                        "expiry": 604800.2138559818,
+                        "value": "ePA/i0sShitd3HO/dt+E7HM/cqoDHfd9u+aZFH+MSSQySjt6bVku1afTg/T50NhYctTQkjZ7ejtUJW6BH6DmhMAI+J0Ru5XmewyhYCxBLw4EjDWd4SQy5jowspQI",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626274219
+                    }
+                ]
+            },
+            "BI_UI_RVAffiliateDocID": {
+                "name": "BI_UI_RVAffiliateDocID",
+                "domain": "www.cnbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626275639,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725628075,
+                        "expiry": 1800,
+                        "value": "100003114",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626275639
+                    }
+                ]
+            },
+            "_dd_s": {
+                "name": "_dd_s",
+                "domain": "www.cnbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626275283,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725627175,
+                        "expiry": 900,
+                        "value": "lock=f2146572-d910-480d-85ae-0a47a68a9c1e",
+                        "same_site": "strict",
+                        "timestamp": 1725626275282
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627175282",
+                        "same_site": "strict",
+                        "timestamp": 1725626275283
+                    }
+                ]
+            },
+            "dd_cookie_test_cf57b98e-a31b-4e2a-a913-2e359731bf8c": {
+                "name": "dd_cookie_test_cf57b98e-a31b-4e2a-a913-2e359731bf8c",
+                "domain": "www.cnbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626275282,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725626335,
+                        "expiry": 60,
+                        "value": "test",
+                        "same_site": "strict",
+                        "timestamp": 1725626275281
+                    }
+                ]
+            },
+            "usprivacy": {
+                "name": "usprivacy",
+                "domain": "www.cnbc.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626275226,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757162275,
+                        "expiry": 31536000,
+                        "value": "1---",
+                        "same_site": "lax",
+                        "timestamp": 1725626275224
+                    }
+                ]
+            }
+        }
+    }
+}

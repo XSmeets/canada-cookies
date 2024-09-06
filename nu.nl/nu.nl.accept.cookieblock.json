@@ -1,0 +1,1667 @@
+{
+    "adhese.com": {
+        "/": {
+            "adheseCustomer": {
+                "name": "adheseCustomer",
+                "domain": ".adhese.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617633523,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725617693.52186,
+                        "expiry": 60.521859884262085,
+                        "value": "dpgmediabe",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617633522
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617629224,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733393629.222301,
+                        "expiry": 7776000.222301006,
+                        "value": "pM2fTUAk6SgysVRFEiyh3xze6rol3UHAsJ2DHPsLBrr-mrgiTWODf9mmq8fWdSzoMugySLMLSIAdKcTon5dpyKXnsTmVanDBkWCVeqJiqH4.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617629222
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.435991049,
+                        "value": "fKfG5JYiTprhVGysIIa3cO7TsFcD6rt9LhBNBDuMCL3B2m0lqY3JGThDs8Mfb7hj4_bEG6-P7XKBL3UbJDxugqG36L0SPysuq-6-CWNb0XI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617630437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.580976963,
+                        "value": "fKfG5JYiTprhVGysIIa3cO7TsFcD6rt9LhBNBDuMCL3B2m0lqY3JGThDs8Mfb7hj4_bEG6-P7XKBL3UbJDxugqG36L0SPysuq-6-CWNb0XI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.582110882,
+                        "value": "fKfG5JYiTprhVGysIIa3cO7TsFcD6rt9LhBNBDuMCL3B2m0lqY3JGThDs8Mfb7hj4_bEG6-P7XKBL3UbJDxugqG36L0SPysuq-6-CWNb0XI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631583
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.618578911,
+                        "value": "fKfG5JYiTprhVGysIIa3cO7TsFcD6rt9LhBNBDuMCL3B2m0lqY3JGThDs8Mfb7hj4_bEG6-P7XKBL3UbJDxugqG36L0SPysuq-6-CWNb0XI.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631619
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617629225,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733393629.222362,
+                        "expiry": 7776000.2223620415,
+                        "value": "ChkI3aeKARAKGAEgASgBMN2r67YGOAFAAUgBEN2r67YGGAA.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617629224
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.436175108,
+                        "value": "ChgI68A5EAoYASABKAEw3qvrtgY4AUABSAEKGQjdp4oBEAoYASABKAEw3avrtgY4AUABSAEQ3qvrtgYYAQ..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617630438
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617629226,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177629.222388,
+                        "expiry": 34560000.22238803,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617629225
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.43621993,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617630438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.58218002,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631583
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.6186769,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631619
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617629226,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733393629.222417,
+                        "expiry": 7776000.222417116,
+                        "value": "3147830424947927500",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617629226
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.4362568855,
+                        "value": "3147830424947927500",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617630438
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.582217932,
+                        "value": "3147830424947927500",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631583
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.618709087,
+                        "value": "3147830424947927500",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631620
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617629053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757153629.05259,
+                        "expiry": 31536000.052589893,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617629053
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617631548,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759313632.5416,
+                        "expiry": 33696001.54159999,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631547
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617631545,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759313632.541484,
+                        "expiry": 33696001.54148412,
+                        "value": "4ef961de-9309-446f-9537-d458c71b7ce3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617631542
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617633194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725618533.191597,
+                        "expiry": 900.1915969848633,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617633193
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.2352070808411,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617633239
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.3010931015015,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617633303
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.3015699386597,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617633304
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.3063869476318,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617633306
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.4659059047699,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617633475
+                    }
+                ]
+            }
+        }
+    },
+    "dpgmedia.net": {
+        "/": {
+            "sp": {
+                "name": "sp",
+                "domain": ".dpgmedia.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617622957,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757153622.95422,
+                        "expiry": 31536000.954220057,
+                        "value": "f193b0b3-58c6-4bab-a398-a8eca656bec2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617622955
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.163533926,
+                        "value": "f193b0b3-58c6-4bab-a398-a8eca656bec2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617623165
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.545085907,
+                        "value": "f193b0b3-58c6-4bab-a398-a8eca656bec2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617629545
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.84207511,
+                        "value": "f193b0b3-58c6-4bab-a398-a8eca656bec2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617629843
+                    }
+                ]
+            }
+        }
+    },
+    "dpgmedia.nl": {
+        "/": {
+            "_sp_id.e23f": {
+                "name": "_sp_id.e23f",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617621579,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177621.573618,
+                        "expiry": 34560000.573617935,
+                        "value": "533097a9-c532-49bf-b369-b53731b512b6.1725617622.1.1725617622..0124588a-4ec1-4625-85ea-4b31ee1d2d29....0",
+                        "same_site": "lax",
+                        "timestamp": 1725617621577
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.575803995,
+                        "value": "533097a9-c532-49bf-b369-b53731b512b6.1725617622.1.1725617622..0124588a-4ec1-4625-85ea-4b31ee1d2d29..b7cebcf8-5bc3-4ec7-a10d-061543fe90c2.1725617621574.1",
+                        "same_site": "lax",
+                        "timestamp": 1725617621581
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.5845809,
+                        "value": "533097a9-c532-49bf-b369-b53731b512b6.1725617622.1.1725617622..0124588a-4ec1-4625-85ea-4b31ee1d2d29..b7cebcf8-5bc3-4ec7-a10d-061543fe90c2.1725617621574.2",
+                        "same_site": "lax",
+                        "timestamp": 1725617621585
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.76951289,
+                        "value": "533097a9-c532-49bf-b369-b53731b512b6.1725617622.1.1725617623..0124588a-4ec1-4625-85ea-4b31ee1d2d29..b7cebcf8-5bc3-4ec7-a10d-061543fe90c2.1725617621574.3",
+                        "same_site": "lax",
+                        "timestamp": 1725617622770
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.775266886,
+                        "value": "533097a9-c532-49bf-b369-b53731b512b6.1725617622.1.1725617623..0124588a-4ec1-4625-85ea-4b31ee1d2d29..b7cebcf8-5bc3-4ec7-a10d-061543fe90c2.1725617621574.4",
+                        "same_site": "lax",
+                        "timestamp": 1725617622776
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1725617621571": {
+                "name": "_sp_root_domain_test_1725617621571",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617621573,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1725617621571",
+                        "same_site": "lax",
+                        "timestamp": 1725617621571
+                    }
+                ]
+            },
+            "_sp_ses.e23f": {
+                "name": "_sp_ses.e23f",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617621576,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725619421,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617621574
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617621582
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617621585
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617622771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617622777
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617619300,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725624819.280805,
+                        "expiry": 7200.280805110931,
+                        "value": "8C534B2B099C26DFBA1A09976D92E99B~000000000000000000000000000000~YAAQFu4hF5hcpbGRAQAAMUHTxhnYt63oBZ4VUJw5XxxeXNZlk9uKMcbfw1+kicvFOt2n+SazDSm5SJYdAHYWiVFTIVNKUff41sXmf3ON03gx2w5sd8FaO0EJw5vNeYYCtRbso/6S1qMcuLWPly8jEQ7IdufdxSwOxFhSWplE4XKX18tu0wuA5r90V7bo9UxNMpmtoEV44pkK6TCSkGuB7/l0C7nbrPmJ3j1XcIlo7GmDP/ODehwZ9gBXgXZ2o1WAtwK6p6ZThgJPlmvGR5R8Xm8cqMtdrIcSV3QsdIS/AyQH5O6ZPEqY03gyKxs0PZ0NsJtyhO4WLsG1++RtTNlqhoaMEgV1nSRnbTEpr/Hb+vJScVqyc8RtnyoVhy25eJd7FTtrDegx/ugMLg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617619297
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617620480,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725624820.477164,
+                        "expiry": 7200.477164030075,
+                        "value": "842CB72ECB87788A28155925D98F5D2D~YAAQV+4hF0rnyqCRAQAA3kXTxhlbwoX9goVr5DjI5I8TCUyauiEWRmTPnUvCgYLWX4odnYqzfeUhPGUHdN9u/atdDRkciWUpykgaY2bEamVWubkuR0NrpCe2yYH6uv3BiNmBLum4VZseGrlr/vC8/XgZq/qoEFCSnDgjuCz10mSv+zZaH22MKn8xF1CVlTxcjTNIqDJ3cS5tEJImL5VeHZB3EJ00cUbDayFGnvqHwQa0fmM+pwE2Kl3QHyCu0pQohg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617620477
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.594223022461,
+                        "value": "842CB72ECB87788A28155925D98F5D2D~YAAQV+4hF4PnyqCRAQAADFLTxhm3fY4Tsm9JLzLkCTWNHVz5iAqCghOJ9MFkvNCsxU4G9sgluEfD6Yw/p0CT2YrvR8myY8wppl2q+vWBcsMRgqkajSRWVH3MGsyxXybO5syK1plTlpuQxDa7G8SzUVp4Bj2ks2+Oqz18qZ0wSDicTFFHYkOFzx4Rob8xBH81yr9ptWsbA2t5BAUMmoJsWfRxdO3FxmFbgFGxMeajfvyCYVMp8C/hg6Xe5Iz1Ok5POg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617623594
+                    }
+                ]
+            }
+        }
+    },
+    "login.nu.nl": {
+        "/": {
+            "_abck": {
+                "name": "_abck",
+                "domain": ".login.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617626149,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757153626.143622,
+                        "expiry": 31536000.14362192,
+                        "value": "859579539C0F617BC40112371D4442B0~-1~YAAQVu4hFyBVkLGRAQAAAVzTxgxmImVJ3FgU8Haxf8piM7/EAcuriOzzAIxFgBGDUtHL0HI1qBmGXuw2O745zjNBI0rZUWgEGUUi9/ZUh/YQTYHQYkbNxWCR8ODE9trZTBjbi/cMGO6rzn8M9XfHKLg+Fm9RImS1eksoyNypbLe8iuskLwrd6Xm48KQ9yXeUM3PSB7ByoOc4unRdbDaPjX0sLfQPEKiKectaHmXJDbPaYGwP2zBSu4x2U5iPd86eW1crux5U2aoK0yj0WGNEUViCSYmEBmGGE26+DssJZtkIfQECKRvbp4zG+UUMAQiZjY63qGXLK6v5IFo+EzW/xPls57w89lLaUHFDtzcedm1M7pgRVr92rgYfEQb2IB5+TXxPq7EROR1TNW3KUOveKLr7ytb0yCr1y97v1eQz~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617626144
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".login.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617626152,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725624826.143712,
+                        "expiry": 7200.143712043762,
+                        "value": "0C742F21EA3D8ED898D2B1D1F4D636A0~000000000000000000000000000000~YAAQVu4hFyFVkLGRAQAAAVzTxhngGqlU370WhXipysFkEIj3DdYBiBh8/uDv1KDAQduxeQkRnlyxCSiB27k5KHm5h275r6brql36H/KltrF5CtrPRYOoXPDbkNaA76Wml/SVetQpg/o/k4LzyY0P2hGza8qUfcU0c0LNlUf8V6upyuur+vfY+I2jDOa902gDjPuQCoDvgbyzRLovVrDBsOPkF1mUS9rwaGnYc0f9pskFP4ScBwm8FDuMxbaByTxqCg4LtsCoImhEPyC7NjmJGeXbFi2dtajSmbOfPHUcUxPBuXT7uBr3KUVizYbYw+f9batLe2U5N1p14n+3tKN1/+jzZrPpcdaUy3IVKa4CvgqFqYeui2RKkMNLk/tSOsfI4VblCTWwpgQJuw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617626149
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".login.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617626154,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725632026.143775,
+                        "expiry": 14400.143774986267,
+                        "value": "25546165F0231F6885741C15AEA58391~YAAQVu4hFyJVkLGRAQAAAVzTxhkeLXiMbXJ6ArCy3fCi66DVc+l5hdjKulv369znG+9FeuUKlV0ww/qlSyV8Y7GvwFCly82K3WaKeLCV1sA7cRxgacDzj9w7Qie7G+jkf7iHW3m7Os8X+NReuNR6FT5uiQV9Ef4uCXq6t2WkYQn6tGDCnQGkCtL6KcyLaK8Z2rxBkydOAsGM55EbGrppUFux/Wo5GDpUhbn5Ieb8l8lU01LzjhmCwA0ZEbWJNCwz9faj1eXU2IgG7VUryO2oaoT+bIz1k7wdTrJDoIztLRB9RDSx69exDyVeRfs7qDJT+P23AbYuCXL/vCtBduzdbSb6YzpPfe+F4sTfyknMEDOF6H9c8wQ=~4405060~4339513",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617626153
+                    }
+                ]
+            }
+        }
+    },
+    "nu.nl": {
+        "/": {
+            "CookieConsent": {
+                "name": "CookieConsent",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617627599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757153627,
+                        "expiry": 31536000,
+                        "value": "CQEhrwAQEhrwAGbABBNLBGFoAPLAAAAAABpYIzMBxCIUBQFCMXJySJsgWIQXZkAAIgAQAAYBAyABgBoAIAQCkEESFASAAAACAAAAIAIAIABIGAAAAAAAQAABAACAQAAAgAIIICAAgCIBSAAIAAAAAAAAAAAAAAACAAAAkABAAAIoWEgABAAAAAAAIAAAAAABAgAAAAAAAAAAAAAAgCAAAAAAAAAAAAAAABAAAAQEABAEcAJSEgKgALAAqAB4AEAAMgAaABEACYAG8APwAhIBEAESAMAAZUA7gDvAH6ASIBHoC8wGSAMnHABwCEAERAI4ASkBMQDBAGTDoDgACwAKgAgABkADQAIgATAAxABvAD9AIgAiQBgADKAGjAO4A7wB-gEWAJEAdQBF4CPQEyALZAXmAyQBk4DLAH9kgAYA7gCOAJiJQDgAFgBEACYAGKARABEgDAAHeAdQBF4CPQF5gMkAZOAywoAHAHcARwAlIBdQExAMEAZMUgMgALAAqACAAGQANAAiABMADEAH6ARABEgDAAGUANEAd4A_QCLAEiAOoAi8BHoC8wGSAMnAZYA_sA.YAAAAAAAAAAA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617627599
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617630110,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733393630,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725617630108.543785728208243539",
+                        "same_site": "lax",
+                        "timestamp": 1725617630109
+                    }
+                ]
+            },
+            "_pubcid": {
+                "name": "_pubcid",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725617628329,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757153628,
+                        "expiry": 31536000,
+                        "value": "5e98944c-9c85-4a72-9e05-37ecc5db2ac4",
+                        "same_site": "lax",
+                        "timestamp": 1725617628328
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "5e98944c-9c85-4a72-9e05-37ecc5db2ac4",
+                        "same_site": "lax",
+                        "timestamp": 1725617632764
+                    }
+                ]
+            },
+            "_pubcid_cst": {
+                "name": "_pubcid_cst",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617628330,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757153628,
+                        "expiry": 31536000,
+                        "value": "YiyjLI4stw%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725617628329
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "YiyjLI4stw%3D%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725617632764
+                    }
+                ]
+            },
+            "_sp_id.dcc9": {
+                "name": "_sp_id.dcc9",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617628187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177628.183496,
+                        "expiry": 34560000.183496,
+                        "value": "791f4f14-21ab-4cfc-8074-663b84f8fc9a.1725617628.1.1725617628..3f59ec64-bf70-4d4f-9942-47becf312e51....0",
+                        "same_site": "lax",
+                        "timestamp": 1725617628186
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18620396,
+                        "value": "791f4f14-21ab-4cfc-8074-663b84f8fc9a.1725617628.1.1725617628..3f59ec64-bf70-4d4f-9942-47becf312e51..6bc35b7e-580e-4039-b92e-79f9ce504457.1725617628184.1",
+                        "same_site": "lax",
+                        "timestamp": 1725617628188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.18982005,
+                        "value": "791f4f14-21ab-4cfc-8074-663b84f8fc9a.1725617628.1.1725617628..3f59ec64-bf70-4d4f-9942-47becf312e51..6bc35b7e-580e-4039-b92e-79f9ce504457.1725617628184.2",
+                        "same_site": "lax",
+                        "timestamp": 1725617628190
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.19244099,
+                        "value": "791f4f14-21ab-4cfc-8074-663b84f8fc9a.1725617628.1.1725617628..3f59ec64-bf70-4d4f-9942-47becf312e51..6bc35b7e-580e-4039-b92e-79f9ce504457.1725617628184.3",
+                        "same_site": "lax",
+                        "timestamp": 1725617628193
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.19432998,
+                        "value": "791f4f14-21ab-4cfc-8074-663b84f8fc9a.1725617628.1.1725617628..3f59ec64-bf70-4d4f-9942-47becf312e51..6bc35b7e-580e-4039-b92e-79f9ce504457.1725617628184.4",
+                        "same_site": "lax",
+                        "timestamp": 1725617628194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.1949749,
+                        "value": "791f4f14-21ab-4cfc-8074-663b84f8fc9a.1725617628.1.1725617628..3f59ec64-bf70-4d4f-9942-47becf312e51..6bc35b7e-580e-4039-b92e-79f9ce504457.1725617628184.5",
+                        "same_site": "lax",
+                        "timestamp": 1725617628195
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.19596505,
+                        "value": "791f4f14-21ab-4cfc-8074-663b84f8fc9a.1725617628.1.1725617628..3f59ec64-bf70-4d4f-9942-47becf312e51..6bc35b7e-580e-4039-b92e-79f9ce504457.1725617628184.6",
+                        "same_site": "lax",
+                        "timestamp": 1725617628196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.73924494,
+                        "value": "791f4f14-21ab-4cfc-8074-663b84f8fc9a.1725617628.1.1725617634..3f59ec64-bf70-4d4f-9942-47becf312e51..6bc35b7e-580e-4039-b92e-79f9ce504457.1725617628184.7",
+                        "same_site": "lax",
+                        "timestamp": 1725617633740
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1725617628181": {
+                "name": "_sp_root_domain_test_1725617628181",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617628183,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1725617628181",
+                        "same_site": "lax",
+                        "timestamp": 1725617628182
+                    }
+                ]
+            },
+            "_sp_ses.dcc9": {
+                "name": "_sp_ses.dcc9",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617628186,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725619428,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617628185
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617628189
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617628191
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617628193
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617628194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617628195
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617628197
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "lax",
+                        "timestamp": 1725617633740
+                    }
+                ]
+            },
+            "_vis_opt_exp_753_exclude": {
+                "name": "_vis_opt_exp_753_exclude",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617628967,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1734257628,
+                        "expiry": 8640000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628967
+                    }
+                ]
+            },
+            "_vis_opt_exp_754_exclude": {
+                "name": "_vis_opt_exp_754_exclude",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617628967,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1734257628,
+                        "expiry": 8640000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628967
+                    }
+                ]
+            },
+            "_vis_opt_exp_757_exclude": {
+                "name": "_vis_opt_exp_757_exclude",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617628966,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1734257628,
+                        "expiry": 8640000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628966
+                    }
+                ]
+            },
+            "_vis_opt_s": {
+                "name": "_vis_opt_s",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617628961,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1734257628,
+                        "expiry": 8640000,
+                        "value": "1%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628960
+                    }
+                ]
+            },
+            "_vis_opt_test_cookie": {
+                "name": "_vis_opt_test_cookie",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617628939,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628938
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628961
+                    }
+                ]
+            },
+            "_vwo_ds": {
+                "name": "_vwo_ds",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617628948,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733393628,
+                        "expiry": 7776000,
+                        "value": "3%241725617628%3A13.78005227%3A%3A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628947
+                    }
+                ]
+            },
+            "_vwo_sn": {
+                "name": "_vwo_sn",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617628949,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725619428,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628948
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0%3A1%3A%3A%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628950
+                    }
+                ]
+            },
+            "_vwo_uuid": {
+                "name": "_vwo_uuid",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617628947,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757174580,
+                        "expiry": 31556952,
+                        "value": "D699F90281AAB8E4BAFB63BA3443A73F7",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628946
+                    }
+                ]
+            },
+            "_vwo_uuid_v2": {
+                "name": "_vwo_uuid_v2",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725617628200,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757240028,
+                        "expiry": 31622400,
+                        "value": "D699F90281AAB8E4BAFB63BA3443A73F7|a284995b82c3af8a29cec0062d7faf7b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628199
+                    }
+                ]
+            },
+            "authId": {
+                "name": "authId",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617623846,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728296023.843711,
+                        "expiry": 2678400.8437108994,
+                        "value": "4514ae92-f363-4a6d-9552-65b5c7cd400b",
+                        "same_site": "lax",
+                        "timestamp": 1725617623844
+                    }
+                ]
+            },
+            "cto_bidid": {
+                "name": "cto_bidid",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617633667,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759320826,
+                        "expiry": 33703193,
+                        "value": "HhDA419udzZzc3RQckVseXUzNXI4SGZ2SzRpWjB0d3dHSXhOVHpaS0lmeEJlbW1UeW9FUXR3U0hiWG9Xenk5T3U1Mks3dHJnMkJBM0NaUmVEQm5uT2Z3dFVxbTAlMkI4c0hVQUFHRGlXeVlUQmc2N3IlMkIyRFNZVm1pNDdQenI2UG4lMkJiYlN1aw",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617633666
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617631713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759313631,
+                        "expiry": 33696000,
+                        "value": "BV11d19CWlk0QzA0VldxdVZncE9zMFREVzBGWjBsVElvdW9Lb2k4cU5reDkxOXoyQXd6JTJGeEFFJTJCTUtYUmp6JTJCWFhSbDVIczFlTkdQT2lQQWQyRUtQdVlIdVExNXNSV2U2VWNvMElURnpOQmFsTjRDRW9peG9Oa0ExZjlZQndiRXBDa1doTmRlZUxaM3QlMkJXJTJGakdPYTBWV3hnSzgwaXZHVCUyRk9YUXgxV2lCNlBCNWRQNlF0TWlpd3VoTHJKYW5FdDZzd2kyeFA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617631711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33703193,
+                        "value": "y6LLEl9jQkh3UnpCMFFBbUJTT2FmbFdqN0VaMGUzUFN6cHJLY2l4YjFPNjBFdyUyQmNGN1ZLUW9MS2lMRVJRQVMlMkJhaDhzd3Q1NnJ3U1JkNFpsTTBJOVhlWGRCM1NxVkc3WDVicW9XVTJTb2tVSGJRWUVQUVR2TG13ZE0wJTJCcyUyQnNlOVVtaVdUWlpWSnZ5UlNrWEF4VVpFQXM4cUJGU0htVXJxd2tHdkhkRFBVbkNlZ3FteFYwVmhTNGZHQlYxMDBSU2E5WkpEUA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617633666
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725617631019,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725621231,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617631018
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617631015,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725621231,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617631015
+                    }
+                ]
+            },
+            "dpg-consent-string": {
+                "name": "dpg-consent-string",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617627601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757153627,
+                        "expiry": 31536000,
+                        "value": "functional|analytics|marketing|personalisation|social-media|online-gambling-ads",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617627600
+                    }
+                ]
+            },
+            "tcf20_purposes": {
+                "name": "tcf20_purposes",
+                "domain": ".nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617627600,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757153627,
+                        "expiry": 31536000,
+                        "value": "functional|analytics|marketing|personalisation|social-media|online-gambling-ads",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617627599
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "functional|analytics|advertising_2|advertising_3|advertising_4|advertising_7|advertising_9|advertising_10|advertising_1|marketing|social_media|personalisation|online_gambling_ads|targeted_advertising|non-personalised_ads|geolocation",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617627844
+                    }
+                ]
+            },
+            "_gd1725617628326_sharedId": {
+                "name": "_gd1725617628326_sharedId",
+                "domain": ".www.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617628327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628326
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617628328
+                    }
+                ]
+            },
+            "_gd1725617632761_sharedId": {
+                "name": "_gd1725617632761_sharedId",
+                "domain": ".www.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617632762,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617632761
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617632763
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".www.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617618761,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725624818.744613,
+                        "expiry": 7200.744612932205,
+                        "value": "C6E93F5C710561ECA1BDEC8479F7B757~000000000000000000000000000000~YAAQVu4hF79UkLGRAQAAGj/Txhk6fMmWMYS/+w1vIJpNQgjBJ/POCCEnp+1gfnEjeN6LAPF5s1bvG8liL4aUFLZEK6l/Goises3NRZCltftM3JVmfgBNbAFo/pjvPc9qfnS6uD8iZj2d/lVEzcU8rIi+3CTraCnwIc/TDmLoKH1lY2f6vZNOGOZarS6RrU0MjfxT0v+EIGlLw9BSlsPlZnaz+Sv7xINEIFBlUhbKTcbwJE1u2E9WJBfjeA4tlv5FBVgfRKW3kVvHJpO0XkY2L3BlV5mnQ+HCXp59d6E7Sgs0qEQ/h2sQ0bI26J7fHtmSKSivN0Ih1Y1NYiW7Rj3Ge0fIujX12u8O/FrBlfBNQKSX9Xh9RWP0/YtyDh3I03lWCrAox9XS+Qs=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617618748
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".www.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617623849,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725624823.843779,
+                        "expiry": 7200.843779087067,
+                        "value": "CFD211D22C5FF3577176DC074B072ABD~YAAQVu4hF/lUkLGRAQAAAlPTxhlukncX6vBpYSae8D4FFLLR6CmSZoU2QluT0WHYD7l+rTaEpQFSFfwhyA5PkoD7gXxLymPm1LRuc/kK39Kzp/yppp1e+9PqlYIopBWAe5SOLPROhOkMr150raHyXB0mE/A283gPjNGfsQ7xhm26d0ls2EVnh6vpLOOxQOeZL6Tb9sZz6Y49BPxJU9Z+9UCFveqaJLRFBZra2nJFkOfKOI4ABcUJRWFTkSc6fnw=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617623846
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.631228923798,
+                        "value": "CFD211D22C5FF3577176DC074B072ABD~YAAQVu4hFwlVkLGRAQAAFVbTxhkjum+3WgZ2abMRrtLFX10qip8DZ2w0abQWPLCj5YKJB29bTIJcmxtDe4LS6I0nIwpnijYCiQ7B64pbic/U1BDParcMQ3vb3gxvaZpLoV3Q1XIaqCGaUHDDg4F2VCBP6Ue8jacMxe9RlyU3nehnF+JQAVBjmYqWj1+RWs9EpW+yEg0+glNVNzMrYNVo2JBlBHfiUZWJDlMCxSTPG2QN66bc4ndRVI0rPpNzPX8=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617624635
+                    }
+                ]
+            },
+            "_sotmpid": {
+                "name": "_sotmpid",
+                "domain": "www.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617630069,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760177630.067162,
+                        "expiry": 34560000.06716204,
+                        "value": "0:m0qk6kx9:0842gs7p~C_vLDG8aaWN1ZgxP6lMfVIQ",
+                        "same_site": "strict",
+                        "timestamp": 1725617630068
+                    }
+                ]
+            },
+            "_sotmsid": {
+                "name": "_sotmsid",
+                "domain": "www.nu.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725617630068,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725619430.066873,
+                        "expiry": 1800.0668730735779,
+                        "value": "0:m0qk6kx9:DYVW9eqluiRbCVWEYC~JEPFZ2_gc8Ryk",
+                        "same_site": "strict",
+                        "timestamp": 1725617630067
+                    }
+                ]
+            },
+            "last_visit_timestamp": {
+                "name": "last_visit_timestamp",
+                "domain": "www.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617624632,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726222424.631173,
+                        "expiry": 604800.6311728954,
+                        "value": "1725617624",
+                        "same_site": "strict",
+                        "timestamp": 1725617624631
+                    }
+                ]
+            },
+            "shduid": {
+                "name": "shduid",
+                "domain": "www.nu.nl",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725617627584,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "eb045d78d273107348b0300c01d29b7552d622abbc6faf81b3ec55359aa9950c",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617627584
+                    }
+                ]
+            }
+        }
+    },
+    "pg.nu.nl": {
+        "/": {
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".pg.nu.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617627515,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725624827.513392,
+                        "expiry": 7200.513391971588,
+                        "value": "7C1FF6C18310218C1CB45B83448BA1D9~000000000000000000000000000000~YAAQVu4hF0FVkLGRAQAAW2HTxhnOQgg35BxCzLbvrIgB4ZS9nw4D2HJysbTxckM9EZ7HGJCf7r/bO/BmLg7fhG2hlE6ba+8XYaTLS6nOmUUoSnH62MEptadzghHT6L7xQ8Wwqo/uox9C665UTjSOMwSlQznPXwjZYHq1B6q0xTtmfwU9h3fucIuwXVOTa/6Wr/81IBq0Almotu2ajbjsBIprRuXw1nuaYY/X5N6WXH8O338l+zY+c6DJxzMtKxGPAIwvO/fAHbxFjwAms8Zb/NdUPKSKVtxXqM7J5fWR4pgZV/CkeTVyEgG2lngU4yoDEZYg1pP+JZ7OGRp0tVRpHjInXmV4cA/7rN0CCDQMxkNBUkoZwFdEYXuMRqPe+Tgnl8mPt0v8MA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725617627513
+                    }
+                ]
+            }
+        }
+    },
+    "ads-dpgmediabe.adhese.com": {
+        "/": {
+            "adhese2": {
+                "name": "adhese2",
+                "domain": "ads-dpgmediabe.adhese.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617629755,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728209629.753147,
+                        "expiry": 2592000.753146887,
+                        "value": "c581516f-987b-4c15-b433-7d65c3b34b7e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725617629753
+                    }
+                ]
+            }
+        }
+    },
+    "myprivacy.dpgmedia.nl": {
+        "/": {
+            "authId": {
+                "name": "authId",
+                "domain": "myprivacy.dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617619296,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759313619.280714,
+                        "expiry": 33696000.280714035,
+                        "value": "4514ae92-f363-4a6d-9552-65b5c7cd400b",
+                        "same_site": "lax",
+                        "timestamp": 1725617619295
+                    }
+                ]
+            },
+            "xAuthId": {
+                "name": "xAuthId",
+                "domain": "myprivacy.dpgmedia.nl",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725617619294,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759313619.280644,
+                        "expiry": 33696000.28064394,
+                        "value": "4514ae92-f363-4a6d-9552-65b5c7cd400b",
+                        "same_site": "lax",
+                        "timestamp": 1725617619283
+                    }
+                ]
+            }
+        }
+    }
+}

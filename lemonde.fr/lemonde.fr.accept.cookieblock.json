@@ -1,0 +1,1767 @@
+{
+    "3lift.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".3lift.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574024814,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733350024.812729,
+                        "expiry": 7776000.812728882,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024813
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733350024.69191,
+                        "expiry": 7776000.691910028,
+                        "value": "dqsM_scItU6T_hVGzBUY6DNsAL3Xgykta6VNJm7iYg3Dq5bja8xehvLUSDOIhMobhkJafVeldJQiN84Jxk6rRpNOr7K8Vr6x-UqxiYc6ZP0.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024692
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.924449921,
+                        "value": "dqsM_scItU6T_hVGzBUY6DNsAL3Xgykta6VNJm7iYg3Dq5bja8xehvLUSDOIhMobhkJafVeldJQiN84Jxk6rRpNOr7K8Vr6x-UqxiYc6ZP0.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024925
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760134024.691939,
+                        "expiry": 34560000.691939116,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.92452097,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024925
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024693,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733350024.691954,
+                        "expiry": 7776000.6919538975,
+                        "value": "2940020328571222521",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024693
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.9245529175,
+                        "value": "2940020328571222521",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024925
+                    }
+                ]
+            }
+        }
+    },
+    "adsrvr.org": {
+        "/": {
+            "TDCPM": {
+                "name": "TDCPM",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.571,
+                        "expiry": 31536000.5710001,
+                        "value": "CAEYBSgCMgsIss7t6bmApz0QBTgB",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024572
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.715955973,
+                        "value": "CAEYBSABKAIyCwiyzu3puYCnPRAFOAE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024716
+                    }
+                ]
+            },
+            "TDID": {
+                "name": "TDID",
+                "domain": ".adsrvr.org",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.570958,
+                        "expiry": 31536000.5709579,
+                        "value": "27b9a70a-ce71-4d77-ab11-91da0f233f70",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024571
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.71591401,
+                        "value": "27b9a70a-ce71-4d77-ab11-91da0f233f70",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024716
+                    }
+                ]
+            }
+        }
+    },
+    "agkn.com": {
+        "/": {
+            "ab": {
+                "name": "ab",
+                "domain": ".agkn.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725574024583,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.582856,
+                        "expiry": 31536000.58285594,
+                        "value": "0001%3AgY8%2BvDXMHuP%2B6VRZ3nhEZzlvWyEb8Gc8",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024583
+                    }
+                ]
+            }
+        }
+    },
+    "amazon-adsystem.com": {
+        "/": {
+            "ad-id": {
+                "name": "ad-id",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023498,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1743545223.496319,
+                        "expiry": 17971200.496319056,
+                        "value": "A3mrXkZOdEizr6zHa03Ykk0|t",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023497
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 17971199.859730005,
+                        "value": "A3mrXkZOdEizr6zHa03Ykk0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023861
+                    }
+                ]
+            },
+            "ad-privacy": {
+                "name": "ad-privacy",
+                "domain": ".amazon-adsystem.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023863,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760134023.859867,
+                        "expiry": 34560000.859867096,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023862
+                    }
+                ]
+            }
+        }
+    },
+    "bidswitch.net": {
+        "/": {
+            "c": {
+                "name": "c",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.589096,
+                        "expiry": 31536000.58909607,
+                        "value": "1725574024",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024590
+                    }
+                ]
+            },
+            "tuuid": {
+                "name": "tuuid",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024589,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.588931,
+                        "expiry": 31536000.588931084,
+                        "value": "a9c4ca5b-9670-481b-8235-7d2201734fe1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024589
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.73588991,
+                        "value": "a9c4ca5b-9670-481b-8235-7d2201734fe1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024736
+                    }
+                ]
+            },
+            "tuuid_lu": {
+                "name": "tuuid_lu",
+                "domain": ".bidswitch.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.589078,
+                        "expiry": 31536000.58907795,
+                        "value": "1725574024",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024590
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.73593211,
+                        "value": "1725574024",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024736
+                    }
+                ]
+            }
+        }
+    },
+    "casalemedia.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".casalemedia.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574024885,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.884184,
+                        "expiry": 31536000.884183884,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024884
+                    }
+                ]
+            }
+        }
+    },
+    "ct.pinterest.com": {
+        "/": {
+            "_pinterest_ct_ua": {
+                "name": "_pinterest_ct_ua",
+                "domain": ".ct.pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023251,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110023.248867,
+                        "expiry": 31536000.248867035,
+                        "value": "\"TWc9PSYvbWtPQXI2OGdDcDEvQ1g2SEFBekRPd2dRUzZMOW0vbWJFNmR3VnY4ajgva05PNGxHVXluMjVKdDJ2dzFGNkxrOVBZRjBQa2lFVUo1RW11RVhzOEJ2UUJteFNpZmRMQXhRZ2hOeUUrTzVhdz0mbm1nR05tcUNGUzlmYTY3VmdaSHVwQVRyMjRRPQ==\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023249
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024801,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741126024.80043,
+                        "expiry": 15552000.80043006,
+                        "value": "50978428414028860664036823134289604932",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024800
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.941423893,
+                        "value": "50978428414028860664036823134289604932",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024943
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024218,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760134024.216261,
+                        "expiry": 34560000.21626091,
+                        "value": "AHWqTUmkGRt3e1na61bsmw-Wcsw3xCT4J6PzabAElXGS7jJjJmSnpBUT4ryGJdkJ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024217
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023496,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574923.495515,
+                        "expiry": 900.4955151081085,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023496
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.7395029067993,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0262699127197,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024031
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0285489559174,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024034
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024942,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741126024.941386,
+                        "expiry": 15552000.941385984,
+                        "value": "50978428414028860664036823134289604932",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024941
+                    }
+                ]
+            }
+        }
+    },
+    "gumgum.com": {
+        "/": {
+            "cs": {
+                "name": "cs",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024839,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.83807,
+                        "expiry": 31536000.838069916,
+                        "value": "true",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024838
+                    }
+                ]
+            },
+            "vst": {
+                "name": "vst",
+                "domain": ".gumgum.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024840,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.838122,
+                        "expiry": 31536000.83812189,
+                        "value": "u_49884d55-7625-4856-8ce9-2987c5e5d150",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024839
+                    }
+                ]
+            }
+        }
+    },
+    "im-apps.net": {
+        "/": {
+            "imid_created_secure": {
+                "name": "imid_created_secure",
+                "domain": ".im-apps.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024796,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760134024.793593,
+                        "expiry": 34560000.79359293,
+                        "value": "1725574024",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024795
+                    }
+                ]
+            },
+            "imid_secure": {
+                "name": "imid_secure",
+                "domain": ".im-apps.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024795,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760134024.793562,
+                        "expiry": 34560000.793561935,
+                        "value": "koIgBgbXRfSqylokh1HG1A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024794
+                    }
+                ]
+            }
+        }
+    },
+    "lemonde.fr": {
+        "/": {
+            "__tld__": {
+                "name": "__tld__",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725574022514,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022513
+                    }
+                ]
+            },
+            "_cb": {
+                "name": "_cb",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725574022713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759702022,
+                        "expiry": 34128000,
+                        "value": "Bc9cpXDpEEXVBLLSGA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022713
+                    }
+                ]
+            },
+            "_cb_svref": {
+                "name": "_cb_svref",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574022716,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725575822,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022716
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "external",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022718
+                    }
+                ]
+            },
+            "_cbt": {
+                "name": "_cbt",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725574022707,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022706
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022707
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022708
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022708
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_cbt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022717
+                    }
+                ]
+            },
+            "_chartbeat2": {
+                "name": "_chartbeat2",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725574022714,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759702022,
+                        "expiry": 34128000,
+                        "value": ".1725574022711.1725574022711.1.CFWRGCCLlGa2DKCtg1BaY-8gkCBbA.1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022714
+                    }
+                ]
+            },
+            "_chartbeat4": {
+                "name": "_chartbeat4",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024975,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574084,
+                        "expiry": 60,
+                        "value": "t=DdamcXB7JsiCjZgKyxAbbuDC7igz&E=2&x=0&c=0.04&y=25870&w=890",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574024974
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574015053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574045,
+                        "expiry": 30,
+                        "value": "m0pu7rd0nv5ih3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574015053
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023513,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733350023,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725574023512.797655174590341391",
+                        "same_site": "lax",
+                        "timestamp": 1725574023512
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725574023512.797655174590341391",
+                        "same_site": "lax",
+                        "timestamp": 1725574023514
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725574023512.797655174590341391",
+                        "same_site": "lax",
+                        "timestamp": 1725574023514
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725574023512.797655174590341391",
+                        "same_site": "lax",
+                        "timestamp": 1725574023638
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725574023512.797655174590341391",
+                        "same_site": "lax",
+                        "timestamp": 1725574023639
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023467,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733350023,
+                        "expiry": 7776000,
+                        "value": "1.1.1863805163.1725574023",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574023467
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725574015760,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759702015,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOZQAnAFYRADnwAffgAYADmADsMAO58AvkA",
+                        "same_site": "lax",
+                        "timestamp": 1725574015758
+                    }
+                ]
+            },
+            "_pin_unauth": {
+                "name": "_pin_unauth",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725574023106,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757110023,
+                        "expiry": 31536000,
+                        "value": "dWlkPU1EaGtaRGd3T0dNdFptWXdZaTAwTmpjNUxXRTFOVFV0TWpZMU9XSmlNMkZpWXpBMw",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574023106
+                    }
+                ]
+            },
+            "_sp_id.fb3f": {
+                "name": "_sp_id.fb3f",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023221,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760134023.219591,
+                        "expiry": 34560000.2195909,
+                        "value": "d0badc8d-5992-46ba-b1c3-dc225324bfc5.1725574023.1.1725574023.1725574023.f26fbf25-04a8-47a9-9b10-2e0389faef60",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574023220
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "d0badc8d-5992-46ba-b1c3-dc225324bfc5.1725574023.1.1725574023.1725574023.f26fbf25-04a8-47a9-9b10-2e0389faef60",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574023222
+                    }
+                ]
+            },
+            "_sp_ses.fb3f": {
+                "name": "_sp_ses.fb3f",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574023220,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725575823,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574023219
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574023222
+                    }
+                ]
+            },
+            "amplitude_id_7dec6d6e90d5288af6e9a882f8def199lemonde.fr": {
+                "name": "amplitude_id_7dec6d6e90d5288af6e9a882f8def199lemonde.fr",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574022516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757110022,
+                        "expiry": 31536000,
+                        "value": "eyJkZXZpY2VJZCI6bnVsbCwidXNlcklkIjpudWxsLCJvcHRPdXQiOmZhbHNlLCJzZXNzaW9uSWQiOm51bGwsImxhc3RFdmVudFRpbWUiOm51bGwsImV2ZW50SWQiOjAsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjowfQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022515
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "eyJkZXZpY2VJZCI6ImEwNGZhMjkyLTM1MmEtNDBlOC04NTIwLWExNTA4NzkyMmRmN1IiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTcyNTU3NDAyMjUxMywibGFzdEV2ZW50VGltZSI6MTcyNTU3NDAyMjUxNSwiZXZlbnRJZCI6MSwiaWRlbnRpZnlJZCI6MSwic2VxdWVuY2VOdW1iZXIiOjJ9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022517
+                    }
+                ]
+            },
+            "amplitude_testlemonde.fr": {
+                "name": "amplitude_testlemonde.fr",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574022515,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757110022,
+                        "expiry": 31536000,
+                        "value": "MC45MTAzNTQxMjY1MjAzNDk5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022514
+                    }
+                ]
+            },
+            "atauthority": {
+                "name": "atauthority",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574015052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759874815,
+                        "expiry": 34300800,
+                        "value": "%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22cnil%22%2C%22visitor_mode%22%3A%22exempt%22%7D%2C%22options%22%3A%7B%22end%22%3A%222025-10-07T22%3A06%3A55.042Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574015051
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34300800,
+                        "value": "%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22default%22%2C%22visitor_mode%22%3A%22optin%22%7D%2C%22options%22%3A%7B%22end%22%3A%222025-10-07T22%3A07%3A01.755Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574021758
+                    }
+                ]
+            },
+            "atidvisitor": {
+                "name": "atidvisitor",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574015049,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741298815.039826,
+                        "expiry": 15724800.039825916,
+                        "value": "%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-43260-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574015045
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574021755,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110021.752449,
+                        "expiry": 31536000.752449036,
+                        "value": "CQEeY0AQEeY0AFzABBFRArEsAP_gAEPgAAqIHXsB7D7OQSNicXp1AOsUSYxewkBSoEAgBAABgQgBABgAsIwRkGACIAHAAqAKAAIEImZBIQAlGAjABAAAQIAAASCEAECAABAAJKAAAEAQAAEACAgACQEAAAIAgEAAAAQAgAJAAEooQERAAgAgLAAAIAIBAIAEAgAIHFgBiChEQANgQEhFAOEUCABQQgAQAAAAAAABgAAAABgAoAwAEGACAAAAAAAIAAAAIiABAAABAAhAAAAAQIAAAAAAAAAAABAAACAAAAAAAAAAAAgAAQAAAAIAAAAAAAQAgABAAAAAQEAAAAAgLAAAAAABAIAA",
+                        "same_site": "lax",
+                        "timestamp": 1725574021753
+                    }
+                ]
+            },
+            "kw.pv_session": {
+                "name": "kw.pv_session",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725574022975,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725660422,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022974
+                    }
+                ]
+            },
+            "kw.session_ts": {
+                "name": "kw.session_ts",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725574022974,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725575822,
+                        "expiry": 1800,
+                        "value": "1725574022973",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022973
+                    }
+                ]
+            },
+            "lead": {
+                "name": "lead",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574022834,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110022.832189,
+                        "expiry": 31536000.832189083,
+                        "value": "eda6f843-4ad2-4e11-bd37-c5eb8af09b0d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574022833
+                    }
+                ]
+            },
+            "lead_ads": {
+                "name": "lead_ads",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574022835,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110022.832218,
+                        "expiry": 31536000.83221793,
+                        "value": "eda6f843-4ad2-4e11-bd37-c5eb8af09b0d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574022835
+                    }
+                ]
+            },
+            "lmd_consent": {
+                "name": "lmd_consent",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574021757,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110021.7525,
+                        "expiry": 31536000.752500057,
+                        "value": "%7B%22userId%22%3A%22f5c47020-47bb-4427-8a71-c56584fea72b%22%2C%22timestamp%22%3A%221725574021.920987654%22%2C%22version%22%3A1%2C%22cmpId%22%3A371%2C%22displayMode%22%3A%22cookiewall%22%2C%22purposes%22%3A%7B%22analytics%22%3Atrue%2C%22ads%22%3Atrue%2C%22personalization%22%3Atrue%2C%22mediaPlatforms%22%3Atrue%2C%22social%22%3Atrue%7D%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725574021756
+                    }
+                ]
+            },
+            "lmd_consent_tmp": {
+                "name": "lmd_consent_tmp",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574016133,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110016.129346,
+                        "expiry": 31536000.129345894,
+                        "value": "f5c47020-47bb-4427-8a71-c56584fea72b",
+                        "same_site": "lax",
+                        "timestamp": 1725574016130
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574015055,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759702015,
+                        "expiry": 34128000,
+                        "value": "%22exempt%22",
+                        "same_site": "lax",
+                        "timestamp": 1725574015054
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%22optin%22",
+                        "same_site": "lax",
+                        "timestamp": 1725574021758
+                    }
+                ]
+            },
+            "__spdt": {
+                "name": "__spdt",
+                "domain": "www.lemonde.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725574022988,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757110022,
+                        "expiry": 31536000,
+                        "value": "55fdce6e35d0457a9c9b3dc6d3525ba9",
+                        "same_site": "strict",
+                        "timestamp": 1725574022987
+                    }
+                ]
+            },
+            "amplitude_cookie_test": {
+                "name": "amplitude_cookie_test",
+                "domain": "www.lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574022512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "IkZyaSBTZXAgMDYgMjAyNCAwMDowNzowMiBHTVQrMDIwMCAoQ2VudHJhbCBFdXJvcGVhbiBTdW1tZXIgVGltZSki",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574022510
+                    }
+                ]
+            },
+            "atid": {
+                "name": "atid",
+                "domain": "www.lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574015941,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759702015.93972,
+                        "expiry": 34128000.939719915,
+                        "value": "0DD7B214-DDA0-4AEA-BD24-0475628B921C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574015940
+                    }
+                ]
+            },
+            "atidx": {
+                "name": "atidx",
+                "domain": "www.lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574015940,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759702015.939659,
+                        "expiry": 34128000.93965912,
+                        "value": "0DD7B214-DDA0-4AEA-BD24-0475628B921C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725574015940
+                    }
+                ]
+            }
+        }
+    },
+    "mfadsrvr.com": {
+        "/": {
+            "c": {
+                "name": "c",
+                "domain": ".mfadsrvr.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574024713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.711416,
+                        "expiry": 31536000.711416006,
+                        "value": "1725574024",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024712
+                    }
+                ]
+            },
+            "ssh": {
+                "name": "ssh",
+                "domain": ".mfadsrvr.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024859,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.857957,
+                        "expiry": 31536000.857956886,
+                        "value": "!outbrain=1725574025",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024858
+                    }
+                ]
+            },
+            "tuuid": {
+                "name": "tuuid",
+                "domain": ".mfadsrvr.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024712,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.71136,
+                        "expiry": 31536000.711359978,
+                        "value": "ae20ac59-8bdc-4480-8c57-65e32a0ea013",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.857841015,
+                        "value": "ae20ac59-8bdc-4480-8c57-65e32a0ea013",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024858
+                    }
+                ]
+            },
+            "tuuid_lu": {
+                "name": "tuuid_lu",
+                "domain": ".mfadsrvr.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.711437,
+                        "expiry": 31536000.711436987,
+                        "value": "1725574024",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024713
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.857920885,
+                        "value": "1725574025",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024858
+                    }
+                ]
+            }
+        }
+    },
+    "outbrain.com": {
+        "/": {
+            "obuid": {
+                "name": "obuid",
+                "domain": ".outbrain.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023871,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733350023.869831,
+                        "expiry": 7776000.869831085,
+                        "value": "477668f9-26d4-4b20-99c4-3c6ebc5fe09a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023870
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.361831903,
+                        "value": "477668f9-26d4-4b20-99c4-3c6ebc5fe09a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024362
+                    }
+                ]
+            }
+        }
+    },
+    "pinterest.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".pinterest.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574023104,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110023.1033,
+                        "expiry": 31536000.103300095,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023103
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.248735905,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574023249
+                    }
+                ]
+            }
+        }
+    },
+    "rlcdn.com": {
+        "/": {
+            "pxrc": {
+                "name": "pxrc",
+                "domain": ".rlcdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725574024543,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730758024.542471,
+                        "expiry": 5184000.542470932,
+                        "value": "CAA=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024543
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 5184000.684680939,
+                        "value": "CIjX6LYGEgUI6AcQABIFCOhHEAA=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024685
+                    }
+                ]
+            },
+            "rlas3": {
+                "name": "rlas3",
+                "domain": ".rlcdn.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024543,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.542385,
+                        "expiry": 31536000.5423851,
+                        "value": "kJSR/6FkyhyW31nISJH7ZiBxzDjjYceefL6K4RxvcOc=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024542
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.684643984,
+                        "value": "kJSR/6FkyhyW31nISJH7ZiBxzDjjYceefL6K4RxvcOc=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024684
+                    }
+                ]
+            }
+        }
+    },
+    "teads.tv": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024863,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757023624.861608,
+                        "expiry": 31449600.86160803,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024863
+                    }
+                ]
+            },
+            "tt_viewer": {
+                "name": "tt_viewer",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024862,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757023624.861574,
+                        "expiry": 31449600.861573935,
+                        "value": "95da2884-a327-4e4e-be3f-fbaa44f7b720",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024862
+                    }
+                ]
+            }
+        }
+    },
+    "zemanta.com": {
+        "/": {
+            "obuid": {
+                "name": "obuid",
+                "domain": ".zemanta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024542,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.540345,
+                        "expiry": 31536000.540344954,
+                        "value": "KLSdBfxvGKCOp-_EEFFWEkRytINR26Ln4FLGKBJEVtM_79FQvc_QAsaTE6LHVa6N",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024541
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.667921066,
+                        "value": "KLSdBfxvGKCOp-_EEFFWEkRytINR26Ln4FLGKBJEVtM_79FQvc_QAsaTE6LHVa6N",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024668
+                    }
+                ]
+            },
+            "zuid": {
+                "name": "zuid",
+                "domain": ".zemanta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725574024541,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757110024.540318,
+                        "expiry": 31536000.540318012,
+                        "value": "G92f8eMJkIbMnafBinMp",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024540
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.667890072,
+                        "value": "G92f8eMJkIbMnafBinMp",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024668
+                    }
+                ]
+            }
+        }
+    },
+    "widgets.outbrain.com": {
+        "/nanoWidget/externals/cookie": {
+            "thirdparty": {
+                "name": "thirdparty",
+                "domain": "widgets.outbrain.com",
+                "path": "/nanoWidget/externals/cookie",
+                "current_label": 0,
+                "label_ts": 1725574024021,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725577624.019971,
+                        "expiry": 3600.01997089386,
+                        "value": "yes",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725574024020
+                    }
+                ]
+            }
+        }
+    }
+}

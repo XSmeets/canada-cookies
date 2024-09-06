@@ -1,0 +1,27 @@
+{
+    "durham.gov.uk": {
+        "/": {
+            "DCCCookieCheck": {
+                "name": "DCCCookieCheck",
+                "domain": "durham.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725625276888,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725711676,
+                        "expiry": 86400,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1725625276876
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,1587 @@
+{
+    "criteo.com": {
+        "/": {
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759259157.570891,
+                        "expiry": 33696000.5708909,
+                        "value": "d793a917-f9fe-4a75-89e0-78b3090391c1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157571
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563156731,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741115156.730234,
+                        "expiry": 15552000.730233908,
+                        "value": "44205515440307763022532324120658624788",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563156730
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.724064112,
+                        "value": "44205515440307763022532324120658624788",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157726
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157101,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760123157.099225,
+                        "expiry": 34560000.099225044,
+                        "value": "AHWqTUmgKoWwlkUdl7k8GwIPA9aEQZkiz2R2KdKN42iwdWUTMdT1B2yLx_pAFnp4agQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157099
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.10039806,
+                        "value": "AHWqTUlosvVbZTM9ya17_WJet_cA3DRWRf7Xo5EDcK2SInYGxFw83mXYF8Rj9GGrD7g",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157104
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563157020,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728155157.019176,
+                        "expiry": 2592000.0191760063,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157019
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.0196659565,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157022
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157102,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741115157.09945,
+                        "expiry": 15552000.099450111,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157101
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.10056591,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157104
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563156904,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725564056.903291,
+                        "expiry": 900.9032909870148,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563156903
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.9062519073486,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563156907
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.9110250473022,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563156912
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.0197389125824,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157022
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157725,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741115157.724024,
+                        "expiry": 15552000.724024057,
+                        "value": "44205515440307763022532324120658624788",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157724
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157587,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757099157.585432,
+                        "expiry": 31536000.585432053,
+                        "value": "g_surferid~ZtoBFQAAAJmpFAN-",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157586
+                    }
+                ]
+            }
+        }
+    },
+    "force.com": {
+        "/": {
+            "BrowserId": {
+                "name": "BrowserId",
+                "domain": ".force.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563156898,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757099156.896744,
+                        "expiry": 31536000.896744013,
+                        "value": "4YsCAGu5Ee-TWpuqmNdgQg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563156897
+                    }
+                ]
+            }
+        }
+    },
+    "rona.ca": {
+        "/": {
+            "AMCVS_A9D84EF75AE70F0F0A495CCE%40AdobeOrg": {
+                "name": "AMCVS_A9D84EF75AE70F0F0A495CCE%40AdobeOrg",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563156737,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156736
+                    }
+                ]
+            },
+            "AMCV_A9D84EF75AE70F0F0A495CCE%40AdobeOrg": {
+                "name": "AMCV_A9D84EF75AE70F0F0A495CCE%40AdobeOrg",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563156079,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123156.078235,
+                        "expiry": 34560000.07823491,
+                        "value": "179643557%7CMCIDTS%7C19972%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156078
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.731511116,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C44459451984421645052580352517665668067%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156732
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.73232794,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C44459451984421645052580352517665668067%7CMCAAMLH-1726167956%7C7%7CMCAAMB-1726167956%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156733
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.735498905,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C44459451984421645052580352517665668067%7CMCAAMLH-1726167956%7C7%7CMCAAMB-1726167956%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725570356s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156738
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.73927212,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C44459451984421645052580352517665668067%7CMCAAMLH-1726167956%7C7%7CMCAAMB-1726167956%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725570356s%7CNONE%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.72520208,
+                        "value": "179643557%7CMCIDTS%7C19972%7CMCMID%7C44459451984421645052580352517665668067%7CMCAAMLH-1726167956%7C7%7CMCAAMB-1726167956%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725570356s%7CNONE%7CMCSYNCSOP%7C411-19979%7CvVersion%7C5.5.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157726
+                    }
+                ]
+            },
+            "ConstructorioID_session": {
+                "name": "ConstructorioID_session",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563157155,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099157,
+                        "expiry": 31536000,
+                        "value": "{\"sessionId\":1,\"lastTime\":1725563157153}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157154
+                    }
+                ]
+            },
+            "ConstructorioID_session_id": {
+                "name": "ConstructorioID_session_id",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563157153,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099157,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157153
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157154
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563156127,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099156,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0",
+                        "same_site": "lax",
+                        "timestamp": 1725563156127
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725563156127
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725563156127
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725563156128
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fa6dce4-53f9-400f-8b08-1c129a2b7580",
+                        "same_site": "lax",
+                        "timestamp": 1725563156129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fa6dce4-53f9-400f-8b08-1c129a2b7580&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725563156129
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fa6dce4-53f9-400f-8b08-1c129a2b7580&interactionCount=0&landingPath=https%3A%2F%2Fwww.rona.ca%2Fen",
+                        "same_site": "lax",
+                        "timestamp": 1725563156132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fa6dce4-53f9-400f-8b08-1c129a2b7580&interactionCount=0&landingPath=https%3A%2F%2Fwww.rona.ca%2Fen&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725563156280
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fa6dce4-53f9-400f-8b08-1c129a2b7580&interactionCount=0&landingPath=https%3A%2F%2Fwww.rona.ca%2Fen&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725563156280
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+21%3A05%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202308.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=0fa6dce4-53f9-400f-8b08-1c129a2b7580&interactionCount=1&landingPath=https%3A%2F%2Fwww.rona.ca%2Fen&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725563158634
+                    }
+                ]
+            },
+            "TEST_AMCV_COOKIE_WRITE": {
+                "name": "TEST_AMCV_COOKIE_WRITE",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563156069,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156077
+                    }
+                ]
+            },
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153159,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725564953.155422,
+                        "expiry": 1800.1554219722748,
+                        "value": "LAFx9rcS0IiCzDXuKmqIB12r.fiwGXbHr0jG2qcBJ_c-1725563153-1.0.1.1-aYT1owEjbHLXZFPK2Wc0qq.enABjVHt9BPAxrjYCfQNGAMlYLCDaaLnXjlq_wSI4AN8Q9aoutOWzbwHX7ngAmw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563153158
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157228,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733339157,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725563157226.781494256796771639",
+                        "same_site": "lax",
+                        "timestamp": 1725563157227
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563156379,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123156.377188,
+                        "expiry": 34560000.37718797,
+                        "value": "GA1.1.222559863.1725563156",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156379
+                    }
+                ]
+            },
+            "_ga_SXXM5LHY7M": {
+                "name": "_ga_SXXM5LHY7M",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563156378,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123156.376907,
+                        "expiry": 34560000.37690711,
+                        "value": "GS1.1.1725563156.1.0.1725563156.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156378
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.39274812,
+                        "value": "GS1.1.1725563156.1.0.1725563156.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156393
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563156295,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733339156,
+                        "expiry": 7776000,
+                        "value": "1.1.1621131352.1725563156",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156294
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1621131352.1725563156",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156412
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563158064,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759259158,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158063
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563158065,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759259158,
+                        "expiry": 33696000,
+                        "value": "i-gYtPCqtelr2_urdm7ISV_16Ut",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158064
+                    }
+                ]
+            },
+            "at_check": {
+                "name": "at_check",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563156099,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156099
+                    }
+                ]
+            },
+            "c_v50": {
+                "name": "c_v50",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563158643,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123158.639981,
+                        "expiry": 34560000.63998103,
+                        "value": "1725563158639",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158643
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64480305,
+                        "value": "1725563158644",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158646
+                    }
+                ]
+            },
+            "c_v50_s": {
+                "name": "c_v50_s",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563158644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564958,
+                        "expiry": 1800,
+                        "value": "First%20Visit",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158643
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "First%20Visit",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158646
+                    }
+                ]
+            },
+            "cf_clearance": {
+                "name": "cf_clearance",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563156707,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757099156.707261,
+                        "expiry": 31536000.707261086,
+                        "value": "6XiqzphU66aSRXrZqJ1kxem8PpwC_f6EQZr0MlTHbXg-1725563156-1.2.1.1-9nnoZZjMT0KxR4iVhNnTrpreeGQ7B7FmqaAon_IkoAteDu78ZDSxjpDOPQADta7.EsED_ChRca4zmCmJ4zzrP2aHUr9raGphDmZJCLFwsSrD6KzmUgmw7M5NQAZy_XpD6ihRB2mAo5O03KSgM00KRLObbxylA87d9e3kcUxlZrteQdzYVNkOxbdbWTrullSjy3exjjsJDiKAuCQwjlLYIxCCRFzmCPlA_V2qZvATVN6.YIGngEKzHCGMCpGnlFkubB8XNTFPHy8zWKu.5LngCfdVwvISmO1g2rHnZeeWFYwZCKb5.mOsetoeK2TTswCKGpyu4x7HN7pOm9MeqmJg_YPsIxRyJ8GNYJgU7LRhtSwUtHBd7lVxx8uLOi.Hxu9vCSwHy2ZqDO_OkIX91iOg9A",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563156707
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157719,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759727157,
+                        "expiry": 34164000,
+                        "value": "nSnAul9BRjRkNk8lMkJDaTlGb29VRENDRTFSaGlpWVdPQWdaVTkyT2pNVXRxdiUyRmhSQ3FXZ05rc1hmZ2QzSWtTQUh6QlNwSmlDTGtsMlg1WTJCYVFlTjR1JTJGdXVCVmh4c2hoWmdUQk5UOXNabTgyd1B6QlhkMkxsWGs1Q1NVRGRPMER4WSUyQkpTcFdOTWZwM3I4M2llQURDalVHdFk4ZyUzRCUzRA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157717
+                    }
+                ]
+            },
+            "cto_tld_test": {
+                "name": "cto_tld_test",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157055,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725566757,
+                        "expiry": 3600,
+                        "value": "woot",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157054
+                    }
+                ]
+            },
+            "gpv_Page": {
+                "name": "gpv_Page",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563158639,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564958,
+                        "expiry": 1800,
+                        "value": "rona%3Adt%3Ahomepage",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158638
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "rona%3Adt%3Ahomepage",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158645
+                    }
+                ]
+            },
+            "gpv_Type": {
+                "name": "gpv_Type",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563158640,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564958,
+                        "expiry": 1800,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158639
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "home",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158645
+                    }
+                ]
+            },
+            "gpv_siteSection": {
+                "name": "gpv_siteSection",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563158640,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564958,
+                        "expiry": 1800,
+                        "value": "homepage",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158640
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "homepage",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158645
+                    }
+                ]
+            },
+            "mbox": {
+                "name": "mbox",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563156098,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725565017,
+                        "expiry": 1861,
+                        "value": "session#e5611709a8e34973903500cfe43b6e84#1725565017",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156097
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#e5611709a8e34973903500cfe43b6e84#1725565017",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156101
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1861,
+                        "value": "session#e5611709a8e34973903500cfe43b6e84#1725565017",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563156743
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.55398798,
+                        "value": "session#e5611709a8e34973903500cfe43b6e84#1725565017|PC#e5611709a8e34973903500cfe43b6e84.34_0#1788807958",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157554
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.55581188,
+                        "value": "session#e5611709a8e34973903500cfe43b6e84#1725565018|PC#e5611709a8e34973903500cfe43b6e84.34_0#1788807958",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157556
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.55815792,
+                        "value": "session#e5611709a8e34973903500cfe43b6e84#1725565018|PC#e5611709a8e34973903500cfe43b6e84.34_0#1788807958",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157558
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.564254045,
+                        "value": "session#e5611709a8e34973903500cfe43b6e84#1725565018|PC#e5611709a8e34973903500cfe43b6e84.34_0#1788807958",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157564
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563158644,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158644
+                    }
+                ]
+            },
+            "s_getNewRepeat": {
+                "name": "s_getNewRepeat",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563158643,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155158,
+                        "expiry": 2592000,
+                        "value": "1725563158639-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158642
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "1725563158644-New",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158646
+                    }
+                ]
+            },
+            "s_invisit": {
+                "name": "s_invisit",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563158641,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564958,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158646
+                    }
+                ]
+            },
+            "s_visit": {
+                "name": "s_visit",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563158641,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564958,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158640
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158645
+                    }
+                ]
+            },
+            "s_vnum": {
+                "name": "s_vnum",
+                "domain": ".rona.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563158641,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155158,
+                        "expiry": 2592000,
+                        "value": "1728155158638%26vn%3D1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563158641
+                    }
+                ]
+            },
+            "ConstructorioID_client_id": {
+                "name": "ConstructorioID_client_id",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563155388,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099155,
+                        "expiry": 31536000,
+                        "value": "2f556b4a-5a15-4318-9de2-2107e9ae248a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563155387
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2f556b4a-5a15-4318-9de2-2107e9ae248a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157143
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2f556b4a-5a15-4318-9de2-2107e9ae248a",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157154
+                    }
+                ]
+            },
+            "JSESSIONID": {
+                "name": "JSESSIONID",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153694,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0000VLJHrO8LSIzGF4aD0N7cp5u:-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153678
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0000VLJHrO8LSIzGF4aD0N7cp5u:-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153723
+                    }
+                ]
+            },
+            "RonaWCCookie.province": {
+                "name": "RonaWCCookie.province",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563153711,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099152.675879,
+                        "expiry": 31535999.675879,
+                        "value": "ON",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153711
+                    }
+                ]
+            },
+            "RonaWCCookie.region.selected": {
+                "name": "RonaWCCookie.region.selected",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153711,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099152.675805,
+                        "expiry": 31535999.67580509,
+                        "value": "ONTARIO",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153710
+                    }
+                ]
+            },
+            "RonaWCCookie.stores.selected": {
+                "name": "RonaWCCookie.stores.selected",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153710,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099152.675686,
+                        "expiry": 31535999.675685883,
+                        "value": "55130",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153708
+                    }
+                ]
+            },
+            "RonaWCCookie.storesize": {
+                "name": "RonaWCCookie.storesize",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153712,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099152.675953,
+                        "expiry": 31535999.67595291,
+                        "value": "BIG_BOX",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153712
+                    }
+                ]
+            },
+            "WC_ACTIVEPOINTER": {
+                "name": "WC_ACTIVEPOINTER",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153717,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-1%2C10151",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153717
+                    }
+                ]
+            },
+            "WC_AUTHENTICATION_-1002": {
+                "name": "WC_AUTHENTICATION_-1002",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153717,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-1002%2CJdh5JVzqovGDGuZIS9A0yAc11LCiDPi1CWNOoTX%2B9xo%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153716
+                    }
+                ]
+            },
+            "WC_GENERIC_ACTIVITYDATA": {
+                "name": "WC_GENERIC_ACTIVITYDATA",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153723,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "[23937349826%3Atrue%3Afalse%3A0%3AwOt6HN%2FwdWbLGPcFZ0AJCEE7ff5TtRgD9PNlJhQtXE4%3D][com.ibm.commerce.context.entitlement.EntitlementContext|10003%2610003%26null%26-2000%26null%26null%26null][com.ibm.commerce.context.audit.AuditContext|1725563153359-5194872][com.ibm.commerce.context.globalization.GlobalizationContext|-1%26CAD%26-1%26CAD][com.ibm.commerce.store.facade.server.context.StoreGeoCodeContext|null%26null%26null%26null%26null%26null][com.ibm.commerce.catalog.businesscontext.CatalogContext|10051%26null%26false%26false%26false][com.ibm.commerce.context.experiment.ExperimentContext|null][com.ibm.commerce.context.ExternalCartContext|null][com.ibm.commerce.context.bcsversion.BusinessContextVersionContext|null][CTXSETNAME|Store][com.ibm.commerce.context.base.BaseContext|10151%26-1002%26-1002%26-1][com.ibm.commerce.giftcenter.context.GiftCenterContext|null%26null%26null]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153721
+                    }
+                ]
+            },
+            "WC_PERSISTENT": {
+                "name": "WC_PERSISTENT",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153716,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "DgYr%2BgdL%2FXf0yTvTq%2FCqsLGPPNAeyu%2FXfJ5X0cCfrc4%3D%3B2024-09-05+15%3A05%3A53.368_1725563153359-5194872_10151",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153715
+                    }
+                ]
+            },
+            "WC_SESSION_ESTABLISHED": {
+                "name": "WC_SESSION_ESTABLISHED",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153715,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153714
+                    }
+                ]
+            },
+            "WC_USERACTIVITY_-1002": {
+                "name": "WC_USERACTIVITY_-1002",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563153721,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "-1002%2C10151%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C1877362032%2Cver_null%2CFeLtTqkMODgiVS71%2FjFHiN1BaY2m5a2rYHW%2F6AtANvWmtFOMSlGunjbfN0Ee18myjycA%2FopNAkq3sJTMZ%2F%2BOWggWZqYAjvVtt%2FFNlIzPqZrET3oSnF0sr2Ntcx9jcp%2FC95HwajSbmR5p7a590gyP0TpiVXSrDkgJcjq9Fbps3%2BEdWuvn24VujD6JiTu%2BgafF%2B70e%2FQUDMLpqyjF3ZPWmF0BuS0v9cO3SEqt3ho7F99yRzyvgWMihxXSOi4%2Bi8M2r",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153717
+                    }
+                ]
+            },
+            "autoSelectedStore": {
+                "name": "autoSelectedStore",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563153713,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099152.676023,
+                        "expiry": 31535999.676023006,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563153713
+                    }
+                ]
+            },
+            "criteo_write_test": {
+                "name": "criteo_write_test",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157058,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725563167,
+                        "expiry": 10,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157057
+                    }
+                ]
+            },
+            "cto_h2h": {
+                "name": "cto_h2h",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563157060,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757099157,
+                        "expiry": 31536000,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563157059
+                    }
+                ]
+            },
+            "showModalNewsletterOnNextVisit": {
+                "name": "showModalNewsletterOnNextVisit",
+                "domain": "www.rona.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563155332,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155155,
+                        "expiry": 2592000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563155331
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563157626,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759259157.625125,
+                        "expiry": 33696000.62512493,
+                        "value": "2lfFKGN39HJ8lBPEQaXjVRvgJcz",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563157625
+                    }
+                ]
+            }
+        }
+    }
+}

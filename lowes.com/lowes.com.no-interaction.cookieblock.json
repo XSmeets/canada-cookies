@@ -1,0 +1,1515 @@
+{
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628181224,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741180181.223083,
+                        "expiry": 15552000.22308302,
+                        "value": "72088008314309362803106586642893146840",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181223
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.229677916,
+                        "value": "60580483287868564870955406454130586380",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181230
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.365016937,
+                        "value": "75975356577416002173745660691685018045",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181365
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.080764055,
+                        "value": "75975356577416002173745660691685018045",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182081
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.22736001,
+                        "value": "75975356577416002173745660691685018045",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182227
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628180648,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725629080.647634,
+                        "expiry": 900.6476340293884,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180648
+                    }
+                ]
+            }
+        }
+    },
+    "lowes.com": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178175,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725631778.15342,
+                        "expiry": 3600.153419971466,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628178174
+                    }
+                ]
+            },
+            "AMCVS_5E00123F5245B2780A490D45%40AdobeOrg": {
+                "name": "AMCVS_5E00123F5245B2780A490D45%40AdobeOrg",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628181955,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628181955
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182081
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182228
+                    }
+                ]
+            },
+            "AMCV_5E00123F5245B2780A490D45%40AdobeOrg": {
+                "name": "AMCV_5E00123F5245B2780A490D45%40AdobeOrg",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628181954,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760188181.941514,
+                        "expiry": 34560000.941514015,
+                        "value": "-1303530583%7CMCIDTS%7C20703%7CMCMID%7C80339922512718104762335230055202537900%7CMCAAMLH-1726232982%7C7%7CMCAAMB-1726232982%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725635382s%7CNONE%7CvVersion%7C3.3.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628181953
+                    }
+                ]
+            },
+            "EPID": {
+                "name": "EPID",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628177599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.741786,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180742
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.15865493,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182159
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.17220998,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182172
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.28864789,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182289
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.2897439,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182290
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.30547905,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182306
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.3091259,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182309
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.67983699,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182680
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.71225095,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182712
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.74749994,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182747
+                    }
+                ]
+            },
+            "IR_12374": {
+                "name": "IR_12374",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180489,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628180483%7C0%7C1725628180483%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628180488
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628180483%7C0%7C1725628180483%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628181952
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628180483%7C0%7C1725628180483%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628181980
+                    }
+                ]
+            },
+            "IR_PI": {
+                "name": "IR_PI",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628181951,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188181.938895,
+                        "expiry": 34560000.93889499,
+                        "value": "471c4307-6c51-11ef-bbca-2d27d232fa41%7C1725628180483",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628181950
+                    }
+                ]
+            },
+            "IR_gbd": {
+                "name": "IR_gbd",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180487,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "lowes.com",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628180487
+                    }
+                ]
+            },
+            "PIM-SESSION-ID": {
+                "name": "PIM-SESSION-ID",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178703,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NRBKMlZ4gVFqkrCt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628178702
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725628180262,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726232980,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=lowes.com&si=46be1c35-5544-465e-b280-8d275700f418&ss=m0qqgmzd&sl=0&tt=0&bcn=%2F%2F68794910.akstat.io%2F\"",
+                        "same_site": "lax",
+                        "timestamp": 1725628180261
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=lowes.com&si=46be1c35-5544-465e-b280-8d275700f418&ss=m0qqgmzd&sl=1&tt=4i0&bcn=%2F%2F68794910.akstat.io%2F&ld=4i2\"",
+                        "same_site": "lax",
+                        "timestamp": 1725628182819
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=lowes.com&si=46be1c35-5544-465e-b280-8d275700f418&ss=m0qqgmzd&sl=1&tt=4i0&bcn=%2F%2F68794910.akstat.io%2F&ld=4i2&hd=4jq\"",
+                        "same_site": "lax",
+                        "timestamp": 1725628182879
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628181950,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741180180,
+                        "expiry": 15551999,
+                        "value": "ID=a63bbcdcbdaa0420:T=1725628180:RT=1725628180:S=AA-AfjaQjJo7qj4TGgPOmNkAP9th",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181950
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628181940,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759324180,
+                        "expiry": 33695999,
+                        "value": "ID=ac03b50686aa1441:T=1725628180:RT=1725628180:S=ALNI_MZG4wGWqeg1E416Qucp1QuZIvAOIQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181939
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=ac03b50686aa1441:T=1725628180:RT=1725628180:S=ALNI_MZG4wGWqeg1E416Qucp1QuZIvAOIQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181948
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628181949,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759324180,
+                        "expiry": 33695999,
+                        "value": "UID=00000ef03a32872a:T=1725628180:RT=1725628180:S=ALNI_MbMGqFEdfbuGEs2rVjmwDian1MN4Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181948
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178189,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757164178.155429,
+                        "expiry": 31536000.155428886,
+                        "value": "B273B57D6AE7C62B38F40D606561AEB0~-1~YAAQEZM2F0MPr6aRAQAAwV90xwyK7yanEFvOo5JLdLb2AekdJ3C5qXabjNQ/f/QHQupS3Yf8rYFm56OiyESuDpi9ILcKziKJY+qkwYnNawx7ca7lMv9mjgLoalKZ5CIWUNSiT6BN9eF4pXfH0NV+kBwdxDmUkt7jfKSIV53mk3JAkEvC7bkTvcoBPZK5xNhHrgiQrtXjDQWU2umKn/LYcF0LT73dH8RQ6L7nGQkwz6QHEOiJrIKt0k9mwziI523PrWUtEjQTlEXWDEvFz433trV2ys1v2Exvm3gdsc2ha1U46dED8QPGknRGXjToPmU1armv2Hw95E3PGX5FkgpU2cR5VkcaecIdfMUKqBKE0rIZm9qJ4idWwb5Yfp9emAI0XK8PrsptgcDk9pTOUKYltYj3MtTTobArdvJ5sw==~-1~-1~-1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628178187
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.674115896,
+                        "value": "B273B57D6AE7C62B38F40D606561AEB0~-1~YAAQEZM2FwYQr6aRAQAAvGF0xwxoPY1BHH9N1w9W7XRCEO87jNLLNCiSTDOk/knilgKlKo7zFs9GrbfTJQYbWo0cUZwKo0aMrbS6TN2EwR17ZFnAm0zmy9ETqE+jUS9bBMKYhnyMIaMhJcNy+Jq7F09hO2KCW0+9tQ8mS0R6h817wvKNmemuKtCz6EilzxZJi7Yh/gh4CM4YRTkr++SOwfv2Q3arCtqHKq3C2LI5CvASjC9RKHmQrvDCZCl9z+wI0gxz5evIZw0IFXfvvSQFbN2qZdLCeKZbC37D+5hjgRw9n6QD3HLdMQpo/Kz8zH3RAbiUyp44w8W8idnDPGTASpf+/nBX6nBB0gr9Q8RBfaQ7pL2PWFi400G+9neq8jA5xRGu6uDlLgHbVpqZ3UNoJno0Km5GPwaqt5coPW0uEwd3+dNzqleE6u7i~-1~-1~-1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628178675
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.05091691,
+                        "value": "B273B57D6AE7C62B38F40D606561AEB0~-1~YAAQEZM2FzYSr6aRAQAAJmd0xwy3rBmO1Gv/bwiDtckYxqTmnwYBEjuWZfA0K61+7CvmDJWp+91qwRCdARJAvcHJhAV7YLr1dPSrsqfYwUDpjNvOkzeIWt5S0unT3Im79Tlc2nLwv2gYIOEaejP0uHcR/MOVDfuaEVcqX5T93czOZ4NgxZOSVv0zGqgXO8xg5LmlQmqP0NIwxp3Wc700tgc/5Xp5Drikqd0Yq2BOKDiAPcvMp6TxkLi77oQy8GJhnr9GqPHMqxr9NPci2iORa/+h0wPCtAcaMExitrrpd5YWWCPDILHk/YIN5yQg9Azsjrcj6vVPYU/1Yw3Ehve56P1W9b154Jv8E2DUT25+a82ESZ7fUStN9EgaRwDYFSrBQHoRSn4CFwgI5vZdmAidgsX4ZOhYcELm5FYuuh0dA3J23aZPo0DbUzRN~-1~||0||~-1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180051
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.74135208,
+                        "value": "B273B57D6AE7C62B38F40D606561AEB0~-1~YAAQEZM2F6ITr6aRAQAAwWl0xwzQvb1456XzZXkcB3+pkviksskT5w6Vk08Tj6vA3Ci/+ohEHjdoRECVz9/tzNGeHsrKPu9Jup0QzgxpNL9/gzwiNGWW97GyVuBd0LCjSo4QhNcZ1+E6b4npNYibulX1M1cCpJuJ22AwBNfXtj7gnWgILg+bpQRHVnUHRNMnLv5+F7d0iSgmSvK7vFATMB+nRU4SAPIFLdWWbqe4/9KozyK8fv8CYCfYHS71VhfotjQitJdM3H7P/X15uccO66s+9ZNYUsyUAqFwbAi1MrzaUdcft4GkfTCosbdDcmzmY3bgqJ9/T7Caqryz8D32QRQWGLGHA1c+dA2iMoYVxAadH4JXLkaTRmMr+PXUhoz8hHWk6Hm/4fVmOIbozXjjIPNem7ek254zAmJ36mvQbzjF4hyAdAT32d6f~-1~||0||~-1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180741
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.30925989,
+                        "value": "B273B57D6AE7C62B38F40D606561AEB0~-1~YAAQEZM2FxgWr6aRAQAA+290xwzl3Xr1+fjF8oAX3GCj7rAZN+uapPbZPhj5ic3FWPwaGAJQ+oSijBklZrt/dNhEAevlmLNjW2I0lm4ICgPzhZbGK0Yzex4ytW6PTTiEMG8erxIK2ZRZBWJ62M1WtdqI8aNDBHpJwJvn48ZY0T0nwZhmemRcqZaUnPQyYpepPt5mgaJoTXwhZsqhPnp+1iErTEFnC2M9ex6PF41C/ePs9SMETb7a6sSoDS87OwogluVjdiIwW/UzsY0VRX2lZ0Lm3Pkx7Ugz2u2cG1bpOYTHnoeS1gq4+cvpfwSCuMRzrOo16yQG9SC5OD61XEpVom30hAU3WNEwnFtUEwlnHZCAM7v4qPNzuNZE+Ob9uNJcKPMjBJ3cJyW9hmiSHq+kPTIeaHpuqx3J/bizlCAo/BoHyJnR1jj4O7fw~-1~||0||~-1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182309
+                    }
+                ]
+            },
+            "_lgsid": {
+                "name": "_lgsid",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725628180437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725629980,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628180437
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182351
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182478
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182478
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182777
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182779
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182811
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "1725628180436",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182812
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178193,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725635378.155524,
+                        "expiry": 7200.155524015427,
+                        "value": "E0E60E60123B64C3076348745C8B15B8~000000000000000000000000000000~YAAQEZM2F0QPr6aRAQAAwV90xxkB7OY5v4+B/AjGhK9V43jAUMAN6vGUNAxQx/5+4tPYdbfRT1sHpQpsx/SI7HXUbxG6GZN9XZaX0vF3KnCPm+k4//u+EoS6PFJ5gesWHuShHl19FrcXGrGEBOVOm/AzrYAEbCRzkiIPgscmZMhZ4e1fCJOroIB3s7bwlF+M/RnhRX7eqXynaGsEMikma9YDee6MWXFXp6O8iSDJqMrw6QLfbFA6vMwE0kbF7MsjIZRG+iHPKu92JejIHkwBxBngp9anXQI/8bVVbgfqI3dnKeJ1b/gp5g+thQiKyh1mvgCzvjD/l5AKi1/MtLi0oUpNcXjw4B3F8mIZfR59ETB1xqFRlhr0SXBze2wNvCgMYfATrzQnv30=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628178189
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.568984031677,
+                        "value": "809087A7A2572725E95DBAED9BF25711~000000000000000000000000000000~YAAQEZM2F9gPr6aRAQAAUmF0xxkxlNaaHSivNrFZH4a3fRp3z9P4DUsa2/hhmb7tpMAWeTfdBRBuMLOxxvewJest1v4wUzKamWDdZkft2HCwDT+OlpFO8dzemZTRO5DOpFrLFtwlYA6fKoyWgq7OP9VDIyfuzR5bD5x8AKLVZ6k7qcrJ9Ds+HqV/yleauA7evBAd/Hylc93xb7shOShIUD4l/Ak31nYg6TljNWs1y4Cpif74cW/kwuc5FU/s0869wjNODSc1G08usurn9NE7rv2ZZQPawnQd6WhkNBn+BpRhcntEfNZFy1mjkcqevcLY/yZ7Azc8nMe1qBrBER6m26OngdD+OcTk0wPOo3cb8QFueMhPUYRuNXGj0nm824Tffa3FVjfrVt9VFFV12LNf3gYxqUfm0SYDM5uRq3uS+yA+sOfg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628178569
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.775161027908,
+                        "value": "809087A7A2572725E95DBAED9BF25711~000000000000000000000000000000~YAAQEZM2F7URr6aRAQAAEmZ0xxlZE2J8jVaqGkvF04iFDBy/iBumS7G6isoJ32ix08kuDikWJIv2HgEJzEE6LgWR27tua3GGoGUAQ83wwSq6onNUSZu7D5QTM/MpuhlKCiRNv3JMMWxMc0rTMcKqYsVYyKxGFvq/NF+Ibu5fOBpxyo0d2+PblU9T3jWBqG/d+iwMrkb0gxpN/dx6D9p5Uiy1GEuTkoWYye8EQxQxUzCopR0KHFdbqfsdPAm9ywHm91zWTtWw76Nuhb2ZdHCpm45urAPfAT6MLZ+SN9nu+Knok/YH5zU0Xm6Cu/ewyKCyjv7GjsErT9lHBZqM7HXLqt8/BKqrx7MaLuEKnGCoBQlkfG/4Zo3BiBg3udYRvyuPRJnjeQ7mcL2rtnlxHFdsN0q1cHOqweQiRXxc4dXhml+LEw1JFAmuHG0jOvkljXsq4P7Yaw==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628179806
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7198.581362962723,
+                        "value": "809087A7A2572725E95DBAED9BF25711~000000000000000000000000000000~YAAQEZM2F1oTr6aRAQAAPWl0xxlFDbt2IYQBzYJyvA5Dr76la8wmbCog3EV7Uzms5np2VbFXeqDnXJF1sUtpJwErmpRc+6+9KyVk6QUuC1Jju/gf5ww+2Q8MaTSau6FLabmT3a+f9k2Eq+tqBTn4zJmlsCcA/5UxW7a+nCIP+VcF3IEb9N15WZ4ayz9fOdgGxktR+FCLESUoeMsuhRkZOUSoVX0renL9T764rk4Th57VgbZ+9682ACA2UddZogKJFeiCj/fVvUJNmOXOcVu6Mt1b2hn4G6NfEXxSzvw38P/vtQK8J/64GU1Yrs/w4IOrFsoBK0VsZWWcWO8TWf3iwtwSpIt0GUnYoWxhSN96VkFkWmHIN0Vlc8YxfyYj8Ri0+3eCrcUhFN1OSELdIknYsMeRSWMmC4l1YQAwWvE5h8qZgfF1YlRNN+jcJ119N5vk91Rx4nvmGEV9VbU=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180581
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628179808,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.568953990936,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F08Tr6aRAQAAMWl0xxlCr5RZ+jEikO4DA7PeTBegZkhjV5RmoOmhiWJSJPP1iWiFbk6i6pWCd9r/yLPisdn5TPZgqgCUxJS3LDJV2bhWC+sLkJIA+90nW8hlNZtrr8Iaa0Lw9CwOkayCdd922Bvc7EFKaV6PNm4Ep9N/Z74lvfmDOXSinNuOWTE/5Yqf5ka4P3ZEj+Uzn+GKUAEmicUWcI2zp++JxOrl015Mr+kLu6pL8kNOa2nmxpQ=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180569
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.7419600486755,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F6cTr6aRAQAAzGl0xxnmzJNs6Lo2BC7gcxBSVG6Pa5uaeMxocnIYR7R7TBorlCMAJ2WfPCYYjH5OZ8IG+5u124AGTvPzQrJgDWjO5NXh1TEEqceSq4+XujzoIw5ujJ0fLFxbnpA2ivnNi4KhyKuuv0eFzsP/NIycd0XAwJMRMPHpbnFZT4M7/Zd8wKPumdQUWOj0zZxNzV2MC9bf7YXrp3kHw6PMdR5j7ZbOKb24ScFTg0r/u20AAls=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180743
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.158826112747,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F+YVr6aRAQAAZ290xxmxIiYi5/emxYcJlRFVxWIR94p7ksYRkk9Hh1esTy4N5DAkpd7tYnFUc4769O71AkVJybPFDKVImUTKcWtRXE0lFd8+ALgpkD0L943z2W/IsofeaJeKhN0AujGw0VcIjJrt7Wy/USLil/7OU2jsIYKvuuLya4ovWoaZURf0cWLuxBII/LlZCR38z3/sUiH+X2p2t4WNMAGzszDjLw6D7kwybQi10C5mmRHHxws=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182159
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.172365903854,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F+sVr6aRAQAAdW90xxn7HTXvksiAIgp5bp7tNDV50+cLQtH5ZTTPYTlm3ucEvGrJ7L+AZFArmWoOlg1eUZfF7af8/EzVXfzlwtSdzY/2FVU7j3KB2nnDukLX8k8TZ4Uvw/BuYZde13wZjq/H9MjTIgeVsSV02YYHzzQQ6dsiB6hqlBtsJ1sJfKK6LL/WuO4RcInofqIZf4r4CAx28sXcAPxFxW0Pt0/a8anB/ZJWqclzShsriWyames=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182172
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.288882017136,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F+wVr6aRAQAAdm90xxlhRRw87t7bBURs46+hKB81CcuesV+pxV3Pr8GMMecpNmdiA2ft7KOSjWMwnql2sTtQvWoaUBsncNUNjdbs0yW+SgyPHZA5OG5ZCgmo0eS+91gIoZ6LBXzq5EmP8F195HntzR/HeUkvgn3nt9UB1pzJO8k90o7henHCLR82dAyXgsP+94/d2ib3Oq//neubPqk779BzOx6mmlM6ro1zMaGF3ZckAYiSzPNmQ18=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182290
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.290209054947,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F/gVr6aRAQAAoG90xxllecQDEpjm3l+nWisH31XakwrwmVoswJl+gyIiDnBfW6WCmyo2jG7HwsdfztevFVbtkO+3BWjqdeUaa3nuXbe3+1rze+3hySKXzEnLKMSEmOSSYY56290IGAOPIipmTmGHfoFOmusLp6HEsbXO7CFAXRFKIpulb6iKw7JkywfwktPluCFxXNAsUB6m66F8lvs55ecMN/GEpQd0HPgb2wPlPnEyYlzReu5xZug=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182291
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.305649995804,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2FxcWr6aRAQAA+m90xxmm03CqKigd8NMA6kp94dKFsygYQnNdFSrVqTC6980NqbsZWG1s2cZ2l4pal3fQt6OaECUgZY7PJi58NsEfCfLyhDQpzCe09eIk0n+hlnLya/VSrivAys9ToPjBBlSAOcHFV9uLBBCZqSWVp0bsNLI35rJgXgafn0Ph6G4pBZ7KfpG4ZncfFhSoPB0TlBEc/RwyFY80l4ckH+jMNlZH9DSXW+u+sskyJoTw1wo=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182306
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.680217027664,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F7MWr6aRAQAAcXF0xxno4C093l9h1RGsW10yV9RfZD49MPuVK1r0IE6FAVo3yhw+Z10li60Fyn/tkw3sjmG+2D13PO1mrSJKvhgGDz4kH7fYBrwukdMHSnTStwAarsqLLFZqG+BqxIoPbfbythrEhB5WEUc14tIJ5QbQAmmBU++KuDq6BUWUv70ifmbM8HEn5mQ+cl1MT8GUcmfp8P71IakeeWxR7FmZ5GXYXKrGI1Am4W2DGkstJUc=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182682
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.712590932846,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F74Wr6aRAQAAkXF0xxm5om56mumC4SrwAaEUZqvgWYMwhMEnO1jfuUd/XtsqsAToZ6+Gyb8hea/39jgOk5X9g2LxcC+tQ7QFhepqEbFUFQFI7op22mU9PLGxRG13+OlqHRv3bn+f30KshKB/Jcnn0YViD8jOLpuhcIEC3IPkHKF6XnbH6mHrY44I6rtPvKeJ3L4Yaxfl3fPAUY0udvn+5kJoaXu1BM7/n6ShmBZEG+pS0clq2uE3o+M=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182713
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7197.747757911682,
+                        "value": "CC4123762214FF4E76DF796C6EC0BF50~YAAQEZM2F8wWr6aRAQAAoHF0xxkvg2Xb5YJxiofrjwUdmNHvdaYT+eY/+BKaqGVt3fjCMfVoxO8DTQloCraF2VcmtHz8B/JlTyFlD0ayQnBhJwYRoWb+zP4K0xFqTomEaTflBdtS9dDCfsMHSKXtU91qn3ztFVOaALR+IdWeMDVTXtF0UPMzz4c5mjd+m1umzJtyWpHJn8nbdeCKkTrRChUhkvhLFv7lVu25Ca/xe7hA+91mcBhoh0wnwYPP1uU=~1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182749
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178194,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725642578.155642,
+                        "expiry": 14400.155642032623,
+                        "value": "A36E8146FFDE15A978C3025874BE8B19~YAAQEZM2F0YPr6aRAQAAwV90xxlxZSxvOey84iDFVVp12B7pC/XbV2yD4SHNf/UbdMdiiI0lLeNOs1iB1WcEqV0fVrbAiHbO/5ta8Zxf3DV9g2bpVbEM4MCdcMd8PV7jFnUClLY7fvyfkauTIHnfozNJeArAq/i1rY0VGPEiPPpyWnpzv5Qk7QznfVxmev5VyzG0JoKhT/n+j57K6bVldfaZzQErRUxH7e4fcqyHBnFylZQYGJKImi0Hc639UiSoJpBScn69DLx/D3wzXi/n+dQMZCNGrj3L/OrcYBcVQ9J/5wIoL19pvmNMwMxS2kywIg3C/rDB6tAIPjedgb/XTckLpeal8lRWdcy9JAth12VH118MNUstBwkJx/9/GkJAZYxRAA99dHzwZw==~3686723~3486788",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628178193
+                    }
+                ]
+            },
+            "dbidv2": {
+                "name": "dbidv2",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628177590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188177.57629,
+                        "expiry": 34560000.57628989,
+                        "value": "efb11670-4e9a-4015-b546-010ed0860dce",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628177578
+                    }
+                ]
+            },
+            "g_amcv_refreshed": {
+                "name": "g_amcv_refreshed",
+                "domain": ".lowes.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725628181955,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726060181,
+                        "expiry": 432000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628181955
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 432000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182081
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 432000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182228
+                    }
+                ]
+            },
+            "al_sess": {
+                "name": "al_sess",
+                "domain": ".www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178171,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "FuA4EWsuT07UWryyq/3foJJjh3N5dBiGPnID45paEzEh3tAwHRCJls9IVV/fXTmQ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628178169
+                    }
+                ]
+            },
+            "akaalb_prod_dual": {
+                "name": "akaalb_prod_dual",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.5689330101,
+                        "value": "1725714580~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=846d63fa5757d1ce48f29ef92855afa0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180569
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.74192500114,
+                        "value": "1725714580~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=846d63fa5757d1ce48f29ef92855afa0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180742
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.15878605843,
+                        "value": "1725714582~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0c5751b3344771d4df940c51730baaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182159
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.17231988907,
+                        "value": "1725714582~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0c5751b3344771d4df940c51730baaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182172
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.28881788254,
+                        "value": "1725714582~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0c5751b3344771d4df940c51730baaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182289
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.29012107849,
+                        "value": "1725714582~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0c5751b3344771d4df940c51730baaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182291
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.30561590195,
+                        "value": "1725714582~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0c5751b3344771d4df940c51730baaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182306
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.68017101288,
+                        "value": "1725714582~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0c5751b3344771d4df940c51730baaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182682
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.71250200272,
+                        "value": "1725714582~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0c5751b3344771d4df940c51730baaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182713
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.74772500992,
+                        "value": "1725714582~op=PROD_GCP_EAST_CTRL_DFLT:PROD_DEFAULT_EAST|PROD_GCP_EAST_CTRL_A:PROD_EAST_A|~rv=72~m=PROD_DEFAULT_EAST:0|PROD_EAST_A:0|~os=352fb8a62db4e37e16b221fb4cefd635~id=c0c5751b3344771d4df940c51730baaf",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182749
+                    }
+                ]
+            },
+            "akacd_PIM-prd_ah_rollout": {
+                "name": "akacd_PIM-prd_ah_rollout",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180602,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3903080979~rv=95~id=0f351c0efa612620fae4dab704d88d14",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180601
+                    }
+                ]
+            },
+            "akavpau_cart": {
+                "name": "akavpau_cart",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180184,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628480~id=bfa2f027c00fccc73b09d899be4b87b0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180184
+                    }
+                ]
+            },
+            "akavpau_default": {
+                "name": "akavpau_default",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178169,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628478~id=9bd14907226553695bc2594b7f48ad70",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628178165
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628480~id=bfa2f027c00fccc73b09d899be4b87b0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180534
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628482~id=32ef29254ffe9fa98a57f0a299c78bc3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182681
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628482~id=32ef29254ffe9fa98a57f0a299c78bc3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182713
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725628482~id=32ef29254ffe9fa98a57f0a299c78bc3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182748
+                    }
+                ]
+            },
+            "nearbyid": {
+                "name": "nearbyid",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180544,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741180180,
+                        "expiry": 15552000,
+                        "value": "1883",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628180544
+                    }
+                ]
+            },
+            "p13n": {
+                "name": "p13n",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725628180492,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728220179,
+                        "expiry": 2591999,
+                        "value": "%5B%5D",
+                        "same_site": "lax",
+                        "timestamp": 1725628180491
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2591998,
+                        "value": "%7B%22zipCode%22%3Anull%2C%22storeId%22%3Anull%2C%22state%22%3Anull%2C%22audienceList%22%3A%5B%5D%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725628181985
+                    }
+                ]
+            },
+            "ph_aid": {
+                "name": "ph_aid",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180263,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733404179,
+                        "expiry": 7775999,
+                        "value": "f31267de-0377-4574-a1e6-7d471d35ec8f-11b9dc20f3eb7-422203934664e-ea52c5cd3f3d3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628180262
+                    }
+                ]
+            },
+            "prodNumber": {
+                "name": "prodNumber",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628182477,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728227382,
+                        "expiry": 2599200,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182476
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2599200,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182478
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2599200,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182776
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2599200,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182778
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2599200,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182780
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2599200,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182811
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2599200,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628182812
+                    }
+                ]
+            },
+            "region": {
+                "name": "region",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628178173,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725714578.15336,
+                        "expiry": 86400.15335988998,
+                        "value": "east",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628178172
+                    }
+                ]
+            },
+            "sd": {
+                "name": "sd",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180537,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741180180,
+                        "expiry": 15552000,
+                        "value": "%7B%22id%22%3A%221883%22%2C%22zip%22%3A%2214228%22%2C%22city%22%3A%22Amherst%22%2C%22state%22%3A%22NY%22%2C%22name%22%3A%22W.%20Amherst%20Lowe's%22%2C%22region%22%3A%2218%22%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180536
+                    }
+                ]
+            },
+            "sn": {
+                "name": "sn",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180536,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741180180,
+                        "expiry": 15552000,
+                        "value": "1883",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628180536
+                    }
+                ]
+            },
+            "zipcode": {
+                "name": "zipcode",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180543,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741180180,
+                        "expiry": 15552000,
+                        "value": "14228",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628180543
+                    }
+                ]
+            },
+            "zipstate": {
+                "name": "zipstate",
+                "domain": "www.lowes.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628180544,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741180180,
+                        "expiry": 15552000,
+                        "value": "NY",
+                        "same_site": "unspecified",
+                        "timestamp": 1725628180544
+                    }
+                ]
+            }
+        }
+    },
+    "ojrq.net": {
+        "/": {
+            "brwsr": {
+                "name": "brwsr",
+                "domain": ".ojrq.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628182772,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188182.77148,
+                        "expiry": 34560000.77148008,
+                        "value": "481dd574-6c51-11ef-8a45-2353b5c1056c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182771
+                    }
+                ]
+            }
+        }
+    },
+    "sjv.io": {
+        "/": {
+            "brwsr": {
+                "name": "brwsr",
+                "domain": ".sjv.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628181084,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188181.083897,
+                        "expiry": 34560000.083897114,
+                        "value": "471c4307-6c51-11ef-bbca-2d27d232fa41",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181084
+                    }
+                ]
+            },
+            "irtps": {
+                "name": "irtps",
+                "domain": ".sjv.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628181085,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725714581.083927,
+                        "expiry": 86400.08392691612,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628181085
+                    }
+                ]
+            }
+        }
+    },
+    "imgs.signifyd.com": {
+        "/": {
+            "thx_guid": {
+                "name": "thx_guid",
+                "domain": "imgs.signifyd.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725628182589,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188182.586926,
+                        "expiry": 34560000.58692598,
+                        "value": "806845b95b8fadfa2c9fbd55a4ccd0ef",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182587
+                    }
+                ]
+            },
+            "tmx_guid": {
+                "name": "tmx_guid",
+                "domain": "imgs.signifyd.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725628182590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760188182.586979,
+                        "expiry": 34560000.58697891,
+                        "value": "AAyLxuQ9Kxo_KfMu5RrcHtaACCI9NV_O5PQz63ocBvzyz36ZgJkD8bMh-0C1OTkrhOiSCJlIBbRbCoyS1G3f8pdW-KDlIw",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725628182589
+                    }
+                ]
+            }
+        }
+    }
+}

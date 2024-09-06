@@ -1,0 +1,132 @@
+{
+    "n-tv.de": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".n-tv.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725614787452,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760174787.4462,
+                        "expiry": 34560000.446199894,
+                        "value": "GA1.2.410932651.1725614787",
+                        "same_site": "unspecified",
+                        "timestamp": 1725614787447
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".n-tv.de",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725614787456,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725701187,
+                        "expiry": 86400,
+                        "value": "GA1.2.1466965904.1725614787",
+                        "same_site": "unspecified",
+                        "timestamp": 1725614787452
+                    }
+                ]
+            },
+            "_ntv_laurl": {
+                "name": "_ntv_laurl",
+                "domain": ".n-tv.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725614787767,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.n-tv.de%2F",
+                        "same_site": "unspecified",
+                        "timestamp": 1725614787767
+                    }
+                ]
+            },
+            "_ntv_pmode": {
+                "name": "_ntv_pmode",
+                "domain": ".n-tv.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725614787765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726824387,
+                        "expiry": 1209600,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725614787764
+                    }
+                ]
+            },
+            "_sp_su": {
+                "name": "_sp_su",
+                "domain": ".n-tv.de",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725614788317,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757150788.314698,
+                        "expiry": 31536000.31469798,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725614788315
+                    }
+                ]
+            }
+        },
+        "/auth/": {
+            "_ntv_vf": {
+                "name": "_ntv_vf",
+                "domain": ".www.n-tv.de",
+                "path": "/auth/",
+                "current_label": 0,
+                "label_ts": 1725614787766,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ffIUOLAFs6n1tHiNmqoQQz9BYdcrTrlRDkqwPufAxiIBTGllEo6EzdHbu1JpfCxynMHlHb1x1ar7PULhIx6BwwgYhHEzlCyuI2hJ",
+                        "same_site": "unspecified",
+                        "timestamp": 1725614787765
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,516 @@
+{
+    "cmp.seznam.cz": {
+        "/": {
+            "last-redirect": {
+                "name": "last-redirect",
+                "domain": ".cmp.seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571405864,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725572305.863464,
+                        "expiry": 900.8634641170502,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571405864
+                    }
+                ]
+            }
+        }
+    },
+    "seznam.cz": {
+        "/": {
+            "cmphitorder": {
+                "name": "cmphitorder",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571411428,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107411,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571411427
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571412088
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571412776
+                    }
+                ]
+            },
+            "cmpreferrer": {
+                "name": "cmpreferrer",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571411210,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107411,
+                        "expiry": 31536000,
+                        "value": "https://www.zbozi.cz/",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571411210
+                    }
+                ]
+            },
+            "cmprefreshcount": {
+                "name": "cmprefreshcount",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725571411210,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107411,
+                        "expiry": 31536000,
+                        "value": "0|ec2699jbf5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571411210
+                    }
+                ]
+            },
+            "cmpsessid": {
+                "name": "cmpsessid",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571411209,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107411,
+                        "expiry": 31536000,
+                        "value": "ec2699jbf5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571411208
+                    }
+                ]
+            },
+            "cw_return_url": {
+                "name": "cw_return_url",
+                "domain": ".seznam.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571412087,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107412,
+                        "expiry": 31536000,
+                        "value": "https://www.zbozi.cz/?cwreturn=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571412086
+                    }
+                ]
+            }
+        }
+    },
+    "szn.cz": {
+        "/": {
+            "lps": {
+                "name": "lps",
+                "domain": ".szn.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571400190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728249800.177822,
+                        "expiry": 2678400.177822113,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtohSA._MHpIATv0lFThuDnxQnDoY74f7Q",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571400188
+                    }
+                ]
+            },
+            "user-flags": {
+                "name": "user-flags",
+                "domain": ".szn.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571400187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760131400.177762,
+                        "expiry": 34560000.17776203,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571400178
+                    }
+                ]
+            }
+        }
+    },
+    "zbozi.cz": {
+        "/": {
+            "last-redirect": {
+                "name": "last-redirect",
+                "domain": ".www.zbozi.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571399428,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725572299.413377,
+                        "expiry": 900.4133770465851,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571399417
+                    }
+                ]
+            },
+            "__cw_snc": {
+                "name": "__cw_snc",
+                "domain": ".zbozi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571400610,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725575000.607148,
+                        "expiry": 3600.6071479320526,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571400608
+                    }
+                ]
+            },
+            "cmphitorder": {
+                "name": "cmphitorder",
+                "domain": ".zbozi.cz",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725571408157,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107408,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571408155
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571408373
+                    }
+                ]
+            },
+            "cmprefreshcount": {
+                "name": "cmprefreshcount",
+                "domain": ".zbozi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571407938,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107407,
+                        "expiry": 31536000,
+                        "value": "0|2poda33a2h",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571407938
+                    }
+                ]
+            },
+            "cmpsessid": {
+                "name": "cmpsessid",
+                "domain": ".zbozi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571407937,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107407,
+                        "expiry": 31536000,
+                        "value": "2poda33a2h",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571407936
+                    }
+                ]
+            },
+            "cmptestcookie": {
+                "name": "cmptestcookie",
+                "domain": ".zbozi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571408590,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757107408,
+                        "expiry": 31536000,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725571408587
+                    }
+                ]
+            },
+            "lps": {
+                "name": "lps",
+                "domain": ".zbozi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571405029,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728249805.025445,
+                        "expiry": 2678400.0254449844,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtohTQ.6AFGH5H6Z-D7h3EcaMFietBMbOo",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571405028
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.4747629166,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtohTQ.6AFGH5H6Z-D7h3EcaMFietBMbOo",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571405476
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2678400.4456329346,
+                        "value": "eyJfZnJlc2giOmZhbHNlLCJfcGVybWFuZW50Ijp0cnVlfQ.ZtohUA.3d2lIXf4auxbtJoyyj9nrmP4hhs",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571408446
+                    }
+                ]
+            },
+            "user-flags": {
+                "name": "user-flags",
+                "domain": ".zbozi.cz",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725571405027,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760131405.025377,
+                        "expiry": 34560000.025377035,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571405026
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.474714994,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571405476
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.44554901,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571408446
+                    }
+                ]
+            },
+            "Csrf-token": {
+                "name": "Csrf-token",
+                "domain": "www.zbozi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571403572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "T2U1Yy10V24xLTVTaUxhRkpiR2xNpFA0SfYIN4aV+MJ3dFFn",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571403571
+                    }
+                ]
+            },
+            "zhd": {
+                "name": "zhd",
+                "domain": "www.zbozi.cz",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725571401948,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Sotp0JpOJbR1MYFWyQNkj_YltqLcn1vRY6g55iQhm9qQwUUrKngad1Egi-SrS_cxwrbF",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571401946
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "s1sq-eKUyga1iqRJgZrzc0mX_KwDyNGPkYjmK4vuPrMWBK36NybrHc4-9P7yjzxHNAocqHAWm6YgWHBRtUM-oEpw",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571403572
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "NCdTou2Y-HdiDY5D3CUBbu-FoV_OfdNF8_qaheffj5YLrRvaMHe0CU5SlxhMYIu_H8Cepbcqf2le4CdEAzvP9kst",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571405691
+                    }
+                ]
+            }
+        },
+        "/api/v1": {
+            "Path": {
+                "name": "Path",
+                "domain": "www.zbozi.cz",
+                "path": "/api/v1",
+                "current_label": 0,
+                "label_ts": 1725571403573,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "/",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571403572
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "/",
+                        "same_site": "unspecified",
+                        "timestamp": 1725571405692
+                    }
+                ]
+            }
+        }
+    }
+}

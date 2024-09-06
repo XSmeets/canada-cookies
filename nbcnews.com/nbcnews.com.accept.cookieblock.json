@@ -1,0 +1,2282 @@
+{
+    "analytics.yahoo.com": {
+        "/": {
+            "IDSYNC": {
+                "name": "IDSYNC",
+                "domain": ".analytics.yahoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626547050,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757162547.049526,
+                        "expiry": 31536000.049525976,
+                        "value": "19cu~2kjo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547049
+                    }
+                ]
+            }
+        }
+    },
+    "api.lightboxcdn.com": {
+        "/": {
+            "TiPMix": {
+                "name": "TiPMix",
+                "domain": ".api.lightboxcdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626550754,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725630150.751442,
+                        "expiry": 3600.7514419555664,
+                        "value": "85.12108967058668",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626550752
+                    }
+                ]
+            },
+            "x-ms-routing-name": {
+                "name": "x-ms-routing-name",
+                "domain": ".api.lightboxcdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626550756,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725630150.751524,
+                        "expiry": 3600.7515239715576,
+                        "value": "self",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626550755
+                    }
+                ]
+            }
+        }
+    },
+    "app.link": {
+        "/": {
+            "_s": {
+                "name": "_s",
+                "domain": ".app.link",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626547882,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757162547.881565,
+                        "expiry": 31536000.881565094,
+                        "value": "xPVkNJQ%2BwdZM%2BD1osDFFPniFlM%2FV9PYgKiSdJWP4KgqVatK2DhX572AIiidxw5GW",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547882
+                    }
+                ]
+            }
+        }
+    },
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626549050,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759322548.049468,
+                        "expiry": 33695999.04946804,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549049
+                    }
+                ]
+            }
+        }
+    },
+    "demdex.net": {
+        "/": {
+            "demdex": {
+                "name": "demdex",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626544359,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741178544.353494,
+                        "expiry": 15552000.353493929,
+                        "value": "35501618709421265601606111557064878940",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626544354
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.772300005,
+                        "value": "35501618709421265601606111557064878940",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626545773
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.12082696,
+                        "value": "35501618709421265601606111557064878940",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546122
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.188154936,
+                        "value": "35501618709421265601606111557064878940",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.824291945,
+                        "value": "35501618709421265601606111557064878940",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626548825
+                    }
+                ]
+            },
+            "dextp": {
+                "name": "dextp",
+                "domain": ".demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626545038,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741178545,
+                        "expiry": 15552000,
+                        "value": "771-1-1725626545037",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626545037
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "771-1-1725626545037|30646-1-1725626546133",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546134
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "771-1-1725626545037|30646-1-1725626546133|57282-1-1725626547132",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547132
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "771-1-1725626545037|30646-1-1725626546133|57282-1-1725626547132|129099-1-1725626548135",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626548137
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626545744,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760186545.742684,
+                        "expiry": 34560000.74268389,
+                        "value": "AHWqTUkSE6IFoXmeb4oFVu3dJprh-CQpdMlsqdJzC-3QsX10CBIDkBmR5X8RHdkn9vs",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626545743
+                    }
+                ]
+            },
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626548017,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728218548.016585,
+                        "expiry": 2592000.0165851116,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626548017
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626546072,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741178546.069706,
+                        "expiry": 15552000.069705963,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546070
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626545582,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725627445.580689,
+                        "expiry": 900.5806889533997,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626545581
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.6700239181519,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626545672
+                    }
+                ]
+            }
+        }
+    },
+    "dpm.demdex.net": {
+        "/": {
+            "dpm": {
+                "name": "dpm",
+                "domain": ".dpm.demdex.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626546122,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741178546.120786,
+                        "expiry": 15552000.120785952,
+                        "value": "35501618709421265601606111557064878940",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546121
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.188117027,
+                        "value": "35501618709421265601606111557064878940",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.824256897,
+                        "value": "35501618709421265601606111557064878940",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626548824
+                    }
+                ]
+            }
+        }
+    },
+    "imrworldwide.com": {
+        "/": {
+            "IMRID": {
+                "name": "IMRID",
+                "domain": ".imrworldwide.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626549360,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759322549.35845,
+                        "expiry": 33696000.358449936,
+                        "value": "7a782330-6c4d-11ef-84a1-3bc70c5cc94c",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549358
+                    }
+                ]
+            }
+        }
+    },
+    "lightboxcdn.com": {
+        "/": {
+            "_cfuvid": {
+                "name": "_cfuvid",
+                "domain": ".lightboxcdn.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626549544,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "RFZRAM7ET2VA8SFPQmIY9kogK5scghnpbSkTkvinfpc-1725626549665-0.0.1.1-604800000",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549543
+                    }
+                ]
+            }
+        }
+    },
+    "nbcnews.com": {
+        "/": {
+            "AMCVS_A8AB776A5245B4220A490D44%40AdobeOrg": {
+                "name": "AMCVS_A8AB776A5245B4220A490D44%40AdobeOrg",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626544368,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544367
+                    }
+                ]
+            },
+            "AMCV_A8AB776A5245B4220A490D44%40AdobeOrg": {
+                "name": "AMCV_A8AB776A5245B4220A490D44%40AdobeOrg",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626543541,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760186543.540261,
+                        "expiry": 34560000.54026103,
+                        "value": "1585540135%7CMCIDTS%7C19973%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626543540
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.35853505,
+                        "value": "1585540135%7CMCIDTS%7C19973%7CMCMID%7C35377522439509985621591501810532515486%7CMCAAMLH-1726231344%7C7%7CMCAAMB-1726231344%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544362
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.36479998,
+                        "value": "1585540135%7CMCIDTS%7C19973%7CMCMID%7C35377522439509985621591501810532515486%7CMCAAMLH-1726231344%7C7%7CMCAAMB-1726231344%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725633744s%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544368
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.373385906,
+                        "value": "1585540135%7CMCIDTS%7C19973%7CMCMID%7C35377522439509985621591501810532515486%7CMCAAMLH-1726231344%7C7%7CMCAAMB-1726231344%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725633744s%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544374
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.015763044,
+                        "value": "1585540135%7CMCIDTS%7C19973%7CMCMID%7C35377522439509985621591501810532515486%7CMCAAMLH-1726231344%7C7%7CMCAAMB-1726231344%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725633744s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545016
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.03430104,
+                        "value": "1585540135%7CMCIDTS%7C19973%7CMCMID%7C35377522439509985621591501810532515486%7CMCAAMLH-1726231344%7C7%7CMCAAMB-1726231344%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1725633745s%7CNONE%7CMCAID%7CNONE%7CvVersion%7C4.4.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545034
+                    }
+                ]
+            },
+            "BI_UI_previousPage": {
+                "name": "BI_UI_previousPage",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626543551,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725628343,
+                        "expiry": 1800,
+                        "value": "direct",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626543550
+                    }
+                ]
+            },
+            "BI_UI_referrer": {
+                "name": "BI_UI_referrer",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626543552,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725628343,
+                        "expiry": 1800,
+                        "value": "direct",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626543551
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626548243,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757162548,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0",
+                        "same_site": "lax",
+                        "timestamp": 1725626548243
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725626548244
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725626548244
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725626548245
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80410bf8-263f-41b9-9474-c7141b35a2a6",
+                        "same_site": "lax",
+                        "timestamp": 1725626548246
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80410bf8-263f-41b9-9474-c7141b35a2a6&interactionCount=0",
+                        "same_site": "lax",
+                        "timestamp": 1725626548246
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80410bf8-263f-41b9-9474-c7141b35a2a6&interactionCount=0&landingPath=https%3A%2F%2Fwww.nbcnews.com%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725626548248
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80410bf8-263f-41b9-9474-c7141b35a2a6&interactionCount=0&landingPath=https%3A%2F%2Fwww.nbcnews.com%2F&groups=1%3A1%2C4%3A1%2C9%3A1%2C12%3A1%2C11%3A1%2C13%3A1%2COOF%3A1%2CUSP%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725626548399
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A28+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80410bf8-263f-41b9-9474-c7141b35a2a6&interactionCount=0&landingPath=https%3A%2F%2Fwww.nbcnews.com%2F&groups=1%3A1%2C4%3A1%2C9%3A1%2C12%3A1%2C11%3A1%2C13%3A1%2COOF%3A1%2CUSP%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725626548400
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+14%3A42%3A45+GMT%2B0200+(Central+European+Summer+Time)&version=202309.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=80410bf8-263f-41b9-9474-c7141b35a2a6&interactionCount=1&landingPath=https%3A%2F%2Fwww.nbcnews.com%2F&groups=1%3A1%2C4%3A1%2C9%3A1%2C12%3A1%2C11%3A1%2C13%3A1%2COOF%3A1%2CUSP%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725626565012
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626550180,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741178550,
+                        "expiry": 15552000,
+                        "value": "ID=3b4561fea81e864b:T=1725626550:RT=1725626550:S=AA-AfjaQGiKad4ECqY3hoWvGm6sW",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626550179
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626550177,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759322550,
+                        "expiry": 33696000,
+                        "value": "ID=c544c516d79f2f6c:T=1725626550:RT=1725626550:S=ALNI_MZOAOk797STbm1ahhIaeLMpoPg2Vg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626550176
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626550179,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759322550,
+                        "expiry": 33696000,
+                        "value": "UID=00000ef0386ac5f6:T=1725626550:RT=1725626550:S=ALNI_MbQKfj54XT1BYrx1gCHfVun3VFUfQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626550178
+                    }
+                ]
+            },
+            "_awl": {
+                "name": "_awl",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626550631,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759754550.629,
+                        "expiry": 34128000.62899995,
+                        "value": "2.1725626550.5-98dcd183b4155094e541115e78a80092-6763652d75732d63656e7472616c31-0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626550630
+                    }
+                ]
+            },
+            "_dpm_id.1b16": {
+                "name": "_dpm_id.1b16",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626546190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757162546,
+                        "expiry": 31536000,
+                        "value": "49dbd340-f03d-47e7-a7f8-d22e8c4b8a1b.1725626546.1.1725626546.1725626546.df9431a4-251d-4f9d-b668-98feae051dfa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546188
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "49dbd340-f03d-47e7-a7f8-d22e8c4b8a1b.1725626546.1.1725626546.1725626546.df9431a4-251d-4f9d-b668-98feae051dfa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546191
+                    }
+                ]
+            },
+            "_dpm_ses.1b16": {
+                "name": "_dpm_ses.1b16",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626546188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725628346,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546187
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546191
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626545124,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733402545,
+                        "expiry": 7776000,
+                        "value": "1.1.1388930356.1725626545",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545124
+                    }
+                ]
+            },
+            "_parsely_session": {
+                "name": "_parsely_session",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725626548216,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725628348,
+                        "expiry": 1800,
+                        "value": "{%22sid%22:1%2C%22surl%22:%22https://www.nbcnews.com/%22%2C%22sref%22:%22%22%2C%22sts%22:1725626548215%2C%22slts%22:0}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548215
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "{%22sid%22:1%2C%22surl%22:%22https://www.nbcnews.com/%22%2C%22sref%22:%22%22%2C%22sts%22:1725626548215%2C%22slts%22:0}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548217
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "{%22sid%22:1%2C%22surl%22:%22https://www.nbcnews.com/%22%2C%22sref%22:%22%22%2C%22sts%22:1725626548215%2C%22slts%22:0}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626565019
+                    }
+                ]
+            },
+            "_parsely_visitor": {
+                "name": "_parsely_visitor",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626548218,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759790548,
+                        "expiry": 34164000,
+                        "value": "{%22id%22:%22pid=9e6963fd-29bb-4a4f-b595-bd0c6948a2df%22%2C%22session_count%22:0%2C%22last_session_ts%22:0}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548218
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34164000,
+                        "value": "{%22id%22:%22pid=9e6963fd-29bb-4a4f-b595-bd0c6948a2df%22%2C%22session_count%22:1%2C%22last_session_ts%22:1725626548215}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548219
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34164000,
+                        "value": "{%22id%22:%22pid=9e6963fd-29bb-4a4f-b595-bd0c6948a2df%22%2C%22session_count%22:1%2C%22last_session_ts%22:1725626548215}",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626565020
+                    }
+                ]
+            },
+            "_sp_root_domain_test_1725626546185": {
+                "name": "_sp_root_domain_test_1725626546185",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626546187,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "_test_value_1725626546185",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626546186
+                    }
+                ]
+            },
+            "_vis_opt_s": {
+                "name": "_vis_opt_s",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626545046,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1734266545,
+                        "expiry": 8640000,
+                        "value": "1%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545045
+                    }
+                ]
+            },
+            "_vis_opt_test_cookie": {
+                "name": "_vis_opt_test_cookie",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626544846,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544845
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545046
+                    }
+                ]
+            },
+            "_vwo_ds": {
+                "name": "_vwo_ds",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626544851,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733402544,
+                        "expiry": 7776000,
+                        "value": "3%241725626543%3A20.03532088%3A%3A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544851
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "3%241725626543%3A20.03532088%3A%3A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548940
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "3%241725626543%3A20.03532088%3A%3A%3A%3A4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548941
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "3%3At_0%241725626543%3A20.03532088%3A%3A%3A%3A4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "3%3At_0%2Ca_0%241725626543%3A20.03532088%3A%3A%3A%3A4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "3%3At_0%2Ca_0%3A0%241725626543%3A20.03532088%3A%3A%3A%3A4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548943
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "3%3At_0%2Ca_0%3A0%241725626543%3A20.03532088%3A%3A%3A%3A4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548944
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "3%3At_0%2Ca_0%3A0%241725626543%3A20.03532088%3A%3A%3A1_0%3A4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548947
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "3%3At_0%2Ca_0%3A0%241725626543%3A20.03532088%3A%3A%3A5_0%2C1_0%3A4",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548948
+                    }
+                ]
+            },
+            "_vwo_sn": {
+                "name": "_vwo_sn",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626544852,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725628344,
+                        "expiry": 1800,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544851
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0%3A1%3A%3A%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544854
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0%3A1%3A%3A%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626554979
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0%3A1%3A%3A%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626560920
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "0%3A1%3A%3A%3A1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626562018
+                    }
+                ]
+            },
+            "_vwo_uuid": {
+                "name": "_vwo_uuid",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626544850,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757183496,
+                        "expiry": 31556952,
+                        "value": "D9B99BEBA58070BD9158DF1B083FDA2CB",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544849
+                    }
+                ]
+            },
+            "_vwo_uuid_v2": {
+                "name": "_vwo_uuid_v2",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626546922,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757248946,
+                        "expiry": 31622400,
+                        "value": "D9B99BEBA58070BD9158DF1B083FDA2CB|e5434e993fc63d6610f226810df19548",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626546921
+                    }
+                ]
+            },
+            "aam_uuid": {
+                "name": "aam_uuid",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626545774,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728218545,
+                        "expiry": 2592000,
+                        "value": "35828778575696190011636575741735376517",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545773
+                    }
+                ]
+            },
+            "cookies.js_dtest": {
+                "name": "cookies.js_dtest",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626548213,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548213
+                    }
+                ]
+            },
+            "ng_geolocation": {
+                "name": "ng_geolocation",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626542182,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "CA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626542168
+                    }
+                ]
+            },
+            "prevVal_pn": {
+                "name": "prevVal_pn",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626545023,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725628345,
+                        "expiry": 1800,
+                        "value": "nbcnews%3Acover%3Anew",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545022
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626545030,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545030
+                    }
+                ]
+            },
+            "s_ecid": {
+                "name": "s_ecid",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626545016,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760186545.014643,
+                        "expiry": 34560000.014642954,
+                        "value": "MCMID%7C35377522439509985621591501810532515486",
+                        "same_site": "lax",
+                        "timestamp": 1725626545015
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.78615093,
+                        "value": "MCMID%7C35377522439509985621591501810532515486",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626547786
+                    }
+                ]
+            },
+            "s_invisit": {
+                "name": "s_invisit",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725626545025,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725628345,
+                        "expiry": 1800,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545024
+                    }
+                ]
+            },
+            "s_vnum": {
+                "name": "s_vnum",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626545024,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728218545,
+                        "expiry": 2592000,
+                        "value": "1728218545022%26vn%3D1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545024
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626543539,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626543538
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626543539
+                    }
+                ]
+            },
+            "_dd_s": {
+                "name": "_dd_s",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725626543591,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627461387",
+                        "same_site": "strict",
+                        "timestamp": 1725626561611
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627461387&lock=2cbbc03e-61f5-4542-87c9-0cc1e6b3176b",
+                        "same_site": "strict",
+                        "timestamp": 1725626562390
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627462391&lock=2cbbc03e-61f5-4542-87c9-0cc1e6b3176b",
+                        "same_site": "strict",
+                        "timestamp": 1725626562391
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627462391",
+                        "same_site": "strict",
+                        "timestamp": 1725626562393
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627462391&lock=c8bdd35a-bc94-4a1e-9b0f-4fd32ab7d54b",
+                        "same_site": "strict",
+                        "timestamp": 1725626562590
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627462391",
+                        "same_site": "strict",
+                        "timestamp": 1725626562592
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627462391&lock=d7e64c35-e8a1-4a3e-8805-0223b14bd4d8",
+                        "same_site": "strict",
+                        "timestamp": 1725626563592
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627462391",
+                        "same_site": "strict",
+                        "timestamp": 1725626563593
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627462391&lock=ccba57a6-4f4f-4e73-bfdb-621d3bc344c8",
+                        "same_site": "strict",
+                        "timestamp": 1725626564591
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725627462391",
+                        "same_site": "strict",
+                        "timestamp": 1725626564594
+                    }
+                ]
+            },
+            "_lr_geo_location": {
+                "name": "_lr_geo_location",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626548995,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725712948.994006,
+                        "expiry": 86400.9940059185,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626548994
+                    }
+                ]
+            },
+            "adops_master_kvs": {
+                "name": "adops_master_kvs",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626545629,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1730810545,
+                        "expiry": 5184000,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545628
+                    }
+                ]
+            },
+            "akaas_NBCNews": {
+                "name": "akaas_NBCNews",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626542192,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726490542.166828,
+                        "expiry": 864000.1668279171,
+                        "value": "1726490542~rv=88~id=72bf2aaf67d5c4b075285e5d115f3359~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626542183
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 864000.8769609928,
+                        "value": "1726490543~rv=88~id=d01dbe714e91a5a4053aba724059c26c~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626543877
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 864000.9716060162,
+                        "value": "1726490546~rv=88~id=d0043a6b474f6a3b6e3a2f703398a752~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626545974
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 864000.0875589848,
+                        "value": "1726490546~rv=88~id=d0043a6b474f6a3b6e3a2f703398a752~rn=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546091
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626545626,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545624
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545628
+                    }
+                ]
+            },
+            "dd_cookie_test_b09fec03-49d0-4ebb-add0-0b457974b3c6": {
+                "name": "dd_cookie_test_b09fec03-49d0-4ebb-add0-0b457974b3c6",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626543589,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725626603,
+                        "expiry": 60,
+                        "value": "test",
+                        "same_site": "strict",
+                        "timestamp": 1725626543588
+                    }
+                ]
+            },
+            "fw_vcid2": {
+                "name": "fw_vcid2",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626543683,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728218543,
+                        "expiry": 2592000,
+                        "value": "f41b3976-5736-470d-8e74-c1cd5df266d9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626543683
+                    }
+                ]
+            },
+            "sailthru_content": {
+                "name": "sailthru_content",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626545572,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757162545,
+                        "expiry": 31536000,
+                        "value": "3bab6463853c054dc51d2427c1a5b69e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545571
+                    }
+                ]
+            },
+            "sailthru_pageviews": {
+                "name": "sailthru_pageviews",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626544874,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725628344,
+                        "expiry": 1800,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626544873
+                    }
+                ]
+            },
+            "sailthru_visitor": {
+                "name": "sailthru_visitor",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626545577,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757162545,
+                        "expiry": 31536000,
+                        "value": "23e0f787-dc98-4253-9498-4be09c19e5f3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725626545573
+                    }
+                ]
+            },
+            "usprivacy": {
+                "name": "usprivacy",
+                "domain": "www.nbcnews.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626547342,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757162547,
+                        "expiry": 31536000,
+                        "value": "1---",
+                        "same_site": "lax",
+                        "timestamp": 1725626547341
+                    }
+                ]
+            }
+        }
+    },
+    "rkdms.com": {
+        "/": {
+            "sc": {
+                "name": "sc",
+                "domain": ".rkdms.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626548681,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757162548.680081,
+                        "expiry": 31536000.68008089,
+                        "value": "3%3A119928",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626548681
+                    }
+                ]
+            },
+            "sessionid": {
+                "name": "sessionid",
+                "domain": ".rkdms.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725626548682,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757162548.680137,
+                        "expiry": 31536000.68013692,
+                        "value": "h-a3f0c77cd9e54673aca68d6b1d110902_t-1725626548",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626548682
+                    }
+                ]
+            }
+        }
+    },
+    "scorecardresearch.com": {
+        "/": {
+            "UID": {
+                "name": "UID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626548676,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759322548.66654,
+                        "expiry": 33696000.66653991,
+                        "value": "10C99601d7031fb38821f081725626548",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626548674
+                    }
+                ]
+            },
+            "XID": {
+                "name": "XID",
+                "domain": ".scorecardresearch.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626548678,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759322548.666612,
+                        "expiry": 33696000.66661191,
+                        "value": "10C99601d7031fb38821f081725626548",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626548677
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626547297,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757162547.295218,
+                        "expiry": 31536000.29521799,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547296
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626549052,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.19406295,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.194768906,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549195
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.195977926,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.196624994,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549197
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.197541,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549198
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.198319912,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549198
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.199112892,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549199
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.199641943,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549200
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.295536995,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549296
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.341761112,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549342
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626549053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.194084883,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549194
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.194809914,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549195
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.196028948,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.196641922,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549197
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.197583914,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549198
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.198350906,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549199
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.19913006,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549199
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.199666023,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549200
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.295587063,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549296
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.341813087,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626549342
+                    }
+                ]
+            }
+        },
+        "/nbcnews/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/nbcnews/",
+                "current_label": 0,
+                "label_ts": 1725626547298,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_038b95a6633eeceb6d80b56bedd3c0be_0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33_1725626547_1725626547_CIi3jgYQvNg9GLb07bqcMiABKAEwJjiJ6AdAsvEHSOzZ2ANQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547297
+                    }
+                ]
+            }
+        }
+    },
+    "tvpixel.com": {
+        "/": {
+            "sp": {
+                "name": "sp",
+                "domain": ".tvpixel.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626547132,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757162547.130072,
+                        "expiry": 31536000.130072117,
+                        "value": "3e279c9b-3c75-45eb-b935-650738eba964",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547130
+                    }
+                ]
+            }
+        }
+    },
+    "yahoo.com": {
+        "/": {
+            "A3": {
+                "name": "A3",
+                "domain": ".yahoo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626546914,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757184146.913056,
+                        "expiry": 31557600.913055897,
+                        "value": "d=AQABBLP42mYCEOqo6Bho2iQyVuwUhBPsvvYFEgEBAQFK3GbkZiXaxyMA_eMAAA&S=AQAAAgK7KVm8orGIKDVN94uLQqA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546913
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31557600.049559116,
+                        "value": "d=AQABBLP42mYCEOqo6Bho2iQyVuwUhBPsvvYFEgEBAQFK3GbkZiXaxyMA_eMAAA&S=AQAAAgK7KVm8orGIKDVN94uLQqA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547050
+                    }
+                ]
+            }
+        }
+    },
+    "cdn.taboola.com": {
+        "/": {
+            "abLdr": {
+                "name": "abLdr",
+                "domain": "cdn.taboola.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725626546225,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725637346.2247,
+                        "expiry": 10800.22469997406,
+                        "value": "16",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626546225
+                    }
+                ]
+            }
+        }
+    },
+    "mps.nbcuni.com": {
+        "/fetch/ext": {
+            "adEdition": {
+                "name": "adEdition",
+                "domain": "mps.nbcuni.com",
+                "path": "/fetch/ext",
+                "current_label": 0,
+                "label_ts": 1725626542835,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725712942.831833,
+                        "expiry": 86400.83183288574,
+                        "value": "CA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626542833
+                    }
+                ]
+            },
+            "geoEdition": {
+                "name": "geoEdition",
+                "domain": "mps.nbcuni.com",
+                "path": "/fetch/ext",
+                "current_label": 0,
+                "label_ts": 1725626542837,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725712942.831918,
+                        "expiry": 86400.83191800117,
+                        "value": "ca",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626542835
+                    }
+                ]
+            }
+        }
+    },
+    "trc.taboola.com": {
+        "/": {
+            "t_pid": {
+                "name": "t_pid",
+                "domain": "trc.taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725626547296,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757162547.295171,
+                        "expiry": 31536000.295171022,
+                        "value": "0a435c66-a3a1-464c-aaab-f59e86f254cc-tuctdd47e33",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725626547295
+                    }
+                ]
+            }
+        }
+    }
+}

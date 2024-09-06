@@ -1,0 +1,2216 @@
+{
+    "adform.net": {
+        "/": {
+            "C": {
+                "name": "C",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573180823,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728165180.821456,
+                        "expiry": 2592000.8214559555,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180822
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adform.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180955,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730757180.95294,
+                        "expiry": 5184000.952939987,
+                        "value": "5777466520647202671",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180953
+                    }
+                ]
+            }
+        }
+    },
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180853,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733349180.851571,
+                        "expiry": 7776000.851571083,
+                        "value": "Ojxr_vCdMGa2nV9YyjTsQF8p_nQHDoAbX7MfvNELVqfW0SBWdUg5y8l_I4Yfvz25p4OsV1m4zmoWZLDKBgzJi3x2ULAewcrerIAh0bbDCx4.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180852
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.118302107,
+                        "value": "MdrtMoxHYw_9sbVp1QznUKLyQcKxl1KAEBUs8wn7iCo5C7MbXP4PH3ZAbG52J0twJzz9C9oHHnvVSAHJR0m6-lrcCs4mS2K7tDPVajRn3VE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181118
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.0519349575,
+                        "value": "MdrtMoxHYw_9sbVp1QznUKLyQcKxl1KAEBUs8wn7iCo5C7MbXP4PH3ZAbG52J0twJzz9C9oHHnvVSAHJR0m6-lrcCs4mS2K7tDPVajRn3VE.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182052
+                    }
+                ]
+            },
+            "icu": {
+                "name": "icu",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180853,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733349180.851626,
+                        "expiry": 7776000.851625919,
+                        "value": "ChgI4NAcEAoYASABKAEwvdDotgY4AUABSAEQvdDotgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180853
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.11834693,
+                        "value": "ChgI4NAcEAoYASABKAEwvdDotgY4AUABSAEQvdDotgYYAA..",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181119
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180854,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760133180.851649,
+                        "expiry": 34560000.851649046,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180854
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.11836505,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181119
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.05199695,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182052
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180854,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733349180.851691,
+                        "expiry": 7776000.851691008,
+                        "value": "4572666651952456174",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180854
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.118383884,
+                        "value": "6319282873246486430",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181119
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.052026987,
+                        "value": "6319282873246486430",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182053
+                    }
+                ]
+            }
+        }
+    },
+    "adotmob.com": {
+        "/": {
+            "partners": {
+                "name": "partners",
+                "domain": ".adotmob.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573182431,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741125182.426838,
+                        "expiry": 15552000.426837921,
+                        "value": "SMA%3A1725573182642",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182431
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".adotmob.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573182429,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741125182.426673,
+                        "expiry": 15552000.426672935,
+                        "value": "0af42203006eded588649ad6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182427
+                    }
+                ]
+            },
+            "uuid": {
+                "name": "uuid",
+                "domain": ".adotmob.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573182430,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741125182.426789,
+                        "expiry": 15552000.426789045,
+                        "value": "0af42203006eded588649ad6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182429
+                    }
+                ]
+            }
+        }
+    },
+    "ads.pubmatic.com": {
+        "/": {
+            "KCCH": {
+                "name": "KCCH",
+                "domain": ".ads.pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573182181,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725659582,
+                        "expiry": 86400,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182181
+                    }
+                ]
+            }
+        }
+    },
+    "crwdcntrl.net": {
+        "/": {
+            "_cc_aud": {
+                "name": "_cc_aud",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180579,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748901180.57591,
+                        "expiry": 23328000.57591009,
+                        "value": "\"ABR4nGNgYGBIu6VhwwAHABUsAaU%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180579
+                    }
+                ]
+            },
+            "_cc_cc": {
+                "name": "_cc_cc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180579,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748901180.575887,
+                        "expiry": 23328000.575886965,
+                        "value": "\"ACZ4nGNQMEyyTEpKNDe0TE5KMzYwTDJKMkpNTjFOtDBMTUyxTE1mAIK0Wxo2DAgAAHUsC5I%3D\"",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180578
+                    }
+                ]
+            },
+            "_cc_dc": {
+                "name": "_cc_dc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180577,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748898360.575798,
+                        "expiry": 23325180.575798035,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180576
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180578,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748898360.575839,
+                        "expiry": 23325180.575839043,
+                        "value": "1b9bba719cbf301b2b2ecd3a81ead9ec",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180577
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573178479,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109178.475965,
+                        "expiry": 31536000.475965023,
+                        "value": "2l14xmgyhxov91le0ij2l91zcj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573178477
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.7298131,
+                        "value": "cx:3ca81zmjt91r32xmfp09yr52la:2dexlig37fy0p",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573178730
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.733016968,
+                        "value": "2l14xmgyhxov91le0ij2l91zcj",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573178734
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.25966692,
+                        "value": "cx:3ca81zmjt91r32xmfp09yr52la:2dexlig37fy0p",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180261
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.27721691,
+                        "value": "cx:3ca81zmjt91r32xmfp09yr52la:2dexlig37fy0p",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180277
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180437,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760133180.434406,
+                        "expiry": 34560000.43440604,
+                        "value": "AHWqTUlCw_xRK2iZsq0dm9nA5D_e7Pr4ohmGwt0QCJ1pv78T-rW4ORF7vvM5sXIbttQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180435
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180274,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574080.270964,
+                        "expiry": 900.2709639072418,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180273
+                    }
+                ]
+            }
+        }
+    },
+    "everesttech.net": {
+        "/": {
+            "everest_g_v2": {
+                "name": "everest_g_v2",
+                "domain": ".everesttech.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573182154,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109182.153953,
+                        "expiry": 31536000.153953075,
+                        "value": "g_surferid~ZtooPgAAANGqTQAa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182154
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.291389942,
+                        "value": "g_surferid~ZtooPgAAANGqTQAa",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182291
+                    }
+                ]
+            }
+        }
+    },
+    "id5-sync.com": {
+        "/": {
+            "id5": {
+                "name": "id5",
+                "domain": ".id5-sync.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573182193,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733349182.192337,
+                        "expiry": 7776000.192337036,
+                        "value": "d95cd82f-8da9-77d8-baa1-d37cd94715e4#1725573182403#1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182192
+                    }
+                ]
+            }
+        }
+    },
+    "libertatea.ro": {
+        "/": {
+            "AMP_TOKEN": {
+                "name": "AMP_TOKEN",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573181070,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573211,
+                        "expiry": 30,
+                        "value": "%24RETRIEVING",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573181069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 3600,
+                        "value": "%24NOT_FOUND",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182135
+                    }
+                ]
+            },
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573179516,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109179,
+                        "expiry": 31536000,
+                        "value": "2024-09-05T21:52:59.514Z",
+                        "same_site": "lax",
+                        "timestamp": 1725573179515
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573176576,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.libertatea.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573176772
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.libertatea.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573176773
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.libertatea.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573176773
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.libertatea.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573176774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.libertatea.ro%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725573176774
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.libertatea.ro%2F&groups=BG2320%3A1%2CC0010%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725573176781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A56+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.libertatea.ro%2F&groups=BG2320%3A1%2CC0010%3A1%2CC0001%3A1%2CC0008%3A0%2CC0003%3A0%2CC0002%3A0%2CC0004%3A0%2CC0009%3A0%2CC0011%3A0%2CC0007%3A0%2CC0005%3A0%2CV2STACK1%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725573176781
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2320%3A1%2CC0001%3A1%2CC0008%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0009%3A1%2CC0011%3A1%2CC0007%3A1%2CC0005%3A1%2CV2STACK1%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725573179518
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2320%3A1%2CC0001%3A1%2CC0008%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0009%3A1%2CC0011%3A1%2CC0007%3A1%2CC0005%3A1%2CV2STACK1%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725573179539
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Thu+Sep+05+2024+23%3A52%3A59+GMT%2B0200+(Central+European+Summer+Time)&version=202402.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c01c1d98-bd9b-4d94-8b2a-2a8689fbcf28&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0010%3A1%2CBG2320%3A1%2CC0001%3A1%2CC0008%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1%2CC0009%3A1%2CC0011%3A1%2CC0007%3A1%2CC0005%3A1%2CV2STACK1%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725573179543
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573180581,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1748901180,
+                        "expiry": 23328000,
+                        "value": "1b9bba719cbf301b2b2ecd3a81ead9ec",
+                        "same_site": "lax",
+                        "timestamp": 1725573180581
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573176993,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725573206,
+                        "expiry": 30,
+                        "value": "m0ptpspqf72o0d",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573176991
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptpsq3ptamfr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573177003
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptpsu4ja5555",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573177152
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptpu27rnk2q1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573178736
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptpuu3yljyii",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573179740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptpv3hv47jco",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180078
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0ptpx1gd13f77",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182598
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573180765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109180,
+                        "expiry": 31536000,
+                        "value": "GA1.1.756879351.1725573181",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180764
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13767791,
+                        "value": "GA1.2.756879351.1725573181",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182137
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.14204693,
+                        "value": "GA1.2.756879351.1725573181",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182142
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.14397192,
+                        "value": "GA1.2.756879351.1725573181",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182144
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.145661116,
+                        "value": "GA1.2.756879351.1725573181",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182145
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.61328101,
+                        "value": "GA1.2.756879351.1725573181",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182613
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.617507935,
+                        "value": "GA1.2.756879351.1725573181",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182617
+                    }
+                ]
+            },
+            "_ga_8R97D8E29X": {
+                "name": "_ga_8R97D8E29X",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573180763,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109180,
+                        "expiry": 31536000,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180762
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "GS1.1.1725573180.1.0.1725573180.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180764
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "GS1.1.1725573180.1.0.1725573180.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180771
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182609
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "GS1.1.1725573180.1.0.1725573182.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182610
+                    }
+                ]
+            },
+            "_gat_UA-3585510-6": {
+                "name": "_gat_UA-3585510-6",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573182140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573242,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182139
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180969,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733349180,
+                        "expiry": 7776000,
+                        "value": "1.1.2001008712.1725573181",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180969
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725573182139,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725659582,
+                        "expiry": 86400,
+                        "value": "GA1.2.2130936796.1725573182",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182138
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.2130936796.1725573182",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182142
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.2130936796.1725573182",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182144
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.2130936796.1725573182",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182146
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.2130936796.1725573182",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182614
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.2130936796.1725573182",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182618
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725573177150,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701177,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0ptpsq450njso25%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725573177149
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573177011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701177,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXQF8g",
+                        "same_site": "lax",
+                        "timestamp": 1725573177009
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIEYOBmANgCZ%2BAdgCcQ-gA5eAVhHCALBwAMIAL5A",
+                        "same_site": "lax",
+                        "timestamp": 1725573177037
+                    }
+                ]
+            },
+            "_rdc1725573180027": {
+                "name": "_rdc1725573180027",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725573180028,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725573190,
+                        "expiry": 10,
+                        "value": "writeable",
+                        "same_site": "lax",
+                        "timestamp": 1725573180027
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573178738,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701178,
+                        "expiry": 34128000,
+                        "value": "cx%3A3ca81zmjt91r32xmfp09yr52la%3A2dexlig37fy0p",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573178737
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573177153,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701177,
+                        "expiry": 34128000,
+                        "value": "m0ptpsq450njso25",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573177152
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0ptpsq450njso25",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573179740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0ptpsq450njso25",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180078
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0ptpsq450njso25",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573182599
+                    }
+                ]
+            },
+            "cleared-onetrust-cookies-20231120": {
+                "name": "cleared-onetrust-cookies-20231120",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725573174011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109173,
+                        "expiry": 31535999,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573174004
+                    }
+                ]
+            },
+            "cto_bidid": {
+                "name": "cto_bidid",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180989,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759276380,
+                        "expiry": 33703200,
+                        "value": "fgbl719rZzNNeSUyQjhkVDVTN0twRjJWeFlCQjJrcTY3dVJSNlpiOTJFSk9hR2tpRnZPS0ZybklCZmNLMjhzaEZySUQ2NGY1N0VLWnp1azMxVlYwQiUyQjRXeWw2NEVKRWpIWUp4bkIlMkZUUmFoaiUyRmZFRlclMkZ1QmdCaUh2VDhYc0M2RXlUZVhJMUM",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180987
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180986,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759276380,
+                        "expiry": 33703200,
+                        "value": "mCPoCF9LbGhDSE0yM0JEaDZpc1pFY09ES2R4cm9TeWxoZWF0SU5wQ2IlMkZOem4xSUtRaE5ZaDlLZGVpeGRyMTFnbmpxdmNLcmlTTWdiaXl2U0hpWnN1YTBvcnFSdkRCbTVhb0t1U0xSWEdsbmxqWWI0dmJ5T1VHVCUyQjdaNnJmY24wbmVuemF6aWVmOXN5c1BJcnUwTURtU1lNTlczZ0lpbDhSNVFpbyUyQjZHRUxZWSUyRmdmdyUzRA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573180984
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573179539,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757109179,
+                        "expiry": 31536000,
+                        "value": "CQEeHPAQEeHPAAcABBENBFF8AP_gAEPgAChQKVtV_G__bWlr8Xr3aftkeY1H99h77sQxBhfJE-4FyDvW_JwXh2EwNA26tqIKmRIAuzZBIQFkGJDURVCgSogVryDMYkmcgTNIJ6BkgFMRK2dYCFxvmQtjMQIY5vp9d1dx2B-t7dr83dziz4FHnzQ5P2YkUICdA58tDfl9bRKb-5IOd-x8v4v89F_rE2_eTVk_tevp7B8ucss79XU-9_YAAAAAAAAOB_-CkoBJhoVEAZZEhIQaBhBAgBUFYQEUCAAAAEgaICAEgYFOwMAh1hIgAACgAGCAEAAKMgAQAACAAIRABAAUCAACAQKAAIAAAYCABgYAAwAWAgEAAIDoEKYAECAWACRmREKYEIQCQQEtlQgkAQIK4QBBlgQQCImAgAABIAKwAAAWCwGBJASsSCBLCDaAAAgAQCCACoRSdGAIIAzZaicWTaAAAAAAAAE9pgAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725573179535
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573180580,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725659580,
+                        "expiry": 86400,
+                        "value": "1725659580815",
+                        "same_site": "lax",
+                        "timestamp": 1725573180580
+                    }
+                ]
+            },
+            "_pbjs_userid_consent_data": {
+                "name": "_pbjs_userid_consent_data",
+                "domain": "www.libertatea.ro",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573180026,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728165180,
+                        "expiry": 2592000,
+                        "value": "8662943650323472",
+                        "same_site": "lax",
+                        "timestamp": 1725573180026
+                    }
+                ]
+            }
+        }
+    },
+    "lijit.com": {
+        "/": {
+            "ljt_reader": {
+                "name": "ljt_reader",
+                "domain": ".lijit.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180856,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109180.853314,
+                        "expiry": 31536000.853313923,
+                        "value": "JSHBASZH3RsB3HWNStuYx_Vq",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.95687604,
+                        "value": "JSHBABZHN-dYGvb8STmiEV8W",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180957
+                    }
+                ]
+            }
+        }
+    },
+    "onesignal.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".onesignal.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573180943,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574980.942367,
+                        "expiry": 1800.9423670768738,
+                        "value": "MrPZb2PVExzTX0lfYhETNCVTagCmfIeAtf.SfSj.TwQ-1725573181-1.0.1.1-PBICHURn1wnPP93bLObgCD9LV69.O5CSPg9wWT7DrGC2XcIQEOawO5UTfEgQriTDHif.T_a0CHapoSNWUfpJqA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180943
+                    }
+                ]
+            }
+        }
+    },
+    "pubmatic.com": {
+        "/": {
+            "KTPCACOOKIE": {
+                "name": "KTPCACOOKIE",
+                "domain": ".pubmatic.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573182180,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733349182,
+                        "expiry": 7776000,
+                        "value": "YES",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182180
+                    }
+                ]
+            }
+        }
+    },
+    "pxl.iqm.com": {
+        "/": {
+            "equativ": {
+                "name": "equativ",
+                "domain": ".pxl.iqm.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573182198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728165182.197713,
+                        "expiry": 2592000.1977128983,
+                        "value": "MTcyNjc4Mjc4MjQ0Nw==",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182197
+                    }
+                ]
+            },
+            "iqm.retarget.uid": {
+                "name": "iqm.retarget.uid",
+                "domain": ".pxl.iqm.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573182198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728165182.197734,
+                        "expiry": 2592000.1977341175,
+                        "value": "0606bf2b-ab91-412d-b53c-ded9eeaa309a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182198
+                    }
+                ]
+            }
+        }
+    },
+    "smartadserver.com": {
+        "/": {
+            "TestIfCookieP": {
+                "name": "TestIfCookieP",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573180991,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.202337027,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181203
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.213116884,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181213
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.21750498,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181218
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.232796907,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.246068954,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181247
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.402304888,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181403
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.418962955,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181420
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.42339492,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181424
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.432435036,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181433
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.633537054,
+                        "value": "ok",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181636
+                    }
+                ]
+            },
+            "pbw": {
+                "name": "pbw",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180990,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.20223093,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181203
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.213027954,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181213
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.21740699,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181217
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.232716084,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181233
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.24599409,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181246
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.402164936,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181403
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.418800116,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181419
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.423104048,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181424
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.432333946,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181433
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.63296604,
+                        "value": "%24b%3d16999%3b%24o%3d12100",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181636
+                    }
+                ]
+            },
+            "pid": {
+                "name": "pid",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180991,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.20244193,
+                        "value": "8034403684111761680",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181203
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.213148117,
+                        "value": "6168880576055099654",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181214
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.21753502,
+                        "value": "5896992795277803980",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181218
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.232825994,
+                        "value": "1320222850922201361",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.246098995,
+                        "value": "4253442543495299480",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181247
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.40234804,
+                        "value": "3049931448037556513",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181403
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.419009924,
+                        "value": "757529272688722255",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181420
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536001.423480988,
+                        "value": "3784380858632388991",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181425
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.432518005,
+                        "value": "8405772476651553166",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181434
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.63368106,
+                        "value": "1407029693367075082",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181637
+                    }
+                ]
+            },
+            "sasd2": {
+                "name": "sasd2",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573180992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.20248889923,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699813589646&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181204
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.21318006516,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699813961807&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181214
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.21771907806,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699813766707&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181219
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.23298096657,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699813912352&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.24625205994,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699814555314&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181247
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.40239405632,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699815710542&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181404
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.41917991638,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699816122325&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181421
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.42367196083,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699816247344&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181425
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.43262600899,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699815978073&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181434
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.63387489319,
+                        "value": "q=%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6&c=1&l&lo&lt=638611699816041156&o=1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181637
+                    }
+                ]
+            },
+            "sasd": {
+                "name": "sasd",
+                "domain": ".smartadserver.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573180998,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.20252609253,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181204
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.2132139206,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181214
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.21785902977,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181219
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.23303389549,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.24634504318,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181247
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.4024438858,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181404
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.41937208176,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181421
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86401.42382597923,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181426
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.43271589279,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181435
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400.63405704498,
+                        "value": "%24qc%3D1500048721%3B%24ql%3DHigh%3B%24qpc%3Dm3h+6a7%3B%24qt%3D93_2124_19080t%3B%24dma%3D0%3B%24qo%3D6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181637
+                    }
+                ]
+            }
+        }
+    },
+    "taboola.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573181315,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109181.310659,
+                        "expiry": 31536000.31065893,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181314
+                    }
+                ]
+            },
+            "t_gid": {
+                "name": "t_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573181312,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109181.310536,
+                        "expiry": 31536000.310535908,
+                        "value": "28b0181a-7e00-4bbb-aca0-3c7883c40160-tuctdd3adbd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181311
+                    }
+                ]
+            },
+            "t_pt_gid": {
+                "name": "t_pt_gid",
+                "domain": ".taboola.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573181314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109181.310617,
+                        "expiry": 31536000.31061697,
+                        "value": "28b0181a-7e00-4bbb-aca0-3c7883c40160-tuctdd3adbd",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181313
+                    }
+                ]
+            }
+        },
+        "/tdg-ringier2729adv1/": {
+            "taboola_session_id": {
+                "name": "taboola_session_id",
+                "domain": ".taboola.com",
+                "path": "/tdg-ringier2729adv1/",
+                "current_label": 0,
+                "label_ts": 1725573181316,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "v2_803775bf3d2f51d38edf5745bb177b6d_28b0181a-7e00-4bbb-aca0-3c7883c40160-tuctdd3adbd_1725573181_1725573181_CNawjgYQ6dpVGPDctKGcMiABKAEwJjiJ6AdAsvEHSOzZ2ANQ____________AVgAYABou8XE0pmq_q9GcAE",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573181315
+                    }
+                ]
+            }
+        }
+    },
+    "teads.tv": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180701,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757022780.69877,
+                        "expiry": 31449600.698770046,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180700
+                    }
+                ]
+            },
+            "tt_viewer": {
+                "name": "tt_viewer",
+                "domain": ".teads.tv",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573180700,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757022780.698737,
+                        "expiry": 31449600.698736906,
+                        "value": "9db2d1fb-f1ed-487a-882a-79475d70f410",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573180699
+                    }
+                ]
+            }
+        }
+    },
+    "zemanta.com": {
+        "/": {
+            "zuid": {
+                "name": "zuid",
+                "domain": ".zemanta.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725573182151,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757109182.151026,
+                        "expiry": 31536000.15102601,
+                        "value": "OpiM0D-8HvhG5Gmrgrk7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182151
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.28088808,
+                        "value": "OpiM0D-8HvhG5Gmrgrk7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725573182281
+                    }
+                ]
+            }
+        }
+    }
+}

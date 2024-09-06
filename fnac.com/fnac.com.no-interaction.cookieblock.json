@@ -1,0 +1,1506 @@
+{
+    "fnac.com": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655617721,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725659217.708725,
+                        "expiry": 3600.708724975586,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655617711
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 3600.3872408866882,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655635388
+                    }
+                ]
+            },
+            "ORGN": {
+                "name": "ORGN",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619072,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726519619.062585,
+                        "expiry": 864000.0625851154,
+                        "value": "FnacAff",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619069
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 863999.1755039692,
+                        "value": "FnacAff",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643177
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655622327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A10+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=50487d37-f421-40b7-b2dc-e1ec703bb2ff&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.fnac.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0008%3A0%2CC0004%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725655630679
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0",
+                        "same_site": "lax",
+                        "timestamp": 1725655646222
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false",
+                        "same_site": "lax",
+                        "timestamp": 1725655646223
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725655646260
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc31722c-0470-49a4-a9c4-48b40fe21b48",
+                        "same_site": "lax",
+                        "timestamp": 1725655646277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc31722c-0470-49a4-a9c4-48b40fe21b48&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725655646278
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc31722c-0470-49a4-a9c4-48b40fe21b48&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.fnac.com%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725655646279
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc31722c-0470-49a4-a9c4-48b40fe21b48&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.fnac.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0008%3A0%2CC0004%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725655646430
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A26+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc31722c-0470-49a4-a9c4-48b40fe21b48&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.fnac.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0008%3A0%2CC0004%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725655646430
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+22%3A47%3A29+GMT%2B0200+(Central+European+Summer+Time)&version=202408.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=dc31722c-0470-49a4-a9c4-48b40fe21b48&interactionCount=1&isAnonUser=1&landingPath=https%3A%2F%2Fwww.fnac.com%2F&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0008%3A0%2CC0004%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725655649845
+                    }
+                ]
+            },
+            "OrderInSession": {
+                "name": "OrderInSession",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619073,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619072
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643177
+                    }
+                ]
+            },
+            "QueueITAccepted-SDFrts345E-V3_frprdfnaccom": {
+                "name": "QueueITAccepted-SDFrts345E-V3_frprdfnaccom",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655618670,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.64798498154,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3Deb9feb7b-4185-46e4-83c8-4e7c1178670f%26RedirectType%3Dsafetynet%26IssueTime%3D1725655619%26Hash%3Db65c5640184ecec15f5889f968bc62cfcdafc190e1f95d830217ff8ce05fe6c5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619648
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.71040391922,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3Deb9feb7b-4185-46e4-83c8-4e7c1178670f%26RedirectType%3Dsafetynet%26IssueTime%3D1725655619%26Hash%3Db65c5640184ecec15f5889f968bc62cfcdafc190e1f95d830217ff8ce05fe6c5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619849
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.0294880867,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3Deb9feb7b-4185-46e4-83c8-4e7c1178670f%26RedirectType%3Dsafetynet%26IssueTime%3D1725655629%26Hash%3Dd603d09feed4131f9392ff8a8776f1342de5a648157f4d55ac8f32dc87651373",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655630032
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.47970890999,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3Deb9feb7b-4185-46e4-83c8-4e7c1178670f%26RedirectType%3Dsafetynet%26IssueTime%3D1725655630%26Hash%3D97d29cb7fd3990ae08511c7792a52435f63f81b39d305f7fb8b3d3e3743ce1ab",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655630480
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.31546592712,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3D64f86b51-52e9-4e28-8b13-00b835535780%26RedirectType%3Dsafetynet%26IssueTime%3D1725655636%26Hash%3D764223758c5cc3c5a9981b0327cc48a89008e32f71536881751b50cdd0af5047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655636317
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.65667390823,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3D64f86b51-52e9-4e28-8b13-00b835535780%26RedirectType%3Dsafetynet%26IssueTime%3D1725655636%26Hash%3D764223758c5cc3c5a9981b0327cc48a89008e32f71536881751b50cdd0af5047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655636658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.06360411644,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3D64f86b51-52e9-4e28-8b13-00b835535780%26RedirectType%3Dsafetynet%26IssueTime%3D1725655636%26Hash%3D764223758c5cc3c5a9981b0327cc48a89008e32f71536881751b50cdd0af5047",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655637065
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86399.17582702637,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3D64f86b51-52e9-4e28-8b13-00b835535780%26RedirectType%3Dsafetynet%26IssueTime%3D1725655642%26Hash%3Dde8638e4d62ce1415755732f0cc62f6b30a97b41883b1191aa28fc94eb184034",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643186
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.75413990021,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3D64f86b51-52e9-4e28-8b13-00b835535780%26RedirectType%3Dsafetynet%26IssueTime%3D1725655643%26Hash%3D6a11f85f063df87caa94f1a23a1d949b94aec6b67e271cd73f8b13723dbcf7bb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643755
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.7591381073,
+                        "value": "EventId%3Dfrprdfnaccom%26QueueId%3D64f86b51-52e9-4e28-8b13-00b835535780%26RedirectType%3Dsafetynet%26IssueTime%3D1725655643%26Hash%3D6a11f85f063df87caa94f1a23a1d949b94aec6b67e271cd73f8b13723dbcf7bb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643759
+                    }
+                ]
+            },
+            "SID": {
+                "name": "SID",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619083,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741207619.062897,
+                        "expiry": 15552000.062896967,
+                        "value": "fce8e12d-b279-43aa-a7f7-922b5908477d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655619082
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.445971966,
+                        "value": "fce8e12d-b279-43aa-a7f7-922b5908477d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655621448
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.481281042,
+                        "value": "fce8e12d-b279-43aa-a7f7-922b5908477d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655621483
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.029405117,
+                        "value": "fce8e12d-b279-43aa-a7f7-922b5908477d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655630031
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999.175700903,
+                        "value": "71426cb8-b821-42bd-8127-df43f31f241a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655643178
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.665704012,
+                        "value": "71426cb8-b821-42bd-8127-df43f31f241a",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655645669
+                    }
+                ]
+            },
+            "UID": {
+                "name": "UID",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619082,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741207619.062858,
+                        "expiry": 15552000.062858105,
+                        "value": "0a5180c08-0ac3-4b70-aa26-9b4b1e1eeff5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655619080
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.445925951,
+                        "value": "0a5180c08-0ac3-4b70-aa26-9b4b1e1eeff5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655621447
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.481240034,
+                        "value": "0a5180c08-0ac3-4b70-aa26-9b4b1e1eeff5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655621483
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.029350996,
+                        "value": "0a5180c08-0ac3-4b70-aa26-9b4b1e1eeff5",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655630031
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999.1756711,
+                        "value": "0bcd1f728-57ef-4b19-99cf-2b22031c6bf6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655643178
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.665596008,
+                        "value": "0bcd1f728-57ef-4b19-99cf-2b22031c6bf6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655645668
+                    }
+                ]
+            },
+            "VID": {
+                "name": "VID",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619084,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725657419.062927,
+                        "expiry": 1800.0629270076752,
+                        "value": "38c3c61c-7cea-4c16-8e00-c711d06da7a6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655619083
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.4461319446564,
+                        "value": "38c3c61c-7cea-4c16-8e00-c711d06da7a6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655621448
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.4813220500946,
+                        "value": "38c3c61c-7cea-4c16-8e00-c711d06da7a6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655621484
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.029433965683,
+                        "value": "38c3c61c-7cea-4c16-8e00-c711d06da7a6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655630032
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1799.1757309436798,
+                        "value": "fc4d753d-44f3-4627-9acb-124bfea7965d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655643179
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800.665808916092,
+                        "value": "fc4d753d-44f3-4627-9acb-124bfea7965d",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655645669
+                    }
+                ]
+            },
+            "_abck": {
+                "name": "_abck",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655617729,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.952909946,
+                        "value": "C1D06F0EDF8B29C9D724D8F017CB311A~-1~YAAQrcgsF7wadZmRAQAADUgXyQzAeNRnf8A3FDf/BeMvxBqCbjDUwhfdEmT07x/hT0FYm3IduWQi2jKGyRHZHtSES+Jh3HPKtjzOORIBtP3P7IJoQ1je7I5vo0ylx76+sr88bZVN3zVD8BGBaZjxpSLB56nQ6LASAKffhWJAYbTsxvz1VJzP6drxzcuHBdgzUyA1Zqi1meX8TX89dcozudZ1FOFVfe0f2nZm6A0SsT9YwhTHVMo8lxEQUiOLWAM9OWhoNZLTjNp5YkkIZxDENkdC/4HPGA4HxYFVYbrwZa5O7Jf+twhltPYMEjyfb1dKg9AJJ8/WcX3VyEst245wwwBLOZcWdnwASRw93COd5s69JDipdwCESVkDduUdLv/i36RPZmKKpvs=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655631953
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.38749194,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~-1~YAAQrsgsF3pYyJqRAQAAdVUXyQwQF8G71IdouxxjOd6Dpj2RwtJZie23IbONl7hLFwY3uDuc3E+ZoOOFx1nKqI0xqL6CgLm4vRDL9YKjaH62B1VRs+xzVBgtQzpkQ4vj3up06yRpUhlgLyveOmjrX9GKFBWWV53Vj1EfQu2A8ym84GVJDUNyrCUU+zldcSmQg8STBRLZ3k5LupOaoRGQ//CVvt0LE4k6r6ZZsy1ueJKP160sFWZYjlm+SJANmgeI2xTA7mIiNwqpjiEjXPLO9AAJmURicjvbKKmsOg6Ug7UyLV64h8LxD2NiiwVK8yjIrhB0TvbkTSSmL1op4t3TpbIf5mixl2LMhAgxAoXKR7HpRr34fw6ft9s1~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655635389
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.063781023,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~-1~YAAQrsgsF4xYyJqRAQAAPlsXyQwiOfpAQRZ3H1/4iYhI1NQ4xI6BPYpDyYEF011bppLjQtikMJfkDEw9ctcfDzymZyzrVtvJlsx3wLqQsfie1gQOQBoeInbXVy7biaj6y2XHQLE6XRe1wW/JqLNnxRc7EaNs43yU7v3Xm0QbQOf86ZVok35m6o2ZppF1/dW3luKLwVtoRdzV0EY90waDQoNqPNS6NA1KAtlHFACIjLQyqcGo/bNmpkOWKTkyRjbvPEd7iYKmy0cN9Vlq+eGw8tFlZ8V3XdyHEPfxcY5dIEwaOVfpBLxvvjFp9kY/imloT89U6vmMSJUlk8iRMElo7dtU3X4dBEhj7f1reduAU3cXtpoiP3CsdlgvTJT/5N0VTaWyR9Nujsg=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655637065
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.585217,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~-1~YAAQrsgsF5FYyJqRAQAADF4XyQzqXlJJLCnMesT3nnygbs8ad5KpMKO7ggbtQqT+fVxzPEhcq5fGM22G/FidUMuzc0BNOlbTfGxy2NNQiyqIxp9ji9PlHjTXuGK52CA7755E9v5QqN3Cyhz/xtvaPLUiuIMNUpldUBm7lDKY0BOpdUR/hO2+iabLvGRi3McwT1MOFYPN+hppG7kStt3LDMTb0ADlQlCEPoaqglEzjpanezjyAjztlh2+sDsmqfElMnB5arSr8lo8r+3ge0aYsEdoldf4GoOLVzYEDJv7F02g5cvti9t+1nY8oJfZRrbOwnG0Us3cSpBeJWiYvjAxwKPs98V3bGAxISHGHEMUShmqF4gLY5idzpNt8a5A6J4vDbA1y8VRZ4I=~-1~||1-UOYVMjeHeQ-1500-10-1000-2||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655637586
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.13880205,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~-1~YAAQrsgsF5hYyJqRAQAANWAXyQycVczzz0bMkO8jVgAWBKfTzZB3nfmquDx3FqFwJ/hw+B8a7meW29rS/92rPJ5/eDqhC9HrjTtumVQJbrpkr79TZqIxVf3dBrQ76zCHdNbcaNuEV3Dlf4JEyr3adYBQGQG3T06wlkMBbtSafTQZtW0Sej56KisESIQdX/mJgLNqWQ+oNrBVpWDHeAc+Ha+OhZecwCjh4LSGVoU2abDsnkGB6u3UoWboFl0U/Y4y+KAR7GGT8JJ+YSv7Pm/mPUDAxDbJ+0cMfScR9d8yLi1nBP3WJfyZdRxeBG4d2n9CpSSs+RjmDPRQPdtgblTnecEdIwjqnlgMALd0Zmst+WdlFyPSc/wrfHlzKxbbp7q02eX1+xjDfrA=~-1~||1-UOYVMjeHeQ-1500-10-1000-2||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655638139
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.454657078,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~-1~YAAQrsgsF5tYyJqRAQAAcmEXyQwedBZeh+Lp6hAWffFyLGB1T1VRrGWX4gToCTla/1Si/axFQ92CctY3daRd1+i/HY/2qBX9jS+DfsyPoH3xL8NbwakzMoKaQlYvm6HMCrq9HiQzpLed0MOj46ztSyMglZaPgGJ4ZCrV2cCYd6OOZ+u/wIiFYsYUOc+OEFnkE+4o1hlIGJM4hQtVgC2VVXQ+10xdVbhZcXgdXQYTEIiuLbEJAIPzI4gpCQIDU/3t6/e/4lv4GxGzyv2owoal9fQonZu1nso7E9IMUQjBCgk+KfSeV7rf3lfdVRDp6J0+LkKtEHLOuq8j5i702XIQZQodDpl9c/1s6PJ+OhLuRqdJ6ZZzqoEJpZFO9uaTizv+hpFbVVEqPYk=~-1~||-1||~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655638455
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.621629953,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~-1~YAAQrsgsF59YyJqRAQAAGGIXyQyfhbfkBEeNpuH75xvCwPcnd6MwNEHYmIcLrVYcxupCACvxMep51YWrM9wcbjqDFrPeY0XqW+4I1gLJCkW2iG5Vp+yEP5MZruhfsM73PH0o5PMgpFt9wSaxzBasw3VhyYKWiqUQ7grQO+LlAknCCnlci9TA1x4dHCx/ZNypsPbHP929D5PL2hELcxBssxnnHFHYrR4LLIVW+k3vHQpYPZSkilJd3xu2zdMQ9XxBy+qmyJ0TOzB7p1gG5/BRAqWNRMQ/ktr6ND4Wf/UygjdSohsVgAOcoTvwRdQlh0LxQS44a0BNUcVxpxKpVCMfliT/LqC8dYI1ZT/ctcVvR98FTfl3NydbRefVoNe+uKwnlzg3a5Ucn10=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655638622
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.110251904,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~-1~YAAQrsgsF/lYyJqRAQAAencXyQx0IrqE7cgUQvNWJwyEjtKX1KIsEO45kksXZ5Aq0jJkqcWMw5+ciP5muit97jBORrYn51YOdC/Rb7qx+hkHuCCKeLPvXMJ9bPcLxin+AH/owZaeaNXsISKbE4IlbWUT4lpD2JkxLLU8CfxMEYJufgN4mOnct88olk1MhPyyUYDNm2thDAZSiyAUFAoWWQuaAimZzMpl2Y0zbx7zssHTnSSKLLLwJSOXJmHhNPaZ9tgCHFsRsX1Y9C70ur3yZV3yAB/fDdgJQ0zabcas6xeMxW1UpCWzOHSLkvddsy3nvgUCzxLXM6AaMLn2RX3hoaneiyRqw2cPvUy+OBYAbhXc+2MfgyvI68xzmGXgrM/Esbv4ynycsVc=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655644110
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.68218708,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~-1~YAAQrsgsFwNZyJqRAQAAsXkXyQwqhQfBp73MuM/zr1K6GRbCtBI+fL3gazi5ecgiyrbu0c1qtuqj4cTqOG2YZl6Vt5A6vw7xuQUJzeOlkT5KORe+zCHbAzFZP8kQsj+nOpPwqBj8gu5x+HY5k5u3TFjFC0wDub/Z0sK9eMHFX8DutlfL/ZWs0nI/0g2U0MRcUIbleI1eX3fRkA+zB0RMg/o8a2R3RfLdng8SNlacceHB1L4kSi5cNhuDKhy9Cen4S7HHS9DzpRt0CsKgLN3qI9zOwFvKC3B9YgOHtbKBdL0Eh0lbQeHG8ObRLwY+wgaJb2U1GICQtFZ7xUXlZZ9KStZhAUWuzLbng3kGa2Wdf3DW4dK/GMnSM0qmZKePKLn1kjWb2L69JYY=~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655644682
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.13141489,
+                        "value": "000EF6E97FB4BCAF1EBB9B59B12137ED~0~YAAQrsgsFwlZyJqRAQAAhXsXyQzH0YllPrUDXs5Jrjaduy41K78k1BbCt48TPVCtbTYI/xIoY83FgKcwY8qd9s626bX6E6tevDIQUJZjXL2yLV3rJXQTg0clbfvQ1v7co2URXa8gSTZa/N3ZWCeieHA0DToi7lvDPaDFNQD2ATu+Wakul0chb+R498pLuBg3QUc2ndVYt58RWvFzUi9I6EftnE2vCkDeNFGraoVExpso/9+Sm14HHCCDRk6UYiEVMDrqribTTwx+TWUZ5Bn1HlMJiBpk2fxMbZwLbGu6WhzG5BQtvx5uZNycUKjXLd+9MrvZ9wOOlHD23XseTezsRIGIywrI+xS+b0mCh1ifBFInSsmDemPWoG9JIzy3Y+pZ22jb2945I10uHqgKLCtjodsynvLRnw==~-1~-1~-1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655645132
+                    }
+                ]
+            },
+            "ak_bmsc": {
+                "name": "ak_bmsc",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655617734,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.972379922867,
+                        "value": "BD492FD634FA7768B5BA5671F61AFC96~000000000000000000000000000000~YAAQrcgsF20adZmRAQAAPhkXyRm4vtvCQKJaSMxeNBaCtxm+tBOV0G5Kx1vqbG3FXsQZjbN6/I3KYFMY4qNzDto5rUjn8FPwjBZj3FqiVwJxQY2HFeg2Vf6lZhVcOEM4IVkkunMEJWxrwQvwsDMWm4nb8UKWsYBhcaHbrqNq05Yi5khjujiic5sJg4MSjwTQifU8kW2N0npWkT5uIroErwan1LzV9qGQJPe2lJl3+uiHRNbmmZTmGXpkG/ixFZEJ858uZk07M5q96+yqKPsdJd6ZWY7+YjJu3RINuGUAxtZy1zYPNF5M62wOe8Ard5F6nwCeEFZFojY3srw/tKMVnZMeJiS//JmACzMk7Tf2j2J1S7HIaqXEp2YynwQDU+LGEZg6II8/XdgWt8o/VeoSO7jFMHdKe6QDFO3imNDOz1bfpoOpPxg0MfhY3W7lAjy6hU2tYiKNYZQgrGC2h/c+YdDiKIkJ2qxaVZ3IDeHTY8Vlpg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619972
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7198.995744943619,
+                        "value": "BD492FD634FA7768B5BA5671F61AFC96~000000000000000000000000000000~YAAQrcgsF24adZmRAQAAWBkXyRk0C6gC37JM29O9S14gXYrtv3N65lyQcluUX/VE6RFxa0juaUFBP4pgoswQ/3Tap4+uE4aTTuK3Gu30kBvZG0DaSQwGwyqQmDLJGnKpTAYTv3HgvSbvwakkI7PzjvpP85YJRhUYw7IXc5YkKZkNEj1+2cAk88/s1Yt+dMIx5xc3gS18zxYwIcHeisVaEA7A5rpwjvOgfElFf8VMNqx9UICT8KH8fVwM9a3qS+i0BIVaXvb+5wkhF5Ju1d/ERNVKDLxG350+jP8L4caoqlxVDCEJ5Cyjs95aVwfOX2Q6TCtuzr47CTHABKkuzkgrdx7pKTOxcOA3vjOE6kw2A+4moeqz3YT8y5ZUo8QInJmwMbYgZ3DSBU7SQB5fX6RQYu9oRDfTRhh+n1TOkKW7XbfH5y91QbiHXwpsvQ8oNkNllkSWk+KVmhp2HzdJxrDZe0urdFfhYOP5wotAQr6IjsL0Dg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7197.5741720199585,
+                        "value": "BD492FD634FA7768B5BA5671F61AFC96~000000000000000000000000000000~YAAQrcgsF3QadZmRAQAAmhsXyRmE7OtLq5mRYQUdkw0p3bhFxRGOKXWH6kzQtxIbw/XhdDXyPlb44+udWcDOeZ7vTvGqGwcTFYITC7e57prQX3Syj3ObR9BwYTHpSQZyepCpecP/xHyHBClntbo3lOZ+7YPhy5YfvWleyyMUfK4Z/sqdglP72GWhxB49LzGOXPJQuEdVa+b3kJZQhxyJgzzK0PYeHZLozc0XPHyhCa9T6+Cs4b4bQ2BH3R3xdbwStmApGAPe8UDPkKVnlKlRR3ZtywZDvvFj3wXV8BI6woL1uqEZSz6MJyeLIf0mpgGhiHrHo+kyIDUWkJZ6v8KFi/x5TtlrmAUk0eW/oaBHmFcgEnoyv+g178cgeY/RSIu8cnVj5qZ7hSJ61jZYdakfnY2EGt8rEWycIQucG9BUjFC3Bq/CObxbjdREuPj1yqkAusisUYtRa7yVJPPet+JbDiVBO4c/fChaCWLZRQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655620574
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7200.387542009354,
+                        "value": "7D92EC49E71DE7F1D421BC583093EB7E~000000000000000000000000000000~YAAQrsgsF3tYyJqRAQAAdVUXyRkwsjr70IEwUmTpCQucT8GOAYwO54+r1SU/w2kYXhE0nSLeWTVHq3LyKoxpxm6PRvQsaNX6092fM7Qow4IWNM1UtDyCGKZXjK4NIYsHUIOnz6X6OIXD6Rk0X8PWyE+PbJHqiG3M33Zuu5LlUBHI3yFyhExQlRlZh0EpAkOm4qdH6L/2WOodacpLSM79LSg6N3PcG5O4/TBlGpwJFtItSyHklL4wl+rEqkKldQbTs+1Aj5XpTD8cEjrVNhu4i/zq0y7ilOadizgmDGtYOUK8L477SVUPEnliIXBJpcZhMm1/4NRXc4bqVFxSdXPEOuw24/vhb1as6LXeH43RjsUxLH5ya8YO0kasQ9e8aTbHZn2ovVAb6w==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655635392
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7192.759201049805,
+                        "value": "3467188DFEC10355B66A80DDD4E79508~000000000000000000000000000000~YAAQrsgsF/FYyJqRAQAAFHYXyRnA8P5CJB/ZpJD/vK+Tt5ys+SwujQ3RxsEcwbbX50kH9x65ZXb2G2FXgK4+f4djYjfvm4C1vuy+qPxl2oKPYb1s62ICefso50bllASCywF3bXwjjIYmWFjIDsuyFcRxeTWIlVjRDKfoX9+MITty0oRcEwTVWdsBxMFU6FCtZy/CrR3oG9U5lgZHzK73/3FwZcIhi/PcjN8iFbmXRqvM598rBlbux8KvM06Caj42jt0sebP0NulCHcnylRfiv107l6+7HR2X+2Pzm5oaY/qwOZ47yuE2Nczsopa0q1l6dKkfg5/MuttrjinXJ4S25PTJHnGmlFTuknM7Hy7h5nM2q0Jeu5r0g1QtYpeKbsQmFhL+FxJPD4LVQuycguu58hwojA1XNqFj+yGFMgOoesWCH6OLZznVj6Ejqq4lhDk4dN/dQ9HFRPTgM1T0oNku9qN+",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643759
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7192.941414117813,
+                        "value": "3467188DFEC10355B66A80DDD4E79508~000000000000000000000000000000~YAAQrsgsF/JYyJqRAQAA3nYXyRkLLUEzeqlvTjblOmZQFaiGQLnhinops6KNl4RfelH+Vvc89XxW4DqlLrCjyRFlFMtUI9BwdKk2NzQm7XWRNXHX+TVv8lR+hmvXOhnlY4KJprXnC/O5tBra86ttcIIsL8sOgdS6J/HOg8khP7xMZYqem5l7vtV9RSkXr1jacvaixWNESZdCAYyGkceIvNSpZvROGMPzjQdirmuo022Y0JghEKZYGiBv0z0TWNx1fT+Sz4R4mWjQpQ7ef9ui6i2XXWqYP15ePwSpzyPvLJV0PhK+At+nhUg+8GVHZgjCGcbscBKsnRGCiT3sTR0tPDCmJZW1kfA4aDg+BX2ojZm84G/3fU6zmTDqVylFwU6vqyk27UxWuVfwnElgnJSkmcovaPXEwDNkfjkoNkHLe9ZO8QJU+Ac2Kh+XDlCgD+CNl1yw2VHrdxFMNGQszKMTafZ+YKBl9LAHfYmaPLRcwVErQw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643942
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7192.963805913925,
+                        "value": "3467188DFEC10355B66A80DDD4E79508~000000000000000000000000000000~YAAQrsgsF/VYyJqRAQAA9nYXyRk9b5PrkysFjH2F7Nzh2+1Q9DW4adQsuM7f4p23zsWxgqhgP92wIdbBnszjMe+fOJcpeyXk7vxcT4HBnDc7KE+iDBR7ACD45kI1+RY5vHcVj5nEQR56Uq/W9k5ZnIbMAEnnuE0t/1V8rQbfAatGmFtMTqpeENKXSQIDsdAdKWuBoM3xxU3YGPgUmtMD2AoGSJ5NyGoamJYta01tmGbrNPGPSF5XtgyjwqJromb+FD4XH3Ky5oE8jFgHyvasT2T46qk3PqieUedDDNS5meMISV8lUrpBWJ5eJBgkJY6jO/VyjpW/okfPN+Td3SIRKNUTKsgjt80Sz2MGUHsdnEFgvvHOOyVjRlA0bgqiazb85UcPaw0CLc4rE42se+g/eR4GD6J2U9pRV5Y/9T9Xbyf3q6XzhDvnMCTN0jb0D0+k1sO4e6jNjn94/lf9XdXX8lTpAp40zaTv8tuYpdqcJzzOMg==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643967
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7192.016176939011,
+                        "value": "3467188DFEC10355B66A80DDD4E79508~000000000000000000000000000000~YAAQrsgsF/dYyJqRAQAAKXcXyRn9AMLaIW9TLbOJe2E9tUSXDBQ+tzubmd+cT53Rn/HxbFn6ZKUVYN2/N0UaLmWuZJ0nmAgiPRWzgvuuk+WJwM+zdfz2cvM+BLeHgYEa7ocAGPSBTFzpsDEYLXnVfYFAjFPIhEqUbY2kiPZPn3R4WZmq2pTGEyrU/gya3hnSpnNydJy2sKqZ+JRRUFSn7VLjJrCpYAWyYho54B3Hxvlz8t3ZwDtDkc00fji3du1tECM498xM3+IQFS0pLSJvG/oN8gAg/aBVPqzuVG+Zr7xZ630+V2j8lq7K59UWaOfhnZGko9KE5gIqHic6dMJFCS1Vlj7PB85D9w3kTx6UPjHVQFWq9pW+GINl+e0I4E9fO17Lcq19+7oJZwAhFlFFgLO7Zmms01YTSIl2HMfM2+oLnJvKsfS2Eg7LDest6T3qvuZlJE1tCkbVN5GNPF76elhonI1kbSlkhpw2JlS/NlWhrQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655644016
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7191.076776981354,
+                        "value": "3467188DFEC10355B66A80DDD4E79508~000000000000000000000000000000~YAAQrsgsF/hYyJqRAQAAZ3cXyRljZ3OuDhuRi0VzeZUHRwENO63PAml098u5M71Rl4UG34rTeLe6XT7XIdu6faUeGku+7FV1kR3Vvnbzy7R9lTyf++Ida7yAgm52Ly8v7YEQPPFAwryLOdzi7yp23aSsRVC1I3fFZwZUjtp3c3hLX+EmZskB8zjDmCZicAXCg5DQalHgvKuGJXt3eLt5Moe4Ksv1h/DTeop7xla/gsivSCiC/C7vdrQne0oV803c52gfJReW9HYu+097Ce6t9chR6BRRKMJIwc5GwL2KioiDKG4tLhU1mzLn8blQ06lR99RpAp4/TEOUW/mXQ3dK2zH4BwpEJ2Xbf257P0LjFsURpsx+Vn8vbFKH9dX7VpoEAtLzUp7Gg0B+fXKObkpKazVpyavMniZfABbL1hAH37EvimaDqDERXRoYQJo0unHp+QT9c4u6I+XafCEVJgXjuO838hRj4l79IYQLxS3QYAlnNA==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655644077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7191.522746086121,
+                        "value": "3467188DFEC10355B66A80DDD4E79508~000000000000000000000000000000~YAAQrsgsF/9YyJqRAQAAJnkXyRkdv4V5SQDDbZeOrHo2cOQdOIKeXALx6Wyh8BQrtmgyTShjCt6fwDkMR6WnReXd5MNJzeXYH+muaI7olbNNY4lkuOjie/5MunsI0S7gYk0jzriFWRRLstbdCdgDGWbYETJGozOYtlSDCgL2rmilaayhuqGPgujz9+6ZoZRLXt2GTdwZLNJY6EIMQsQzxl9lOpkLRhFYQMFnEfav6md5W18Dj85m0obE8OvPs/YhNTLWNDyWGPiKYs4AuIiHsHogxlkrZCrOVbGfgRZOn77DEz7AC/mlQNdA0exZEv5YooV5Po3900wcytGKyJpqNHM00Oy4Ojn0CkTE0aiRuJeakbWPwUFQlligM+Ruh6iOflh6Rxamhoh6wm9riVxpf7ynPFBuoNKwNNyv6hAODw0ZjVP0nl1YMDdPPVOo6gh5WpoFt9BAU5xvhCNeez6UWE6pwD9BrKSUp2SPEw==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655644523
+                    }
+                ]
+            },
+            "bm_mi": {
+                "name": "bm_mi",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619088,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725662818.06303,
+                        "expiry": 7199.063030004501,
+                        "value": "D84B2D8915C9A3E78D48E9940FC2AFD7~YAAQrcgsF2AadZmRAQAAshUXyRkrIPBwxFYJP2lIwMHRphglXobojiebbVuvgNPKJnrbNSOZ0KGNtfypZB28Rx9X04DqADN52jz4VrOCqeniDgRzAeM5P9jXEVHFnJCiFhC44vGkz9kFrGKMThuyk/LqAEB3SG5UuHNK4673qrZKU4REajXLHkYDYJ2dSCMiijT6RE8yMRMFfMSQz8rNMoQjnVZczC6LecXDdnEi37TLW4dS7bKAt2NcLST4dZ+aiUlftNkNFhf9c891WzPWbBUdlRmyM5oIiCsp77yFiMDjb3QicmdQf9r6s4k=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619085
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7199.656869888306,
+                        "value": "45C66DEF6312635D0D002B343AD51B78~YAAQrsgsF4dYyJqRAQAAaloXyRmdDsjfquQmwOE5Jlav7XIp9ndZ/H9Fysc0gvk4UFVZrmH2f2Tl9z5mOT/PG9wMn3ThwXa6jD/Cell90jXG4K+oNnkx/IVOLk9HsS5+u82SitPqSP379+2U1o12YLaKwpOfPJl4CuBT6T493IlaoMyzaBTCTaJavyYOuaFR4Jt8k1QD9tTg7IZ/8I6yrLFapHTgnxfIibdbAp06RK0hhNAxlWI8qthv7MTP0xXjoBoyj2sV4mfxUluLKDjmOTuYzdhOVJBsQfPIwm4fiat9nfIfWzuYIrrrU4s=~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655636658
+                    }
+                ]
+            },
+            "bm_sv": {
+                "name": "bm_sv",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655618674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725662818.667863,
+                        "expiry": 7200.667862892151,
+                        "value": "733EF3117117756FF74572CF032AE80B~YAAQrcgsF14adZmRAQAAKBQXyRkBgSV1luAovMN9AG1am9EF8Zr0YTGNio1HyVqhN5Wu0XjmHxJRpj+gAQ8yQ/Sh1vm2HJyPpBaKtCRG0kUs57D51GTbX6NRgX1oGlWVV2tk8r/PZ505nRQUbqEWa/aYt+deh0N0numrKYvk5adCiDHB+9HxUwpZE7MRY6gb96BOptr6UNKj3mnYdfxYJWtN1j3wIF32f41BbciGvCIhTUhZ1OsFgal4EbU5sA==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655618671
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.063057899475,
+                        "value": "733EF3117117756FF74572CF032AE80B~YAAQrcgsF2EadZmRAQAAshUXyRnpndS/HXMaqxRPniFZZaxr/hAw53M/BvQY2OT1YR7DLMKqQqVaQzcZwpVajjpiMF4URsUO5oKIwN6gsvoy9dzO+Ufb+1wrGYqi6rrHYBTlqREuqmZLAEWxibaaWLdDtO7gFZiqG3B3XLCW2dCnUcJPhXG0nqF/70Sc2Kv+PKLUegviGs9vyW5qNNJ3hwfYH9ySnIY2FPKsw8CIhc1/smlR1HS7KO9aQeMsfQ==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619088
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7189.029553890228,
+                        "value": "733EF3117117756FF74572CF032AE80B~YAAQrcgsF7MadZmRAQAAiUAXyRnll0QoNH2A+3a0cJaMk7VlS2XCaDB9H1auwP/vtQdNBl5iMceaR7jbxFLNfQexUB+bU5nkhOiKeFQuKJfXZNqGL2Mg/Vv6cRnr1Zw73w+YBn787siPeNRHdYYNch+7XzBvcWRnGxjq+N8tTwLi13/tEenXQOggprv8/Ece9GYN27xdUgJ9XUHf1bpS6xkQinRVNc22ZkqqI/zDefWUnaMdhmBiXUNW9XdFIA==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655630033
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.3156480789185,
+                        "value": "535423130B120F98558AF58F085FEC9C~YAAQrsgsF4JYyJqRAQAAF1kXyRliUJ3wEmXMQJBRPf1xnzF9e4oIG8S1YkLhdrmn2/gdCzdySzJ1WK5Ka+OEmyQCL7mQI9sAge8LUvMfI+DnPmE4v9Zsv8vpSwLEXkapWJlOZ/z9imt4ZE27U6KnToqtuHd9xsPu3e3Y390NdtClbb/fSQ8ETClMF71T5cVoqcGNTuGmvUZ2MKx2j2TZNkJx8AksuzvwAM7+jIrTVpBu2/QTFor+/uoqky2GGg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655636317
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7200.656941890717,
+                        "value": "535423130B120F98558AF58F085FEC9C~YAAQrsgsF4hYyJqRAQAAaloXyRngK8LXJS6DFs8fRk9ws5S4gr/Q1hpkZOf5K5jvwSZH1VCdlImOFAtoQJOJnDYx9uMvimaiwTXjj5X1KHDqx0SbbIuRLp3QUKcxvZLGx9YZm2oVnVMaimLZpN4J2i+SXa1jHzXSlybhNdaUY+te6FcHEayohGHUgLDCttdWwkS8/+4QlCoR344EVd6exWMH7TkCuYdpw3m2YvKqsDmYtsfKii+SwbtkSry61g==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655636659
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7193.175869941711,
+                        "value": "535423130B120F98558AF58F085FEC9C~YAAQrsgsF+tYyJqRAQAA4HMXyRmWISkD3BciKcDdFZEmjpYDidDMM7IizIf/P0IW39IPbWeI9Ow3iP+eDqCw6OEDTUYYBQcWnchb3ezjkI4WuMoYTboDzwbUnueOZ6KTm4kWkQpyXkWF2hBJAdSp7vfqHa0Jw7joUA1/0t/b9bT/3t2+gGDSGNbdOfhZrQtZEId/gcowPs3yJSQtAki+Ju/rv1k0gIQK48AM3N48BjDtGbMIEUkXjVWU9FdZkg==~1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643187
+                    }
+                ]
+            },
+            "bm_sz": {
+                "name": "bm_sz",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655617736,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725670017.70969,
+                        "expiry": 14400.709690093994,
+                        "value": "CC898010314D64BA95C0E94B6B1642E3~YAAQrcgsF1kadZmRAQAAaRAXyRlV2BmHFEaCOrWI6X+EtcKmOHMzzRKP66EaFyXzBEeLnHxMehMlSPUQtKCtUi2HgysbNWArOuI8+Q8bXVXnSmCOPO6VWnYK2UMOX6IJdQi6pk7fsgcE9mGdEoUFK9K/vxO3msQyIIbE4klIV+HkENn6bcmy3BZUqllCPD8Z1Ilix+lPLY9z/KSaAUOoDZiWSsvmdGqk6PGYNgdO3sznr1viysAHkAxOuOxIk7nzQZhTsFyaMqp2hLSrnJ+BmffvHAbnkGQ/O76/uQ+h61EcPBrtZLB1t+uYBjD+qOLrpJHyUE2DmiqoNbUGqUicJ6s+g5xBsLziMpddAO/wXyp3BUyb0ljklpeVMDnkwdy3EZo3yH0oHqGxVgs=~4470838~4339522",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655617734
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14399.667893886566,
+                        "value": "CC898010314D64BA95C0E94B6B1642E3~YAAQrcgsF18adZmRAQAAKBQXyRlgDytevyjeEr7Rcss4fQu0SUeIEWsfO5GddKShal50t1a/dOUWaBu0IciUlNtLvccfi19DrTetCPrYJ6ds4ER0vaY2V0QeiMm8m3/W5YVHndW0z08Lvfpmm2zuiXzwsGRgnEFidkdYjiHZ662NnidKxPyxXG5SUBth9r+ZHKgiRiXKyOuyspDMvLhTaR9lI133n4Xy/kLfB47fgxswHQvY2I5Ce8FNACb5IkMyKnjXhB4HqUMnrPjhWWQws81bEfHWi4qN2cNOUv4vVg2OkvP0zF1T9S0ZM/1gEB0gZXQ9h7qMq9Qu9LcFMNXBjQlmX80yUZSWhYHCR8TL/GoTcWSbHm9SEBOFn88f6+L5nZOZSrIAMzQJPeYGPtIrPQ==~4470838~4339522",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655618674
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14399.06308889389,
+                        "value": "CC898010314D64BA95C0E94B6B1642E3~YAAQrcgsF2IadZmRAQAAshUXyRlQzWSv7MMJobA/6Yupipxxh1aRtQ/wL7QkS4CokEUXxhruN77W8kS9zXoL4qR33Hp0CZ+84y3qYiZIlkmq9Z/wceDkTLHQaUmnhK5OI1FQh76afbUR7qpAUKQqDrApRNl0l2TqgyOEvGLFsOXOUtNOPDPSZA/EQ3pYMFTcUe+RXIqgT4oPTm4AB5Xe/96GwBske8p9Xg4tsKDCk5/HpGnNp0OdQs3Y8dcSml3gU6PRUPz9QyUFFVMOKgvM09JZiC5lFItx6sX495Td8T7jYoCrznJimfzmbHiRkmw5bGbJtGAN9Oc+dROB0vRhNjl5m6JodpFI3IFWX7OP3THPKfnwdoiRjn/NhhsCjHktBerUkvaNbvpfp0j4FfWYXD4zD0xJ~4470838~4339522",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619089
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14388.029622077942,
+                        "value": "CC898010314D64BA95C0E94B6B1642E3~YAAQrcgsF7QadZmRAQAAiUAXyRmQBbmH5nIYa52GUDGfJHMllypJlT62M5TvSbqbqxkUksBAAOOvn9ZP/CHfWY6TRJhXRvMuEiNS2zp9xA9h5gzjWasCi3bvznoXc6Unl2PSAJmTOvB9TSK/W9IlSwnse7rI4lsYbRXeKX5Wx4Xpb4poYDfCP7LzQfL8HozlrPVHOx8UNz3UFQKAwAUjmhEh/CA8ap6GhMHz1Z+Eo54CHic/rdNAUOqdzXhTFA4z51m1l3zmJRLxLKvffzJDOSoMVXkcn+cXyjx4iwiisUeOm//yZmoPCaEO0/I4wTY5UdZe13B7K+/wiCpis6yXaGD+u11aHDl+UylEYMTbgr6oM4PNdOSxtcKg3oXwSxuFwTHUB50GfOzi8VYTaOl9ytL+8c8B3ybWGYObKA==~4470838~4339522",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655630033
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14400.387573957443,
+                        "value": "42DB2913A1D2FFFD9C6BBAE8031D7A08~YAAQrsgsF3xYyJqRAQAAdVUXyRnozYucnUF5lf+LaXrxzTcZY7Npd6jJfp0a5fYmwLmKDTom7PwYM94NLfnwtERUj/dLY/Y/XRBObEFDyoZZRfPX/5XOmipDWLv3vdiV3qPjMSEqFjEt/q6Jjajvf4Y7Rfh3y0LfeSOkhnwYdswTSqsBOCttay9Vv12RmEU6+KLZskpZw3/z6hXPBx8N3P8iEvwNdgmla58YoD8QSYyS7PhBpmX1weOax39/cxhQaNOfU/bZtCi6c2UDYmtbMJLE+nSxpWprEcMS45phd2TvwpzkKp3WVEDX/J2RnQSbHAufHCoiRSNW1dPSABSwirDN+2pwYGavVpegNFUc2rgYYchH1SrJ9Lax8q8T5MS11BFMoyQ3WIhRYo4=~3748409~4535861",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655635392
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14399.315717935562,
+                        "value": "42DB2913A1D2FFFD9C6BBAE8031D7A08~YAAQrsgsF4NYyJqRAQAAF1kXyRk2FieUplsybkHrvGrUuVm2TBXj1Whf6Ah1w05T/BikEQctejzn9rnjC3kL9jRAS//UYXzjZzOOr4y3oGR6fJ/SgXtHlxt91yI/8Smgy2BNfRHodpsSBMuS5XBl1mYKjmqWQ63GsrZPFaVEnU+0xRKckF4uA+0InFLSdmSvjgWUh2mhvIR4fGYU9c2P9JYaZCyXRzb8zuiywEsL1LN0Bz6RICDN/rHVEPNXDcEw2P6//BVYkDFiEnkkrsvZj0LQbFmxuBVzvZsOb5jgWTvCUD4t3gnl4cl7Aan+O+Jmviq3QFqB8y4usn3YMQRuOxiG/sAiVMoOgYh/uIW1qXu+VLn0PfVc0lanp5YmJcia90TA4GO55c24RkV/I5r/Ig==~3748409~4535861",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655636318
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14399.657073020935,
+                        "value": "42DB2913A1D2FFFD9C6BBAE8031D7A08~YAAQrsgsF4lYyJqRAQAAaloXyRmRRTgklq8vFLoVdVDu0GIfCeBzlAxfXwQzWRD1MATRFds+ITG0S8G+m/JCRf3yKPhgcm3h7ubKR+GJ1xFZDsnW8TYY02u4obtaTReaKbw52kba70tqqlARvPI0/2ashCXk9TOlwZqp7r3m+p/z8Fu0lrS7P0m4cz+bOV9RkZirT3xCNylSYx83ONVjIOZEqjNsxglW4E9fhMa5SwxLR+QfLbst5B1bqLV+m0hjQGvBq5Lj5qZEAh0n2aKrhdg781ppI3UyaoLs9UKoP3i4otZs0kL1mHt0cJxYtNtUFIO9AW8RNF3LOI9YF1UMyMuz6KCCwYa1l61iV4dN4gENQDtt/tLn51e35dOc48rZ4bE1Olw7gvidxBEGT3BUIF823t9L~3748409~4535861",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655636659
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 14392.175901889801,
+                        "value": "42DB2913A1D2FFFD9C6BBAE8031D7A08~YAAQrsgsF+xYyJqRAQAA4HMXyRlO5J+w5QIfbkTwFCHx/k3DKrohPfcgdfLHYpIe3c7biy0VYU/9CAyZ1hYGUtJoKsFLx4lJrO0sLuXznzflf5hVqlyVxiVy6D3AXggyawCW0LUmUDCnLY+64/2W1RVlUnPT8Jby4m+CmhLqpDFNiCJabjkJl1MlCsM1uPjcDqMUDyh7FzRkZDEc2D7Gots3Tb2noc2deyAqUKJFMQauYPyXfZAfdsIObnusO+wQgVXwDAIbd+WJwBEoQuQgg2/YafE+Tad8tGOeO/s4+UkYb3W+d81xDwS7WcJIn7qbGAak47boFp4dhXnvM1xLa+DU/ULHOrjX5qz8Xf1Z2okgG1KEEDD3hMcbmJ4/5vw3hcQxiBv9eCgj9DDFPZIrNPYqy5AJTdgJPpA=~3748409~4535861",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643188
+                    }
+                ]
+            },
+            "datadome": {
+                "name": "datadome",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619067,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.481360912,
+                        "value": "ZcHf6apDOjpzthwmn5U0Ji67RltpB8czO0YWdH_X~SlD38Haw3cHPiYymMoAOjKbdaRA8XmwqWkvB_76uLCrDD5AqDRtxxBDLYckjUR8YQkhh6GA13vbL_8O9zRgLlO1",
+                        "same_site": "lax",
+                        "timestamp": 1725655621484
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.961242914,
+                        "value": "FKA6gMfD08hyAmPe~35xsyLSrnhUHkro41D3RRJTKXWZn7IVXmmuc0iHyopThVFTZPf92ErIk9Ro7GhLNFLtfti7QQNBuov304M3hCa5oxlzTcYMD0fZ4hsVCkpOTyPB",
+                        "same_site": "lax",
+                        "timestamp": 1725655623961
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.029460907,
+                        "value": "FKA6gMfD08hyAmPe~35xsyLSrnhUHkro41D3RRJTKXWZn7IVXmmuc0iHyopThVFTZPf92ErIk9Ro7GhLNFLtfti7QQNBuov304M3hCa5oxlzTcYMD0fZ4hsVCkpOTyPB",
+                        "same_site": "lax",
+                        "timestamp": 1725655630032
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.10174489,
+                        "value": "kkCqESQa8r590LdEaXWP~T3IvDyO_UtkwAK8moj96TgZcHmQw~S9eg9hO0YJpknX4Kob~EXtwas8Ddh3IyR~5Kav0eiMbgzdsbc1p8aNdUn4H~JfneXe77UMy9MxtyTv",
+                        "same_site": "lax",
+                        "timestamp": 1725655631102
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.656560898,
+                        "value": "aaAVvOtqGIlIU9AFZ1RTjTTj9_l46_MLUUYA9T6jD~LOFSTpUFOWlG526fLbb0VM0honAgFtgIiekZpBjtxv4S6oHm_1XZzmMmPD0XEva5QtE64d008YpJ68I7BFrue~",
+                        "same_site": "lax",
+                        "timestamp": 1725655636658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.184273005,
+                        "value": "aaAVvOtqGIlIU9AFZ1RTjUdCLzC9xq_O6OQcb6RvPyu5cfJW~YoiWWEeZadX5uj9FFvSKKgUIcJWal~X594FKYZbF5HczCaJWhNXpfDlUjarnuA99KG7SlzILpTvHwMy",
+                        "same_site": "lax",
+                        "timestamp": 1725655642184
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.175427914,
+                        "value": "61Z0aF9X8TCXKBDjBz~c8yGtFa2WT_NY9F~rMTsZo6xX16mnuOKDtq3mvBd4Nber8FlKMcDBUvYZ5XcsFj037I6VTTIRReQC081Slsgo5R9YQBNUcLd~eUBn7~yixZC~",
+                        "same_site": "lax",
+                        "timestamp": 1725655643176
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "61Z0aF9X8TCXKBDjBz~c8yGtFa2WT_NY9F~rMTsZo6xX16mnuOKDtq3mvBd4Nber8FlKMcDBUvYZ5XcsFj037I6VTTIRReQC081Slsgo5R9YQBNUcLd~eUBn7~yixZC~",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643180
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.665906906,
+                        "value": "61Z0aF9X8TCXKBDjBz~c8yGtFa2WT_NY9F~rMTsZo6xX16mnuOKDtq3mvBd4Nber8FlKMcDBUvYZ5XcsFj037I6VTTIRReQC081Slsgo5R9YQBNUcLd~eUBn7~yixZC~",
+                        "same_site": "lax",
+                        "timestamp": 1725655645669
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.842050076,
+                        "value": "IY1absObKicCrwp7YOv_YB_H43x021cDXbPQYhCCyKXwHF2BXDNTCPrmU~URi~dtGEg_BRV6LEE1bbWy5LCnqKdeyXVQ5~WDgCXjy5XcpMeyChvquXRRjOCxlCKEhusl",
+                        "same_site": "lax",
+                        "timestamp": 1725655647842
+                    }
+                ]
+            },
+            "kameleoonVisitorCode": {
+                "name": "kameleoonVisitorCode",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725655619080,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1758487619.062734,
+                        "expiry": 32832000.06273389,
+                        "value": "h433tj1ejc9p8n2l",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655619077
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 32832000.44568205,
+                        "value": "h433tj1ejc9p8n2l",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655621447
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 32832000.48119092,
+                        "value": "h433tj1ejc9p8n2l",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655621483
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 32832000.029325962,
+                        "value": "h433tj1ejc9p8n2l",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655630031
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 32831999.175636053,
+                        "value": "1cd568t52ngzg1be",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655643178
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 32832000.66549611,
+                        "value": "1cd568t52ngzg1be",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655645668
+                    }
+                ]
+            },
+            "s_cc": {
+                "name": "s_cc",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655623145,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655623144
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655630950
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "true",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655647008
+                    }
+                ]
+            },
+            "s_fid": {
+                "name": "s_fid",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725655623143,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759351623,
+                        "expiry": 33696000,
+                        "value": "74EC3A0E222AF165-2BD6460E14915816",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655623142
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "74EC3A0E222AF165-2BD6460E14915816",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655630950
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "74EC3A0E222AF165-2BD6460E14915816",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655632312
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "7B1CA4D9E63D6F01-019C01BB0B3229A5",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655647007
+                    }
+                ]
+            },
+            "s_vi": {
+                "name": "s_vi",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725655623847,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759351623.845821,
+                        "expiry": 33696000.845820904,
+                        "value": "[CS]v1|336DB523ADF0117B-40001BF5E3E56501[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655623846
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000.99706411,
+                        "value": "[CS]v1|336DB523ADF0117B-40001BF5E3E56501[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655623997
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000.10072589,
+                        "value": "[CS]v1|336DB523ADF0117B-40001BF5E3E56501[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655631101
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000.57168698,
+                        "value": "[CS]v1|336DB52F8D4299B0-600000AC430B11E2[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655647572
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33696000.722368,
+                        "value": "[CS]v1|336DB52F8D4299B0-600000AC430B11E2[CE]",
+                        "same_site": "unspecified",
+                        "timestamp": 1725655647726
+                    }
+                ]
+            },
+            "test": {
+                "name": "test",
+                "domain": ".fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619893,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728247619,
+                        "expiry": 2592000,
+                        "value": "V12024962246590.06420426251548372",
+                        "same_site": "lax",
+                        "timestamp": 1725655619892
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "V12024962246590.06420426251548372",
+                        "same_site": "lax",
+                        "timestamp": 1725655630666
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000,
+                        "value": "V12024962247230.9320233470074417",
+                        "same_site": "lax",
+                        "timestamp": 1725655643852
+                    }
+                ]
+            },
+            "dd_testcookie": {
+                "name": "dd_testcookie",
+                "domain": "www.fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655623184,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725655623184
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725655630876
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725655647066
+                    }
+                ]
+            },
+            "tc_test_cookie": {
+                "name": "tc_test_cookie",
+                "domain": "www.fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655619892,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "8lv3q7i0c",
+                        "same_site": "lax",
+                        "timestamp": 1725655619892
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "yo42wsu7s",
+                        "same_site": "lax",
+                        "timestamp": 1725655630665
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "iph0hkoev",
+                        "same_site": "lax",
+                        "timestamp": 1725655643852
+                    }
+                ]
+            }
+        }
+    },
+    "queue.fnac.com": {
+        "/": {
+            "Queue-it-64f86b51-52e9-4e28-8b13-00b835535780": {
+                "name": "Queue-it-64f86b51-52e9-4e28-8b13-00b835535780",
+                "domain": "queue.fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655636149,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725659236.147369,
+                        "expiry": 3600.1473689079285,
+                        "value": "WasRedirected=false&i=638612524360355714",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655636148
+                    }
+                ]
+            },
+            "Queue-it-eb9feb7b-4185-46e4-83c8-4e7c1178670f": {
+                "name": "Queue-it-eb9feb7b-4185-46e4-83c8-4e7c1178670f",
+                "domain": "queue.fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655618507,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725659218.502003,
+                        "expiry": 3600.502002954483,
+                        "value": "WasRedirected=false&i=638612524183898339",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655618505
+                    }
+                ]
+            },
+            "Queue-it-token": {
+                "name": "Queue-it-token",
+                "domain": "queue.fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655618505,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725655798.501831,
+                        "expiry": 180.5018310546875,
+                        "value": "e_frprdfnaccom~q_eb9feb7b-4185-46e4-83c8-4e7c1178670f~ts_1725655798~ce_true~rt_safetynet~h_4464deed7b18468d190f417218e77ee73c9f50c9c8c031ba885534ed2ef1a41e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655618503
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 180.14715600013733,
+                        "value": "e_frprdfnaccom~q_64f86b51-52e9-4e28-8b13-00b835535780~ts_1725655816~ce_true~rt_safetynet~h_f6664a2c141d1b2270102c46fcbecd41365376e7ff0c34acfd941b2bb5b40c90",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655636148
+                    }
+                ]
+            },
+            "Queue-it": {
+                "name": "Queue-it",
+                "domain": "queue.fnac.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725655618508,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757191618.502119,
+                        "expiry": 31536000.502119064,
+                        "value": "u=682b283a-3dc1-491a-978b-488b6ff4cf5e",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655618507
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.147448063,
+                        "value": "u=c7ca9c7a-d06c-4510-a794-6510dbfe2236",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725655636149
+                    }
+                ]
+            }
+        }
+    }
+}

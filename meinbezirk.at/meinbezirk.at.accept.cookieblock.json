@@ -1,0 +1,902 @@
+{
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615605171,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757151605.169808,
+                        "expiry": 31536000.16980791,
+                        "value": "3n8bai8hse5as2aovyw91fsp7m",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605170
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.438642025,
+                        "value": "cx:29trgxs4ruqva3nptg0x38ly3j:1ia7us7o8z4o",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605439
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615605140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725616504.136961,
+                        "expiry": 899.1369609832764,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605138
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 899.1872351169586,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605196
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 899.3149240016937,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605315
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 899.3636538982391,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605364
+                    }
+                ]
+            }
+        }
+    },
+    "iocnt.net": {
+        "/": {
+            "i00": {
+                "name": "i00",
+                "domain": ".iocnt.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615604506,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748856597.504994,
+                        "expiry": 23240993.504993916,
+                        "value": "000322646230af6ed66dacdf40001%3B66dacdf4%3B683d6f15",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615604505
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 23240993.726850986,
+                        "value": "000322646230af6ed66dacdf40001%3B66dacdf4%3B683d6f15",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615604727
+                    }
+                ]
+            }
+        }
+    },
+    "meinbezirk.at": {
+        "/": {
+            "OptanonAlertBoxClosed": {
+                "name": "OptanonAlertBoxClosed",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615602817,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757151602,
+                        "expiry": 31536000,
+                        "value": "2024-09-06T09:40:02.815Z",
+                        "same_site": "lax",
+                        "timestamp": 1725615602816
+                    }
+                ]
+            },
+            "OptanonConsent": {
+                "name": "OptanonConsent",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615597303,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A39%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=",
+                        "same_site": "lax",
+                        "timestamp": 1725615597591
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A39%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=0&isAnonUser=1",
+                        "same_site": "lax",
+                        "timestamp": 1725615597623
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A39%3A57+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.meinbezirk.at%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725615597630
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A39%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.meinbezirk.at%2F&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725615598322
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A39%3A58+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=0&isAnonUser=1&landingPath=https%3A%2F%2Fwww.meinbezirk.at%2F&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725615598322
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A40%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A0%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0%2CV2STACK42%3A0",
+                        "same_site": "lax",
+                        "timestamp": 1725615602818
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A40%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A1%2CC0002%3A1%2CC0003%3A1%2CC0007%3A1%2CV2STACK42%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725615602843
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A40%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A1%2CC0002%3A1%2CC0003%3A1%2CC0007%3A1%2CV2STACK42%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725615602863
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A40%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A1%2CC0002%3A1%2CC0003%3A1%2CC0007%3A1%2CV2STACK42%3A1",
+                        "same_site": "lax",
+                        "timestamp": 1725615602866
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "isGpcEnabled=0&datestamp=Fri+Sep+06+2024+11%3A40%3A02+GMT%2B0200+(Central+European+Summer+Time)&version=202407.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=88363359-645c-4c53-beae-0c7a91e62cc4&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0004%3A1%2CC0002%3A1%2CC0003%3A1%2CC0007%3A1%2CV2STACK42%3A1&intType=1",
+                        "same_site": "lax",
+                        "timestamp": 1725615602867
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615605151,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741167604,
+                        "expiry": 15551999,
+                        "value": "ID=e809160655f43d3e:T=1725615604:RT=1725615604:S=AA-AfjZv6xI83un26X8bGu8dVWvo",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605149
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=e21fb83bc9f4913a:T=1725615604:RT=1725615604:S=AA-AfjYylnr9Y7yG-aHJYiJDWJL0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605202
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=73fd6e4eb4076dc4:T=1725615604:RT=1725615604:S=AA-AfjaZJw37Tu0BW-yXqF1eCLdp",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605321
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15551999,
+                        "value": "ID=02d4f635d6b776ee:T=1725615604:RT=1725615604:S=AA-AfjYOo5FOekEMgg3BZXG9nqty",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605366
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615605147,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759311604,
+                        "expiry": 33695999,
+                        "value": "ID=6d95150e44ef5752:T=1725615604:RT=1725615604:S=ALNI_MZeXSxrKOKvJ1rAiVqFNuIeyrH-MQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605145
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=aebd3c35b7a6f8e9:T=1725615604:RT=1725615604:S=ALNI_MYet8pCDJISac0CXs6znJJrf8cl_Q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605201
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=e92d6513caba9208:T=1725615604:RT=1725615604:S=ALNI_MaZLiAV3ujS2vP29heg_KHFlRw1HQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605318
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "ID=218505fe0c6c0f92:T=1725615604:RT=1725615604:S=ALNI_MZ6xFZ7zl1I2D5n7yt23HAK-1mEyg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605365
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615605148,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759311604,
+                        "expiry": 33695999,
+                        "value": "UID=00000a4f8a708857:T=1725615604:RT=1725615604:S=ALNI_Ma09obqtgFyMc3gayB511wnwhNQBQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605147
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000edadac2afa2:T=1725615604:RT=1725615604:S=ALNI_MZPAGo7JHCAuOs6Olq564iQe8UGew",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605201
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000a4f8a564243:T=1725615604:RT=1725615604:S=ALNI_MbuMkJZM1xE0bF7vx34iVrurcfhqA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605318
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33695999,
+                        "value": "UID=00000a4f8a12e029:T=1725615604:RT=1725615604:S=ALNI_MY4rgniryId1xhlXRmQ1buvG1c6ZQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615605365
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615598367,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725615628,
+                        "expiry": 30,
+                        "value": "m0qiz196bqnyz9",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615598363
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiz5cyi1ufot",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603682
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiz5d5l26a3d",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603689
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiz5db7vkw27",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603696
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0qiz6tj257r36",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615605576
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725615603820,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733391603,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725615603819.662568901636368333",
+                        "same_site": "lax",
+                        "timestamp": 1725615603820
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725615603819.662568901636368333",
+                        "same_site": "lax",
+                        "timestamp": 1725615603821
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725615603429,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760175603.42624,
+                        "expiry": 34560000.42623997,
+                        "value": "GA1.1.423293019.1725615603",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603429
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.53028488,
+                        "value": "GA1.2.423293019.1725615603",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603530
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.535258055,
+                        "value": "GA1.2.423293019.1725615603",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603535
+                    }
+                ]
+            },
+            "_ga_SE41NNPMTG": {
+                "name": "_ga_SE41NNPMTG",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725615603428,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760175603.425911,
+                        "expiry": 34560000.42591095,
+                        "value": "GS1.1.1725615603.1.0.1725615603.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603427
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.42987299,
+                        "value": "GS1.1.1725615603.1.0.1725615603.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603430
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.57191706,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615605572
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.57247591,
+                        "value": "GS1.1.1725615603.1.0.1725615605.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615605573
+                    }
+                ]
+            },
+            "_gat_UA-17445979-13": {
+                "name": "_gat_UA-17445979-13",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725615603533,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725615663,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603533
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725615603531,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725702003,
+                        "expiry": 86400,
+                        "value": "GA1.2.1593218364.1725615604",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603531
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.1593218364.1725615604",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603535
+                    }
+                ]
+            },
+            "_k5a": {
+                "name": "_k5a",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615604248,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757151604,
+                        "expiry": 31536000,
+                        "value": "61@{\"u\":[{\"uid\":\"HZjKrWOaBYu0kXXN\",\"ts\":1725615604},1725705604]}",
+                        "same_site": "strict",
+                        "timestamp": 1725615604247
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615603697,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743603,
+                        "expiry": 34128000,
+                        "value": "m0qiz19bygvpr6h1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603696
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0qiz19bygvpr6h1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615605576
+                    }
+                ]
+            },
+            "eupubconsent-v2": {
+                "name": "eupubconsent-v2",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615602863,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757151602,
+                        "expiry": 31536000,
+                        "value": "CQEhaLAQEhaLAAcABBDEBFF8AP_gAEPgAChQKaNV_G__bWlr8X73aftkeY1P9_h77sQxBhfJE-4FzLvW_JwXx2ExNA36tqIKmRIAu3bBIQNlGJDUTVCgaogVryDMak2coTNKJ6BkiFMRO2dYCF5vmwtj-QKY5vr991dx2B-t7dr83dzyz4VHn3a5_2a0WJCdA5-tDfv9bROb-9IOd_x8v4v8_F_rE2_eT1l_tevp7D9-cts7_XW-9_fff_9Ln_-uB_-_wU1AJMNCogDLIkJCDQMIIEAKgrCAigQAAAAkDRAQAmDAp2BgEusJEAIAUAAwQAgABRkACAAASABCIAIACgQAAQCBQABgAQDAQAMDAAGACwEAgABAdAhTAggUCwASMyIhTAhCASCAlsqEEgCBBXCEIs8CCAREwUAAAJABWAAICwWBxJICViQQJcQbQAAEACAQQAVCKTswBBAGbLUXiybRlaYFo-YLntMAyQAA.f_wACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725615602860
+                    }
+                ]
+            },
+            "ioam2018": {
+                "name": "ioam2018",
+                "domain": ".meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615603720,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1754559603,
+                        "expiry": 28944000,
+                        "value": "0001ec32b52f48e6166dacdf3%3A1754559603717%3A1725615603717%3A.meinbezirk.at%3A1%3Aat_w_atmeinbez%3ARedCont%2FHomepage%2FHomepage%2Fmeinbezirk.at%3Anoevent%3A1725615603717%3A1nrrrz",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615603718
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615591204,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1447et7hi6bn68ufk0f2fsc0vr",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615591190
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": "www.meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615598374,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743598,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0qiz19bygvpr6h1%22%2C%22_t%22%3A%22mgexwilg%7Cm0qiz19g%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725615598373
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": "www.meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615598376,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743598,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOZQAHgHd6qABYAffgAYAjvQBeARgCcUkAF8gA",
+                        "same_site": "lax",
+                        "timestamp": 1725615598375
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34127995,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIBYB2AZgAYATAA4%2BPIQFZxARj4BOAGzypAnrRAB9fGQC2AcygAPAO71UACwA%2B2vgEd6ALymyzIAL5A",
+                        "same_site": "lax",
+                        "timestamp": 1725615603695
+                    }
+                ]
+            },
+            "_pprv": {
+                "name": "_pprv",
+                "domain": "www.meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615598372,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759743598,
+                        "expiry": 34128000,
+                        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6ImVzc2VudGlhbCJ9LCIxIjp7Im1vZGUiOiJvcHQtaW4ifSwiMiI6eyJtb2RlIjoib3B0LWluIn0sIjMiOnsibW9kZSI6Im9wdC1pbiJ9LCI0Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNSI6eyJtb2RlIjoib3B0LWluIn0sIjYiOnsibW9kZSI6Im9wdC1pbiJ9LCI3Ijp7Im1vZGUiOiJvcHQtaW4ifX0sInB1cnBvc2VzIjpudWxsLCJfdCI6Im1nZXh3aWxlfG0wcWl6MTllIn0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725615598371
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6Im9wdC1vdXQifSwiMSI6eyJtb2RlIjoib3B0LWluIn0sIjIiOnsibW9kZSI6Im9wdC1pbiJ9LCIzIjp7Im1vZGUiOiJvcHQtaW4ifSwiNCI6eyJtb2RlIjoib3B0LWluIn0sIjUiOnsibW9kZSI6Im9wdC1pbiJ9LCI2Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNyI6eyJtb2RlIjoib3B0LWluIn19LCJwdXJwb3NlcyI6bnVsbCwiX3QiOiJtZ2V4d2lsZXxtMHFpejE5ZSJ9",
+                        "same_site": "lax",
+                        "timestamp": 1725615598373
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34127996,
+                        "value": "eyJjb25zZW50Ijp7IjAiOnsibW9kZSI6Im9wdC1pbiJ9LCIxIjp7Im1vZGUiOiJvcHQtaW4ifSwiMiI6eyJtb2RlIjoib3B0LWluIn0sIjMiOnsibW9kZSI6Im9wdC1pbiJ9LCI0Ijp7Im1vZGUiOiJvcHQtaW4ifSwiNSI6eyJtb2RlIjoib3B0LWluIn0sIjYiOnsibW9kZSI6Im9wdC1pbiJ9LCI3Ijp7Im1vZGUiOiJvcHQtaW4ifX0sInB1cnBvc2VzIjpudWxsLCJfdCI6Im1nZXh3aWxlfG0wcWl6MTllIn0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725615602871
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.meinbezirk.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615604111,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725615604110
+                    }
+                ]
+            }
+        }
+    },
+    "static.pinpoll.com": {
+        "/static": {
+            "thirdparty": {
+                "name": "thirdparty",
+                "domain": "static.pinpoll.com",
+                "path": "/static",
+                "current_label": 0,
+                "label_ts": 1725615604642,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "yes",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725615604641
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,763 @@
+{
+    "adnxs.com": {
+        "/": {
+            "XANDR_PANID": {
+                "name": "XANDR_PANID",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580817990,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356817.986343,
+                        "expiry": 7776000.986342907,
+                        "value": "X0SY-FSizndgwuNElo__FK__1BDdfqtqlc4Qdwnq-x-sW0PVldEFE4G8-f5bWvy5Ri9_7xSe-kYhUFjvr0MMz4xbo3Gobt4GrH9bMhuC-74.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817989
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.330838919,
+                        "value": "X0SY-FSizndgwuNElo__FK__1BDdfqtqlc4Qdwnq-x-sW0PVldEFE4G8-f5bWvy5Ri9_7xSe-kYhUFjvr0MMz4xbo3Gobt4GrH9bMhuC-74.",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580818333
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580817991,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140817.986436,
+                        "expiry": 34560000.98643589,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817991
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.331058025,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580818333
+                    }
+                ]
+            },
+            "uuid2": {
+                "name": "uuid2",
+                "domain": ".adnxs.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580817992,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733356817.986474,
+                        "expiry": 7776000.986474037,
+                        "value": "5389914580800151527",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 7776000.331171036,
+                        "value": "5389914580800151527",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580818334
+                    }
+                ]
+            }
+        }
+    },
+    "schibsted.com": {
+        "/": {
+            "cis-jwe": {
+                "name": "cis-jwe",
+                "domain": ".schibsted.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580812215,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116812.211575,
+                        "expiry": 31536000.21157503,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDZUMDA6MDA6MTJaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA2VDAwOjAwOjEyWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..hSEkE_frNpH57U1tcy6TIw.IhFweuLgIRtVGB4UpVV4EibdK3TcqyO-HanfAZlo17RvSsbCNOmrRPJmjtf0oJi60oPMBFZOnXgL_CknD6MPqg.Cy--gzLqdF2Yngqk-yn2sQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580812212
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.233566046,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDZUMDA6MDA6MTJaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA2VDAwOjAwOjE3WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..NagqM3MgrqQ5s0NwkMct-A.YH0dMLl2wFkHkxyPCHwvltuwOpuMAS6ZyWcGE4lLZjATkeG8cFnjIsNFxmS3IwkWSrivBDhSVVOIkvCwmQNm1A.ToqzXnI1y-KmtIbfK0IVaA",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817234
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.561693907,
+                        "value": "eyJpc3N1ZWRBdCI6IjIwMjQtMDktMDZUMDA6MDA6MTJaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA2VDAwOjAwOjE4WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..PNAiQb600gHiBm2XKEse6g.HG2Zvaj4eu34EE-y_RAETTsf7AI_P7waUVUjxmyIWi1KWBMv4BisqqUAgrpO8giCxH41mVwa0S3QhHgVp-b3pv_EE150DYS2pvAyW3cyqKJ7-kjym1qXFmtOKmzHFq2A.Nh59hy8tJwbSxhXb3boxNg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580818563
+                    }
+                ]
+            }
+        }
+    },
+    "svd.se": {
+        "/": {
+            "__codnp": {
+                "name": "__codnp",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580818478,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725667218,
+                        "expiry": 86400,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580818476
+                    }
+                ]
+            },
+            "_cmp_advertising": {
+                "name": "_cmp_advertising",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580817000,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741132816.998582,
+                        "expiry": 15552000.998581886,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580816999
+                    }
+                ]
+            },
+            "_cmp_analytics": {
+                "name": "_cmp_analytics",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580816999,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741132816.998473,
+                        "expiry": 15552000.998472929,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580816998
+                    }
+                ]
+            },
+            "_cmp_marketing": {
+                "name": "_cmp_marketing",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580816995,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760140816.994732,
+                        "expiry": 34560000.9947319,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580816995
+                    }
+                ]
+            },
+            "_cmp_personalisation": {
+                "name": "_cmp_personalisation",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580817001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741132816.998699,
+                        "expiry": 15551999.99869895,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580817000
+                    }
+                ]
+            },
+            "_pulse2data": {
+                "name": "_pulse2data",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725580810731,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760140810.728438,
+                        "expiry": 34560000.7284379,
+                        "value": "%2Cv%2C%2C1725581710727%2C%2C%2C0%2C%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580810730
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.21300411,
+                        "value": "3df09719-9603-4229-9f21-dd19a83b17a4%2Cv%2C%2C1726790412000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDZUMDA6MDA6MTJaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA2VDAwOjAwOjEyWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..AbXRaFuznGP2CZM7u3u68Q.sMO3ryTB8dQwy9zq-42IJwh_LYfmgBt1rHLTGC3vTOIIe7IeKX_Yo3h4Be_q6BNmvgT-JbeTquAZhcZaqHBsX4t2H26BrSgdRJJTH-RQO-x_f4XXnVaNLj3NH5Kp1i3n_IYOiIHsuzchvQj_YUpJsnd_uNjree3tYqNnLhanJeazV2cIklNPO2FWsb-zf73aali2IIlmaw0DrCtNVrqarwvKZKdPQRlK0Iq3RM83zbw.VO3bA-0nkB5CaSmkiOza7g%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580812216
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.00431204,
+                        "value": "3df09719-9603-4229-9f21-dd19a83b17a4%2Cv%2C%2C1725580817004%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDZUMDA6MDA6MTJaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA2VDAwOjAwOjEyWiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..AbXRaFuznGP2CZM7u3u68Q.sMO3ryTB8dQwy9zq-42IJwh_LYfmgBt1rHLTGC3vTOIIe7IeKX_Yo3h4Be_q6BNmvgT-JbeTquAZhcZaqHBsX4t2H26BrSgdRJJTH-RQO-x_f4XXnVaNLj3NH5Kp1i3n_IYOiIHsuzchvQj_YUpJsnd_uNjree3tYqNnLhanJeazV2cIklNPO2FWsb-zf73aali2IIlmaw0DrCtNVrqarwvKZKdPQRlK0Iq3RM83zbw.VO3bA-0nkB5CaSmkiOza7g%2C%2C0%2Ctrue%2C%2C",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817006
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.23572898,
+                        "value": "3df09719-9603-4229-9f21-dd19a83b17a4%2Cv%2C%2C1726790417000%2CeyJpc3N1ZWRBdCI6IjIwMjQtMDktMDZUMDA6MDA6MTJaIiwiZW5jIjoiQTEyOENCQy1IUzI1NiIsInJlSXNzdWVkQXQiOiIyMDI0LTA5LTA2VDAwOjAwOjE3WiIsImFsZyI6ImRpciIsImtpZCI6IjIifQ..iLzU1cKaYtMHGcb04rtFyQ.keMkYBaoV0Uv4KlMACDrhbYTSfxWC1QCP6iI9Z0dz0Ip-MjegamTD9BM2pSYM_I8wS1VsNYsAcHz5n9tFtkuyEHMcIz790SAnZb0xSyaynI84iwqOaft9XMLhXErI8LZh_AXwx_qlhxwPUeAeV9040OUmGK5D8FriIvBxaW2wiYRpr4Usv3jJ47SeENQKv8G-URChggIMHsDWUKLhkJL3ZLlfzNzLw8_3GmJ4c-M3mwJcwYt5Vnt62ceE44R9gvuZ7S0RadnlNSLEofa6Jarft6lfzS5Mf9Xwg0W9HHo5grDhacaqgOsAX3BthktV3zoXc8PxaHKgHNwsWmVgGZbsQ.1H3_HtKUDNospEYqS3c14g%2C%2C0%2Ctrue%2C%2CeyJraWQiOiIyIiwiYWxnIjoiSFMyNTYifQ..Lrwip2hZAFCzvpYa9hdwRHOyxisr0yZm5Zkqn8MrrD4",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817236
+                    }
+                ]
+            },
+            "_pulse2test": {
+                "name": "_pulse2test",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580810730,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725667210,
+                        "expiry": 86400,
+                        "value": "pd02o3VQcKbZqNJN",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580810728
+                    }
+                ]
+            },
+            "_pulsesession": {
+                "name": "_pulsesession",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725580812570,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725582612,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580812566%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580812566
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580817013%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817014
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580817247%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817248
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580817248%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817249
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580817250%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817250
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580817251%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817251
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580817252%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817252
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580817253%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817254
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "%5B%22sdrn%3Aschibsted%3Asession%3Ab86c8fed-6d25-41d9-aa69-71b21e903f61%22%2C1725580812566%2C1725580817254%5D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817254
+                    }
+                ]
+            },
+            "_sp_su": {
+                "name": "_sp_su",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580811599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757116811.598695,
+                        "expiry": 31536000.59869504,
+                        "value": "false",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580811599
+                    }
+                ]
+            },
+            "consentDate": {
+                "name": "consentDate",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580817003,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741132816.999357,
+                        "expiry": 15551999.999356985,
+                        "value": "2024-09-06T00:00:17.210Z",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817001
+                    }
+                ]
+            },
+            "consentUUID": {
+                "name": "consentUUID",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580817001,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741132816.999286,
+                        "expiry": 15551999.999285936,
+                        "value": "f21c1e3e-aa4a-4268-95fa-6adced0d2251_35",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725580817001
+                    }
+                ]
+            },
+            "device-info": {
+                "name": "device-info",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725580809356,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580809344
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580810254
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811257
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811265
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811359
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811383
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811475
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811586
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "desktop",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580812665
+                    }
+                ]
+            },
+            "svd-ab-seg": {
+                "name": "svd-ab-seg",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580810249,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728259210.233914,
+                        "expiry": 2678400.2339138985,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580810235
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400.256481886,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811256
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400.264302969,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811264
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400.274981022,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811275
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400.3584640026,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811359
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400.3823781013,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811382
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400.4745469093,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811475
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400.5856308937,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580811586
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2678400.664753914,
+                        "value": "",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580812665
+                    }
+                ]
+            },
+            "svd-ab-test-client": {
+                "name": "svd-ab-test-client",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580810253,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725667210.234803,
+                        "expiry": 86400.23480296135,
+                        "value": "salesposter-service-ongoing:A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580810252
+                    }
+                ]
+            },
+            "svd-ab-test": {
+                "name": "svd-ab-test",
+                "domain": ".svd.se",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725580810251,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728259210.234714,
+                        "expiry": 2678400.234714031,
+                        "value": "sign:0A4E405DEB|EC-9400:C,EC-9962:subscription-offers-B",
+                        "same_site": "unspecified",
+                        "timestamp": 1725580810250
+                    }
+                ]
+            },
+            "_pbjs_userid_consent_data": {
+                "name": "_pbjs_userid_consent_data",
+                "domain": "www.svd.se",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725580818668,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728172818,
+                        "expiry": 2592000,
+                        "value": "5255112668275184",
+                        "same_site": "lax",
+                        "timestamp": 1725580818667
+                    }
+                ]
+            }
+        }
+    }
+}

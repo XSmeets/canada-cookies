@@ -1,0 +1,1750 @@
+{
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578537299,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759274538.296553,
+                        "expiry": 33696001.2965529,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578537298
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578537297,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759274538.296484,
+                        "expiry": 33696001.29648399,
+                        "value": "30ab5aa7-3cbf-4d1b-9a5c-06ef72ecedd2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578537297
+                    }
+                ]
+            }
+        }
+    },
+    "crwdcntrl.net": {
+        "/": {
+            "_cc_dc": {
+                "name": "_cc_dc",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578537324,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748905560.323744,
+                        "expiry": 23327023.32374406,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578537324
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".crwdcntrl.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578537326,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1748905560.323794,
+                        "expiry": 23327023.323793888,
+                        "value": "3e6a6b6aca45b7a3100bcf574aedaf92",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578537325
+                    }
+                ]
+            }
+        }
+    },
+    "cxense.com": {
+        "/": {
+            "gckp": {
+                "name": "gckp",
+                "domain": ".cxense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578539539,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757114539.537538,
+                        "expiry": 31536000.53753805,
+                        "value": "3u09fz0yjqq3t32f0frue9rqgy",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539538
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.78638792,
+                        "value": "cx:2astlnpfspxfi24575hs3tifab:3bgiknpjuxwyb",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539788
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.051858902,
+                        "value": "3u09fz0yjqq3t32f0frue9rqgy",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578540053
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578538861,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760138538.857442,
+                        "expiry": 34560000.8574419,
+                        "value": "AHWqTUmujJqcL-cFDEZBKYSQNTb3lzWj6jBtcoi0HRoWv06xTpgjwZsFdngTnWu2",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578538858
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578535520,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725579435.518301,
+                        "expiry": 900.5183010101318,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535518
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 899.8767690658569,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535877
+                    }
+                ]
+            }
+        }
+    },
+    "piano.io": {
+        "/": {
+            "LANG": {
+                "name": "LANG",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578539398,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760138539.39626,
+                        "expiry": 34560000.39626002,
+                        "value": "pt_PT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539397
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.421382904,
+                        "value": "pt_PT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539422
+                    }
+                ]
+            },
+            "LANG_CHANGED": {
+                "name": "LANG_CHANGED",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725578539399,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725664939,
+                        "expiry": 86400,
+                        "value": "pt_PT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539398
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "pt_PT",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539422
+                    }
+                ]
+            },
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".piano.io",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578534668,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725580334.667756,
+                        "expiry": 1800.6677560806274,
+                        "value": "viOtUnVp4lpiXrmYAEn24PaFmbSvdFcKIm4_y_HzROQ-1725578534-1.0.1.1-K7hg5TpN3v3uROZhE.NqHwyVmmSiEzZET2FINaSeAUkDzW8kFhlV1eaSWZviEEEcWleJ6sAGykLZCGlo6VdztQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578534668
+                    }
+                ]
+            }
+        },
+        "/checkout/template": {
+            "weird_get_top_level_domain": {
+                "name": "weird_get_top_level_domain",
+                "domain": ".piano.io",
+                "path": "/checkout/template",
+                "current_label": 1,
+                "label_ts": 1725578539398,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539398
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539421
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "cookie",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578539422
+                    }
+                ]
+            }
+        }
+    },
+    "publico.pt": {
+        "/": {
+            "FCNEC": {
+                "name": "FCNEC",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578538167,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757114538,
+                        "expiry": 31536000,
+                        "value": "%5B%5B%22AKsRol9L_WNqyf4fiZzONOOGFWr4tThHTLNYEp8rTmbtoHvTsNrn6xKtQt_ZgawxKS_WQrAoI5GeIaiJartiZjKur_C8ubRne40qnQvNfeEZUynANVbH3fHpHUEmhcdTxWQKNnew8xM5gbAFMMaYMujYx251vblrsA%3D%3D%22%5D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538166
+                    }
+                ]
+            },
+            "___nrbi": {
+                "name": "___nrbi",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578532744,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741220532,
+                        "expiry": 15642000,
+                        "value": "%7B%22firstVisit%22%3A1725578532%2C%22userId%22%3A%224b3b7127-284f-4e0d-89c4-af0b52286c4b%22%2C%22userVars%22%3A%5B%5D%2C%22futurePreviousVisit%22%3A1725578532%2C%22timesVisited%22%3A1%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578532743
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15642000,
+                        "value": "%7B%22firstVisit%22%3A1725578532%2C%22userId%22%3A%224b3b7127-284f-4e0d-89c4-af0b52286c4b%22%2C%22userVars%22%3A%5B%5B%22mrfExperiment_RecInline%22%2C%221%22%5D%5D%2C%22futurePreviousVisit%22%3A1725578532%2C%22timesVisited%22%3A1%2C%22userType%22%3A%220%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578532751
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15642000,
+                        "value": "%7B%22firstVisit%22%3A1725578532%2C%22userId%22%3A%224b3b7127-284f-4e0d-89c4-af0b52286c4b%22%2C%22userVars%22%3A%5B%5B%22mrfExperiment_RecInline%22%2C%221%22%5D%5D%2C%22futurePreviousVisit%22%3A1725578532%2C%22timesVisited%22%3A1%2C%22userType%22%3A%220%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578533501
+                    }
+                ]
+            },
+            "___nrbic": {
+                "name": "___nrbic",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578532740,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22isNewUser%22%3Atrue%2C%22previousVisit%22%3A1725578532%2C%22currentVisitStarted%22%3A1725578532%2C%22sessionId%22%3A%22b9b3f1e8-4e3b-47a6-bab8-f5fdbc723a38%22%2C%22sessionVars%22%3A%5B%5D%2C%22visitedInThisSession%22%3Atrue%2C%22pagesViewed%22%3A1%2C%22landingPage%22%3A%22https%3A//www.publico.pt/%22%2C%22referrer%22%3A%22%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578532738
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22isNewUser%22%3Atrue%2C%22previousVisit%22%3A1725578532%2C%22currentVisitStarted%22%3A1725578532%2C%22sessionId%22%3A%22b9b3f1e8-4e3b-47a6-bab8-f5fdbc723a38%22%2C%22sessionVars%22%3A%5B%5D%2C%22visitedInThisSession%22%3Atrue%2C%22pagesViewed%22%3A1%2C%22landingPage%22%3A%22https%3A//www.publico.pt/%22%2C%22referrer%22%3A%22%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578532751
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "%7B%22isNewUser%22%3Atrue%2C%22previousVisit%22%3A1725578532%2C%22currentVisitStarted%22%3A1725578532%2C%22sessionId%22%3A%22b9b3f1e8-4e3b-47a6-bab8-f5fdbc723a38%22%2C%22sessionVars%22%3A%5B%5D%2C%22visitedInThisSession%22%3Atrue%2C%22pagesViewed%22%3A1%2C%22landingPage%22%3A%22https%3A//www.publico.pt/%22%2C%22referrer%22%3A%22%22%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578533501
+                    }
+                ]
+            },
+            "__eoi": {
+                "name": "__eoi",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578535888,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741130535,
+                        "expiry": 15552000,
+                        "value": "ID=0b09fc4687c45fce:T=1725578535:RT=1725578535:S=AA-AfjaoZOg7GD6ToIFYECz_0d7q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535888
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=0b09fc4687c45fce:T=1725578535:RT=1725578535:S=AA-AfjaoZOg7GD6ToIFYECz_0d7q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535995
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=0b09fc4687c45fce:T=1725578535:RT=1725578535:S=AA-AfjaoZOg7GD6ToIFYECz_0d7q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=0b09fc4687c45fce:T=1725578535:RT=1725578535:S=AA-AfjaoZOg7GD6ToIFYECz_0d7q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535996
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000,
+                        "value": "ID=0b09fc4687c45fce:T=1725578535:RT=1725578535:S=AA-AfjaoZOg7GD6ToIFYECz_0d7q",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535997
+                    }
+                ]
+            },
+            "__gads": {
+                "name": "__gads",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578535882,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759274535,
+                        "expiry": 33696000,
+                        "value": "ID=ecce9bdcb3701dcf:T=1725578535:RT=1725578535:S=ALNI_Mak1xpR48-SsCB2sb8heplxb-GzNg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535880
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=ecce9bdcb3701dcf:T=1725578535:RT=1725578535:S=ALNI_Mak1xpR48-SsCB2sb8heplxb-GzNg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535884
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=ecce9bdcb3701dcf:T=1725578535:RT=1725578535:S=ALNI_Mak1xpR48-SsCB2sb8heplxb-GzNg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "ID=ecce9bdcb3701dcf:T=1725578535:RT=1725578535:S=ALNI_Mak1xpR48-SsCB2sb8heplxb-GzNg",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535993
+                    }
+                ]
+            },
+            "__gpi": {
+                "name": "__gpi",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578535885,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759274535,
+                        "expiry": 33696000,
+                        "value": "UID=00000eec1a1b2aab:T=1725578535:RT=1725578535:S=ALNI_MYZQJSnfbNzPvBZTjBG3BLoI60H6w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535884
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "UID=00000eec1a1b2aab:T=1725578535:RT=1725578535:S=ALNI_MYZQJSnfbNzPvBZTjBG3BLoI60H6w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535992
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 33696000,
+                        "value": "UID=00000eec1a1b2aab:T=1725578535:RT=1725578535:S=ALNI_MYZQJSnfbNzPvBZTjBG3BLoI60H6w",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578535993
+                    }
+                ]
+            },
+            "__pat": {
+                "name": "__pat",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578538035,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728170538,
+                        "expiry": 2592000,
+                        "value": "3600000",
+                        "same_site": "lax",
+                        "timestamp": 1725578538034
+                    }
+                ]
+            },
+            "__pid": {
+                "name": "__pid",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578537670,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728170537,
+                        "expiry": 2592000,
+                        "value": ".publico.pt",
+                        "same_site": "lax",
+                        "timestamp": 1725578537670
+                    }
+                ]
+            },
+            "__pvi": {
+                "name": "__pvi",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578538036,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725664938,
+                        "expiry": 86400,
+                        "value": "eyJpZCI6InYtbTBwd3dvbjU2NDlrMDdzNSIsImRvbWFpbiI6Ii5wdWJsaWNvLnB0IiwidGltZSI6MTcyNTU3ODUzODAzMX0%3D",
+                        "same_site": "lax",
+                        "timestamp": 1725578538035
+                    }
+                ]
+            },
+            "__tbc": {
+                "name": "__tbc",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578538032,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760138538.030086,
+                        "expiry": 34560000.03008604,
+                        "value": "%7Bkpex%7DQsNrmqlc9nQHBCJF4R3xb74ifeMv-rfX6xbpgdGonXqn26rgo_tpCInsI4cPhsMf",
+                        "same_site": "lax",
+                        "timestamp": 1725578538030
+                    }
+                ]
+            },
+            "_cc_id": {
+                "name": "_cc_id",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725578537327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1748906537,
+                        "expiry": 23328000,
+                        "value": "3e6a6b6aca45b7a3100bcf574aedaf92",
+                        "same_site": "lax",
+                        "timestamp": 1725578537327
+                    }
+                ]
+            },
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578537115,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725578567,
+                        "expiry": 30,
+                        "value": "m0pwwom1nxsaos",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578537114
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwomsw29ssw",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578537141
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwomtbugrch",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578537142
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwon328qj3b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578537153
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwpbi8gu264",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538033
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwpd1gr14v8",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538086
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwpd8jcn9dq",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538092
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwpe18fmo6m",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538122
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwqvqgq55ob",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578540055
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 30,
+                        "value": "m0pwwxmzvmymhm",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578548812
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725578534998,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1738718534,
+                        "expiry": 13140000,
+                        "value": "GA1.1.1336609843.1725578535",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578534997
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.740484,
+                        "value": "GA1.2.1336609843.1725578535",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578535740
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.16935992,
+                        "value": "GA1.2.1336609843.1725578535",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538169
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.17333388,
+                        "value": "GA1.2.1336609843.1725578535",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538173
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.17663598,
+                        "value": "GA1.2.1336609843.1725578535",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538176
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.79891491,
+                        "value": "GA1.2.1336609843.1725578535",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578547800
+                    }
+                ]
+            },
+            "_ga_X1FCL58HX2": {
+                "name": "_ga_X1FCL58HX2",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725578534997,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1738718534,
+                        "expiry": 13140000,
+                        "value": "GS1.1.1725578534.1.0.1725578534.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578534996
+                    }
+                ]
+            },
+            "_gat_UA-15474788-20": {
+                "name": "_gat_UA-15474788-20",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725578535743,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725578595,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578535742
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578532512,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733354532,
+                        "expiry": 7776000,
+                        "value": "1.1.1982911121.1725578532",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578532500
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725578535741,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725664935,
+                        "expiry": 86400,
+                        "value": "GA1.2.593944467.1725578536",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578535741
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.593944467.1725578536",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538170
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.593944467.1725578536",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538173
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.593944467.1725578536",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538177
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.593944467.1725578536",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578547802
+                    }
+                ]
+            },
+            "_hjSessionUser_286197": {
+                "name": "_hjSessionUser_286197",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725578537188,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1757114537,
+                        "expiry": 31536000,
+                        "value": "eyJpZCI6IjQ3MDlkZTNhLTEyYjMtNThhMy1hNmIzLTZlM2ZmMjVjZjY4MiIsImNyZWF0ZWQiOjE3MjU1Nzg1MzcxODcsImV4aXN0aW5nIjpmYWxzZX0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578537187
+                    }
+                ]
+            },
+            "_hjSession_286197": {
+                "name": "_hjSession_286197",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578537190,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725580337,
+                        "expiry": 1800,
+                        "value": "eyJpZCI6IjY1ZjQ5YzlhLWY3NzUtNDVkMi1hMjhjLTc4N2I5NTY0Y2UxOSIsImMiOjE3MjU1Nzg1MzcxODgsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578537190
+                    }
+                ]
+            },
+            "_hjTLDTest": {
+                "name": "_hjTLDTest",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578537183,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": ".publico.pt",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578537183
+                    }
+                ]
+            },
+            "_pcid": {
+                "name": "_pcid",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725578537157,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759706537,
+                        "expiry": 34128000,
+                        "value": "%7B%22browserId%22%3A%22m0pwwon1d1k3zyej%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725578537157
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578537152,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759706537,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAEzIGYA2ABgHY%2BAFgBMARj4BWCTwCcwuT2FcQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1725578537152
+                    }
+                ]
+            },
+            "_pcus": {
+                "name": "_pcus",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578538040,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759706538,
+                        "expiry": 34128000,
+                        "value": "eyJ1c2VyU2VnbWVudHMiOnsiQ09NUE9TRVIxWCI6eyJzZWdtZW50cyI6WyJMVGM6NzIxYzBjMzMxNWFiOTk4ZTI4NzAyNjczMzQ0ZGFjNWM0OGIwNTRjODpub19zY29yZSIsIkxUczpmZmNmNjI5NzU4Y2JkOTljNTllNTE0N2I3YTlmMDM3ZjFlM2NlMzNmOm5vX3Njb3JlIiwiQ1Njb3JlOjkzNzM0NGYyYWM2YzI0ZTk5YzNkNjFjYjIyMjczYzliNmMzYmI4MDg6MiJdfX19",
+                        "same_site": "lax",
+                        "timestamp": 1725578538039
+                    }
+                ]
+            },
+            "cX_G": {
+                "name": "cX_G",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578540057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759706540,
+                        "expiry": 34128000,
+                        "value": "cx%3A2astlnpfspxfi24575hs3tifab%3A3bgiknpjuxwyb",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578540055
+                    }
+                ]
+            },
+            "cX_P": {
+                "name": "cX_P",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578538123,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759706538,
+                        "expiry": 34128000,
+                        "value": "m0pwwon1d1k3zyej",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538122
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "m0pwwon1d1k3zyej",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578548812
+                    }
+                ]
+            },
+            "compass_uid": {
+                "name": "compass_uid",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578532752,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741220532,
+                        "expiry": 15642000,
+                        "value": "4b3b7127-284f-4e0d-89c4-af0b52286c4b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578532751
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15642000,
+                        "value": "4b3b7127-284f-4e0d-89c4-af0b52286c4b",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578533501
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578537442,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759274537,
+                        "expiry": 33696000,
+                        "value": "u97D_l9JMzBPcWhMbGN2MjBwNzQ1WlpsQjRBWXdJTEJ0R1dWT1dWYUJGWlFyWHdBQ1BCcVM4TE9MTVFnYVMlMkJkMTVrWXlBajhaNGlub3hWTDRJa0dEVzJVZG9qVFpZZjZDWEZMcjdrSVpzaWd3TnVFcHA0VmFwc21Da1R2T21YaE9maCUyQjJlNUZWT3ZJN21uJTJCJTJGUXlPWDdpYTcwR2h5YVFiSWUlMkZWWWluN2FUMkJacUtxQXF3eTFLV0pMZkVpSGZvTVNxOG1BODBkVWY2U2klMkI3VjB5RzI5b1dDMSUyRmclM0QlM0Q",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578537440
+                    }
+                ]
+            },
+            "cto_pub_test_tld": {
+                "name": "cto_pub_test_tld",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578536786,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725582136,
+                        "expiry": 3600,
+                        "value": "test",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578536785
+                    }
+                ]
+            },
+            "cto_writeable": {
+                "name": "cto_writeable",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578536784,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725582136,
+                        "expiry": 3600,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578536783
+                    }
+                ]
+            },
+            "lotame_domain_check": {
+                "name": "lotame_domain_check",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578537327,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725578547,
+                        "expiry": 10,
+                        "value": "publico.pt",
+                        "same_site": "lax",
+                        "timestamp": 1725578537326
+                    }
+                ]
+            },
+            "panoramaId_expiry": {
+                "name": "panoramaId_expiry",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578537328,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725664938,
+                        "expiry": 86401,
+                        "value": "1725664937498",
+                        "same_site": "lax",
+                        "timestamp": 1725578537327
+                    }
+                ]
+            },
+            "xbc": {
+                "name": "xbc",
+                "domain": ".publico.pt",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725578538037,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760138538.033028,
+                        "expiry": 34560000.03302789,
+                        "value": "%7Bkpex%7DbPt-yjyqfdFKogSB77CWQLz8u3cti6bx6tE6DmgVuGk",
+                        "same_site": "lax",
+                        "timestamp": 1725578538036
+                    }
+                ]
+            },
+            "__adblocker": {
+                "name": "__adblocker",
+                "domain": "www.publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578531973,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725578831,
+                        "expiry": 300,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578531968
+                    }
+                ]
+            },
+            "__pnahc": {
+                "name": "__pnahc",
+                "domain": "www.publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578537675,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733358137,
+                        "expiry": 7779600,
+                        "value": "0",
+                        "same_site": "lax",
+                        "timestamp": 1725578537674
+                    }
+                ]
+            },
+            "_aan": {
+                "name": "_aan",
+                "domain": "www.publico.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725578533849,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "638611789325890918",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578533848
+                    }
+                ]
+            },
+            "_pc_ticker_janeiro_2023": {
+                "name": "_pc_ticker_janeiro_2023",
+                "domain": "www.publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578538041,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725664938,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "lax",
+                        "timestamp": 1725578538040
+                    }
+                ]
+            },
+            "_pk_id.1.69be": {
+                "name": "_pk_id.1.69be",
+                "domain": "www.publico.pt",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725578534821,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759533735,
+                        "expiry": 33955201,
+                        "value": "7f5ab0343019bc11.1725578535.0.1725578535..",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578534820
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955201,
+                        "value": "7f5ab0343019bc11.1725578535.1.1725578535.1725578535.",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578534821
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955197,
+                        "value": "7f5ab0343019bc11.1725578535.1.1725578538.1725578535.",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538171
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955197,
+                        "value": "7f5ab0343019bc11.1725578535.1.1725578538.1725578535.",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538175
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955197,
+                        "value": "7f5ab0343019bc11.1725578535.1.1725578538.1725578535.",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538178
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 33955188,
+                        "value": "7f5ab0343019bc11.1725578535.1.1725578548.1725578535.",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578547805
+                    }
+                ]
+            },
+            "_pk_ses.1.69be": {
+                "name": "_pk_ses.1.69be",
+                "domain": "www.publico.pt",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578534822,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725580334,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578534821
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538171
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538175
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578538178
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "unspecified",
+                        "timestamp": 1725578547806
+                    }
+                ]
+            }
+        }
+    },
+    "events.newsroom.bi": {
+        "/": {
+            "680_lv": {
+                "name": "680_lv",
+                "domain": "events.newsroom.bi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578533498,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728170533.493032,
+                        "expiry": 2592000.4930319786,
+                        "value": "null",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578533498
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.710485935,
+                        "value": "null",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578538713
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.7188498974,
+                        "value": "null",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578548721
+                    }
+                ]
+            },
+            "680_s": {
+                "name": "680_s",
+                "domain": "events.newsroom.bi",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725578533497,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "b9b3f1e8-4e3b-47a6-bab8-f5fdbc723a38",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578533496
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "b9b3f1e8-4e3b-47a6-bab8-f5fdbc723a38",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578538712
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "b9b3f1e8-4e3b-47a6-bab8-f5fdbc723a38",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578548721
+                    }
+                ]
+            },
+            "680_u": {
+                "name": "680_u",
+                "domain": "events.newsroom.bi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578533495,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741130533.492824,
+                        "expiry": 15552000.492824078,
+                        "value": "4b3b7127-284f-4e0d-89c4-af0b52286c4b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578533494
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.155174017,
+                        "value": "4b3b7127-284f-4e0d-89c4-af0b52286c4b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578536155
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.930644035,
+                        "value": "4b3b7127-284f-4e0d-89c4-af0b52286c4b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578536931
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.71031189,
+                        "value": "4b3b7127-284f-4e0d-89c4-af0b52286c4b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578538712
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 15552000.718189001,
+                        "value": "4b3b7127-284f-4e0d-89c4-af0b52286c4b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578548721
+                    }
+                ]
+            },
+            "680_ut": {
+                "name": "680_ut",
+                "domain": "events.newsroom.bi",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725578533499,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728170533.49306,
+                        "expiry": 2592000.493060112,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578533498
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.15524292,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578536155
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.930738926,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578536931
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.7105469704,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578538713
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 2592000.7189569473,
+                        "value": "0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725578548721
+                    }
+                ]
+            }
+        }
+    }
+}

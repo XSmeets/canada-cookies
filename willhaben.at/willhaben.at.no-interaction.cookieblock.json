@@ -1,0 +1,118 @@
+{
+    "willhaben.at": {
+        "/": {
+            "SRV": {
+                "name": "SRV",
+                "domain": "willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615730855,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1|ZtrOd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615730844
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "3|ZtrOd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615731205
+                    }
+                ]
+            },
+            "IADVISITOR": {
+                "name": "IADVISITOR",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615731596,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730799731.577839,
+                        "expiry": 5184000.577838898,
+                        "value": "a584c50d-d375-4f52-a47e-cdbcc6d02a44",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615731579
+                    }
+                ]
+            },
+            "TRACKINGID": {
+                "name": "TRACKINGID",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615731602,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760175731.578023,
+                        "expiry": 34560000.57802296,
+                        "value": "0c09955b-c21f-4b27-b010-12d041f00bf3",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615731600
+                    }
+                ]
+            },
+            "context": {
+                "name": "context",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615731599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "prod",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615731598
+                    }
+                ]
+            },
+            "x-bbx-csrf-token": {
+                "name": "x-bbx-csrf-token",
+                "domain": "www.willhaben.at",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725615731603,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "9a7d9715-c064-4d35-87d4-cd6fe76abe2e",
+                        "same_site": "unspecified",
+                        "timestamp": 1725615731602
+                    }
+                ]
+            }
+        }
+    }
+}

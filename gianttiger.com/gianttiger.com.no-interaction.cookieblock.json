@@ -1,0 +1,1628 @@
+{
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564253462,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759260254.45509,
+                        "expiry": 33696001.455090046,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564253458
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564253457,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759260254.454966,
+                        "expiry": 33696001.45496607,
+                        "value": "5da1c561-e301-463d-b96f-65cfe510e7f9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564253455
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "IDE": {
+                "name": "IDE",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564252940,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760124252.933796,
+                        "expiry": 34560000.93379593,
+                        "value": "AHWqTUkFsJqbgZ1tmN7Jv-AnsCuOl7zcnGQN3bQmlrrF7qjgokGGGgzjT2WoLVfC",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564252938
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.29557395,
+                        "value": "AHWqTUkGAaM6FiQmOVuDhRDuai3nE0f-c3mNXzYnIyHGVBSIDR9NTe9gXeHkf5Nh",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564253297
+                    }
+                ]
+            },
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564248485,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725565148.484978,
+                        "expiry": 900.4849779605865,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564248485
+                    }
+                ]
+            }
+        }
+    },
+    "gianttiger.com": {
+        "/": {
+            "__tld__": {
+                "name": "__tld__",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564248651,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248656
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248658
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248659
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564251989
+                    }
+                ]
+            },
+            "_cmp_a": {
+                "name": "_cmp_a",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564247053,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.7979400158,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249798
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.79901003838,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249800
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.80299305916,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249805
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.81118488312,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249815
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.82405591011,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249829
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.82715296745,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249837
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.84207391739,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249844
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.84783506393,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249850
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.85378789902,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400.86694097519,
+                        "value": "%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564249868
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564253094,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733340253,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725564253093.255901578487761066",
+                        "same_site": "lax",
+                        "timestamp": 1725564253094
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564247958,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124247.956427,
+                        "expiry": 34560000.9564271,
+                        "value": "GA1.1.291796922.1725564248",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564247957
+                    }
+                ]
+            },
+            "_ga_58GXXZL2ND": {
+                "name": "_ga_58GXXZL2ND",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564247957,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124247.955932,
+                        "expiry": 34560000.9559319,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564247956
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.956176996,
+                        "value": "GS1.1.1725564247.1.0.1725564247.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564247957
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.96578598,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564247966
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.965997934,
+                        "value": "GS1.1.1725564247.1.0.1725564247.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564247966
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564252753,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733340252,
+                        "expiry": 7776000,
+                        "value": "1.1.144053340.1725564253",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564252752
+                    }
+                ]
+            },
+            "_landing_page": {
+                "name": "_landing_page",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564247058,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726773847.023258,
+                        "expiry": 1209600.0232579708,
+                        "value": "%2F",
+                        "same_site": "lax",
+                        "timestamp": 1725564247057
+                    }
+                ]
+            },
+            "_orig_referrer": {
+                "name": "_orig_referrer",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564247057,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726773847.023179,
+                        "expiry": 1209600.0231790543,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564247056
+                    }
+                ]
+            },
+            "_shopify_s": {
+                "name": "_shopify_s",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564247056,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7980959415436,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249798
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7991309165955,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249801
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8030459880829,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249806
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8112800121307,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249816
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.824091911316,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249830
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8271930217743,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249837
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.84219789505,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249845
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8479199409485,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249850
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8538880348206,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8670599460602,
+                        "value": "dea15f3b-494e-4dd1-8eb9-a4efaacc4f80",
+                        "same_site": "lax",
+                        "timestamp": 1725564249868
+                    }
+                ]
+            },
+            "_shopify_sa_p": {
+                "name": "_shopify_sa_p",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564248013,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725566048,
+                        "expiry": 1800,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564248012
+                    }
+                ]
+            },
+            "_shopify_sa_t": {
+                "name": "_shopify_sa_t",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564248012,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725566048,
+                        "expiry": 1800,
+                        "value": "2024-09-05T19%3A24%3A08.010Z",
+                        "same_site": "lax",
+                        "timestamp": 1725564248011
+                    }
+                ]
+            },
+            "_shopify_y": {
+                "name": "_shopify_y",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564247055,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.797998905,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249798
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.79905796,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249801
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.803028107,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249806
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.81120801,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249815
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.824074984,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249830
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.827174902,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249837
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.84214306,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249845
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.84787798,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249850
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.853833914,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.867012024,
+                        "value": "5c07b3d3-17d0-4fad-a529-adadfa3761d0",
+                        "same_site": "lax",
+                        "timestamp": 1725564249868
+                    }
+                ]
+            },
+            "_tracking_consent": {
+                "name": "_tracking_consent",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564247051,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757100247.022832,
+                        "expiry": 31536000.022831917,
+                        "value": "%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22CAON%22%2C%22reg%22%3A%22%22%7D",
+                        "same_site": "lax",
+                        "timestamp": 1725564247049
+                    }
+                ]
+            },
+            "ajs_anonymous_id": {
+                "name": "ajs_anonymous_id",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564251987,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757100251,
+                        "expiry": 31536000,
+                        "value": "c908f04b-940b-4111-8854-e50af6274192",
+                        "same_site": "lax",
+                        "timestamp": 1725564251987
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564253635,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759728253,
+                        "expiry": 34164000,
+                        "value": "n8pXQF9RcnAwQ3NvdG5mOVdSdER3JTJGdUJkMUlybWlGeTFMSnZMNGxRY05iN2hzU3NNUkhHYW5lTzBwYlFwcDY4Zm5KS05XTk5SMEZ0RFBEbHNiN01OSkY4a1NEVlNWZVN2YmhQdThlcVc5TzF1Y1JvVFNkejByQzJZaUxKekFVMWc1QTlRbDFsVUJQTUhCQmtZQTNRd010JTJGUk84ekpCZWdPQnFMcTBBWmNUWHJuJTJGZjFhcHFoMGVCVWE0JTJGWHNBWmxQNzkzV09DTk9YbHozaW1yJTJCYnAyMUwxam5zQSUzRCUzRA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564253631
+                    }
+                ]
+            },
+            "cto_tld_test": {
+                "name": "cto_tld_test",
+                "domain": ".gianttiger.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564252927,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567852,
+                        "expiry": 3600,
+                        "value": "woot",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564252926
+                    }
+                ]
+            },
+            "wpm-test-cookie": {
+                "name": "wpm-test-cookie",
+                "domain": ".www.gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564248140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248140
+                    }
+                ]
+            },
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": "gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564246195,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249797
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249801
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249806
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249816
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249830
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249837
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249845
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249850
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249855
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564249868
+                    }
+                ]
+            },
+            "__kla_id": {
+                "name": "__kla_id",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564248702,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124248.700857,
+                        "expiry": 34560000.700856924,
+                        "value": "eyIkcmVmZXJyZXIiOnsidHMiOjE3MjU1NjQyNDksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmdpYW50dGlnZXIuY29tLyJ9fQ==",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248701
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.70170903,
+                        "value": "eyJjaWQiOiJaV1U0WXpFek4yUXROak5sWVMwMFltVTRMV0ZtTURNdE4yTTFaV1prTkdRMk0yWXoiLCIkcmVmZXJyZXIiOnsidHMiOjE3MjU1NjQyNDksInZhbHVlIjoiIiwiZmlyc3RfcGFnZSI6Imh0dHBzOi8vd3d3LmdpYW50dGlnZXIuY29tLyJ9LCIkbGFzdF9yZWZlcnJlciI6eyJ0cyI6MTcyNTU2NDI0OSwidmFsdWUiOiIiLCJmaXJzdF9wYWdlIjoiaHR0cHM6Ly93d3cuZ2lhbnR0aWdlci5jb20vIn19",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248702
+                    }
+                ]
+            },
+            "_dd_s": {
+                "name": "_dd_s",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564248380,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380",
+                        "same_site": "strict",
+                        "timestamp": 1725564249394
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380&lock=94ef7b74-a456-4563-9184-74df6cef0362",
+                        "same_site": "strict",
+                        "timestamp": 1725564250382
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380",
+                        "same_site": "strict",
+                        "timestamp": 1725564250383
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380&lock=df45cda0-ce81-402c-b5c1-22d32aa55c5e",
+                        "same_site": "strict",
+                        "timestamp": 1725564251380
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380",
+                        "same_site": "strict",
+                        "timestamp": 1725564251381
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380&lock=8a9460df-428a-4ae1-8b91-45194b0a9deb",
+                        "same_site": "strict",
+                        "timestamp": 1725564252382
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380",
+                        "same_site": "strict",
+                        "timestamp": 1725564252384
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380&lock=a24c5878-2943-421c-ac72-c2c0a7e352ce",
+                        "same_site": "strict",
+                        "timestamp": 1725564253383
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380",
+                        "same_site": "strict",
+                        "timestamp": 1725564253384
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "rum=0&expire=1725565148380",
+                        "same_site": "strict",
+                        "timestamp": 1725564254384
+                    }
+                ]
+            },
+            "cart_currency": {
+                "name": "cart_currency",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564247049,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.797866106,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249798
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.7989931107,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249800
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.8029749393,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249805
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.8111131191,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249815
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.8240389824,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249829
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.827133894,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249837
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.8419818878,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249844
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.8477768898,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249850
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.8537330627,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249855
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1209600.8668038845,
+                        "value": "CAD",
+                        "same_site": "lax",
+                        "timestamp": 1725564249868
+                    }
+                ]
+            },
+            "criteo_write_test": {
+                "name": "criteo_write_test",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564252928,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564262,
+                        "expiry": 10,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564252927
+                    }
+                ]
+            },
+            "dd_cookie_test_4a4d7941-9d8a-40ab-8d94-a748d5735b1e": {
+                "name": "dd_cookie_test_4a4d7941-9d8a-40ab-8d94-a748d5735b1e",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564248379,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564308,
+                        "expiry": 60,
+                        "value": "test",
+                        "same_site": "strict",
+                        "timestamp": 1725564248378
+                    }
+                ]
+            },
+            "keep_alive": {
+                "name": "keep_alive",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564247041,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7977690696716,
+                        "value": "dbf8f6ef-977e-48c0-a7e6-113620720bcb",
+                        "same_site": "lax",
+                        "timestamp": 1725564249798
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.7988588809967,
+                        "value": "52af091a-8ad2-4b68-b7a3-3de2adb72cfc",
+                        "same_site": "lax",
+                        "timestamp": 1725564249800
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8027980327606,
+                        "value": "bdefb850-828c-4391-875a-59d302834824",
+                        "same_site": "lax",
+                        "timestamp": 1725564249805
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.811019897461,
+                        "value": "13b8ce33-9472-4d11-a450-871a4c105efd",
+                        "same_site": "lax",
+                        "timestamp": 1725564249815
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8239200115204,
+                        "value": "082b4ccf-b48d-471d-a194-79f49c151089",
+                        "same_site": "lax",
+                        "timestamp": 1725564249829
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8270239830017,
+                        "value": "4e225f5f-6bfe-47c0-9429-5763060a0b9e",
+                        "same_site": "lax",
+                        "timestamp": 1725564249837
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.841677904129,
+                        "value": "5d1c189b-a32f-4a74-9a21-ebb0356c78fe",
+                        "same_site": "lax",
+                        "timestamp": 1725564249844
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8475608825684,
+                        "value": "ae4cfda6-3ac6-424e-a864-6d83d13c7bf1",
+                        "same_site": "lax",
+                        "timestamp": 1725564249850
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8535358905792,
+                        "value": "99757e49-ffce-4622-a6ce-e0370ce041c8",
+                        "same_site": "lax",
+                        "timestamp": 1725564249854
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800.8666110038757,
+                        "value": "dae077c5-508c-4ae0-987b-f424051182d7",
+                        "same_site": "lax",
+                        "timestamp": 1725564249867
+                    }
+                ]
+            },
+            "localization": {
+                "name": "localization",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564247046,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.797816038,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249798
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.798970938,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249800
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.80290699,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249805
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.811079025,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249815
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.824016094,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249829
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.82708001,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249837
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.84184289,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249844
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.847717047,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249850
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.853687048,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249855
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.86669302,
+                        "value": "CA",
+                        "same_site": "lax",
+                        "timestamp": 1725564249868
+                    }
+                ]
+            },
+            "secure_customer_sig": {
+                "name": "secure_customer_sig",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564247044,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.797796965,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249798
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.79891801,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249800
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.802819014,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249805
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.811045885,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249815
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.823981047,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249829
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.827056885,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249837
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.841768026,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249844
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.84764099,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249850
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.853637934,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249855
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 31536000.86665702,
+                        "value": "",
+                        "same_site": "lax",
+                        "timestamp": 1725564249867
+                    }
+                ]
+            },
+            "shopify_pay_redirect": {
+                "name": "shopify_pay_redirect",
+                "domain": "www.gianttiger.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564248461,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567848,
+                        "expiry": 3600,
+                        "value": "pending",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564248460
+                    }
+                ]
+            }
+        }
+    },
+    "measurement-api.criteo.com": {
+        "/": {
+            "ar_debug": {
+                "name": "ar_debug",
+                "domain": "measurement-api.criteo.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564254765,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564254761
+                    }
+                ]
+            }
+        }
+    }
+}

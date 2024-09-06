@@ -1,0 +1,1553 @@
+{
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564863648,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725565763.647169,
+                        "expiry": 900.6471691131592,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564863647
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.6488049030304,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564863649
+                    }
+                ]
+            }
+        }
+    },
+    "pixel.ssense.com": {
+        "/events/4a4d0584e25e127d30a30228298af911533689f54d273f1814f57f1759701fb6": {
+            "cee": {
+                "name": "cee",
+                "domain": ".pixel.ssense.com",
+                "path": "/events/4a4d0584e25e127d30a30228298af911533689f54d273f1814f57f1759701fb6",
+                "current_label": 3,
+                "label_ts": 1725564863507,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733340863.502354,
+                        "expiry": 7776000.502353907,
+                        "value": "AEpX0nGfNegDwBO9Jf%2B20SyiFluM1n5tcrlAExfJytM%3D.%7B%7D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564863503
+                    }
+                ]
+            }
+        }
+    },
+    "ssense.com": {
+        "/": {
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564860153,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725566660.127359,
+                        "expiry": 1800.1273589134216,
+                        "value": "8H1VB5_Hyb.LqEeAt9sIG_xUJ2tH.sEnpCJ3GmJnfK0-1725564860-1.0.1.1-WwUascf93522pJLihEr52340gtzsl_knKP.Z_2o0vmE_ZouawRJUDRIgjdHkoztdz2HMMgx4EW2fZ28lXpt5AQ",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564860153
+                    }
+                ]
+            },
+            "__pxvid": {
+                "name": "__pxvid",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564862354,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757187262,
+                        "expiry": 31622400,
+                        "value": "da19ce9a-6bbd-11ef-90a5-0242ac120002",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862353
+                    }
+                ]
+            },
+            "__zlcmid": {
+                "name": "__zlcmid",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564864232,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757100864,
+                        "expiry": 31536000,
+                        "value": "1Nbmzx83in2eNGg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564864230
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564862816,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733340862,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725564862815.659792553459194740",
+                        "same_site": "lax",
+                        "timestamp": 1725564862816
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564861669,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124861.667153,
+                        "expiry": 34560000.66715288,
+                        "value": "GA1.1.1078527888.1725564862",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861668
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.36416602,
+                        "value": "GA1.2.1078527888.1725564862",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865364
+                    }
+                ]
+            },
+            "_ga_3L9QF4WT0T": {
+                "name": "_ga_3L9QF4WT0T",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564861668,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124861.666908,
+                        "expiry": 34560000.666908026,
+                        "value": "GS1.1.1725564861.1.0.1725564861.0.0.1751936557",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861667
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.82086396,
+                        "value": "GS1.1.1725564861.1.0.1725564861.0.0.1751936557",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861821
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.13746691,
+                        "value": "GS1.1.1725564861.1.0.1725564871.0.0.1751936557",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564871138
+                    }
+                ]
+            },
+            "_gat": {
+                "name": "_gat",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564865370,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564925,
+                        "expiry": 60,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865369
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564861988,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733340861,
+                        "expiry": 7776000,
+                        "value": "1.1.1443752889.1725564862",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861987
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7775998,
+                        "value": "1.1.1443752889.1725564862",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564864755
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564865366,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725651265,
+                        "expiry": 86400,
+                        "value": "GA1.2.1950890854.1725564865",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865365
+                    }
+                ]
+            },
+            "_px2": {
+                "name": "_px2",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564862822,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725565192,
+                        "expiry": 330,
+                        "value": "eyJ1IjoiZDk4NTU2ODAtNmJiZC0xMWVmLWJlNDMtNWZlN2U3M2RlMjBjIiwidiI6ImQ5MGFjMjc1LTZiYmQtMTFlZi05YTVjLTQ4OThmNjVjZDhjYiIsInQiOjE3MjU1NjUxNjI4MDksImgiOiI5M2JmMWQxMDlkODgwOWM2YmNjY2ZhOWNkMmMxYWU3ZWM0MzNkZDgyYTI2NzhkYjVlNDY3ZTI4NzFkM2UxOThkIn0=",
+                        "same_site": "lax",
+                        "timestamp": 1725564862821
+                    }
+                ]
+            },
+            "_pxttld": {
+                "name": "_pxttld",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564861430,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564861429
+                    }
+                ]
+            },
+            "_pxvid": {
+                "name": "_pxvid",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564861825,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757100861,
+                        "expiry": 31536000,
+                        "value": "d90ac275-6bbd-11ef-9a5c-4898f65cd8cb",
+                        "same_site": "lax",
+                        "timestamp": 1725564861825
+                    }
+                ]
+            },
+            "_sp_id.c6c8": {
+                "name": "_sp_id.c6c8",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564862011,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760124862.00898,
+                        "expiry": 34560000.008980036,
+                        "value": "53552b56-ce28-4942-8f22-ef1186145624.1725564862.1.1725564862.1725564862.b75d1a6f-7e59-49f9-894c-6fb863e54cb9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564862010
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.01161194,
+                        "value": "53552b56-ce28-4942-8f22-ef1186145624.1725564862.1.1725564862.1725564862.b75d1a6f-7e59-49f9-894c-6fb863e54cb9",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564862012
+                    }
+                ]
+            },
+            "_sp_ses.c6c8": {
+                "name": "_sp_ses.c6c8",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564862010,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725566662,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564862009
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "*",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564862012
+                    }
+                ]
+            },
+            "_tt_enable_cookie": {
+                "name": "_tt_enable_cookie",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725564866105,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759260866,
+                        "expiry": 33696000,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564866104
+                    }
+                ]
+            },
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564866106,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759260866,
+                        "expiry": 33696000,
+                        "value": "Jyn2iGNHHXBIZ63E35OxTnvgQTg",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564866105
+                    }
+                ]
+            },
+            "ab._gd": {
+                "name": "ab._gd",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564865481,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ab._gd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865480
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ab._gd",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865482
+                    }
+                ]
+            },
+            "ab.storage.deviceId.e352e6f5-ea92-41e0-be85-df1e6a76e0b7": {
+                "name": "ab.storage.deviceId.e352e6f5-ea92-41e0-be85-df1e6a76e0b7",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564865491,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124865,
+                        "expiry": 34560000,
+                        "value": "%7B%22g%22%3A%22a686dc6b-14d0-0013-6af9-6bb1f1d9e11f%22%2C%22c%22%3A1725564865489%2C%22l%22%3A1725564865489%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865490
+                    }
+                ]
+            },
+            "ab.storage.sessionId.e352e6f5-ea92-41e0-be85-df1e6a76e0b7": {
+                "name": "ab.storage.sessionId.e352e6f5-ea92-41e0-be85-df1e6a76e0b7",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564865488,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124865,
+                        "expiry": 34560000,
+                        "value": "%7B%22g%22%3A%227ccfd3ee-77fb-7531-28d3-7c47bbdecfc9%22%2C%22e%22%3A1725566665485%2C%22c%22%3A1725564865485%2C%22l%22%3A1725564865485%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865487
+                    }
+                ]
+            },
+            "lastRskxRun": {
+                "name": "lastRskxRun",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564865637,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124865.636469,
+                        "expiry": 34560000.63646889,
+                        "value": "1725564865635",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865637
+                    }
+                ]
+            },
+            "pxcts": {
+                "name": "pxcts",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564861824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "d9bb42f6-6bbd-11ef-8554-145a32a42aac",
+                        "same_site": "lax",
+                        "timestamp": 1725564861823
+                    }
+                ]
+            },
+            "rCookie": {
+                "name": "rCookie",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564865642,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124865.640929,
+                        "expiry": 34560000.64092898,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865641
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64921093,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865649
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64977288,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865650
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.18656802,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564866187
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.339050055,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564866339
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.491334915,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564866492
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.64258194,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564866643
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.77962804,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564866780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.78003502,
+                        "value": "yhn5geer24kcz77gvjfwp9m0pornmt",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564866781
+                    }
+                ]
+            },
+            "rskxRunCookie": {
+                "name": "rskxRunCookie",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564865639,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124865.636961,
+                        "expiry": 34560000.63696098,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564865638
+                    }
+                ]
+            },
+            "zte2095": {
+                "name": "zte2095",
+                "domain": ".ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564862674,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862673
+                    }
+                ]
+            },
+            "_pxhd": {
+                "name": "_pxhd",
+                "domain": "ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564860140,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757100860.126711,
+                        "expiry": 31536000.12671089,
+                        "value": "PPhcIlXYVDu1n2djSeOtKalBcyzAGgJmWlKdjk4wycqkKmn/9MM2Zq39/y9USWvbAyE0se2yMTz8hqb6Ip9VGw==:ds5r/6YgxfOG0BV9jaWg5yeqqA0hDderhOMP9geGtGt5pm3kAPtmmPCtgkK9a9Vi4MrBhjcXEr9/4QVpe70VJ/lUNkzTkEpmCMcwV0j2Dio=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860129
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.433928967,
+                        "value": "dN8pKak53bzI3BgqE8Qg31cPJsHK/KI0EWWnZxYEqbQ-Lk-EMWbBsH-4LxCCyz/VdEOPRgZnhASnurzqpnqnmQ==:/PF5g9rkEj4g1wNtQS2DgkCEiEWp9AmlGGMX1NEWjCxXxHInh0QdRvkNoMCGOhOHRwNqLtIda/okociLjLnZVstJ5Voi/qqAU5lYcvH4IW0=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860435
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.623617887,
+                        "value": "rLicMLvO-D6djN/VA-YmqNhOOdGaI-M7hTf/geupskEw2X9m7OCu2JlnrZeRk5JyuvmoV76//1qRg2WX4T2OWg==:YR9j9AMcGyIHjNk0hbZRAyDcWqfziWa4qKbzSj0QOVnNhYT3wwEOnuYCg3kX5EtKrLk1OKkO51qNx4mqlxSO-b0Om0kIVyk9VZ/x/741oDA=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860626
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.085088015,
+                        "value": "Ezfegqs55ddhf/6oDZiDWqc1QyvVtezXgNRSNiKPu3OVHexcGMTlL01k9OSA68v-fr9c6UbQd0-xiKJFIRHD7w==:VxN/ElF8nvpJqNBfbQbJrHeADCnYcAJFFX1Be-gTIZVOMe6BSj206YjigWYT7DzI8GgN839cNpGl2QO0xuLPigG/GsRcnFewoiwxGb2AKmc=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862086
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000.113245964,
+                        "value": "U6zmbKSZu/YuvtLgGSzhEFwkTjh9vl7kphFdrJSRkz6pYpbPk5D5EYxjrOCbo64fDy33AnnG3UAeC8y2hPK2pQ==:qi1hRCEloynfz73FqqbeZzRkgC9P0ejn-0dCGjAnOjWXJkF7zFxnRaoVMJACi/LIJbFmJwzb3V1Q/ZFFhL30t953COUGu0xCKT99IcF2avI=",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862114
+                    }
+                ]
+            },
+            "exp_is_using_cognito_enabled": {
+                "name": "exp_is_using_cognito_enabled",
+                "domain": "ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564860150,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733340860.12727,
+                        "expiry": 7776000.127269983,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860149
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.434164047,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860437
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.624799967,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860628
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.8580310345,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860860
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.724395037,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861726
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.727560997,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861730
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.0852069855,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862086
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.11333704,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862115
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.600481987,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862602
+                    }
+                ]
+            },
+            "gdprCountry": {
+                "name": "gdprCountry",
+                "domain": "ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564860148,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860142
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860436
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860626
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860859
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861212
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861725
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861730
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862086
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862115
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862601
+                    }
+                ]
+            },
+            "isp": {
+                "name": "isp",
+                "domain": "ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564860152,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124860.127332,
+                        "expiry": 34560000.12733197,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860151
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.43422794,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860438
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.62519193,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860633
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.85822892,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860860
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.72453499,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861727
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.72762203,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861730
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.085259914,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862086
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.11343908,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862115
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.60062194,
+                        "value": "datacamp limited",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862603
+                    }
+                ]
+            },
+            "one_trust_eu": {
+                "name": "one_trust_eu",
+                "domain": "ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564860151,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733340860.127304,
+                        "expiry": 7776000.127304077,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860150
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.434196949,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860437
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.62501502,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860629
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.858120918,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860860
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.724455118,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861727
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.727601051,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861730
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.08523798,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862086
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.113408089,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862115
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000.600553036,
+                        "value": "false",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862602
+                    }
+                ]
+            },
+            "visitorId": {
+                "name": "visitorId",
+                "domain": "ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564860149,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124860.127236,
+                        "expiry": 34560000.12723589,
+                        "value": "8d7fcc98ba261935e2c15cc1ee2229692a0c0f82ae05aa1fe9cc2152829fec90",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860148
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.43412495,
+                        "value": "0c2f12abcd85db3a7180d82c301002b250cdb037d355c049b2ea57d8fcf62a25",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860437
+                    }
+                ]
+            },
+            "_dd_s": {
+                "name": "_dd_s",
+                "domain": "www.ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564861602,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2&lock=ee78f270-bc05-476c-bed1-50c8089ff1bd",
+                        "same_site": "strict",
+                        "timestamp": 1725564868624
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2",
+                        "same_site": "strict",
+                        "timestamp": 1725564868625
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2&lock=455da086-8b55-48aa-9f39-e0b53b3e96c8",
+                        "same_site": "strict",
+                        "timestamp": 1725564869608
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2",
+                        "same_site": "strict",
+                        "timestamp": 1725564869609
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2&lock=b816cf66-98f9-4359-bf7d-31a5223fabec",
+                        "same_site": "strict",
+                        "timestamp": 1725564869624
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2",
+                        "same_site": "strict",
+                        "timestamp": 1725564869625
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2&lock=ea3f7833-425c-4041-9b09-de1037aa9189",
+                        "same_site": "strict",
+                        "timestamp": 1725564870607
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2",
+                        "same_site": "strict",
+                        "timestamp": 1725564870609
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2&lock=be056655-1b66-4b26-b19b-022375916d08",
+                        "same_site": "strict",
+                        "timestamp": 1725564870625
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 900,
+                        "value": "logs=1&id=539eaa21-f231-496c-bcfa-aeaf75276450&created=1725564861602&expire=1725565761620&rum=2",
+                        "same_site": "strict",
+                        "timestamp": 1725564870626
+                    }
+                ]
+            },
+            "country": {
+                "name": "country",
+                "domain": "www.ssense.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564861598,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757100861,
+                        "expiry": 31536000,
+                        "value": "CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861597
+                    }
+                ]
+            },
+            "dd_cookie_test_455c18ae-6033-4836-a990-08dc8d04500c": {
+                "name": "dd_cookie_test_455c18ae-6033-4836-a990-08dc8d04500c",
+                "domain": "www.ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564861620,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564921,
+                        "expiry": 60,
+                        "value": "test",
+                        "same_site": "strict",
+                        "timestamp": 1725564861619
+                    }
+                ]
+            },
+            "dd_cookie_test_9740df0f-b30c-4fe0-a425-a84eb6a86d8d": {
+                "name": "dd_cookie_test_9740df0f-b30c-4fe0-a425-a84eb6a86d8d",
+                "domain": "www.ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564861601,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725564921,
+                        "expiry": 60,
+                        "value": "test",
+                        "same_site": "strict",
+                        "timestamp": 1725564861600
+                    }
+                ]
+            },
+            "lang": {
+                "name": "lang",
+                "domain": "www.ssense.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564861596,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757100861,
+                        "expiry": 31536000,
+                        "value": "en_CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861595
+                    }
+                ]
+            },
+            "preferredLanguage": {
+                "name": "preferredLanguage",
+                "domain": "www.ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564860628,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124860.624224,
+                        "expiry": 34560000.62422395,
+                        "value": "en",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564860627
+                    }
+                ]
+            },
+            "shopping_bag": {
+                "name": "shopping_bag",
+                "domain": "www.ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564862114,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1727984062.113205,
+                        "expiry": 2419200.113204956,
+                        "value": "66da07befa58e717c0e1ab85",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564862114
+                    }
+                ]
+            },
+            "sid": {
+                "name": "sid",
+                "domain": "www.ssense.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564861399,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760124861.3981,
+                        "expiry": 34560000.3980999,
+                        "value": "0d7bcf189b8d6121cb27e82985d17734",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564861398
+                    }
+                ]
+            }
+        }
+    },
+    "sspinc.io": {
+        "/": {
+            "sp": {
+                "name": "sp",
+                "domain": ".sspinc.io",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564862946,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760124862.944491,
+                        "expiry": 34560000.94449091,
+                        "value": "88feae32-67b6-4e19-80e8-04309d650c0b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564862945
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725564865573,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759260865.569131,
+                        "expiry": 33696000.5691309,
+                        "value": "2lfImon9hdklUqBZS262CMO4fy6",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564865570
+                    }
+                ]
+            }
+        }
+    },
+    "us22.zopim.com": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "us22.zopim.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564863628,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726169663.626255,
+                        "expiry": 604800.6262550354,
+                        "value": "Ym4ebPmBKiAhFVCrDq6SZBMBJMVvvudqF0JD5L48yUu2ld1PdWEsLtF4eGzvSzQ+5eBfKolxXHwTAdlae9SE6WAsQgWjs9kD/mnvTHr/+cok7/c/SzvziW0CAdKl",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564863626
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "birmingham.gov.uk": {
+        "/": {
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".birmingham.gov.uk",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725623700653,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760183700.648775,
+                        "expiry": 34560000.6487751,
+                        "value": "b568eca3-775c-88a6-f01b-6e089ac73623",
+                        "same_site": "lax",
+                        "timestamp": 1725623700649
+                    }
+                ]
+            },
+            "TestCookie": {
+                "name": "TestCookie",
+                "domain": ".www.birmingham.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623698151,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "Test",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623698144
+                    }
+                ]
+            },
+            "PHPSESSID": {
+                "name": "PHPSESSID",
+                "domain": "www.birmingham.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623698142,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "EhbpGW27DqGGZDlZtDB54%2CVUFH-5m7FximzcDdepm7xiKva9mMpfQFshJfbDMhWD",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623698123
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.birmingham.gov.uk",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623699029,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725623699028
+                    }
+                ]
+            }
+        }
+    },
+    "hitcounter.govmetric.com": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "hitcounter.govmetric.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623699856,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726228499.854605,
+                        "expiry": 604800.8546049595,
+                        "value": "Whd4btqb0FUyHtV8Mkv44TQsKWpXRolQSibrzCczdnL3RtY5fljogPykHQaZJxJgL1ICApzlX8EL4L30O1/YBdov5+R70UVqFJEy/lLcDsmsnqECfBwnq70RHI14",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623699855
+                    }
+                ]
+            }
+        }
+    },
+    "websurveys2.govmetric.com": {
+        "/": {
+            "AWSALBCORS": {
+                "name": "AWSALBCORS",
+                "domain": "websurveys2.govmetric.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725623699858,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726228499.856217,
+                        "expiry": 604800.8562169075,
+                        "value": "PdEuWYjEOpGqwV5Mwku8DACQ0Yyb1MMMvc4aJsgzkarSYvUjX5unDnFSMWr49RSn4cztPEkpIrZ46Z0S5p8yiv4bW5j1W3IaBjjnJP18KLwL3ztT3r+Aft+1XxN3",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623699857
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.0703129768,
+                        "value": "BjX1Yoc4LjOjBd+Rxp5iArVdBqTpnqby4n+PgHKSfN5nL6PjyxIGL8GWm/ZEIM8rwkRCCQglMxYidLSHwDpsHoVi6pBL9dm/w0Hj7YbocnHoTZwNaZdrBg9GTef1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623700071
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 604800.2812008858,
+                        "value": "H6t8deyB4qffZKBaDpdQbsKvOT8d0/RxeN5dcIQAfxyOhbv2SjAXYRhFdOvCxAgn3DNZIOQMArDgNDLhF4JAgBKedn2jLIJP2L3J4hmH0sH8D5N5NV9Tv7W7gbN7",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725623700282
+                    }
+                ]
+            }
+        }
+    }
+}

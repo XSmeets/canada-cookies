@@ -1,0 +1,111 @@
+{
+    "lemonde.fr": {
+        "/": {
+            "_cookie_test": {
+                "name": "_cookie_test",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573998864,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725574028,
+                        "expiry": 30,
+                        "value": "m0pu7eva820iw6",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573998863
+                    }
+                ]
+            },
+            "_pctx": {
+                "name": "_pctx",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725573999599,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701999,
+                        "expiry": 34128000,
+                        "value": "%7Bu%7DN4IgrgzgpgThIC4B2YA2qA05owMoBcBDfSREQpAeyRCwgEt8oBJAE0RXSwH18yBbAOZQAnABYA7jAkAffgAYADmADsAMzUSQAXyA",
+                        "same_site": "lax",
+                        "timestamp": 1725573999597
+                    }
+                ]
+            },
+            "atauthority": {
+                "name": "atauthority",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573998863,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759874798,
+                        "expiry": 34300800,
+                        "value": "%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22cnil%22%2C%22visitor_mode%22%3A%22exempt%22%7D%2C%22options%22%3A%7B%22end%22%3A%222025-10-07T22%3A06%3A38.852Z%22%2C%22path%22%3A%22%2F%22%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573998862
+                    }
+                ]
+            },
+            "atidvisitor": {
+                "name": "atidvisitor",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573998860,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1741298798.850782,
+                        "expiry": 15724800.850781918,
+                        "value": "%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-43260-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725573998856
+                    }
+                ]
+            },
+            "pa_privacy": {
+                "name": "pa_privacy",
+                "domain": ".lemonde.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725573998865,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759701998,
+                        "expiry": 34128000,
+                        "value": "%22exempt%22",
+                        "same_site": "lax",
+                        "timestamp": 1725573998864
+                    }
+                ]
+            }
+        }
+    }
+}

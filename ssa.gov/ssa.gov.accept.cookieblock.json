@@ -1,0 +1,161 @@
+{
+    "ssa.gov": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".ssa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632505828,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725636105.808382,
+                        "expiry": 3600.8083820343018,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632505810
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".ssa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632507819,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760192507.815255,
+                        "expiry": 34560000.81525493,
+                        "value": "GA1.1.1914247599.1725632508",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632507818
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.982163906,
+                        "value": "GA1.1.1914247599.1725632508",
+                        "same_site": "strict",
+                        "timestamp": 1725632507985
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".ssa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632507984,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760192507.981749,
+                        "expiry": 34560000.98174906,
+                        "value": "GS1.1.1725632507.1.0.1725632507.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725632507983
+                    }
+                ]
+            },
+            "_ga_VSSTFV3FKR": {
+                "name": "_ga_VSSTFV3FKR",
+                "domain": ".ssa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632507818,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760192507.814959,
+                        "expiry": 34560000.81495905,
+                        "value": "GS1.1.1725632507.1.0.1725632507.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632507817
+                    }
+                ]
+            },
+            "RT": {
+                "name": "RT",
+                "domain": ".www.ssa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725632507623,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726237307,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=20604ddb-d0d0-4dfb-8a53-4ebff63ce381&ss=m0qt1e6b&sl=0&tt=0\"",
+                        "same_site": "lax",
+                        "timestamp": 1725632507616
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=20604ddb-d0d0-4dfb-8a53-4ebff63ce381&ss=m0qt1e6b&sl=0&tt=0&rl=1\"",
+                        "same_site": "lax",
+                        "timestamp": 1725632508046
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=20604ddb-d0d0-4dfb-8a53-4ebff63ce381&ss=m0qt1e6b&sl=1&tt=2oa&rl=1&ld=2ob\"",
+                        "same_site": "lax",
+                        "timestamp": 1725632508047
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=20604ddb-d0d0-4dfb-8a53-4ebff63ce381&ss=m0qt1e6b&sl=1&tt=2oa&rl=1&ld=2ob&ul=702\"",
+                        "same_site": "lax",
+                        "timestamp": 1725632513657
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 604800,
+                        "value": "\"z=1&dm=www.ssa.gov&si=20604ddb-d0d0-4dfb-8a53-4ebff63ce381&ss=m0qt1e6b&sl=1&tt=2oa&rl=1&ld=2ob&ul=702&hd=706\"",
+                        "same_site": "lax",
+                        "timestamp": 1725632513658
+                    }
+                ]
+            }
+        }
+    }
+}

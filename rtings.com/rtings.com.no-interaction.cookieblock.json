@@ -1,0 +1,90 @@
+{
+    "rtings.com": {
+        "/": {
+            "_rtings_session": {
+                "name": "_rtings_session",
+                "domain": ".rtings.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564791500,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1728156791.468597,
+                        "expiry": 2592000.4685969353,
+                        "value": "QFlUFxWomoSXd%2Bb5SnIGYo5A4kaRZGuTIuSqd5d0OHzXDZgG%2FOgQMSU8Vat3RnfXnr6kBpaaEamfleThVBtYj1ZH7%2BxdaYOIQfgoe4M%2Bw8O%2FBkl6rmk6q%2BGmngLIIxxbtYNw0hjAhlsQhoi3c74RODCnWrinvsZB1IdCsnpJ6iTPq2VjJYYRMLmzBNQWIMVlb7qiHrFew4viBlAUAZ1pQ33XJdKKh29ZhLRq7fs5pPUJEYmnD%2B8vbRjLWYWePU6mbLk0lf2NYPEPPp37agWGP5fqJlwzLilKmNgwNuJ96MO%2BjxivRtos90QmJrOAkzwYUTna2qQ%3D--RtfAflthBNWHEJf0--BWq1ZvQu2J69tpr1xyAhUQ%3D%3D",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725564791491
+                    }
+                ]
+            },
+            "current-pageviews": {
+                "name": "current-pageviews",
+                "domain": ".rtings.com",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725564791490,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725651191.46805,
+                        "expiry": 86400.46805000305,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564791474
+                    }
+                ]
+            },
+            "global-store": {
+                "name": "global-store",
+                "domain": "www.rtings.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564792794,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726169592,
+                        "expiry": 604800,
+                        "value": "auto",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564792793
+                    }
+                ]
+            },
+            "pref-country": {
+                "name": "pref-country",
+                "domain": "www.rtings.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725564792793,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726169592,
+                        "expiry": 604800,
+                        "value": "ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725564792792
+                    }
+                ]
+            }
+        }
+    }
+}

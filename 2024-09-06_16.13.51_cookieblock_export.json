@@ -1,0 +1,27 @@
+{
+    "michaels.com": {
+        "/": {
+            "AKA_A2": {
+                "name": "AKA_A2",
+                "domain": ".michaels.com",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725632002395,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725635602.380252,
+                        "expiry": 3600.3802518844604,
+                        "value": "A",
+                        "same_site": "unspecified",
+                        "timestamp": 1725632002382
+                    }
+                ]
+            }
+        }
+    }
+}

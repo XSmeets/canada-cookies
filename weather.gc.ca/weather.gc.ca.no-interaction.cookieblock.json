@@ -1,0 +1,48 @@
+{
+    "weather.gc.ca": {
+        "/": {
+            "_ga": {
+                "name": "_ga",
+                "domain": ".weather.gc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725567247249,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760127247.240708,
+                        "expiry": 34560000.24070811,
+                        "value": "GA1.1.1670172860.1725567247",
+                        "same_site": "unspecified",
+                        "timestamp": 1725567247249
+                    }
+                ]
+            },
+            "_ga_KRTDXYDHQP": {
+                "name": "_ga_KRTDXYDHQP",
+                "domain": ".weather.gc.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725567247249,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760127247.240411,
+                        "expiry": 34560000.24041104,
+                        "value": "GS1.1.1725567247.1.0.1725567247.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725567247245
+                    }
+                ]
+            }
+        }
+    }
+}

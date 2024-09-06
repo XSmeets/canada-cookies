@@ -1,0 +1,1083 @@
+{
+    "criteo.com": {
+        "/": {
+            "receive-cookie-deprecation": {
+                "name": "receive-cookie-deprecation",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563517414,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759259516.405637,
+                        "expiry": 33695999.405637026,
+                        "value": "1",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563517412
+                    }
+                ]
+            },
+            "uid": {
+                "name": "uid",
+                "domain": ".criteo.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563517411,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759259516.405476,
+                        "expiry": 33695999.40547609,
+                        "value": "7eeb609e-0714-4f3c-82db-93c7698dcf6b",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563517406
+                    }
+                ]
+            }
+        }
+    },
+    "doubleclick.net": {
+        "/": {
+            "test_cookie": {
+                "name": "test_cookie",
+                "domain": ".doubleclick.net",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563515659,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725564415.655754,
+                        "expiry": 900.6557540893555,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563515656
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.6642129421234,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563515665
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.6722960472107,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563515673
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 900.7063388824463,
+                        "value": "CheckForPermission",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563515709
+                    }
+                ]
+            }
+        }
+    },
+    "simons.ca": {
+        "/": {
+            "FPAU": {
+                "name": "FPAU",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563515465,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1733339515.464026,
+                        "expiry": 7776000.464025974,
+                        "value": "1.1.1476249394.1725563515",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515465
+                    }
+                ]
+            },
+            "FPID": {
+                "name": "FPID",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563515030,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760123515.029375,
+                        "expiry": 34560000.02937508,
+                        "value": "FPID2.2.O4MtVg%2Bo9NUvZk5dglg66gon8xul9OyFfib2AJCIZKE%3D.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515030
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.323440075,
+                        "value": "FPID2.2.O4MtVg%2Bo9NUvZk5dglg66gon8xul9OyFfib2AJCIZKE%3D.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515324
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.4639349,
+                        "value": "FPID2.2.O4MtVg%2Bo9NUvZk5dglg66gon8xul9OyFfib2AJCIZKE%3D.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515464
+                    }
+                ]
+            },
+            "FPLC": {
+                "name": "FPLC",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563515033,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725635515.029468,
+                        "expiry": 72000.02946805954,
+                        "value": "Y71vKWBj69eRyrZi%2F1yn1jnTkFc0s1EkiGTc27yoYPd54jy9x3u0j9ZyQomi5B9ZU9fB50GpLbWkyqivoG2USIugg14%2BZiwg7GPYKUWiQcHBtZRIZkUDZ2IBx4aYew%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515031
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 72000.32349896431,
+                        "value": "EgMTZDBpOnmHwCRBk9kXdUMIw9I5JRxrASUCWyNZOoqG1m7u9l5GKIePEapoAGd%2BBmlhOTIt8i5Xq6B4C%2BLYGHGjNF9codeunbMjQ5fKu6gnwxOK%2Ft6gly0H4kaLoQ%3D%3D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515324
+                    }
+                ]
+            },
+            "IR_10960": {
+                "name": "IR_10960",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563515811,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1725563515802%7C0%7C1725563515802%7C%7C",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515810
+                    }
+                ]
+            },
+            "IR_gbd": {
+                "name": "IR_gbd",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563515810,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "simons.ca",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515809
+                    }
+                ]
+            },
+            "__cf_bm": {
+                "name": "__cf_bm",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563512246,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725565312.244019,
+                        "expiry": 1800.2440190315247,
+                        "value": "F9tNNpFlgZGzBMwO2oZDdkRtcaRFnX7U_WrD7ykGmmE-1725563512-1.0.1.1-AwmO.5dcZN8WZO8GGIhtj4YgWJlKjKf0xoSPn9EOZjZjN3ex7zn4UlBfVB2cAhpeO4rfvyCs3i_huxY93OHA0RRkuxjqm3dyt6Rdt46oprk",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563512245
+                    }
+                ]
+            },
+            "__exponea_etc__": {
+                "name": "__exponea_etc__",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563516198,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760123516.197141,
+                        "expiry": 34560000.19714093,
+                        "value": "055a2a79-b65c-49b8-86bb-aa444d2f90b0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563516197
+                    }
+                ]
+            },
+            "__exponea_time2__": {
+                "name": "__exponea_time2__",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563516405,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1725567116,
+                        "expiry": 3600,
+                        "value": "0.07577347755432129",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563516404
+                    }
+                ]
+            },
+            "_fbp": {
+                "name": "_fbp",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563516031,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733339516,
+                        "expiry": 7776000,
+                        "value": "fb.1.1725563516030.52916181355494364",
+                        "same_site": "lax",
+                        "timestamp": 1725563516031
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563514381,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123514.379164,
+                        "expiry": 34560000.37916398,
+                        "value": "GA1.1.1250142917.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514381
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.495579004,
+                        "value": "GA1.1.1250142917.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514496
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.83575511,
+                        "value": "GA1.2.1250142917.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514836
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.84161806,
+                        "value": "GA1.2.1250142917.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514842
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.971952915,
+                        "value": "GA1.2.1250142917.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514972
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.142290115,
+                        "value": "GA1.2.1250142917.1725563514",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515142
+                    }
+                ]
+            },
+            "_ga_S1M0N5": {
+                "name": "_ga_S1M0N5",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563514380,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123514.37886,
+                        "expiry": 34560000.37886,
+                        "value": "GS1.1.1725563514.1.0.1725563514.0.0.1324938196",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514380
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.1727829,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515173
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.17308903,
+                        "value": "GS1.1.1725563514.1.1.1725563515.0.0.1324938196",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515173
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.86150503,
+                        "value": "GS1.1.1725563514.1.1.1725563520.0.0.1324938196",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563520862
+                    }
+                ]
+            },
+            "_ga_TVRY73VP6D": {
+                "name": "_ga_TVRY73VP6D",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563514496,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123514.494906,
+                        "expiry": 34560000.49490595,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514495
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.49536991,
+                        "value": "GS1.1.1725563514.1.0.1725563514.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514496
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.49862504,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514498
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.49877906,
+                        "value": "GS1.1.1725563514.1.0.1725563514.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514499
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.50045395,
+                        "value": "deleted",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514500
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.50060797,
+                        "value": "GS1.1.1725563514.1.0.1725563514.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514501
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.86933398,
+                        "value": "GS1.1.1725563514.1.0.1725563520.60.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563520869
+                    }
+                ]
+            },
+            "_gcl_au": {
+                "name": "_gcl_au",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563515147,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1733339515,
+                        "expiry": 7776000,
+                        "value": "1.1.1476249394.1725563515",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515146
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 7776000,
+                        "value": "1.1.1476249394.1725563515",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515148
+                    }
+                ]
+            },
+            "_gid": {
+                "name": "_gid",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725563514838,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725649914,
+                        "expiry": 86400,
+                        "value": "GA1.2.536692901.1725563515",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514836
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.536692901.1725563515",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514842
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.536692901.1725563515",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514973
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 86400,
+                        "value": "GA1.2.536692901.1725563515",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515143
+                    }
+                ]
+            },
+            "cto_bundle": {
+                "name": "cto_bundle",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563517564,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759727517,
+                        "expiry": 34164000,
+                        "value": "7A_nbl82V256cm5PQ0RaNVVTeWpvYnN2WVZyTEhMd2RhZmQ2M3UyeEIlMkJxYzdUU0FQTkZ0ajI1QUZSbCUyRlRWU0pCdDNUQ0ZlUVlYVFExVU0wU2p6dU5Uejk3ZmszaDhuNk40bW9SOWFQdjNZUlVkWGk2TnkwNzdsSlF0UnVCTlFDNEhSVm14NXJuUG1acHpKOFM5SXZneHcwRWhnJTNEJTNE",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563517563
+                    }
+                ]
+            },
+            "cto_tld_test": {
+                "name": "cto_tld_test",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563515822,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725567115,
+                        "expiry": 3600,
+                        "value": "woot",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515821
+                    }
+                ]
+            },
+            "current_session_id": {
+                "name": "current_session_id",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563514314,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "waedrwlhcur",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563514313
+                    }
+                ]
+            },
+            "didomi_token": {
+                "name": "didomi_token",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563514167,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757185914,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzM5OWEtZDM1MS02YTVjLTkzMWQtZDNhZjgwYmRjN2Y0IiwiY3JlYXRlZCI6IjIwMjQtMDktMDVUMTk6MTE6NTQuMTY1WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA1VDE5OjExOjU0LjE2NloiLCJ2ZXJzaW9uIjpudWxsfQ==",
+                        "same_site": "lax",
+                        "timestamp": 1725563514166
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31622400,
+                        "value": "eyJ1c2VyX2lkIjoiMTkxYzM5OWEtZDM1MS02YTVjLTkzMWQtZDNhZjgwYmRjN2Y0IiwiY3JlYXRlZCI6IjIwMjQtMDktMDVUMTk6MTE6NTQuMTY1WiIsInVwZGF0ZWQiOiIyMDI0LTA5LTA1VDE5OjExOjU1LjEyN1oiLCJ2ZW5kb3JzIjp7ImVuYWJsZWQiOlsiZ29vZ2xlIiwiYzppbXBhY3QtcmFkaXVzIiwiYzpwYXlwYWwtc2hvcHBpbmciLCJjOmJsb29tcmVhY2giLCJjOnNpbW9ucy1wRXpnaDI4ViIsImM6dGlrdG9rLUtaQVVRTFo5IiwiYzpnb29nbGVhbmEtNFRYbkppZ1IiLCJjOmFsZ29saWEtYU5KQlVEUlQiLCJjOnBpbnRlcmVzdCJdfSwicHVycG9zZXMiOnsiZW5hYmxlZCI6WyJnZW9sb2NhdGlvbl9kYXRhIiwiZGV2aWNlX2NoYXJhY3RlcmlzdGljcyJdfSwidmVuZG9yc19saSI6eyJlbmFibGVkIjpbImdvb2dsZSJdfSwidmVyc2lvbiI6MiwiYWMiOiJBRm1BQ0FGay5BRm1BQ0FGayJ9",
+                        "same_site": "lax",
+                        "timestamp": 1725563515135
+                    }
+                ]
+            },
+            "euconsent-v2": {
+                "name": "euconsent-v2",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563515136,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757185915,
+                        "expiry": 31622400,
+                        "value": "CQEeY0AQEeY0AAHABBENBFFsAP_AAEPgAAAAF5wAwAtgDuAXmBecAIAdwC8wAAAA.f_gACHwAAAAA",
+                        "same_site": "lax",
+                        "timestamp": 1725563515135
+                    }
+                ]
+            },
+            "geoip_cache": {
+                "name": "geoip_cache",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563512661,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725649912.647668,
+                        "expiry": 86400.64766788483,
+                        "value": "%7B%22continent_code%22%3A%22EU%22%2C%22country_code%22%3A%22DE%22%2C%22country_code3%22%3A%22DEU%22%2C%22country_name%22%3A%22Germany%22%2C%22region%22%3A%22HE%22%2C%22city%22%3A%22Frankfurt%20am%20Main%22%2C%22postal_code%22%3A%2260313%22%2C%22latitude%22%3A50.11880111694336%2C%22longitude%22%3A8.684300422668457%2C%22dma_code%22%3A0%2C%22area_code%22%3A0%7D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563512648
+                    }
+                ]
+            },
+            "lastRskxRun": {
+                "name": "lastRskxRun",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563517634,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123517.633276,
+                        "expiry": 34560000.633275986,
+                        "value": "1725563517632",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563517633
+                    }
+                ]
+            },
+            "rCookie": {
+                "name": "rCookie",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563517637,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123517.636047,
+                        "expiry": 34560000.63604689,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563517636
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.645392895,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563517645
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.645684004,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563517646
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.18455601,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563518186
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.3344779,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563518335
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.48199296,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563518483
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.48283291,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563518484
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.62885094,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563518629
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34560000.76342893,
+                        "value": "eogsip67dgq765crrzpdugm0pnyria",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563518763
+                    }
+                ]
+            },
+            "rskxRunCookie": {
+                "name": "rskxRunCookie",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563517636,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123517.633884,
+                        "expiry": 34560000.63388395,
+                        "value": "0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563517635
+                    }
+                ]
+            },
+            "show_fbox_feb_2016": {
+                "name": "show_fbox_feb_2016",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563513620,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1730751113,
+                        "expiry": 5187600,
+                        "value": "2",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563513619
+                    }
+                ]
+            },
+            "simonsprof": {
+                "name": "simonsprof",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563512511,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1728155512.502744,
+                        "expiry": 2592000.5027439594,
+                        "value": "locale%3Den_CA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563512503
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 2592000.647716999,
+                        "value": "locale%3Den_CA%26countryPreference%3DCA",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563512661
+                    }
+                ]
+            },
+            "user_score_history": {
+                "name": "user_score_history",
+                "domain": ".simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563515178,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1726859515,
+                        "expiry": 1296000,
+                        "value": "%5B%7B%22p%22%3A%22webRootCategory%22%2C%22d%22%3A%5B%5D%7D%5D",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515177
+                    }
+                ]
+            },
+            "_hd": {
+                "name": "_hd",
+                "domain": ".www.simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563518647,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123518.64668,
+                        "expiry": 34560000.64668012,
+                        "value": "{\"heyday-widget-state\":\"welcome\"}",
+                        "same_site": "strict",
+                        "timestamp": 1725563518646
+                    }
+                ]
+            },
+            "_hdtid": {
+                "name": "_hdtid",
+                "domain": ".www.simons.ca",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725563518388,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760123518.38606,
+                        "expiry": 34560000.38606,
+                        "value": "274d882b-c2a4-468d-a8b6-26193a3d0d59",
+                        "same_site": "strict",
+                        "timestamp": 1725563518386
+                    }
+                ]
+            },
+            "criteo_write_test": {
+                "name": "criteo_write_test",
+                "domain": "www.simons.ca",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563515824,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725563525,
+                        "expiry": 10,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725563515823
+                    }
+                ]
+            }
+        }
+    },
+    "tiktok.com": {
+        "/": {
+            "_ttp": {
+                "name": "_ttp",
+                "domain": ".tiktok.com",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1725563515764,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1759259515.760403,
+                        "expiry": 33696000.76040292,
+                        "value": "2lfG3Ehl0TplZM5NSWNS9fklIIS",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563515762
+                    }
+                ]
+            }
+        }
+    },
+    "mktg-api.simons.ca": {
+        "/": {
+            "xnpe_3d726c60-eb70-11ee-bd52-7a9e9095c5a2": {
+                "name": "xnpe_3d726c60-eb70-11ee-bd52-7a9e9095c5a2",
+                "domain": "mktg-api.simons.ca",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725563516197,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760123516.19552,
+                        "expiry": 34560000.195519924,
+                        "value": "055a2a79-b65c-49b8-86bb-aa444d2f90b0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563516196
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.7002449,
+                        "value": "055a2a79-b65c-49b8-86bb-aa444d2f90b0",
+                        "same_site": "no_restriction",
+                        "timestamp": 1725563516701
+                    }
+                ]
+            }
+        }
+    }
+}

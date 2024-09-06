@@ -1,0 +1,453 @@
+{
+    "usa.gov": {
+        "/": {
+            "_ce.cch": {
+                "name": "_ce.cch",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635623144,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635623143
+                    }
+                ]
+            },
+            "_ce.clock_data": {
+                "name": "_ce.clock_data",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635623849,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725722023,
+                        "expiry": 86400,
+                        "value": "-186%2C149.88.98.86%2C1%2Cfe0673f2a48d047b912b27e2a0c02f9f%2CChrome%2CCA",
+                        "same_site": "strict",
+                        "timestamp": 1725635623847
+                    }
+                ]
+            },
+            "_ce.clock_event": {
+                "name": "_ce.clock_event",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635623283,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1725722023,
+                        "expiry": 86400,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635623282
+                    }
+                ]
+            },
+            "_ce.gtld": {
+                "name": "_ce.gtld",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635623143,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635623143
+                    }
+                ]
+            },
+            "_ce.irv": {
+                "name": "_ce.irv",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635623276,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "new",
+                        "same_site": "strict",
+                        "timestamp": 1725635623275
+                    }
+                ]
+            },
+            "_ce.s": {
+                "name": "_ce.s",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635623273,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1757171623,
+                        "expiry": 31536000,
+                        "value": "v~170b682c01fdddd06115922d8b613ca17b78902a~lcw~1725635623271",
+                        "same_site": "strict",
+                        "timestamp": 1725635623272
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~170b682c01fdddd06115922d8b613ca17b78902a~lcw~1725635623273~lva~1725635623272~vpv~0~lcw~1725635623273",
+                        "same_site": "strict",
+                        "timestamp": 1725635623277
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~170b682c01fdddd06115922d8b613ca17b78902a~lcw~1725635623853~lva~1725635623272~vpv~0~v11.cs~5982~lcw~1725635623853",
+                        "same_site": "strict",
+                        "timestamp": 1725635623854
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~170b682c01fdddd06115922d8b613ca17b78902a~lcw~1725635623853~lva~1725635623272~vpv~0~v11.cs~5982~v11.s~9b3855d0-6c62-11ef-9917-995b09103a0a~lcw~1725635623854",
+                        "same_site": "strict",
+                        "timestamp": 1725635623855
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~170b682c01fdddd06115922d8b613ca17b78902a~lcw~1725635623854~lva~1725635623272~vpv~0~v11.cs~5982~v11.s~9b3855d0-6c62-11ef-9917-995b09103a0a~v11.send~1725635630020~lcw~1725635630020",
+                        "same_site": "strict",
+                        "timestamp": 1725635630021
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 31536000,
+                        "value": "v~170b682c01fdddd06115922d8b613ca17b78902a~lcw~1725635630020~lva~1725635623272~vpv~0~v11.cs~5982~v11.s~9b3855d0-6c62-11ef-9917-995b09103a0a~v11.send~1725635630020~gtrk.la~m0quwds6~lcw~1725635630022",
+                        "same_site": "strict",
+                        "timestamp": 1725635630023
+                    }
+                ]
+            },
+            "_ga": {
+                "name": "_ga",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635623142,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195623.132861,
+                        "expiry": 34560000.1328609,
+                        "value": "GA1.1.1061466238.1725635623",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635623141
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.61370611,
+                        "value": "GA1.1.1061466238.1725635623",
+                        "same_site": "strict",
+                        "timestamp": 1725635623615
+                    }
+                ]
+            },
+            "_ga_CSLL4ZEK4L": {
+                "name": "_ga_CSLL4ZEK4L",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635623614,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760195623.612867,
+                        "expiry": 34560000.61286712,
+                        "value": "deleted",
+                        "same_site": "strict",
+                        "timestamp": 1725635623613
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": true,
+                        "session": false,
+                        "expiry": 34560000.61322594,
+                        "value": "GS1.1.1725635623.1.0.1725635623.0.0.0",
+                        "same_site": "strict",
+                        "timestamp": 1725635623615
+                    }
+                ]
+            },
+            "_ga_GXFTMLX26S": {
+                "name": "_ga_GXFTMLX26S",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635623141,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195623.132552,
+                        "expiry": 34560000.13255191,
+                        "value": "GS1.1.1725635623.1.0.1725635623.0.0.0",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635623139
+                    }
+                ]
+            },
+            "cebs": {
+                "name": "cebs",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635623277,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635623276
+                    }
+                ]
+            },
+            "cebsp_": {
+                "name": "cebsp_",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635623850,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "strict",
+                        "timestamp": 1725635623849
+                    }
+                ]
+            },
+            "nmstat": {
+                "name": "nmstat",
+                "domain": ".usa.gov",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1725635622835,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760195622.830106,
+                        "expiry": 34560000.83010602,
+                        "value": "e974c801-4c1d-019a-e25d-19fce1dfffe3",
+                        "same_site": "lax",
+                        "timestamp": 1725635622831
+                    }
+                ]
+            },
+            "QSI_HistorySession": {
+                "name": "QSI_HistorySession",
+                "domain": "www.usa.gov",
+                "path": "/",
+                "current_label": 1,
+                "label_ts": 1725635624759,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "https%3A%2F%2Fwww.usa.gov%2F~1725635624753",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635624756
+                    }
+                ]
+            },
+            "cookietest": {
+                "name": "cookietest",
+                "domain": "www.usa.gov",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1725635625018,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625023
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625024
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625025
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625026
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625026
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625027
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625028
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625552
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625553
+                    },
+                    {
+                        "host_only": true,
+                        "http_only": false,
+                        "secure": false,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1725635625563
+                    }
+                ]
+            }
+        }
+    }
+}
