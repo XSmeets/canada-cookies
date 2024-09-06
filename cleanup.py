@@ -31,7 +31,7 @@ def extract_file_type(value):
 
 df['file type'] = df['File Path'].apply(extract_file_type)
 df_indexed = df.dropna(subset=['file type']).set_index(['domain', 'file type'])
-domains = pd.unique(df['domain'].apply(tuple, axis=1))
+domains = pd.unique(df['domain'])
 df_times = pd.DataFrame(list(domains), columns=['domain']).dropna()
 def query_timestamp(row, file_type):
     try:
