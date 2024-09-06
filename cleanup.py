@@ -48,6 +48,7 @@ df_times['accept'] = df_times.apply(query_timestamp, axis='columns', file_type='
 df_times['no-interaction'] = df_times.apply(query_timestamp, axis='columns', file_type='no-interaction')
 df_times['no-interaction-first'] = df_times['no-interaction'] < df_times['accept']
 
+df_times.set_index('domain', inplace=True)
 
 def cookieblock_filter(cookieblock_data, phase_name, domain, cookie_set):
     cookieblock_dict = {(cookie_dict['name'], cookie_dict['domain'], cookie_dict['path']): [cookie['timestamp'] for cookie in cookie_dict['variable_data']] for paths in cookieblock_data.values() for cookies in paths.values() for cookie_dict in cookies.values()}
