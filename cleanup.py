@@ -36,7 +36,7 @@ df_times = pd.DataFrame(list(domains), columns=['domain']).dropna()
 def query_timestamp(row, file_type):
     try:
         # We add 1 second to the timestamp to account for the fact that modification timestamps are rounded down, whereas cookie timestamps (in Cookieblock) are given in milliseconds.
-        return df_indexed.loc(axis=0)[row['domain'], file_type]['Modification Time'].values[0] + 1
+        return df_indexed.loc(axis=0)[row['domain'], file_type]['Modification Time'] + 1
     except KeyError:
         # print(row['domain'], file_type)
         return None
