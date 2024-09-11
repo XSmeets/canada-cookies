@@ -1,1 +1,211 @@
-{}
+{
+    "service-public.fr": {
+        "/": {
+            "ABTasty": {
+                "name": "ABTasty",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1726079805767,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1759603005,
+                        "expiry": 33523200,
+                        "value": "undefinedABTastyCookieQuickTest",
+                        "same_site": "lax",
+                        "timestamp": 1726079805765
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34128000,
+                        "value": "uid=rpexnwrnznw2apma&fst=1726079805779&pst=-1&cst=1726079805779&ns=1&pvt=1&pvis=1&th=",
+                        "same_site": "lax",
+                        "timestamp": 1726079805780
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 34127999,
+                        "value": "uid=rpexnwrnznw2apma&fst=1726079805779&pst=-1&cst=1726079805779&ns=1&pvt=1&pvis=1&th=1239334.1535533.1.1.1.1.1726079806189.1726079806189.0.1",
+                        "same_site": "lax",
+                        "timestamp": 1726079806190
+                    }
+                ]
+            },
+            "ABTastySession": {
+                "name": "ABTastySession",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1726079805771,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1726081605,
+                        "expiry": 1800,
+                        "value": "mrasn=&lp=https%253A%252F%252Fwww.service-public.fr%252F",
+                        "same_site": "lax",
+                        "timestamp": 1726079805770
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 1800,
+                        "value": "mrasn=&lp=https%253A%252F%252Fwww.service-public.fr%252F",
+                        "same_site": "lax",
+                        "timestamp": 1726079805773
+                    }
+                ]
+            },
+            "SP_RGPD_OREJIME": {
+                "name": "SP_RGPD_OREJIME",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1726079804793,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1741804604,
+                        "expiry": 15724800,
+                        "value": "{\"internal-tracker\":true,\"eulerian\":true,\"ab-tasty\":true,\"streaming-video\":true}",
+                        "same_site": "unspecified",
+                        "timestamp": 1726079804791
+                    },
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expiry": 15724800,
+                        "value": "{\"internal-tracker\":true,\"eulerian\":true,\"ab-tasty\":true,\"streaming-video\":true}",
+                        "same_site": "unspecified",
+                        "timestamp": 1726079804799
+                    }
+                ]
+            },
+            "SP_SESSION": {
+                "name": "SP_SESSION",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1726079797406,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "ZmEzNmNhYmQtM2FlMS00MTY0LTgzMTAtYTc0MGRjODc1NTA3",
+                        "same_site": "lax",
+                        "timestamp": 1726079797391
+                    }
+                ]
+            },
+            "TS01425d24": {
+                "name": "TS01425d24",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1726079797422,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "012a7f58e017d3c19ad476c39ca1ecc640e0d9a20d4aa614e7bb9b36e4cc3e04122fbebb464385a6b55a43dcd0595a4417018756f212a95d8f7f1579fe35ff50edf7dc079a",
+                        "same_site": "unspecified",
+                        "timestamp": 1726079797420
+                    }
+                ]
+            },
+            "etuix": {
+                "name": "etuix",
+                "domain": ".service-public.fr",
+                "path": "/",
+                "current_label": 3,
+                "label_ts": 1726079800434,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": false,
+                        "expirationDate": 1760035000.430561,
+                        "expiry": 33955200.430561066,
+                        "value": "eGZIbOOBvhweAATGf.EOUSyhg6droIYvZoMvuilGphkMRlZbdzWKqQ--",
+                        "same_site": "no_restriction",
+                        "timestamp": 1726079800431
+                    }
+                ]
+            },
+            "EA_cookie_intermediaire": {
+                "name": "EA_cookie_intermediaire",
+                "domain": ".www.service-public.fr",
+                "path": "/",
+                "current_label": 2,
+                "label_ts": 1726079804798,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": false,
+                        "secure": false,
+                        "session": false,
+                        "expirationDate": 1760639804.795879,
+                        "expiry": 34560000.79587889,
+                        "value": "1",
+                        "same_site": "unspecified",
+                        "timestamp": 1726079804796
+                    }
+                ]
+            },
+            "TS012e9d3d": {
+                "name": "TS012e9d3d",
+                "domain": ".www.service-public.fr",
+                "path": "/",
+                "current_label": 0,
+                "label_ts": 1726079797420,
+                "storeId": "1",
+                "variable_data": [
+                    {
+                        "host_only": false,
+                        "http_only": true,
+                        "secure": true,
+                        "session": true,
+                        "expiry": 0,
+                        "value": "012a7f58e0a33ad3fd7b6d7b154d0921db8f5551374aa614e7bb9b36e4cc3e04122fbebb4652555cd649b9c31f54f8cdfb7bed644e",
+                        "same_site": "unspecified",
+                        "timestamp": 1726079797408
+                    }
+                ]
+            }
+        }
+    }
+}
